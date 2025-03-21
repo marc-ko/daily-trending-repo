@@ -1,0 +1,6 @@
+easydict
+feedparser
+pytz
+requests
+openai
+dotenv

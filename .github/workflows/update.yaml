@@ -1,0 +1,45 @@
+name: Update
+
+on:
+  push:
+    branches:
+      - main
+  label:
+    types:
+      - created
+  schedule:
+    - cron: '30 16 * * 1-5' # 00:30 Beijing time (UTC+8), Mon-Fri
+
+permissions:
+  contents: write
+  issues: write 
+
+jobs:
+  update_daily_papers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update papers
+        run: python main.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: '✏️ Update papers automatically'
+          branch: main
+          file_pattern: '*'
+
+      - name: Create an issue to notify
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
