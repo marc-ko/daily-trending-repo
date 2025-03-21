@@ -40,13 +40,12 @@ def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[s
         }
         
         # Fetch README content
-        readme_url = f"https://api.github.com/repos/{repo['name']}/readme"
+        readme_url = f"https://api.github.com/repos/{repo['full_name']}/readme"
         readme_response = requests.get(readme_url)
         if readme_response.status_code == 200 and readme_response.json()['content'] is not None and os.getenv("OPENAI_API_KEY") is not None:
             # GitHub returns README content in base64 encoded format
             readme_data = readme_response.json()
             readme_content = base64.b64decode(readme_data['content']).decode('utf-8')
-
             response = query_ai(readme_content)
             repo_info['summary'] = response
         else:
@@ -146,9 +145,9 @@ def get_daily_date():
 def query_ai(query: str, model: str = "gpt-3.5-turbo") -> str:
     load_dotenv()
     # query the AI with a specified system role
-    system_role = "You are a helpful assistant that ONLY summarizes the content of the GitHub repository by seeing the README.md file. You MUST be concise and to the point by one to two sentences only. You MUST NOT include any other information in your response except the summary."
+    system_role = "You are a helpful assistant that ONLY summarizes the content of the GitHub repository by seeing the README.md file. You MUST be CONCISE and to the point by ONE to THREE sentences ONLY. PLEASE BE CONCISE. You MUST NOT include any other information in your response except the summary."
+
     result = ""
-    
     try:
         # Create client with custom base URL if provided
         client = OpenAI(
@@ -160,13 +159,12 @@ def query_ai(query: str, model: str = "gpt-3.5-turbo") -> str:
         response = client.chat.completions.create(
             model=model,
             messages=[
-                {"role": "system", "content": system_role},
+                {"role": "developer", "content": system_role},
                 {"role": "user", "content": query}
             ],
             max_tokens=600
         )
         
-        print('response', response)
         result = response.choices[0].message.content
     except Exception as e:
         print(e)

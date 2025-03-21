@@ -36,9 +36,45 @@ back_up_files() # back up README.md and ISSUE_TEMPLATE.md
 
 
 # write to README.md
-f_rm = open("README.md", "w", encoding='utf-8') # file for README.md
-f_rm.write("# Daily Trending Repositories\n")
-f_rm.write("The project automatically finds trending repositories from GitHub.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent repositories for each keyword are retained, up to a maximum of 3000 repositories.\n\nYou can click the 'Star' and 'Watch' button to receive daily *email* notifications.\n\nLast update: {0}\n\n".format(current_date))
+f_rm = open("README.md", "w", encoding='utf-8')
+f_rm.write("""# 🌟 Daily Trending Repositories
+
+<div align="center">
+![GitHub last commit](https://img.shields.io/github/last-commit/marc-ko/daily-trending-repo)
+![GitHub stars](https://img.shields.io/github/stars/marc-ko/daily-trending-repo)
+![GitHub forks](https://img.shields.io/github/forks/marc-ko/daily-trending-repo)
+![GitHub issues](https://img.shields.io/github/issues/marc-ko/daily-trending-repo)
+</div>
+
+## 📋 About
+
+This project automatically tracks and curates trending repositories from GitHub daily. Stay updated with the most exciting new projects in the developer community! With AI Summarization, you can get the summary of the repository by seeing the README.md file as well!.
+
+### 🔥 Features
+
+- 🔄 **Weekly Updates**: Fresh content every week Wednesday
+- 🌐 **Diverse Categories**: Covering all major programming languages and topics
+- ⭐ **Star-based Ranking**: Sorted by community popularity
+- 📊 **Detailed Information**: Including descriptions, languages, and statistics
+
+## 📈 Latest Trending Repositories
+
+Last update: {0}
+
+""".format(current_date))
+
+f_rm.write("""<details>
+<summary>ℹ️ How to Use This Repository</summary>
+
+1. **Star & Watch**: Click the 'Star' and 'Watch' buttons to receive weekly email notifications
+2. **Browse**: Explore trending repositories organized by popularity
+3. **Contribute**: Feel free to open issues or suggest improvements
+
+</details>
+
+---
+
+""")
 
 # write to ISSUE_TEMPLATE.md
 f_is = open(".github/ISSUE_TEMPLATE.md", "w", encoding='utf-8') # file for ISSUE_TEMPLATE.md
@@ -62,7 +98,7 @@ if repos is None: # failed to get repos
     restore_files()
     sys.exit("Failed to get repos!")
 rm_table = generate_table(repos, column_names)
-is_table = generate_table(repos[:issues_result], column_names, ignore_keys=["summary"])
+is_table = generate_table(repos[:issues_result], column_names)
 f_rm.write(rm_table)
 f_rm.write("\n\n")
 f_is.write(is_table)
