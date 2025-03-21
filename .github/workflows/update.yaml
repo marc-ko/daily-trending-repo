@@ -3,7 +3,7 @@ name: Update
 on:
   push:
     branches:
-      - main
+      - master
   label:
     types:
       - created
@@ -28,6 +28,11 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+      
+      - name: Create .env file 
+        run: |
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" > .env
+          echo "OPENAI_API_BASE=${{ secrets.OPENAI_API_BASE }}" >> .env
 
       - name: Update papers
         run: python main.py
@@ -36,7 +41,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: '✏️ New Repos INCOMING'
-          branch: main
+          branch: master
           file_pattern: '*'
 
       - name: Create an issue to notify

@@ -12,6 +12,7 @@ import base64
 
 def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[str, str]]:
     day_diff = (datetime.now() - timedelta(days=days)).strftime('%Y-%m-%d')
+    load_dotenv()
 
     # API endpoint and parameters
     url = 'https://api.github.com/search/repositories'
@@ -41,10 +42,11 @@ def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[s
         # Fetch README content
         readme_url = f"https://api.github.com/repos/{repo['name']}/readme"
         readme_response = requests.get(readme_url)
-        if readme_response.status_code == 200:
+        if readme_response.status_code == 200 and readme_response.json()['content'] is not None and os.getenv("OPENAI_API_KEY") is not None:
             # GitHub returns README content in base64 encoded format
             readme_data = readme_response.json()
             readme_content = base64.b64decode(readme_data['content']).decode('utf-8')
+
             response = query_ai(readme_content)
             repo_info['summary'] = response
         else:
