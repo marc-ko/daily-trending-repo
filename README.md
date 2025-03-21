@@ -44,129 +44,24 @@ Last update: 2025-03-22
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** | **HTML URL** |
 | --- | --- | --- | --- | --- | --- | --- |
-| **[rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)** | Generate impressive-looking terminal output to look busy when stakeholders walk by | Rust | # rust-stakeholder
-
-![Career Status](https://img.shields.io/badge/career-saved-success) ![Stakeholders](https://img.shields.io/badge/stakeholders-impressed-yellow)
-
-**SATIRE ALERT**: This is a joke project poking fun at impostor syndrome and workplace dynamics in tech. No actual deception recomme... | <details><summary>blazi...</summary><p>blazingly-fast, meme, rust</p></details> | 1811 | https://github.com/giacomo-b/rust-stakeholder |
-| **[Second-Me](https://github.com/mindverse/Second-Me)** | Train your AI self, amplify you, bridge the world | Python | # Second Me: Your AI Self
-
-![Second Me](https://github.com/mindverse/Second-Me/blob/master/images/cover.png)
-
-<div align="center">
-  
-[![Homepage](https://img.shields.io/badge/Second_Me-Homepage-blue?style=flat-square&logo=homebridge)](https://www.secondme.io/)
-[![Report](https://img.shields.io/b... |  | 1489 | https://github.com/mindverse/Second-Me |
-| **[cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)** | Cursor Talk To Figma MCP | TypeScript | # Cursor Talk to Figma MCP
-
-This project integrates Cursor AI with Figma using a Model Context Protocol (MCP), enabling programmatic interaction with Figma designs.
-
-## Project Structure
-
-- **`src/talk_to_figma_mcp/`** - TypeScript MCP server for Figma integration.
-- **`src/cursor_mcp_plugin/`** ... | <details><summary>agent...</summary><p>agent, agentic, agentic-ai, ai, cursor, design, figma, mcp</p></details> | 1257 | https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp |
-| **[anubis](https://github.com/TecharoHQ/anubis)** | Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers | Go | # Anubis
-
-<center>
-<img width=256 src="./cmd/anubis/static/img/happy.webp" alt="A smiling chibi dark-skinned anthro jackal with brown hair and tall ears looking victorious with a thumbs-up" />
-</center>
-
-![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&... | <details><summary>defen...</summary><p>defense, security</p></details> | 889 | https://github.com/TecharoHQ/anubis |
-| **[unity-mcp](https://github.com/justinpbarnett/unity-mcp)** | A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions. | C# | # Unity MCP Package
-
-A Unity package that enables seamless communication between Unity and Large Language Models (LLMs) like Claude Desktop via the **Model Context Protocol (MCP)**. This server acts as a bridge, allowing Unity to send commands to and receive responses from MCP-compliant tools, em... | <details><summary>ai, a...</summary><p>ai, ai-integration, mcp, unity</p></details> | 718 | https://github.com/justinpbarnett/unity-mcp |
-| **[Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V)** | Pioneering Multimodal Reasoning with CoT | Python | # Skywork-R1V: Pioneering Multimodal Reasoning with CoT
-<div align='center'> 
-  <font size=7> 
-    [[📖Technical Report](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf)] 
-    [[🤗 Skywork-R1V-38B](https://huggingface.co/Skywork/Skywork-R1V-38B)] 
-  </font>
-</div>
-
-Welcome to the... | <details><summary>deeps...</summary><p>deepseek-r1, llm, mllm</p></details> | 663 | https://github.com/SkyworkAI/Skywork-R1V |
-| **[open-wegram-bot](https://github.com/wozulong/open-wegram-bot)** | 【零费用】一个让人呼吸顺畅的 Telegram 双向私聊机器人 🤖 / [Zero Cost] A Smooth-Operating Two-Way Private Messaging Telegram Bot 🤖  | JavaScript | # Open Wegram Bot - OWB
-## 一个让人呼吸顺畅的 Telegram 双向私聊机器人 🤖（零费用）
-### *LivegramBot 不死，战斗不止！*
-
-简体中文 | [English](README_EN.md)
-
-这是一个基于 Cloudflare Worker / Vercel 的 Telegram 双向私聊机器人，无需服务器、无需数据库、无需自己的域名即可轻松部署。
-
-用户可以通过您的机器人向您发送消息，您可以直接回复这些消息，实现双向通信。
-
-## ✨ 特色功能
-
-- 🔄 **双向通信** - 轻松接收和回复来自用户的消息
-- 💾 **无需数据库** -... | <details><summary>teleg...</summary><p>telegram, telegram-bot, telegram-bots</p></details> | 646 | https://github.com/wozulong/open-wegram-bot |
-| **[Classless.css](https://github.com/DigitallyTailored/Classless.css)** | A lightweight, classless CSS framework that makes simple websites look better without requiring any additional markup. | CSS | # Classless.css Documentation
-
-## Overview
-
-Classless.css is a minimalistic CSS framework designed for developers who appreciate clean aesthetics without the overhead of using classes. It provides a set of default styles that enhance the appearance of HTML elements, making your website look polis... |  | 589 | https://github.com/DigitallyTailored/Classless.css |
-| **[DAPO](https://github.com/BytedTsinghua-SIA/DAPO)** | An Open-source RL System from ByteDance Seed and Tsinghua AIR |  | # DAPO: an Open-source RL System from ByteDance Seed and Tsinghua AIR
-
-<div align='center'>
-[![Paper](https://img.shields.io/badge/paper-5f16a8?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2503.14476)
-[![Blog](https://img.shields.io/badge/Blog-3858bf?style=for-the-badge&... |  | 587 | https://github.com/BytedTsinghua-SIA/DAPO |
-| **[rag-zero-to-hero-guide](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)** | Comprehensive guide to learn RAG from basics to advanced.  | Jupyter Notebook | # RAG Zero to Hero Guide
-
-This repository serves as a comprehensive guide to learn RAG from basics to advanced.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalyanksnlp/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Kalyan%20KS-0A66C2?logo=linkedin-white&logoColor=fff... | <details><summary>ai-en...</summary><p>ai-engineer, generative-ai, large-language-models, llm-engineer, llm-rag, llms, retrieval-augmented-generation</p></details> | 425 | https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide |
-| **[ableton-mcp](https://github.com/ahujasid/ableton-mcp)** |  | Python | # AbletonMCP - Ableton Live Model Context Protocol Integration
-
-AbletonMCP connects Ableton Live to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Ableton Live. This integration enables prompt-assisted music production, track creation, an... |  | 398 | https://github.com/ahujasid/ableton-mcp |
-| **[gemini-image-editing-nextjs-quickstart](https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart)** | Get started with native image generation and editing using Gemini 2.0 and Next.js | TypeScript | # Gemini 2.0 Flash Image Generation and Editing
-
-This guide provides a quickstart for generating and editing images using Google Gemini 2.0 Flash with a Next.js application. Users can create images from text prompts or modify existing images using natural language instructions while maintaining c... | <details><summary>gemin...</summary><p>gemini, gemini-api</p></details> | 372 | https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart |
-| **[familytree](https://github.com/qiaoshouqing/familytree)** | A minimalist open-source family tree website project. | TypeScript | # Family Tree
-
-English | [中文](./README.zh.md)
-
-A family tree visualization project built with [Next.js](https://nextjs.org) for displaying and managing your family history and member relationships.
-
-## Demo Website
-
-You can visit [https://familytree.pomodiary.com/](https://familytree.pomodiary.co... | <details><summary>famil...</summary><p>familytree, nextjs, react, typescript</p></details> | 331 | https://github.com/qiaoshouqing/familytree |
-| **[GoHomeEasy](https://github.com/kanshurichard/GoHomeEasy)** | GoHomeEasy 是一个基于 Cloudflare Workers 的 Shadowsocks 订阅管理工具，专为 没有公网 IP 的家庭宽带用户 设计，能够在外部网络访问家庭局域网。 | JavaScript | # 🚀 GoHomeEasy
-
-## English | [中文](README_CN.md)
-
-**GoHomeEasy** is a Shadowsocks subscription management tool based on Cloudflare Workers, designed specifically for **home broadband users without a public IP** to access their home network remotely.
-
-It leverages **Lucky's NAT traversal** and auto... |  | 265 | https://github.com/kanshurichard/GoHomeEasy |
-| **[3dgrut](https://github.com/nv-tlabs/3dgrut)** |  | Cuda | # 3D Gaussian Ray Tracing and Unscented Transform Repository
-
-This repository contains the official implementations of **3D Gaussian Ray Tracing (3DGRT)** and **3D Gaussian Unscented Transform (3DGUT)**, which enhance volumetric rendering techniques by leveraging Gaussian particle representations... |  | 263 | https://github.com/nv-tlabs/3dgrut |
-| **[rf-detr](https://github.com/roboflow/rf-detr)** | RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license. | Python | # RF-DETR: SOTA Real-Time Object Detection Model
-
-[![hf space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SkalskiP/RF-DETR)
-[![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rob... | <details><summary>compu...</summary><p>computer-vision, detr, machine-learning, object-detection, rf-detr</p></details> | 258 | https://github.com/roboflow/rf-detr |
-| **[vite-plugin-vue-mcp](https://github.com/webfansplz/vite-plugin-vue-mcp)** | Vite plugin that enables a MCP server helping models to understand your Vue app better. | Vue | # vite-plugin-vue-mcp
-
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![bundle][bundle-src]][bundle-href]
-[![License][license-src]][license-href]
-
-Vite plugin that enables a MCP (Model Context Protocol) server for your Vue app to pro... |  | 250 | https://github.com/webfansplz/vite-plugin-vue-mcp |
-| **[bambot](https://github.com/timqian/bambot)** | Low cost (~$300) humanoid robot 🌱 | TypeScript | It looks like you're sharing information about "Bambot," an open-source, low-cost humanoid robot project. Here’s a summary of the key points from your content:
-
-### Bambot Overview
-- **Description**: Bambot is an open-source humanoid robot that is low-cost, approximately $300.
-- **Inspiration**: ... |  | 246 | https://github.com/timqian/bambot |
-| **[kiss-slam](https://github.com/PRBonn/kiss-slam)** | A LiDAR SLAM system that just works | Python | # KISS-SLAM
-
-<div align="center">
-    <a href="https://github.com/PRBonn/kiss-slam/releases"><img src="https://img.shields.io/github/v/release/PRBonn/kiss-slam?label=version" /></a>
-    <a href="https://github.com/PRBonn/kiss-slam/blob/main/LICENSE"><img src="https://img.shields.io/github/license... | <details><summary>lidar...</summary><p>lidar, lidar-slam, mapping, perception, robotics, slam</p></details> | 235 | https://github.com/PRBonn/kiss-slam |
-| **[fetcher-mcp](https://github.com/jae-jae/fetcher-mcp)** | MCP server for fetch web page content using Playwright headless browser. | TypeScript | # Fetcher MCP
-
-Fetcher MCP is a server designed to fetch web page content using the Playwright headless browser. This tool is particularly useful for scraping dynamic web content that relies on JavaScript, making it a powerful alternative to traditional web scrapers.
-
-## Advantages
-
-- **JavaScrip... | <details><summary>ai, m...</summary><p>ai, mcp, playwright</p></details> | 232 | https://github.com/jae-jae/fetcher-mcp |
+| **[rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)** | Generate impressive-looking terminal output to look busy when stakeholders walk by | Rust | **rust-stakeholder** is a satirical CLI tool designed to generate impressive but meaningless terminal outputs, allowing users to fake their coding prowess and impress colleagues without actual programming skills. It features dazzling simulations, jargon generation, and fake alerts to create the i... | <details><summary>blazi...</summary><p>blazingly-fast, meme, rust</p></details> | 1811 | https://github.com/giacomo-b/rust-stakeholder |
+| **[Second-Me](https://github.com/mindverse/Second-Me)** | Train your AI self, amplify you, bridge the world | Python | Second Me is an open-source prototype that allows users to create their own AI selves, preserving individuality and enhancing personal context through locally trained AI. It features hierarchical memory modeling, decentralized intelligence scaling, and ensures complete privacy and control over us... |  | 1499 | https://github.com/mindverse/Second-Me |
+| **[cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)** | Cursor Talk To Figma MCP | TypeScript | This project integrates Cursor AI with Figma using a Model Context Protocol (MCP), enabling programmatic communication for reading and modifying designs. It includes a TypeScript MCP server, a Figma plugin, and a WebSocket server for facilitating interactions. Users can set up the integration by ... | <details><summary>agent...</summary><p>agent, agentic, agentic-ai, ai, cursor, design, figma, mcp</p></details> | 1259 | https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp |
+| **[anubis](https://github.com/TecharoHQ/anubis)** | Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers | Go | Anubis is a tool that protects upstream resources from scraper bots by using a sha256 proof-of-work challenge, which may lead to your website not being indexed by some search engines. It serves as an alternative to Cloudflare for users who need additional bot protection. | <details><summary>defen...</summary><p>defense, security</p></details> | 892 | https://github.com/TecharoHQ/anubis |
+| **[unity-mcp](https://github.com/justinpbarnett/unity-mcp)** | A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions. | C# | The Unity MCP Package facilitates communication between Unity and Large Language Models (LLMs) using the Model Context Protocol (MCP), enabling developers to automate workflows, manage assets, and control the Unity Editor programmatically. It supports bidirectional communication for tasks such as... | <details><summary>ai, a...</summary><p>ai, ai-integration, mcp, unity</p></details> | 719 | https://github.com/justinpbarnett/unity-mcp |
+| **[Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V)** | Pioneering Multimodal Reasoning with CoT | Python | Request error occurred:  | <details><summary>deeps...</summary><p>deepseek-r1, llm, mllm</p></details> | 664 | https://github.com/SkyworkAI/Skywork-R1V |
+| **[open-wegram-bot](https://github.com/wozulong/open-wegram-bot)** | 【零费用】一个让人呼吸顺畅的 Telegram 双向私聊机器人 🤖 / [Zero Cost] A Smooth-Operating Two-Way Private Messaging Telegram Bot 🤖  | JavaScript | Open Wegram Bot (OWB) 是一个基于 Cloudflare Worker/Vercel 的 Telegram 双向私聊机器人，允许用户通过机器人发送和接收消息，无需服务器或数据库，且可轻松部署。该项目提供多种部署方式，并支持多个机器人注册，所有操作在 Cloudflare 免费套餐内进行，确保安全和无状态运行。 | <details><summary>teleg...</summary><p>telegram, telegram-bot, telegram-bots</p></details> | 646 | https://github.com/wozulong/open-wegram-bot |
+| **[Classless.css](https://github.com/DigitallyTailored/Classless.css)** | A lightweight, classless CSS framework that makes simple websites look better without requiring any additional markup. | CSS | Classless.css is a lightweight CSS framework that enables stylish website design without the need for classes, featuring responsive design, dark mode support, and enhanced typography and form styling. To use it, simply include a link to the CSS file in your HTML's `<head>`. Contributions are welc... |  | 589 | https://github.com/DigitallyTailored/Classless.css |
+| **[DAPO](https://github.com/BytedTsinghua-SIA/DAPO)** | An Open-source RL System from ByteDance Seed and Tsinghua AIR |  | DAPO is an open-source reinforcement learning system developed by ByteDance Seed and Tsinghua AIR, featuring the Decoupled Clip and Dynamic Sampling Policy Optimization algorithm for large-scale language model training. The system includes comprehensive resources such as code, datasets, and train... |  | 588 | https://github.com/BytedTsinghua-SIA/DAPO |
+| **[rag-zero-to-hero-guide](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)** | Comprehensive guide to learn RAG from basics to advanced.  | Jupyter Notebook | The "RAG Zero to Hero Guide" repository provides a comprehensive resource for learning Retrieval-Augmented Generation (RAG), covering topics from basic concepts to advanced implementations. It includes a structured course, a toolkit of relevant libraries, and links to essential survey papers on RAG. | <details><summary>ai-en...</summary><p>ai-engineer, generative-ai, large-language-models, llm-engineer, llm-rag, llms, retrieval-augmented-generation</p></details> | 425 | https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide |
+| **[ableton-mcp](https://github.com/ahujasid/ableton-mcp)** |  | Python | AbletonMCP integrates Ableton Live with Claude AI using the Model Context Protocol, enabling Claude to control music production tasks like track creation, session manipulation, and instrument selection. The system consists of an Ableton Remote Script and a Python MCP server, allowing for two-way ... |  | 399 | https://github.com/ahujasid/ableton-mcp |
+| **[gemini-image-editing-nextjs-quickstart](https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart)** | Get started with native image generation and editing using Gemini 2.0 and Next.js | TypeScript | The Gemini 2.0 Flash Image Generation and Editing project is a Next.js application that enables users to generate images from text prompts and edit existing images using natural language instructions, while maintaining conversation context for iterative refinements. It utilizes the Google Gemini ... | <details><summary>gemin...</summary><p>gemini, gemini-api</p></details> | 372 | https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart |
+| **[familytree](https://github.com/qiaoshouqing/familytree)** | A minimalist open-source family tree website project. | TypeScript | The Family Tree project is a visualization tool built with Next.js for managing and displaying family history and relationships, featuring customizable interfaces, user authentication, and detailed personal records. Users can set up their family data in JSON format and run the project locally or ... | <details><summary>famil...</summary><p>familytree, nextjs, react, typescript</p></details> | 331 | https://github.com/qiaoshouqing/familytree |
+| **[GoHomeEasy](https://github.com/kanshurichard/GoHomeEasy)** | GoHomeEasy 是一个基于 Cloudflare Workers 的 Shadowsocks 订阅管理工具，专为 没有公网 IP 的家庭宽带用户 设计，能够在外部网络访问家庭局域网。 | JavaScript | **GoHomeEasy** is a Shadowsocks subscription management tool designed for home broadband users without a public IP, enabling remote access to their home network via Cloudflare Workers. It features automatic subscription updates and dynamic configuration of Shadowsocks settings, ensuring secure an... |  | 265 | https://github.com/kanshurichard/GoHomeEasy |
+| **[3dgrut](https://github.com/nv-tlabs/3dgrut)** |  | Cuda | This repository contains the official implementations of **3D Gaussian Ray Tracing (3DGRT)** and **3D Gaussian Unscented Transform (3DGUT)**, which enhance rendering capabilities for distorted cameras and complex effects. It introduces a hybrid approach, **3DGRUT**, combining rasterization for pr... |  | 263 | https://github.com/nv-tlabs/3dgrut |
+| **[rf-detr](https://github.com/roboflow/rf-detr)** | RF-DETR is a real-time object detection model architecture developed by Roboflow, released under the Apache 2.0 license. | Python | RF-DETR is a state-of-the-art, real-time object detection model developed by Roboflow, achieving over 60 AP on the Microsoft COCO benchmark and strong performance on the RF100-VL benchmark. It is designed for efficient deployment on edge devices, offering a balance of accuracy and speed. The mode... | <details><summary>compu...</summary><p>computer-vision, detr, machine-learning, object-detection, rf-detr</p></details> | 261 | https://github.com/roboflow/rf-detr |
+| **[vite-plugin-vue-mcp](https://github.com/webfansplz/vite-plugin-vue-mcp)** | Vite plugin that enables a MCP server helping models to understand your Vue app better. | Vue | The `vite-plugin-vue-mcp` is a Vite plugin that adds a Model Context Protocol (MCP) server to Vue applications, providing insights into the component tree, state, routes, and Pinia state. It allows for component state management and interaction through various features, including retrieving and e... |  | 250 | https://github.com/webfansplz/vite-plugin-vue-mcp |
+| **[bambot](https://github.com/timqian/bambot)** | Low cost (~$300) humanoid robot 🌱 | TypeScript | Bambot is an open-source, low-cost humanoid robot priced around $300, inspired by various existing robotic projects. The repository includes sections for hardware and software details, along with a demo video. |  | 247 | https://github.com/timqian/bambot |
+| **[kiss-slam](https://github.com/PRBonn/kiss-slam)** | A LiDAR SLAM system that just works | Python | KISS-SLAM is a simple, robust, and accurate 3D LiDAR SLAM system designed for ease of use. It can be installed via pip and includes features for configuration and running the system through a command-line interface. The project encourages community contributions and provides a citation for academ... | <details><summary>lidar...</summary><p>lidar, lidar-slam, mapping, perception, robotics, slam</p></details> | 235 | https://github.com/PRBonn/kiss-slam |
+| **[fetcher-mcp](https://github.com/jae-jae/fetcher-mcp)** | MCP server for fetch web page content using Playwright headless browser. | TypeScript | Fetcher MCP is a server designed to fetch web page content using the Playwright headless browser, enabling support for JavaScript execution and intelligent content extraction. It offers features like flexible output formats, parallel processing, resource optimization, and robust error handling, m... | <details><summary>ai, m...</summary><p>ai, mcp, playwright</p></details> | 233 | https://github.com/jae-jae/fetcher-mcp |
 
