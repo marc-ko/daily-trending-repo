@@ -8,7 +8,7 @@ on:
     types:
       - created
   schedule:
-    - cron: '30 16 * * 1-5' # 00:30 Beijing time (UTC+8), Mon-Fri
+    - cron: '30 10 * * 3' # 00:07 Beijing time (UTC+8), Wed
 
 permissions:
   contents: write
@@ -35,7 +35,7 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: '✏️ Update papers automatically'
+          commit_message: '✏️ New Repos INCOMING'
           branch: main
           file_pattern: '*'
 
