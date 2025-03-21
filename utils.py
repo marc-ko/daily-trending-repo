@@ -42,6 +42,7 @@ def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[s
         # Fetch README content
         readme_url = f"https://api.github.com/repos/{repo['full_name']}/readme"
         readme_response = requests.get(readme_url)
+        print("readme_response code ", readme_response.status_code)
         if readme_response.status_code == 200 and readme_response.json()['content'] is not None and os.getenv("OPENAI_API_KEY") is not None:
             # GitHub returns README content in base64 encoded format
             readme_data = readme_response.json()
@@ -164,13 +165,16 @@ def query_ai(query: str, model: str = "gpt-3.5-turbo") -> str:
             ],
             max_tokens=600
         )
-        response_content = response.choices[0].message.content
-        if len(response_content) < 10:
+        print("response ", response.choices[0].message.content)
+
+        if response.choices[0].message.content is None:
             result = "Error: No response from AI"
-        elif len(response_content) > 300:  # Limit summary to 300 characters
-            result = response_content[:297] + "..."
         else:
-            result = response_content
+            response_content = response.choices[0].message.content
+            if len(response_content) > 300:  # Limit summary to 300 characters
+                result = response_content[:297] + "..."
+            else:
+                result = response_content
     except Exception as e:
         print(e)
         result = "Error: " + str(e)

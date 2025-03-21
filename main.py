@@ -5,7 +5,7 @@ import requests
 from datetime import datetime
 
 from utils import request_github_trending_repos, generate_table, back_up_files,\
-    restore_files, remove_backups, get_daily_date, query_ai
+    restore_files, remove_backups, get_daily_date
 
 
 hongkong_timezone = pytz.timezone('HongKong')
