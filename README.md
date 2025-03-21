@@ -1,10 +1,19 @@
 # 🌟 Daily Trending Repositories
 
 <div align="center">
-![GitHub last commit](https://img.shields.io/github/last-commit/marc-ko/daily-trending-repo)
-![GitHub stars](https://img.shields.io/github/stars/marc-ko/daily-trending-repo)
-![GitHub forks](https://img.shields.io/github/forks/marc-ko/daily-trending-repo)
-![GitHub issues](https://img.shields.io/github/issues/marc-ko/daily-trending-repo)
+<a href="https://github.com/marc-ko/daily-trending-repo/commits/main">
+    <img src="https://img.shields.io/github/last-commit/marc-ko/daily-trending-repo" alt="GitHub last commit" />
+</a>
+
+<a href="https://github.com/marc-ko/daily-trending-repo/stargazers">
+    <img src="https://img.shields.io/github/stars/marc-ko/daily-trending-repo" alt="GitHub stars" />
+</a>
+<a href="https://github.com/marc-ko/daily-trending-repo/network/members">
+    <img src="https://img.shields.io/github/forks/marc-ko/daily-trending-repo" alt="GitHub forks" />
+</a>
+<a href="https://github.com/marc-ko/daily-trending-repo/issues">
+    <img src="https://img.shields.io/github/issues/marc-ko/daily-trending-repo" alt="GitHub issues" />
+</a>
 </div>
 
 ## 📋 About

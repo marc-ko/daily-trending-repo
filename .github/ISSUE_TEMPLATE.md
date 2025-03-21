@@ -6,7 +6,7 @@ labels: documentation
 
 ### 📅 Date: March 22, 2025
 
-Welcome to today's collection of the latest research papers! Below you'll find the top 10 papers for each category.
+Welcome to this week collection of the latest Github REPOSSS! Below you'll find the top 10 papers for each category.
 
 💡 **Note**: For a better reading experience and access to more papers, please visit our [Github Repository](https://github.com/marc-ko/daily-trending-repo).
 

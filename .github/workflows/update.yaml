@@ -34,7 +34,7 @@ jobs:
           echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" > .env
           echo "OPENAI_API_BASE=${{ secrets.OPENAI_API_BASE }}" >> .env
 
-      - name: Update papers
+      - name: Update Repos
         run: python main.py
 
       - name: Commit and push changes

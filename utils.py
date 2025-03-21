@@ -164,8 +164,13 @@ def query_ai(query: str, model: str = "gpt-3.5-turbo") -> str:
             ],
             max_tokens=600
         )
-        
-        result = response.choices[0].message.content
+        response_content = response.choices[0].message.content
+        if len(response_content) < 10:
+            result = "Error: No response from AI"
+        elif len(response_content) > 300:  # Limit summary to 300 characters
+            result = response_content[:297] + "..."
+        else:
+            result = response_content
     except Exception as e:
         print(e)
         result = "Error: " + str(e)

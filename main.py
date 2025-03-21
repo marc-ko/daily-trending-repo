@@ -25,7 +25,7 @@ with open("README.md", "r") as f:
 
 
 max_result = 20 # maximum query results from arXiv API for each keyword
-issues_result = 10 # maximum papers to be included in the issue
+issues_result = 10 # maximum repos to be included in the issue
 
 
 column_names = ["Title", "Description", "Language", "Summary", "Tags", "Stars Count", "HTML URL"]
@@ -40,10 +40,19 @@ f_rm = open("README.md", "w", encoding='utf-8')
 f_rm.write("""# 🌟 Daily Trending Repositories
 
 <div align="center">
-![GitHub last commit](https://img.shields.io/github/last-commit/marc-ko/daily-trending-repo)
-![GitHub stars](https://img.shields.io/github/stars/marc-ko/daily-trending-repo)
-![GitHub forks](https://img.shields.io/github/forks/marc-ko/daily-trending-repo)
-![GitHub issues](https://img.shields.io/github/issues/marc-ko/daily-trending-repo)
+<a href="https://github.com/marc-ko/daily-trending-repo/commits/main">
+    <img src="https://img.shields.io/github/last-commit/marc-ko/daily-trending-repo" alt="GitHub last commit" />
+</a>
+
+<a href="https://github.com/marc-ko/daily-trending-repo/stargazers">
+    <img src="https://img.shields.io/github/stars/marc-ko/daily-trending-repo" alt="GitHub stars" />
+</a>
+<a href="https://github.com/marc-ko/daily-trending-repo/network/members">
+    <img src="https://img.shields.io/github/forks/marc-ko/daily-trending-repo" alt="GitHub forks" />
+</a>
+<a href="https://github.com/marc-ko/daily-trending-repo/issues">
+    <img src="https://img.shields.io/github/issues/marc-ko/daily-trending-repo" alt="GitHub issues" />
+</a>
 </div>
 
 ## 📋 About
@@ -84,8 +93,8 @@ f_is.write("labels: documentation\n")
 f_is.write("---\n")
 f_is.write("# 📚 Weekly Trending Repositories Update\n\n")
 f_is.write("### 📅 Date: {0}\n\n".format(get_daily_date()))
-f_is.write("Welcome to today's collection of the latest research papers! Below you'll find the top {0} papers for each category.\n\n".format(issues_result))
-f_is.write("💡 **Note**: For a better reading experience and access to more papers, please visit our [Github Repository](https://github.com/marc-ko/daily-trending-repo).\n\n")
+f_is.write("Welcome to this week's collection of the latest Github REPOS! Below you'll find the top {0} repos for each category.\n\n".format(issues_result))
+f_is.write("💡 **Note**: For a better reading experience and access to more repos, please visit our [Github Repository](https://github.com/marc-ko/daily-trending-repo).\n\n")
 f_is.write("---\n\n")
 
 repos = request_github_trending_repos(max_result)
