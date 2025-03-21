@@ -160,7 +160,7 @@ def query_ai(query: str, model: str = "gpt-3.5-turbo") -> str:
         response = client.chat.completions.create(
             model=model,
             messages=[
-                {"role": "developer", "content": system_role},
+                {"role": "system", "content": system_role},
                 {"role": "user", "content": query}
             ],
             max_tokens=600
