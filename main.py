@@ -52,6 +52,9 @@ f_rm.write("""# 🌟 Daily Trending Repositories
 <a href="https://github.com/marc-ko/daily-trending-repo/issues">
     <img src="https://img.shields.io/github/issues/marc-ko/daily-trending-repo" alt="GitHub issues" />
 </a>
+<a alt="credit" href="https://github.com/zezhishao/DailyArXiv">
+ (idea was from this repo)
+</a>
 </div>
 
 ## 📋 About
