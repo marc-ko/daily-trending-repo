@@ -10,18 +10,17 @@ from utils import request_github_trending_repos, generate_table, back_up_files,\
 
 hongkong_timezone = pytz.timezone('HongKong')
 
-# NOTE: arXiv API seems to sometimes return an unexpected empty list.
-
 # get current beijing time date in the format of "2021-08-01"
 current_date = datetime.now(hongkong_timezone).strftime("%Y-%m-%d")
+
 # get last update date from README.md
 with open("README.md", "r") as f:
     while True:
         line = f.readline()
         if "Last update:" in line: break
     last_update_date = line.split(": ")[1].strip()
-    # if last_update_date == current_date:
-        # sys.exit("Already updated today!")
+    if last_update_date == current_date:
+        sys.exit("Already updated today!")
 
 
 max_result = 20 # maximum query results from arXiv API for each keyword
