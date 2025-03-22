@@ -53,7 +53,7 @@ f_rm.write("""# 🌟 Daily Trending Repositories
     <img src="https://img.shields.io/github/issues/marc-ko/daily-trending-repo" alt="GitHub issues" />
 </a>
 <a alt="credit" href="https://github.com/zezhishao/DailyArXiv">
- (idea was from this repo)
+ <img src="https://img.shields.io/badge/credit%20-%20Idea%20From%20This%20Repo-blue" alt="Credit">
 </a>
 </div>
 
