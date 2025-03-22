@@ -146,7 +146,7 @@ def get_daily_date():
 def query_ai(query: str, model: str = "gpt-3.5-turbo") -> str:
     load_dotenv()
     # query the AI with a specified system role
-    system_role = "You are a helpful assistant that ONLY summarizes the content of the GitHub repository by seeing the README.md file. You MUST be CONCISE and to the point by ONE to THREE sentences ONLY. PLEASE BE CONCISE. You MUST NOT include any other information in your response except the summary."
+    system_role = "You are a helpful assistant that ONLY summarizes the content of the GitHub repository by seeing the README.md file. You MUST be CONCISE and to the point by ONE sentence and within 20 WORDS ONLY. PLEASE BE CONCISE. You MUST NOT include any other information in your response except the summary."
 
     result = ""
     try:
