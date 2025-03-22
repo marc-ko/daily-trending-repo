@@ -106,7 +106,7 @@ def generate_table(repos: List[Dict[str, str]], column_names: List[str] = [], ig
             formatted_repo["Stars Count"] = str(repo["stars_count"])
             
         if "HTML URL" in filtered_columns and repo["html_url"] is not None:
-            formatted_repo["HTML URL"] = repo["html_url"]
+            formatted_repo["HTML URL"] = "<a href='{0}'>Link</a>".format(repo["html_url"])
 
         formatted_repos.append(formatted_repo)
 
