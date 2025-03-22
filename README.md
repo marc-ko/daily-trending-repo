@@ -14,6 +14,9 @@
 <a href="https://github.com/marc-ko/daily-trending-repo/issues">
     <img src="https://img.shields.io/github/issues/marc-ko/daily-trending-repo" alt="GitHub issues" />
 </a>
+<a alt="credit" href="https://github.com/zezhishao/DailyArXiv">
+ <img src="https://img.shields.io/badge/credit%20-%20Idea%20From%20This%20Repo-blue" alt="Credit">
+</a>
 </div>
 
 ## 📋 About
