@@ -27,7 +27,7 @@ max_result = 20 # maximum query results from arXiv API for each keyword
 issues_result = 10 # maximum repos to be included in the issue
 
 
-column_names = ["Title", "Description", "Language", "Summary", "Tags", "Stars Count", "HTML URL"]
+column_names = ["Title", "Description", "Language", "Summary", "Tags", "Stars Count"]
 
 
 back_up_files() # back up README.md and ISSUE_TEMPLATE.md
