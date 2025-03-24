@@ -56,6 +56,7 @@ def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[s
 
     return repos
 
+## Using Google Translate, maybe later do translation on the repos' summary
 def translate_text(text, target_language='zh-HK'):
     """
     A simple function to translate text using a free translation API.
@@ -143,7 +144,7 @@ def get_daily_date():
     hongkong_timezone = pytz.timezone('HongKong')
     today = datetime.now(hongkong_timezone)
     return today.strftime("%B %d, %Y")
-def query_ai(query: str, model: str = "gpt-3.5-turbo") -> str:
+def query_ai(query: str, model: str = "gpt-4o-mini") -> str:
     load_dotenv()
     # query the AI with a specified system role
     system_role = "You are a helpful assistant that ONLY summarizes the content of the GitHub repository by seeing the README.md file. You MUST be CONCISE and to the point by ONE sentence and within 20 WORDS ONLY. PLEASE BE CONCISE. You MUST NOT include any other information in your response except the summary."
