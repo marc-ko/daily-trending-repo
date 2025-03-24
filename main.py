@@ -19,8 +19,8 @@ with open("README.md", "r") as f:
         line = f.readline()
         if "Last update:" in line: break
     last_update_date = line.split(": ")[1].strip()
-    if last_update_date == current_date:
-        sys.exit("Already updated today!")
+    # if last_update_date == current_date:
+    #     sys.exit("Already updated today!")
 
 
 max_result = 20 # maximum query results from arXiv API for each keyword
