@@ -1,14 +1,11 @@
 name: Update
 
 on:
-  push:
-    branches:
-      - master
   label:
     types:
-      - created
+      - created # for test
   schedule:
-    - cron: '30 10 * * 3' # 00:07 Beijing time (UTC+8), Wed
+      - cron: '00 16 * * 2'
 
 permissions:
   contents: write
@@ -18,33 +15,38 @@ jobs:
   update_daily_papers:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      
-      - name: Create .env file 
-        run: |
-          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" > .env
-          echo "OPENAI_API_BASE=${{ secrets.OPENAI_API_BASE }}" >> .env
+    - name: Install dependencies
+      run: pip install -r requirements.txt
 
-      - name: Update Repos
-        run: python main.py
-
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: '✏️ New Repos INCOMING'
-          branch: master
-          file_pattern: '*'
-
-      - name: Create an issue to notify
-        uses: JasonEtco/create-an-issue@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Update papers
+      run: |
+        python main.py
+    - name: Commit and push changes
+      uses: github-actions-x/commit@v2.9
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'main'
+        commit-message: '✏️ New Repos INCOMING'
+        force-add: 'true'
+        files: README.md .github/ISSUE_TEMPLATE.md
+        name: marc-ko
+        email: marcoko@ckentgroup.com
+        
+    - name: Second Commit and pushes cuz idk wtf is wrong with the above one 
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+         commit_message: '✏️ New Repos INCOMING 2'
+         file_pattern: '*.md'
+        
+    - name: Create an issue to notify
+      uses: JasonEtco/create-an-issue@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
