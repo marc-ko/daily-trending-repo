@@ -1,11 +1,14 @@
 name: Update
 
 on:
+  push: 
+    branches:
+      - master
   label:
     types:
       - created # for test
   schedule:
-      - cron: '00 16 * * 2'
+      - cron: '15 16 * * 1-5'
 
 permissions:
   contents: write
