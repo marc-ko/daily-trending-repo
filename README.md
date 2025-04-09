@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-04-08
+Last update: 2025-04-09
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,14 +47,13 @@ Last update: 2025-04-08
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[gumroad](https://github.com/antiwork/gumroad)** |  | Ruby |  |  | 4084 |
-| **[Loki](https://github.com/boku7/Loki)** | 🧙‍♂️ Node JS C2 for backdooring vulnerable Electron applications | C |  |  | 517 |
-| **[Lumina-mGPT-2.0](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)** | Lumina-mGPT 2.0: Stand-alone Autoregressive Image Modeling | Python |  |  | 516 |
-| **[ai-flavor-remover](https://github.com/hylarucoder/ai-flavor-remover)** | AI 味去除 - 仅在 Gemini 2.5 Pro 上测试通过 |  |  |  | 449 |
-| **[zola](https://github.com/ibelick/zola)** | Zola is a free, open-source AI chat app with multi-model support. | TypeScript |  | <details><summary>ai, c...</summary><p>ai, chat, multi-model, nextjs, open-source, prompt-kit, shadcn-ui, supabase, typescript</p></details> | 415 |
-| **[RoboVerse](https://github.com/RoboVerseOrg/RoboVerse)** | RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning | Python |  |  | 378 |
-| **[Dream](https://github.com/HKUNLP/Dream)** | Dream 7B, a large diffusion language model | Python |  | <details><summary>diffu...</summary><p>diffusion-language-models, scalability</p></details> | 361 |
-| **[self.so](https://github.com/Nutlope/self.so)** | LinkedIn -> personal site generator | TypeScript |  |  | 351 |
+| **[gumroad](https://github.com/antiwork/gumroad)** |  | Ruby |  |  | 4211 |
+| **[Loki](https://github.com/boku7/Loki)** | 🧙‍♂️ Node JS C2 for backdooring vulnerable Electron applications | C |  |  | 628 |
+| **[Lumina-mGPT-2.0](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)** | Lumina-mGPT 2.0: Stand-alone Autoregressive Image Modeling | Python |  |  | 553 |
+| **[RoboVerse](https://github.com/RoboVerseOrg/RoboVerse)** | RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning | Python |  |  | 525 |
+| **[ttt-video-dit](https://github.com/test-time-training/ttt-video-dit)** |  | Python |  |  | 440 |
+| **[bili-hardcore](https://github.com/Karben233/bili-hardcore)** | bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现 | Python |  | <details><summary>ai, b...</summary><p>ai, bilibili, bilibili-hardcore, bilibili-senior, deepseek, llm</p></details> | 421 |
+| **[LibreTV](https://github.com/bestZwei/LibreTV)** | 一键部署的影视站 | HTML |  |  | 414 |
 | **[Nodepay-Claimer](https://github.com/378473837/Nodepay-Claimer)** | Nodepay airdrop claimer. |  |  | <details><summary>airdr...</summary><p>airdrop, crypto-bot, nodepay, nodepay-ai, nodepay-airdrop, nodepay-airdrop-bot, nodepay-airdrop-claimer, nodepay-autofarm, nodepay-bot, nodepay-claimer, nodepay-claimer-airdrop, nodepay-crypto, nodepay-farmer, nodepay-miner, nodepay-mining-bot, nodepay-multifarmer, nodepay-multireger, nodepay-reger</p></details> | 331 |
 | **[DAWN-Bot](https://github.com/A2YoRha/DAWN-Bot)** | Software for farming Dawn |  |  | <details><summary>airdr...</summary><p>airdrop, airdrop-claim-bot, airdrop-farm, blockchain, crypto, dawn-autofarm, dawn-bot, dawn-crypto, dawn-crypto-workflow, dawn-extension-bot, dawn-farmer, dawn-miner, dawn-multifarmer, dawn-multireger, dawn-multiwallet, dawn-reger</p></details> | 330 |
 | **[Titan-Network-Bot](https://github.com/parmarmkkk/Titan-Network-Bot)** | Titan Network is a Layer 1 blockchain that coordinates the community-built fog and cloud resource network. |  |  | <details><summary>galil...</summary><p>galileo-testnet, titan-farmer, titan-galileo, titan-multifarmer, titan-network, titan-network-autofarm, titan-network-bot, titan-network-botminer, titan-network-farmer, titan-network-miner, titan-network-mining, titan-network-multifarmer, titan-network-multireger, titan-network-reger, titan-network-software, titan-network-tnt3, titan-network-tnt4, titan-software</p></details> | 330 |
@@ -65,6 +64,7 @@ Last update: 2025-04-08
 | **[Gradient-Network-Bot](https://github.com/ammar122-web/Gradient-Network-Bot)** | An automation tool for farming Gradient Network |  |  | <details><summary>gradi...</summary><p>gradient-miner, gradient-network, gradient-network-airdrop, gradient-network-auto-registration, gradient-network-autofarm, gradient-network-autofarming, gradient-network-automatic-registration, gradient-network-autoregistration, gradient-network-bot, gradient-network-extension, gradient-network-miner, gradient-network-mining, gradient-network-software, gradient-network-tool</p></details> | 330 |
 | **[Monad-Bot](https://github.com/Rusher-spec/Monad-Bot)** | Monad-BOT is an advanced blockchain automation platform tailored to seamlessly engage with cryptocurrency services, focusing on tasks such as token swapping and staking. Its intuitive dashboard offers real-time insights into operations and logs, allowing users to effortlessly track their activities. Monad-BOT efficiently automates processes like to |  |  | <details><summary>monad...</summary><p>monad, monad-airdrop, monad-airdrop-access, monad-autom, monad-automation, monad-bot, monad-chain, monad-crypto-airdrop, monad-crypto-event-launch, monad-decentralized, monad-network, monad-score, monad-script, monad-soft, monad-testnet, monad-token-earnings, monad-tool, monad-types</p></details> | 309 |
 | **[Crypto-Trading-Bot](https://github.com/Capixabao/Crypto-Trading-Bot)** | Best crypto trading bot |  |  | <details><summary>crypt...</summary><p>crypto-bot, crypto-cyrrency-bot, crypto-token, crypto-tool, crypto-tool-2025, crypto-tools, crypto-trading, tokens, trading, trading-algorithms, trading-bot, trading-software, trading-strategies, trading-strategy, tradingbot</p></details> | 309 |
-| **[Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed)** | Distributed Triton for Parallel Systems | MLIR |  |  | 267 |
-| **[sui-mev](https://github.com/fuzzland/sui-mev)** | Sui Arbitrage Bot | Rust |  |  | 255 |
+| **[HiDream-I1](https://github.com/HiDream-ai/HiDream-I1)** |  | Python |  |  | 305 |
+| **[Telegram-Members-Adder](https://github.com/xbkdf2819/Telegram-Members-Adder)** | Telegram Members Adding Software/Script for free. Scrape more than 10k Telegram members and add members to your group. |  |  | <details><summary>adder...</summary><p>adder, python, telegram, telegram-adders, telegram-advertising, telegram-channel-scraper, telegram-channel-scrapper, telegram-group, telegram-group-member-adding, telegram-hack, telegram-member-adder-bot, telegram-member-adder2024, telegram-member-scraper-tool, telegram-memebrs-adder, telegram-script, telegram-script-, telegram-scripts, telegram-tool, telegram-tool-2025, telegram-tool-free</p></details> | 220 |
+| **[Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)** | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients |  |  | <details><summary>claud...</summary><p>claude, claude-mcp, deepseek, deepseek-mcp, mcp, mcp-clients, mcp-host, mcp-server, mcp-servers, mcp-servers-directory, mcp-tools, qwen-mcp</p></details> | 212 |
 
