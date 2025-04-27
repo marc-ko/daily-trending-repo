@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-04-26
+Last update: 2025-04-27
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-04-26
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[MAGI-1](https://github.com/SandAI-org/MAGI-1)** | MAGI-1: Autoregressive Video Generation at Scale | Python |  | <details><summary>autor...</summary><p>autoregressive, diffusion-models, video-generation</p></details> | 2574 |
-| **[nerdlog](https://github.com/dimonomid/nerdlog)** | Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server | Go |  |  | 623 |
-| **[TikTok-ReverseEngineering](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)** |  | JavaScript |  |  | 585 |
-| **[Portal](https://github.com/Aeastr/Portal)** | Seamless element transitions between root, sheets, and navigation pushes in SwiftUI. | Swift |  |  | 430 |
-| **[zifei-panel](https://github.com/skanger/zifei-panel)** |  | JavaScript |  |  | 322 |
-| **[scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat)** | A minimalistic MCP client with a good feature set. | TypeScript |  | <details><summary>anthr...</summary><p>anthropic, grok3, mcp, mcp-client, model-context-protocol, openai, xai</p></details> | 313 |
-| **[Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit)** |  | Python |  |  | 284 |
-| **[SwiftGlass](https://github.com/1998code/SwiftGlass)** | Glassy Everything, even Old Devices. [ AI Assistant available below ] | Swift |  | <details><summary>apple...</summary><p>apple, glass, ios, ipados, macos, swift, swiftglass, swiftui, tvos, visionos, watchos</p></details> | 282 |
-| **[MagiAttention](https://github.com/SandAI-org/MagiAttention)** | A Distributed Attention Towards Linear Scalability for Ultra-Long Context, Heterogeneous Data Training | Python |  |  | 274 |
-| **[TTRL](https://github.com/PRIME-RL/TTRL)** | TTRL: Test-Time Reinforcement Learning | Python |  |  | 235 |
-| **[ArgoSB](https://github.com/yonggekkk/ArgoSB)** | ArgoSB一键无交互vmess代理脚本：最新sing-box内核+最新Cloudflared-Argo内核，最多输出13个Argo不死优选IP节点 | Shell |  | <details><summary>argo,...</summary><p>argo, cloudflared, google, idx, singbox, vmess-ws</p></details> | 229 |
-| **[KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)** |  | Kotlin |  |  | 219 |
-| **[Symphony](https://github.com/sincover/Symphony)** |  |  |  |  | 198 |
-| **[leetcode-challenge](https://github.com/caio-andres/leetcode-challenge)** | It's the LeetCode Challenge. Created by @caio-andres & @matheusaudibert & @enzowxl to improve our structure algorithm skill using https://leetcode.com/. | Python |  | <details><summary>algor...</summary><p>algorithms, exercises, leetcode, resolutions</p></details> | 181 |
-| **[HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp)** | 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server | TypeScript |  |  | 162 |
-| **[Nullpoint-Stealer](https://github.com/monroe31s/Nullpoint-Stealer)** | Nullpoint Stealer Designed To Steal Everything, And Send To Nullpoint Panel. | C# |  | <details><summary>fud-s...</summary><p>fud-stealer, grabber, grabbertool, nullpoint-stealer, password-grabber, passwordstealer, stealer, stealer-builder, stealer-fud, stealer-panel, tokengrabber</p></details> | 144 |
+| **[MAGI-1](https://github.com/SandAI-org/MAGI-1)** | MAGI-1: Autoregressive Video Generation at Scale | Python |  | <details><summary>autor...</summary><p>autoregressive, diffusion-models, video-generation</p></details> | 2629 |
+| **[Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)** | Kimi-Audio, an open-source audio foundation model excelling in audio understanding, generation, and conversation | Python |  |  | 556 |
+| **[Portal](https://github.com/Aeastr/Portal)** | Seamless element transitions between root, sheets, and navigation pushes in SwiftUI. | Swift |  |  | 442 |
+| **[Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit)** |  | Python |  |  | 388 |
+| **[Paper2Code](https://github.com/going-doer/Paper2Code)** | Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning | Python |  |  | 368 |
+| **[scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat)** | A minimalistic MCP client with a good feature set. | TypeScript |  | <details><summary>anthr...</summary><p>anthropic, grok3, mcp, mcp-client, model-context-protocol, openai, xai</p></details> | 328 |
+| **[zifei-panel](https://github.com/skanger/zifei-panel)** |  | JavaScript |  |  | 326 |
+| **[TTRL](https://github.com/PRIME-RL/TTRL)** | TTRL: Test-Time Reinforcement Learning | Python |  |  | 266 |
+| **[ArgoSB](https://github.com/yonggekkk/ArgoSB)** | ArgoSB一键无交互vmess代理脚本：最新sing-box内核+最新Cloudflared-Argo内核，最多输出13个Argo不死优选IP节点 | Shell |  | <details><summary>argo,...</summary><p>argo, cloudflared, google, idx, singbox, vmess-ws</p></details> | 245 |
+| **[KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)** |  | Kotlin |  |  | 231 |
+| **[leetcode-challenge](https://github.com/caio-andres/leetcode-challenge)** | It's the LeetCode Challenge. Created by @caio-andres & @matheusaudibert & @enzowxl to improve our structure algorithm skill using https://leetcode.com/. | Python |  | <details><summary>algor...</summary><p>algorithms, exercises, leetcode, resolutions</p></details> | 199 |
+| **[HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp)** | 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server | TypeScript |  |  | 197 |
+| **[ClairObscurFix](https://github.com/Lyall/ClairObscurFix)** | An ASI plugin for Clair Obscur: Expedition 33 that removes the 30fps cap in cutscenes, fixes ultrawide issues and more. | C++ |  | ultrawide | 177 |
+| **[Live](https://github.com/YueChan/Live)** | 收集于互联网的一些高清直播源。 |  |  |  | 155 |
+| **[GPOHound](https://github.com/cogiceo/GPOHound)** | Offensive GPO dumping and analysis tool that leverages and enriches BloodHound data | Python |  |  | 148 |
 | **[pumpfun-volume-bot](https://github.com/MrR812/pumpfun-volume-bot)** | First AIO Tool for PumpFun - Copy Trading, Volume Bot, Snipe Bot, Bump Bot, Bundler, Token Creator |  |  | <details><summary>copyt...</summary><p>copytrading, pumpfun, pumpfun-bot, sniperbot, solana, volume-bot</p></details> | 142 |
+| **[domain-scanner](https://github.com/xuemian168/domain-scanner)** | 一个用Go语言编写的强大且灵活的域名注册可用性检查工具 A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters. | Go |  |  | 140 |
+| **[tiktok-bot](https://github.com/colyswear/tiktok-bot)** | tiktok bot tiktok botting 🔥 tiktok follower 🔥 tiktok likes 🔥 tiktok views tiktok automater tiktok aio lznfrrpi | Python |  |  | 138 |
 | **[Creal-Stealer](https://github.com/lamblack44/Creal-Stealer)** | stealer grabber grabber cookie grabber grabber 2023 cookie stealer token password 🔥 stealer 🔥 password grabber token stealer cookie password password python stealer password cookie stealer stealer high in token stealer end stealer creal grabber cookie stealer token cookie working stealer password grabber stealer token mjwkmfnfb | Python |  |  | 137 |
-| **[tiktok-bot](https://github.com/colyswear/tiktok-bot)** | tiktok bot tiktok botting 🔥 tiktok follower 🔥 tiktok likes 🔥 tiktok views tiktok automater tiktok aio lznfrrpi | Python |  |  | 137 |
-| **[GPOHound](https://github.com/cogiceo/GPOHound)** | Offensive GPO dumping and analysis tool that leverages and enriches BloodHound data | Python |  |  | 136 |
+| **[Discord-image-logger](https://github.com/childishguy235/Discord-image-logger)** | discord image logger 🔥 updated 2024 🔥 a logger that logs people that click on open image in browser on discord. discord ip logger discord image logger discord image grabber discord grabber discord image stealer discord stealer discord ip grabber discord ip stealer discord image logger discord image logger discord image grabber alfffsnpfx | Python |  |  | 135 |
 
