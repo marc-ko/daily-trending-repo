@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-05-05
+Last update: 2025-05-06
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-05-05
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)** | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories | TypeScript |  |  | 2576 |
-| **[no-as-a-service](https://github.com/hotheadhacker/no-as-a-service)** | No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. | JavaScript |  | <details><summary>api, ...</summary><p>api, expressjs, json</p></details> | 1187 |
-| **[DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)** |  |  |  |  | 854 |
-| **[ICEdit](https://github.com/River-Zhang/ICEdit)** | 0.1% training data and 1% training parameters for fantastic image editing! Paper "In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer" | Python |  | <details><summary>diffu...</summary><p>diffusion, diffusion-models, diffusion-transformer, dit, editing-image, image-editing, in-context</p></details> | 375 |
-| **[LinuxInExcel](https://github.com/NSG650/LinuxInExcel)** |  | C |  |  | 343 |
-| **[Redline](https://github.com/robb/Redline)** | Redlines for SwiftUI | Swift |  | <details><summary>desig...</summary><p>design, figma, swiftui</p></details> | 283 |
-| **[atropos](https://github.com/NousResearch/atropos)** | Atropos is a Language Model Reinforcement Learning Environments framework for collecting and evaluating LLM trajectories through diverse environments | Python |  |  | 231 |
-| **[GrassBot](https://github.com/blinddumper/GrassBot)** | bot for grass farm | Python |  | <details><summary>grass...</summary><p>grass, grass-bot, grass-farm, grassbot</p></details> | 205 |
+| **[deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)** | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme | TypeScript |  |  | 3347 |
+| **[DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)** |  |  |  |  | 910 |
+| **[enableAppleAI](https://github.com/kanshurichard/enableAppleAI)** | Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.5 beta | Shell |  |  | 324 |
 | **[Creal-Stealer](https://github.com/bagsbanny6535/Creal-Stealer)** | stealer grabber grabber cookie grabber grabber 2023 cookie stealer token password 🔥 stealer 🔥 password grabber token stealer cookie password password python stealer password cookie stealer stealer high in token stealer end stealer creal grabber cookie stealer token cookie working stealer password grabber stealer token tpwojnomb | Python |  |  | 204 |
-| **[Co-Sight](https://github.com/ZTE-AICloud/Co-Sight)** |  | JavaScript |  | <details><summary>agent...</summary><p>agent, aicloud, aim, zte</p></details> | 200 |
+| **[GrassBot](https://github.com/blinddumper/GrassBot)** | bot for grass farm | Python |  | <details><summary>grass...</summary><p>grass, grass-bot, grass-farm, grassbot</p></details> | 203 |
 | **[BlackCap-Grabber-NoDualHook](https://github.com/minchin85derzkuu/BlackCap-Grabber-NoDualHook)** | grabber 🔥 blackcap grabber 🔥 fixed stealer - dualhook removed - python3 logger blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber hxjbbmffgx | Python |  |  | 196 |
-| **[ctfile-downloader](https://github.com/Nekohy/ctfile-downloader)** |  | TypeScript |  |  | 159 |
-| **[The-Ultimate-Roo-Code-Hack-Building-a-Structured-Transparent-and-Well-Documented-AI-Team](https://github.com/Mnehmos/The-Ultimate-Roo-Code-Hack-Building-a-Structured-Transparent-and-Well-Documented-AI-Team)** |  |  |  |  | 147 |
-| **[xiyingdong_phd_thesis](https://github.com/Dongxiaojie996/xiyingdong_phd_thesis)** | 董袭莹的博士论文 |  |  |  | 141 |
-| **[TesserAct](https://github.com/UMass-Embodied-AGI/TesserAct)** | TesserAct: Learning 4D Embodied World Models | Python |  |  | 129 |
+| **[GoVisual](https://github.com/doganarif/GoVisual)** | Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. | Go |  | <details><summary>golan...</summary><p>golang, logging, networking, opentelemetry, opentelemetry-go</p></details> | 179 |
+| **[cloi](https://github.com/cloi-ai/cloi)** | Local debugging agent that runs in your terminal | JavaScript |  |  | 177 |
+| **[ctfile-downloader](https://github.com/Nekohy/ctfile-downloader)** |  | TypeScript |  |  | 171 |
+| **[T2I-R1](https://github.com/CaraJ7/T2I-R1)** | Official repository of T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT | Jupyter Notebook |  |  | 141 |
+| **[mcp-windbg](https://github.com/svnscha/mcp-windbg)** | Model Context Protocol for WinDBG | Python |  | <details><summary>copil...</summary><p>copilot, copilot-chat, crash-dump, crash-reports, mcp, mcp-server, windbg, windbg-extension</p></details> | 135 |
+| **[mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag)** | Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants | Python |  |  | 134 |
+| **[qmodem-4.51](https://github.com/AaronFriel/qmodem-4.51)** |  | Pascal |  |  | 130 |
 | **[MonadTestnet-Bot](https://github.com/blinddumper/MonadTestnet-Bot)** | A bot for automated Monad Testnet farm | Python |  | <details><summary>monad...</summary><p>monad, monad-bot, monadtestnet</p></details> | 129 |
-| **[GoVisual](https://github.com/doganarif/GoVisual)** | Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. | Go |  | <details><summary>golan...</summary><p>golang, logging, networking, opentelemetry, opentelemetry-go</p></details> | 127 |
-| **[anchors](https://github.com/toolwind/anchors)** | Anchors for Tailwind CSS provides a simple API for working with CSS anchor positioning, enabling flexible, declarative positioning relative to custom anchors. | TypeScript |  |  | 126 |
-| **[hotstar-ipl-ad-mute](https://github.com/pea1bee/hotstar-ipl-ad-mute)** | Mute ads in Hotstar live sport streams | JavaScript |  |  | 119 |
-| **[qmodem-4.51](https://github.com/AaronFriel/qmodem-4.51)** |  | Pascal |  |  | 119 |
+| **[hotstar-ipl-ad-mute](https://github.com/pea1bee/hotstar-ipl-ad-mute)** | Mute ads in Hotstar live sport streams | JavaScript |  |  | 126 |
+| **[a-share-mcp-is-just-i-need](https://github.com/24mlight/a-share-mcp-is-just-i-need)** |  | Python |  |  | 117 |
+| **[system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** |  |  |  |  | 109 |
+| **[One-Shot-RLVR](https://github.com/ypwang61/One-Shot-RLVR)** | official repository for “Reinforcement Learning for Reasoning in Large Language Models with One Training Example” | Python |  |  | 106 |
+| **[discord-nuker](https://github.com/staneddiejemison6/discord-nuker)** | discord nuker discord nuke bot 🚀 discord server nuker 🚀 discord server raider 🚀 discord server raid 🚀 duscird nuker nncyby | Python |  |  | 100 |
+| **[Dawn-Bot](https://github.com/blinddumper/Dawn-Bot)** | Bot for Dawn validator auto farm | Python |  | <details><summary>dawn,...</summary><p>dawn, dawn-bot, dawn-extension-bot, dawn-validator</p></details> | 99 |
 
