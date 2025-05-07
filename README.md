@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-05-06
+Last update: 2025-05-07
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-05-06
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)** | Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme | TypeScript |  |  | 3347 |
-| **[DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)** |  |  |  |  | 910 |
-| **[enableAppleAI](https://github.com/kanshurichard/enableAppleAI)** | Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.5 beta | Shell |  |  | 324 |
-| **[Creal-Stealer](https://github.com/bagsbanny6535/Creal-Stealer)** | stealer grabber grabber cookie grabber grabber 2023 cookie stealer token password 🔥 stealer 🔥 password grabber token stealer cookie password password python stealer password cookie stealer stealer high in token stealer end stealer creal grabber cookie stealer token cookie working stealer password grabber stealer token tpwojnomb | Python |  |  | 204 |
-| **[GrassBot](https://github.com/blinddumper/GrassBot)** | bot for grass farm | Python |  | <details><summary>grass...</summary><p>grass, grass-bot, grass-farm, grassbot</p></details> | 203 |
+| **[cs-paper-checklist](https://github.com/yzhao062/cs-paper-checklist)** | A final sanity checklist to help your CS paper get accepted, not desk rejected. |  |  |  | 512 |
+| **[nanoVLM](https://github.com/huggingface/nanoVLM)** | The simplest, fastest repository for training/finetuning small-sized VLMs. | Jupyter Notebook |  |  | 466 |
+| **[enableAppleAI](https://github.com/kanshurichard/enableAppleAI)** | Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.5 beta | Shell |  |  | 425 |
+| **[system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** |  |  |  |  | 327 |
+| **[GoVisual](https://github.com/doganarif/GoVisual)** | Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. | Go |  | <details><summary>golan...</summary><p>golang, logging, networking, opentelemetry, opentelemetry-go</p></details> | 248 |
+| **[cloi](https://github.com/cloi-ai/cloi)** | Local debugging agent that runs in your terminal | JavaScript |  |  | 209 |
+| **[oci2git](https://github.com/Virviil/oci2git)** | Introspecting Docker images as easy as using Git | Rust |  |  | 198 |
 | **[BlackCap-Grabber-NoDualHook](https://github.com/minchin85derzkuu/BlackCap-Grabber-NoDualHook)** | grabber 🔥 blackcap grabber 🔥 fixed stealer - dualhook removed - python3 logger blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber hxjbbmffgx | Python |  |  | 196 |
-| **[GoVisual](https://github.com/doganarif/GoVisual)** | Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development. | Go |  | <details><summary>golan...</summary><p>golang, logging, networking, opentelemetry, opentelemetry-go</p></details> | 179 |
-| **[cloi](https://github.com/cloi-ai/cloi)** | Local debugging agent that runs in your terminal | JavaScript |  |  | 177 |
-| **[ctfile-downloader](https://github.com/Nekohy/ctfile-downloader)** |  | TypeScript |  |  | 171 |
-| **[T2I-R1](https://github.com/CaraJ7/T2I-R1)** | Official repository of T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT | Jupyter Notebook |  |  | 141 |
-| **[mcp-windbg](https://github.com/svnscha/mcp-windbg)** | Model Context Protocol for WinDBG | Python |  | <details><summary>copil...</summary><p>copilot, copilot-chat, crash-dump, crash-reports, mcp, mcp-server, windbg, windbg-extension</p></details> | 135 |
-| **[mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag)** | Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants | Python |  |  | 134 |
-| **[qmodem-4.51](https://github.com/AaronFriel/qmodem-4.51)** |  | Pascal |  |  | 130 |
-| **[MonadTestnet-Bot](https://github.com/blinddumper/MonadTestnet-Bot)** | A bot for automated Monad Testnet farm | Python |  | <details><summary>monad...</summary><p>monad, monad-bot, monadtestnet</p></details> | 129 |
-| **[hotstar-ipl-ad-mute](https://github.com/pea1bee/hotstar-ipl-ad-mute)** | Mute ads in Hotstar live sport streams | JavaScript |  |  | 126 |
-| **[a-share-mcp-is-just-i-need](https://github.com/24mlight/a-share-mcp-is-just-i-need)** |  | Python |  |  | 117 |
-| **[system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** |  |  |  |  | 109 |
-| **[One-Shot-RLVR](https://github.com/ypwang61/One-Shot-RLVR)** | official repository for “Reinforcement Learning for Reasoning in Large Language Models with One Training Example” | Python |  |  | 106 |
-| **[discord-nuker](https://github.com/staneddiejemison6/discord-nuker)** | discord nuker discord nuke bot 🚀 discord server nuker 🚀 discord server raider 🚀 discord server raid 🚀 duscird nuker nncyby | Python |  |  | 100 |
-| **[Dawn-Bot](https://github.com/blinddumper/Dawn-Bot)** | Bot for Dawn validator auto farm | Python |  | <details><summary>dawn,...</summary><p>dawn, dawn-bot, dawn-extension-bot, dawn-validator</p></details> | 99 |
+| **[mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag)** | Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants | Python |  |  | 189 |
+| **[T2I-R1](https://github.com/CaraJ7/T2I-R1)** | Official repository of T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT | Python |  |  | 169 |
+| **[mcp-windbg](https://github.com/svnscha/mcp-windbg)** | Model Context Protocol for WinDBG | Python |  | <details><summary>copil...</summary><p>copilot, copilot-chat, crash-dump, crash-reports, mcp, mcp-server, windbg, windbg-extension</p></details> | 162 |
+| **[AutoHajimiMosaic](https://github.com/frinkleko/AutoHajimiMosaic)** | 一款自动为你的色图进行哈基米马赛克处理的打码器😎再也不用担心家里请不到高人了|自动哈基米打码器 | Python |  |  | 152 |
+| **[metamask-desktop](https://github.com/metamask-desktop/metamask-desktop)** | Metamask Desktop - a secure, feature-rich desktop application for managing your Ethereum wallet, interacting with decentralized applications (dApps), and exploring the Web3 ecosystem. | CSS |  | <details><summary>airdr...</summary><p>airdrop, crypto, crypto-wallet, desktop, ethereum, ethereum-wallet, metamask, metamask-desktop, wallet, web3</p></details> | 147 |
+| **[qmodem-4.51](https://github.com/AaronFriel/qmodem-4.51)** |  | Pascal |  |  | 134 |
+| **[TM-SGNL-Android](https://github.com/micahflee/TM-SGNL-Android)** | Unofficial and insecure Signal app, used by senior Trump officials like Mike Waltz, downloaded from the official TeleMessage website | Java |  |  | 134 |
+| **[a-share-platform-stocks-selection](https://github.com/24mlight/a-share-platform-stocks-selection)** |  | Python |  |  | 117 |
+| **[Bolthole](https://github.com/rvrsh3ll/Bolthole)** | Dig your way out of networks like a Meerkat using SSH tunnels via ClickOnce. | C# |  |  | 107 |
+| **[Somnia-Auto](https://github.com/neLNABR/Somnia-Auto)** | 🔮 Somnia Bot is a powerful automation tool for the Somnia testnet. Supports minting, swaps, social integration, and more — easy to set up and customize. | Python |  | <details><summary>somni...</summary><p>somnia, somnia-auto, somnia-faucet, somnia-testnet</p></details> | 100 |
+| **[frontend-interview-questions](https://github.com/ArminShaikhy/frontend-interview-questions)** | A well-organized collection of frontend interview questions, categorized by topic, designed to help you prepare for technical interviews, deepen your knowledge, and serve as a practical reference for ongoing learning. |  |  | <details><summary>front...</summary><p>frontend, interview, interview-practice, interview-questions, react, reactjs</p></details> | 96 |
+| **[SOLOBench](https://github.com/jd-3d/SOLOBench)** |  | Python |  |  | 89 |
 
