@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-05-25
+Last update: 2025-05-26
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-05-25
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[MMaDA](https://github.com/Gen-Verse/MMaDA)** | MMaDA - Open-Sourced Multimodal Large Diffusion Language Models | Python |  | <details><summary>diffu...</summary><p>diffusion-models, llm-reasoning, unified-multimodal-understanding-and-generation</p></details> | 588 |
-| **[DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)** |  | Fluent |  |  | 440 |
-| **[n8n-free-templates](https://github.com/wassupjay/n8n-free-templates)** |  A curated set of 200 plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production. |  |  | <details><summary>autom...</summary><p>automation, automation-templates, integration, n8n, n8n-autom, n8n-template, no-code-ai, no-code-automation</p></details> | 425 |
-| **[claude-code-action](https://github.com/anthropics/claude-code-action)** |  | TypeScript |  |  | 349 |
-| **[Salnet-Controll](https://github.com/luis22d/Salnet-Controll)** | Salnet RAT | C# |  | <details><summary>fud-r...</summary><p>fud-rat, rat, rat-fud, remote-admin-tool, remote-administration-tool, remote-administrative-tool, remote-desktop, remote-tool</p></details> | 225 |
-| **[WAuxiliary_Plugin](https://github.com/HdShare/WAuxiliary_Plugin)** | WeChat Auxiliary Plugin | Java |  |  | 221 |
-| **[Fortnite-2025-Arcane](https://github.com/ferstskyfall94/Fortnite-2025-Arcane)** | Fortnite Hack! Aimbot+Wallhack+Spoofer | Win 10-11 | Fortnite Cheats | Full Free |  |  | <details><summary>fortn...</summary><p>fortnite-2025</p></details> | 211 |
-| **[spoofer-hwid](https://github.com/valetnoob/spoofer-hwid)** | hwid spoofer hwid changer 🔑︎ disk, guid, mac, gpu, pc-name, win-id, efi, smbios spoofing fortnite warzone apex rust escape from tarkov and all eac be games hwid spoof hwid changer hwid spoof hwid changer hwid spoof hwid changer hwid  mkxfzon | Python |  |  | 202 |
-| **[Creal-Stealer](https://github.com/endguypie8385/Creal-Stealer)** | stealer grabber grabber cookie grabber grabber 2023 cookie stealer token password 🔥 stealer 🔥 password grabber token stealer cookie password password python stealer password cookie stealer stealer high in token stealer end stealer creal grabber cookie stealer token cookie working stealer password grabber stealer token rzwbbjzx | Python |  |  | 201 |
-| **[python-keylogger](https://github.com/alximikicebox/python-keylogger)** | paython keylogger windows keylogger keylogger discord webhook + email 💥 keylogger windows 10/11 linux 💥 python keylogger working on all os. keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger  vzmgsw | Python |  |  | 201 |
-| **[Discord-image-logger](https://github.com/wargunreberry9492/Discord-image-logger)** | discord image logger 🔥 updated 2024 🔥 a logger that logs people that click on open image in browser on discord. discord ip logger discord image logger discord image grabber discord grabber discord image stealer discord stealer discord ip grabber discord ip stealer discord image logger discord image logger discord image grabber qwesofqsu | Python |  |  | 199 |
-| **[Blank-Grabber](https://github.com/odinokiyorelfanta9/Blank-Grabber)** | grabber 🔥 blank grabber 🔥 updated 2024 🔥 blank password grabber written in python. cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber miwuop | Python |  |  | 199 |
-| **[pokio](https://github.com/nunomaduro/pokio)** | Pokio is a dead simple Asynchronous API for PHP. | PHP |  |  | 184 |
-| **[awesome-saas](https://github.com/Alchemyst-ai/awesome-saas)** | Collection of templates using the Alchemyst AI Platform for your next big AI app. | JavaScript |  | <details><summary>agent...</summary><p>agentic-ai, ai-agent, ai-saas, alchemyst-ai</p></details> | 179 |
-| **[AW-2025-Portfolio](https://github.com/AntoineW/AW-2025-Portfolio)** | Take a peek behind the scenes of a senior dev’s awarded portfolio. Clone it, learn from it, build your own. | Astro |  |  | 175 |
-| **[smart-mermaid](https://github.com/liujuntao123/smart-mermaid)** | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 | JavaScript |  |  | 170 |
-| **[lnk](https://github.com/yarlson/lnk)** | 🔗 Git-native dotfiles management that doesn't suck. | Go |  | <details><summary>confi...</summary><p>configuration-management, devtools, dotfiles, dotfiles-manager</p></details> | 158 |
-| **[Apex_Legends_External_Cheat](https://github.com/smailik257/Apex_Legends_External_Cheat)** | 📈 apex legends cheat triggerbot & aimbot 100% undetected ⭐ apex legends ai aimbot image detection yolov7 yolov5 apex legends aimbot apex legends cheat apex legends external internal cheat esp aimbot triggerbot cheat apex legends hack vpusxim | Python |  |  | 151 |
-| **[NxLite](https://github.com/dexter-xD/NxLite)** | Lightning-fast HTTP server built in C | C |  | <details><summary>c, ht...</summary><p>c, http-server</p></details> | 147 |
-| **[SharpSuccessor](https://github.com/logangoins/SharpSuccessor)** | SharpSuccessor is a .NET Proof of Concept (POC) for fully weaponizing Yuval Gordon’s (@YuG0rd) BadSuccessor attack from Akamai. | C# |  |  | 130 |
+| **[MMaDA](https://github.com/Gen-Verse/MMaDA)** | MMaDA - Open-Sourced Multimodal Large Diffusion Language Models | Python |  | <details><summary>diffu...</summary><p>diffusion-models, llm-reasoning, unified-multimodal-understanding-and-generation</p></details> | 642 |
+| **[DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)** |  | Fluent |  |  | 498 |
+| **[lsix](https://github.com/saxpjexck/lsix)** |  | CSS |  |  | 400 |
+| **[awesome-saas](https://github.com/Alchemyst-ai/awesome-saas)** | Collection of templates using the Alchemyst AI Platform for your next big AI app. | JavaScript |  | <details><summary>agent...</summary><p>agentic-ai, ai-agent, ai-saas, alchemyst-ai</p></details> | 222 |
+| **[smart-mermaid](https://github.com/liujuntao123/smart-mermaid)** | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 | JavaScript |  |  | 203 |
+| **[lnk](https://github.com/yarlson/lnk)** | 🔗 Git-native dotfiles management that doesn't suck. | Go |  | <details><summary>confi...</summary><p>configuration-management, devtools, dotfiles, dotfiles-manager</p></details> | 200 |
+| **[RL-Factory](https://github.com/Simple-Efficient/RL-Factory)** | Train your Agent model via our easy and efficient framework | Python |  |  | 188 |
+| **[SharpSuccessor](https://github.com/logangoins/SharpSuccessor)** | SharpSuccessor is a .NET Proof of Concept (POC) for fully weaponizing Yuval Gordon’s (@YuG0rd) BadSuccessor attack from Akamai. | C# |  |  | 173 |
+| **[RobloxFruit-Mod](https://github.com/mrdok918/RobloxFruit-Mod)** | Free Roblox Blox Fruits Script: Easy Download for Windows in 2025 Version🌐 |  |  |  | 161 |
+| **[v7-Marvel-Cheat-Suite](https://github.com/crystalgoose-2000/v7-Marvel-Cheat-Suite)** | Marvel Rivals Cheats Trainer Free Download 2025 |  |  |  | 161 |
+| **[Combat-Arms-Hub](https://github.com/ijseven-loedeil/Combat-Arms-Hub)** | Official Combat Arms Download 2025 for Windows – Secure and Fast! 🚀 |  |  |  | 161 |
+| **[Age-Of-Water-Hack](https://github.com/makaroon2000kw/Age-Of-Water-Hack)** | Safe and Easy Age of Water Hack Tool for Windows in 2025 💻 |  |  |  | 161 |
+| **[fisch-script-gui](https://github.com/malanrad-magic/fisch-script-gui)** | Fisch Roblox Script GUI Free Download - Official 2025 Release |  |  |  | 161 |
+| **[davinci-free-download](https://github.com/manimal-100fi/davinci-free-download)** | Latest DaVinci Resolve Studio Crack Full Free |  |  |  | 161 |
+| **[adoptmescript](https://github.com/stackerman908/adoptmescript)** | Download Adopt Me Auto Player Script 2025 - Windows Compatible |  |  |  | 161 |
+| **[CombatArms-Hub](https://github.com/south-gunfighter/CombatArms-Hub)** | Official Combat Arms 2025 Download Link for Windows PC🚀 |  |  |  | 161 |
+| **[microsoft-office-365](https://github.com/bingo2000uq/microsoft-office-365)** | Microsoft Office 365 Key Free Download |  |  |  | 161 |
+| **[Ultimate-BeamNG-Pack](https://github.com/bessone198/Ultimate-BeamNG-Pack)** | Explore New 500+ Mods for BeamNG.drive: Windows Downloads 2025 🌟 |  |  |  | 161 |
+| **[sea-of-thieves-cheats](https://github.com/eding-100/sea-of-thieves-cheats)** | Best Sea of Thieves Exploit Hack Free |  |  |  | 161 |
+| **[LostArk-Cheat](https://github.com/masterawp966/LostArk-Cheat)** | Get Your Lost Ark 2025 Hack Download for Windows Today – Fully Functional |  |  |  | 161 |
 
