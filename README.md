@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-05-26
+Last update: 2025-05-27
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-05-26
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[MMaDA](https://github.com/Gen-Verse/MMaDA)** | MMaDA - Open-Sourced Multimodal Large Diffusion Language Models | Python |  | <details><summary>diffu...</summary><p>diffusion-models, llm-reasoning, unified-multimodal-understanding-and-generation</p></details> | 642 |
-| **[DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)** |  | Fluent |  |  | 498 |
-| **[lsix](https://github.com/saxpjexck/lsix)** |  | CSS |  |  | 400 |
-| **[awesome-saas](https://github.com/Alchemyst-ai/awesome-saas)** | Collection of templates using the Alchemyst AI Platform for your next big AI app. | JavaScript |  | <details><summary>agent...</summary><p>agentic-ai, ai-agent, ai-saas, alchemyst-ai</p></details> | 222 |
-| **[smart-mermaid](https://github.com/liujuntao123/smart-mermaid)** | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 | JavaScript |  |  | 203 |
-| **[lnk](https://github.com/yarlson/lnk)** | 🔗 Git-native dotfiles management that doesn't suck. | Go |  | <details><summary>confi...</summary><p>configuration-management, devtools, dotfiles, dotfiles-manager</p></details> | 200 |
-| **[RL-Factory](https://github.com/Simple-Efficient/RL-Factory)** | Train your Agent model via our easy and efficient framework | Python |  |  | 188 |
-| **[SharpSuccessor](https://github.com/logangoins/SharpSuccessor)** | SharpSuccessor is a .NET Proof of Concept (POC) for fully weaponizing Yuval Gordon’s (@YuG0rd) BadSuccessor attack from Akamai. | C# |  |  | 173 |
-| **[RobloxFruit-Mod](https://github.com/mrdok918/RobloxFruit-Mod)** | Free Roblox Blox Fruits Script: Easy Download for Windows in 2025 Version🌐 |  |  |  | 161 |
-| **[v7-Marvel-Cheat-Suite](https://github.com/crystalgoose-2000/v7-Marvel-Cheat-Suite)** | Marvel Rivals Cheats Trainer Free Download 2025 |  |  |  | 161 |
-| **[Combat-Arms-Hub](https://github.com/ijseven-loedeil/Combat-Arms-Hub)** | Official Combat Arms Download 2025 for Windows – Secure and Fast! 🚀 |  |  |  | 161 |
-| **[Age-Of-Water-Hack](https://github.com/makaroon2000kw/Age-Of-Water-Hack)** | Safe and Easy Age of Water Hack Tool for Windows in 2025 💻 |  |  |  | 161 |
-| **[fisch-script-gui](https://github.com/malanrad-magic/fisch-script-gui)** | Fisch Roblox Script GUI Free Download - Official 2025 Release |  |  |  | 161 |
-| **[davinci-free-download](https://github.com/manimal-100fi/davinci-free-download)** | Latest DaVinci Resolve Studio Crack Full Free |  |  |  | 161 |
-| **[adoptmescript](https://github.com/stackerman908/adoptmescript)** | Download Adopt Me Auto Player Script 2025 - Windows Compatible |  |  |  | 161 |
-| **[CombatArms-Hub](https://github.com/south-gunfighter/CombatArms-Hub)** | Official Combat Arms 2025 Download Link for Windows PC🚀 |  |  |  | 161 |
-| **[microsoft-office-365](https://github.com/bingo2000uq/microsoft-office-365)** | Microsoft Office 365 Key Free Download |  |  |  | 161 |
-| **[Ultimate-BeamNG-Pack](https://github.com/bessone198/Ultimate-BeamNG-Pack)** | Explore New 500+ Mods for BeamNG.drive: Windows Downloads 2025 🌟 |  |  |  | 161 |
-| **[sea-of-thieves-cheats](https://github.com/eding-100/sea-of-thieves-cheats)** | Best Sea of Thieves Exploit Hack Free |  |  |  | 161 |
-| **[LostArk-Cheat](https://github.com/masterawp966/LostArk-Cheat)** | Get Your Lost Ark 2025 Hack Download for Windows Today – Fully Functional |  |  |  | 161 |
+| **[MMaDA](https://github.com/Gen-Verse/MMaDA)** | MMaDA - Open-Sourced Multimodal Large Diffusion Language Models | Python |  | <details><summary>diffu...</summary><p>diffusion-models, llm-reasoning, unified-multimodal-understanding-and-generation</p></details> | 733 |
+| **[lsix](https://github.com/saxpjexck/lsix)** |  | CSS |  |  | 732 |
+| **[RL-Factory](https://github.com/Simple-Efficient/RL-Factory)** | Train your Agent model via our easy and efficient framework | Python |  |  | 406 |
+| **[Nimbus](https://github.com/logscore/Nimbus)** | An open source alternative to Google Drive, One Drive, iCloud, etc. | TypeScript |  |  | 334 |
+| **[LocalineAI](https://github.com/NeuralNodeOne814/LocalineAI)** | LocalineAI brings powerful AI capabilities directly to your Windows terminal while keeping your data completely private and secure. No cloud dependencies, no data sharing - just pure AI power at your fingertips. |  |  | <details><summary>ai-as...</summary><p>ai-assistant, ai-automation, ai-privacy, artificial-intelligence, cli-tool, code-generation, generative-ai, image-generation, local-ai, local-llm, local-processing, multimodal-ai, offline-ai, offline-assistant, open-source-ai, privacy-focused, text-generation, windows-ai, windows-automation</p></details> | 292 |
+| **[LocalineAI](https://github.com/CyberLinkGamma314/LocalineAI)** | LocalineAI brings powerful AI capabilities directly to your Windows terminal while keeping your data completely private and secure. No cloud dependencies, no data sharing - just pure AI power at your fingertips. |  |  | <details><summary>ai-as...</summary><p>ai-assistant, ai-automation, ai-privacy, artificial-intelligence, cli-tool, code-generation, generative-ai, image-generation, local-ai, local-llm, local-processing, multimodal-ai, offline-ai, offline-assistant, open-source-ai, privacy-focused, text-generation, windows-ai, windows-automation</p></details> | 291 |
+| **[LocalineAI](https://github.com/BinarySyncBeta995/LocalineAI)** | LocalineAI brings powerful AI capabilities directly to your Windows terminal while keeping your data completely private and secure. No cloud dependencies, no data sharing - just pure AI power at your fingertips. |  |  | <details><summary>ai-as...</summary><p>ai-assistant, ai-automation, ai-privacy, artificial-intelligence, cli-tool, code-generation, generative-ai, image-generation, local-ai, local-llm, local-processing, multimodal-ai, offline-ai, offline-assistant, open-source-ai, privacy-focused, text-generation, windows-ai, windows-automation</p></details> | 289 |
+| **[LocalineAI](https://github.com/NanoNetGamma531/LocalineAI)** | LocalineAI brings powerful AI capabilities directly to your Windows terminal while keeping your data completely private and secure. No cloud dependencies, no data sharing - just pure AI power at your fingertips. |  |  | <details><summary>ai-as...</summary><p>ai-assistant, ai-automation, ai-privacy, artificial-intelligence, cli-tool, code-generation, generative-ai, image-generation, local-ai, local-llm, local-processing, multimodal-ai, offline-ai, offline-assistant, open-source-ai, privacy-focused, text-generation, windows-ai, windows-automation</p></details> | 270 |
+| **[SharpSuccessor](https://github.com/logangoins/SharpSuccessor)** | SharpSuccessor is a .NET Proof of Concept (POC) for fully weaponizing Yuval Gordon’s (@YuG0rd) BadSuccessor attack from Akamai. | C# |  |  | 221 |
+| **[lnk](https://github.com/yarlson/lnk)** | 🔗 Git-native dotfiles management that doesn't suck. | Go |  | <details><summary>confi...</summary><p>configuration-management, devtools, dotfiles, dotfiles-manager</p></details> | 218 |
+| **[smart-mermaid](https://github.com/liujuntao123/smart-mermaid)** | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 | JavaScript |  |  | 211 |
+| **[o3_finds_cve-2025-37899](https://github.com/SeanHeelan/o3_finds_cve-2025-37899)** | Artefacts for blog post on finding CVE-2025-37899 with o3 |  |  |  | 188 |
+| **[Sentry](https://github.com/Lakr233/Sentry)** | A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you. | Swift |  |  | 171 |
+| **[FORM-UDPGothic](https://github.com/jz5/FORM-UDPGothic)** | 帳票 UDPゴシック。BIZ UDPゴシックと 99.99%同じ。 | HTML |  | fonts | 161 |
+| **[NxLite](https://github.com/dexter-xD/NxLite)** | Lightning-fast HTTP server built in C | C |  | <details><summary>c, ht...</summary><p>c, http-server</p></details> | 156 |
+| **[super-utils-plus](https://github.com/Dhaxor/super-utils-plus)** |  | TypeScript |  |  | 150 |
+| **[Jenga](https://github.com/dvlab-research/Jenga)** | Official Implementation: Training-Free Efficient Video Generation via Dynamic Token Carving | Python |  |  | 141 |
+| **[Tyan](https://github.com/TheBlindM/Tyan)** |  | Rust |  |  | 137 |
+| **[Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2)** | Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention |  |  | <details><summary>3d-ai...</summary><p>3d-aigc, 3d-generation, 3d-models, 3d-reconstruction, 3d-representation, genai-3d, image-to-3d</p></details> | 128 |
+| **[One-RL-to-See-Them-All](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)** | One RL to See Them All: Visual Triple Unified Reinforcement Learning |  |  |  | 124 |
 
