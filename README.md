@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-06-03
+Last update: 2025-06-04
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-06-03
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[circuit-tracer](https://github.com/safety-research/circuit-tracer)** |  | JavaScript |  |  | 1460 |
-| **[ROLL](https://github.com/alibaba/ROLL)** |  | Python |  |  | 501 |
-| **[Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025](https://github.com/TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025)** | Telegram Members Adding Software. Scrape more than 10k Telegram members and add members to your group. And many more features. |  |  | <details><summary>adder...</summary><p>adder-telegram, python, tele-members, telegram-bot, telegram-bot-tools, telegram-channel, telegram-channel-scraper, telegram-channel-scrapper, telegram-clone, telegram-forwarder, telegram-group-member-adding, telegram-hack, telegram-member-adder2024, telegram-member-scraper-tool, telegram-message-forwarder, telegram-message-sender, telegram-report-ban-tool, telegram-tool, telegram-tool-2025, telegram-tool-free</p></details> | 416 |
-| **[cursor_pro](https://github.com/Jskeaaa/cursor_pro)** | 免费用户cursor突破claude-3.7的限制。仅供学习，给个星星 | Python |  |  | 371 |
-| **[mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk)** | Yes Mcp server in bash | Shell |  |  | 363 |
-| **[cdk](https://github.com/linux-do/cdk)** | LINUX DO CD key |  |  |  | 351 |
-| **[PhoneAgent](https://github.com/rounak/PhoneAgent)** |  | Swift |  |  | 317 |
-| **[analysis](https://github.com/teorth/analysis)** | A Lean companion to Analysis I | Lean |  |  | 315 |
+| **[Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025](https://github.com/TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025)** | Telegram Members Adding Software. Scrape more than 10k Telegram members and add members to your group. And many more features. |  |  | <details><summary>adder...</summary><p>adder-telegram, python, tele-members, telegram-bot, telegram-bot-tools, telegram-channel, telegram-channel-scraper, telegram-channel-scrapper, telegram-clone, telegram-forwarder, telegram-group-member-adding, telegram-hack, telegram-member-adder2024, telegram-member-scraper-tool, telegram-message-forwarder, telegram-message-sender, telegram-report-ban-tool, telegram-tool, telegram-tool-2025, telegram-tool-free</p></details> | 552 |
+| **[analysis](https://github.com/teorth/analysis)** | A Lean companion to Analysis I | Lean |  |  | 434 |
+| **[mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk)** | Yes Mcp server in bash | Shell |  |  | 383 |
+| **[PhoneAgent](https://github.com/rounak/PhoneAgent)** |  | Swift |  |  | 364 |
+| **[wordZero](https://github.com/ZeroHawkeye/wordZero)** |  | Go |  |  | 340 |
+| **[mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced)** | Interactive User Feedback MCP | Python |  |  | 338 |
+| **[FakeHTTP](https://github.com/MikeWang000000/FakeHTTP)** | Obfuscate all your TCP connections into HTTP protocol. | C |  | <details><summary>iptab...</summary><p>iptables, netfilter-queue, nfqueue, obfuscation</p></details> | 280 |
 | **[stake-june-monthly-bonus](https://github.com/merlavik08/stake-june-monthly-bonus)** | Stake June Monthly Bonus ! Enjoy a 350% Bonus on Stake, with no wagering requirements . Withdraw your full balance instantly—perfect for maximizing your earnings. Ideal for both new and experienced players looking to increase their bankroll. Don’t miss this exclusive offer! |  |  |  | 274 |
-| **[vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus)** | 44000+ 词汇语料库 | TypeScript |  |  | 274 |
-| **[cheating-daddy](https://github.com/sohzm/cheating-daddy)** | a free and opensource app that lets you gain an unfair advantage | JavaScript |  |  | 224 |
-| **[FakeHTTP](https://github.com/MikeWang000000/FakeHTTP)** | Obfuscate all your TCP connections into HTTP protocol. | C |  | <details><summary>iptab...</summary><p>iptables, netfilter-queue, nfqueue, obfuscation</p></details> | 214 |
-| **[vibetest-use](https://github.com/browser-use/vibetest-use)** |  | Python |  |  | 198 |
-| **[MPWLedClock](https://github.com/lybzzb/MPWLedClock)** | 基于安信可ESP-C3-12F模组，搭配WS2812矩阵灯珠，用于显示当前时间 | Python |  |  | 177 |
-| **[AppRouter](https://github.com/Dimillian/AppRouter)** | A simple router for SwiftUI apps | Swift |  | <details><summary>swift...</summary><p>swift, swiftui</p></details> | 168 |
-| **[nexfaster](https://github.com/rudrodip/nexfaster)** | React Router integration within Next.js for client-side routing | TypeScript |  | <details><summary>nextj...</summary><p>nextjs15, react-router, shadcn-ui</p></details> | 165 |
-| **[Ethereum-Balance-Checkerz](https://github.com/AruzhanleyalessandroovDaQ682/Ethereum-Balance-Checkerz)** | This C# application checks the balances of Ethereum wallet addresses and saves them in the high_balance.txt fil1e if they are above a cerztain amount. |  |  | <details><summary>addre...</summary><p>address-checker, balance, balance-check, balance-checker, bitcoin-address-balances, blockchain, che, cker, crypto, crypto-bot, crypto-checker, cryptocurrency, eth-balance, ethereum, etherum-balance-checker, mnemonic-phrase, private-key, seed, wallet, web3</p></details> | 160 |
-| **[MiMo-VL](https://github.com/XiaomiMiMo/MiMo-VL)** |  |  |  |  | 157 |
-| **[SnitchBench](https://github.com/t3dotgg/SnitchBench)** |  | TypeScript |  |  | 156 |
-| **[punchcard-key-backup](https://github.com/volution/punchcard-key-backup)** | pckb -- backup 128 bits to physical medium | HTML |  | <details><summary>backu...</summary><p>backup, cryptography</p></details> | 152 |
+| **[tpde](https://github.com/tpde2/tpde)** | A fast framework for writing baseline compiler back-ends in C++ | LLVM |  |  | 262 |
+| **[AirPosture](https://github.com/allenv0/AirPosture)** | Turn your AirPods into a posture coach on macOS | Swift |  | <details><summary>airpo...</summary><p>airpods, airpodspro, ios, iosapp, macos, macosapp, swiftui</p></details> | 239 |
+| **[vanta](https://github.com/lixiasky/vanta)** | A lightweight protocol-aware packet analyzer and behavioral exporter. Created as a personal response to global academic freedom challenges. | Go |  | <details><summary>cli-t...</summary><p>cli-tool, go, json, packet-analysis, security, student-project, tls</p></details> | 238 |
+| **[vibetest-use](https://github.com/browser-use/vibetest-use)** |  | Python |  |  | 213 |
+| **[nexfaster](https://github.com/rudrodip/nexfaster)** | React Router integration within Next.js for client-side routing | TypeScript |  | <details><summary>nextj...</summary><p>nextjs15, react-router, shadcn-ui</p></details> | 199 |
+| **[SnitchBench](https://github.com/t3dotgg/SnitchBench)** |  | TypeScript |  |  | 187 |
+| **[AppRouter](https://github.com/Dimillian/AppRouter)** | A simple router for SwiftUI apps | Swift |  | <details><summary>swift...</summary><p>swift, swiftui</p></details> | 183 |
+| **[MiMo-VL](https://github.com/XiaomiMiMo/MiMo-VL)** |  |  |  |  | 183 |
+| **[xhs-toolkit](https://github.com/aki66938/xhs-toolkit)** | 🌺 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具 | Python |  |  | 181 |
+| **[ccusage](https://github.com/ryoppippi/ccusage)** | A CLI tool for analyzing Claude Code usage from local JSONL files. | TypeScript |  |  | 169 |
+| **[garlic](https://github.com/neocanable/garlic)** | Java decompiler written in C | C |  |  | 162 |
+| **[MikeBot](https://github.com/Lewis-Stuart-11/MikeBot)** | Code and explanation for all the models/technologies used in the ComputerPhile MikeBot video |  |  |  | 161 |
 
