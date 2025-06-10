@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-06-09
+Last update: 2025-06-10
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-06-09
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp)** | Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. | TypeScript |  | <details><summary>cloud...</summary><p>cloudflare, mcp</p></details> | 549 |
-| **[Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding)** |  | Python |  |  | 477 |
-| **[tiktok-warmup-bot](https://github.com/l-portet/tiktok-warmup-bot)** | ♨️  Warming up TikTok accounts, one swipe at a time | JavaScript |  |  | 471 |
+| **[supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp)** | Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. | TypeScript |  | <details><summary>cloud...</summary><p>cloudflare, mcp</p></details> | 781 |
+| **[Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding)** |  | Python |  |  | 553 |
+| **[tiktok-warmup-bot](https://github.com/l-portet/tiktok-warmup-bot)** | ♨️  Warming up TikTok accounts, one swipe at a time | JavaScript |  |  | 474 |
 | **[Apex-Cheat](https://github.com/apex-undetected/Apex-Cheat)** | Apex Cheat is an undetected Apex Legends Cheat including Apex Aimbot, ESP overlays, and a full HWID Spoofer. Ideal for personal use and studying how Apex Legends Aimbot systems and cheat tools are built and executed in live environments. | Python |  |  | 337 |
-| **[py-pglite](https://github.com/wey-gu/py-pglite)** | PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite. | Python |  | <details><summary>pglit...</summary><p>pglite, postgres, pytest, python, sqlalchemy, sqlmodel</p></details> | 314 |
-| **[MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)** | A lightweight LMM-based Document Parsing Model | Python |  |  | 271 |
+| **[py-pglite](https://github.com/wey-gu/py-pglite)** | PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite. | Python |  | <details><summary>pglit...</summary><p>pglite, postgres, pytest, python, sqlalchemy, sqlmodel</p></details> | 336 |
+| **[OpenWBT](https://github.com/GalaxyGeneralRobotics/OpenWBT)** | Official implementation of OpenWBT. | Python |  |  | 288 |
+| **[gemini-mcp-server](https://github.com/BeehiveInnovations/gemini-mcp-server)** | The power of Gemini + Claude Code in one. Augments Claude's extended thinking with Gemini's perspective. | Python |  |  | 283 |
+| **[tokasaurus](https://github.com/ScalingIntelligence/tokasaurus)** |  | Python |  |  | 277 |
 | **[warzone-cheat](https://github.com/ElusionCheats/warzone-cheat)** | Warzone Cheat is a powerful and feature-rich educational project designed to demonstrate how cheats can be built for Call of Duty: Warzone. Includes fully functional modules such as Aimbot, ESP, Wallhack, Triggerbot, and No Recoil. Each module is built to be customizable, with code optimized for low latency | Python |  |  | 268 |
-| **[tokasaurus](https://github.com/ScalingIntelligence/tokasaurus)** |  | Python |  |  | 255 |
-| **[KiteAI-Bot](https://github.com/Graveyard-Gravestones/KiteAI-Bot)** | Professional algorithmic trading solution for Kite AI - the decentralized AI prediction market that leverages machine learning to analyze crypto markets and execute high-probability trades automatically. |  |  | <details><summary>airdr...</summary><p>airdrop, bot, kite-ai, kite-ai-bot, kiteai, kiteai-auto-bot, kiteai-automation, kiteai-bot, kiteai-ozone, kiteai-reg, kiteai-register</p></details> | 217 |
-| **[MyGate-Network-Bot](https://github.com/Graveyard-Gravestones/MyGate-Network-Bot)** | The MyGate Network Bot is a professional automation tool designed for the MyGate blockchain gateway protocol. It provides intelligent node management, transaction routing optimization, and real-time network analytics for enterprise-grade gateway operations. |  |  | <details><summary>depin...</summary><p>depin, depin-bot, depined-bot, my-gate, mygate, mygate-auto, mygate-automation, mygate-bot, mygate-network, mygate-network-bot, web3, web3-dapp</p></details> | 214 |
-| **[OpenWBT](https://github.com/GalaxyGeneralRobotics/OpenWBT)** | Official implementation of OpenWBT. | Python |  |  | 213 |
-| **[Openledger-Network-Bot](https://github.com/Graveyard-Gravestones/Openledger-Network-Bot)** | A high-performance automation tool for interacting with the Openledger blockchain network. Designed for traders, developers, and DeFi enthusiasts, this bot streamlines trading, staking, and asset management with secure, low-latency execution. |  |  | <details><summary>bot, ...</summary><p>bot, crypto-tools, openledger, openledger-auto, openledger-auto-bot, openledger-auto-farm, openledger-auto-hearbeat, openledger-bot, openledger-multi-account, openledger-network, openledger-network-bot, openledgerbot</p></details> | 211 |
-| **[SparkChain-Network-Bot](https://github.com/Graveyard-Gravestones/SparkChain-Network-Bot)** | The SparkChain Network Bot is an advanced automation tool designed for the SparkChain blockchain ecosystem, enabling lightning-fast transactions, smart contract automation, and cross-chain interoperability. Built for developers and traders, it offers seamless integration with decentralized applications (dApps) and DeFi protocols. |  |  | <details><summary>bot, ...</summary><p>bot, crypto-bot, sparkchain, sparkchain-airdrop, sparkchain-auto-bot, sparkchain-bot, sparkchain-miner, web3, web3-bot</p></details> | 210 |
-| **[top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)** | go the distance | Shell |  |  | 209 |
-| **[Dragula](https://github.com/mufasaYC/Dragula)** | A delightfully flexible and smooth drag-and-drop Swift package for building reorderable interfaces in SwiftUI | Swift |  |  | 208 |
-| **[Gradient-Network-Bot](https://github.com/Graveyard-Gravestones/Gradient-Network-Bot)** | The Gradient Network Bot is a next-generation automation solution that combines machine learning with blockchain technology to deliver intelligent, adaptive operations across decentralized networks. Designed specifically for the Gradient ecosystem, it offers predictive analytics and self-optimizing transaction routing. |  |  | <details><summary>gradi...</summary><p>gradient-bot, gradient-crypto, gradient-network, gradient-network-autofarming, gradient-network-automated-farming, gradient-network-automatic-registration, gradient-network-autoregistration, gradient-network-bot, gradient-network-bot-github, gradient-network-miner, gradient-network-mining, gradient-network-software, gradient-network-tool, gradient-network-tool-github, gradientnetwork</p></details> | 203 |
-| **[vui](https://github.com/fluxions-ai/vui)** |  | Python |  |  | 201 |
-| **[Gata-Network-Bot](https://github.com/Graveyard-Gravestones/Gata-Network-Bot)** | The Gata Network Bot is a cutting-edge automation solution designed specifically for the Gata blockchain ecosystem. It provides powerful tools for decentralized finance (DeFi) operations, cross-chain asset management, and smart contract interactions with enterprise-grade security. |  |  | <details><summary>gata,...</summary><p>gata, gata-airdrop, gata-auto, gata-auto-bot, gata-autofarm, gata-bot, gata-network, gata-network-auto, gata-network-bot, gata-network-software, gata-tool, gatabot, gataway, gataxyz</p></details> | 200 |
-| **[flux-kontext-template](https://github.com/CharlieLZ/flux-kontext-template)** | 生财有术特供，flux-kontext开源仓库，套壳模板 | TypeScript |  |  | 200 |
-| **[awesome-shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui)** | The largest list online of awesome things related to shadcn/ui |  |  |  | 197 |
+| **[flux-kontext-template](https://github.com/CharlieLZ/flux-kontext-template)** | 生财有术特供，flux-kontext开源仓库，套壳模板 | TypeScript |  |  | 246 |
+| **[rust-cheat](https://github.com/rust-undetected/rust-cheat)** | Rust Cheat is the ultimate tool for Rust players, offering advanced features like Aimbot, Visuals, and Miscellaneous utilities. With compatibility across Windows 10/11, undetected status, and seamless integration, Rust Cheat enhances your gameplay by improving accuracy, awareness, and convenience. Become a pro in Rust with Rust Aimbot! | Python |  |  | 236 |
+| **[vui](https://github.com/fluxions-ai/vui)** |  | Python |  |  | 226 |
+| **[top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)** | go the distance | Shell |  |  | 222 |
+| **[Dragula](https://github.com/mufasaYC/Dragula)** | A delightfully flexible and smooth drag-and-drop Swift package for building reorderable interfaces in SwiftUI | Swift |  |  | 221 |
+| **[nanoMPI](https://github.com/Quentin-Anthony/nanoMPI)** | Simple MPI implementation for prototyping or learning | C |  |  | 204 |
+| **[awesome-shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui)** | The largest list online of awesome things related to shadcn/ui |  |  |  | 201 |
+| **[Skribidi](https://github.com/memononen/Skribidi)** | Nimble bidirectional text stack for UIs | C |  |  | 196 |
+| **[newtowner](https://github.com/assetnote/newtowner)** | Abuse trust-boundaries to bypass firewalls and network controls | Go |  |  | 191 |
+| **[swama](https://github.com/Trans-N-ai/swama)** | High-performance MLX-based LLM inference engine for macOS with native Swift implementation | Swift |  |  | 166 |
+| **[fair-plugin](https://github.com/fairpm/fair-plugin)** | FAIR plugin | PHP |  |  | 155 |
 
