@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-06-12
+Last update: 2025-06-13
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-06-12
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp)** | Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. | TypeScript |  | <details><summary>cloud...</summary><p>cloudflare, mcp</p></details> | 875 |
-| **[liquid-glass-react](https://github.com/rdev/liquid-glass-react)** | Apple's Liquid Glass effect for React | TypeScript |  |  | 686 |
-| **[gemini-mcp-server](https://github.com/BeehiveInnovations/gemini-mcp-server)** | The power of Gemini + Claude Code working as one. Augments Claude's extended thinking with Gemini's perspective. | Python |  |  | 562 |
-| **[OpenWBT](https://github.com/GalaxyGeneralRobotics/OpenWBT)** | Official implementation of OpenWBT. | Python |  |  | 503 |
-| **[liquid-glass-effect-macos](https://github.com/lucasromerodb/liquid-glass-effect-macos)** | Demo here | HTML |  |  | 441 |
-| **[flux-kontext-template](https://github.com/CharlieLZ/flux-kontext-template)** | 生财有术特供，flux-kontext开源仓库，套壳模板 | TypeScript |  |  | 408 |
-| **[multigres](https://github.com/multigres/multigres)** | Vitess for Postgres |  |  |  | 369 |
-| **[Self-Forcing](https://github.com/guandeh17/Self-Forcing)** |  | Python |  |  | 361 |
-| **[Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool)** |  | Batchfile |  |  | 325 |
-| **[PartCrafter](https://github.com/wgsxm/PartCrafter)** | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers |  |  | <details><summary>3d, 3...</summary><p>3d, 3d-generation, 3d-object-generation, 3d-object-reconstruction, 3d-reconstruction, 3d-scene-generation, 3d-scene-reconstruction, image-to-3d</p></details> | 297 |
-| **[paws-on-mcp](https://github.com/hemanth/paws-on-mcp)** | A comprehensive Model Context Protocol (MCP) server implementing the latest specification. | Python |  |  | 255 |
-| **[Dragula](https://github.com/mufasaYC/Dragula)** | A delightfully flexible and smooth drag-and-drop Swift package for building reorderable interfaces in SwiftUI | Swift |  |  | 238 |
-| **[free-cursor](https://github.com/zhaijie1314521/free-cursor)** | 世面上唯一一款免费、无需任何梯子环境、虚拟机环境、浏览器环境旧能保持cursor pro试用永久不掉的软件 |  |  |  | 238 |
+| **[OpenList](https://github.com/OpenListTeam/OpenList)** | A new AList Fork to Anti Trust Crisis | Go |  | alist | 1706 |
+| **[shit](https://github.com/AasishPokhrel/shit)** |  |  |  |  | 1693 |
+| **[liquid-glass-react](https://github.com/rdev/liquid-glass-react)** | Apple's Liquid Glass effect for React | TypeScript |  |  | 1164 |
+| **[zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)** | The power of Claude Code + [Gemini Pro / Flash / O3 / O3-Mini / All Of The Above] working as one. | Python |  |  | 1056 |
+| **[supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp)** | Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. | TypeScript |  | <details><summary>cloud...</summary><p>cloudflare, mcp</p></details> | 890 |
+| **[Self-Forcing](https://github.com/guandeh17/Self-Forcing)** |  | Python |  |  | 610 |
+| **[PartCrafter](https://github.com/wgsxm/PartCrafter)** | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers |  |  | <details><summary>3d, 3...</summary><p>3d, 3d-generation, 3d-object-generation, 3d-object-reconstruction, 3d-reconstruction, 3d-scene-generation, 3d-scene-reconstruction, image-to-3d</p></details> | 534 |
+| **[multigres](https://github.com/multigres/multigres)** | Vitess for Postgres |  |  |  | 498 |
+| **[liquid-glass-effect-macos](https://github.com/lucasromerodb/liquid-glass-effect-macos)** | Demo here | HTML |  |  | 492 |
+| **[Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool)** |  | Batchfile |  |  | 445 |
+| **[liquid-glass](https://github.com/shuding/liquid-glass)** |  | JavaScript |  |  | 371 |
+| **[paws-on-mcp](https://github.com/hemanth/paws-on-mcp)** | A comprehensive Model Context Protocol (MCP) server implementing the latest specification. | Python |  |  | 280 |
+| **[free-cursor](https://github.com/zhaijie1314521/free-cursor)** | 世面上唯一一款免费、无需任何梯子环境、虚拟机环境、浏览器环境旧能保持cursor pro试用永久不掉的软件 |  |  |  | 269 |
+| **[nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)** | Nano vLLM | Python |  |  | 266 |
+| **[nlist](https://github.com/NodeSeekDev/nlist)** |  | Go |  |  | 259 |
 | **[top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)** | go the distance | Shell |  |  | 234 |
-| **[liquid-glass](https://github.com/shuding/liquid-glass)** |  | JavaScript |  |  | 204 |
-| **[nlist](https://github.com/NodeSeekDev/nlist)** |  | Go |  |  | 200 |
-| **[laravel-zap](https://github.com/ludoguenet/laravel-zap)** | Lightning-fast schedule management for Laravel | PHP |  |  | 189 |
-| **[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication)** |  | Shell |  |  | 189 |
-| **[switch2-SDEX2M2](https://github.com/NVNTLabs/switch2-SDEX2M2)** | Micro SD Express to M.2 NVME Adapter for Nintendo Switch 2 |  |  | <details><summary>micro...</summary><p>microsd, nintendo, nintendo-switch, nintendo-switch-hacking, nvme, switch-2, switch2</p></details> | 188 |
-| **[shit](https://github.com/AasishPokhrel/shit)** |  |  |  |  | 188 |
+| **[landing-gta-vi](https://github.com/midudev/landing-gta-vi)** | Landing page de GTA VI para fines educativos | Astro |  |  | 226 |
+| **[laravel-zap](https://github.com/ludoguenet/laravel-zap)** | Lightning-fast schedule management for Laravel | PHP |  |  | 220 |
+| **[switch2-SDEX2M2](https://github.com/NVNTLabs/switch2-SDEX2M2)** | Micro SD Express to M.2 NVME Adapter for Nintendo Switch 2 |  |  | <details><summary>micro...</summary><p>microsd, nintendo, nintendo-switch, nintendo-switch-hacking, nvme, switch-2, switch2</p></details> | 218 |
+| **[Claude-Code-Communication](https://github.com/nishimoto265/Claude-Code-Communication)** |  | Shell |  |  | 217 |
 
