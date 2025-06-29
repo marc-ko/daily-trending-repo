@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-06-28
+Last update: 2025-06-29
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-06-28
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[OpenCut](https://github.com/OpenCut-app/OpenCut)** | The open-source CapCut alternative | TypeScript |  | <details><summary>edito...</summary><p>editor, oss, videoeditor</p></details> | 5907 |
-| **[SuperClaude](https://github.com/NomenAK/SuperClaude)** | A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. | Shell |  |  | 3878 |
-| **[Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions](https://github.com/TgSurfer/Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions)** | Telegram Members Adding Software/Script for free. Scrape more than 10k Telegram members and add members to your group. | Python |  | <details><summary>adder...</summary><p>adder, adder-telegram, members-adding-scri, tele-members, telegram-bot, telegram-bot-tools, telegram-channel, telegram-channel-scraper, telegram-channel-scrapper, telegram-clone, telegram-forwarder, telegram-group-member-adding, telegram-hack, telegram-member-adder2024, telegram-member-scraper-tool, telegram-message-forwarder, telegram-message-sender, telegram-report-ban-tool, telegram-tool, telegram-tool-free</p></details> | 657 |
-| **[dxt](https://github.com/anthropics/dxt)** | Desktop Extensions: One-click local MCP server installation in desktop apps | TypeScript |  |  | 324 |
-| **[Keye](https://github.com/Kwai-Keye/Keye)** |  | Python |  |  | 304 |
-| **[zenta](https://github.com/e6a5/zenta)** | zenta - mindfulness for terminal users 🧘‍♂️ | Go |  |  | 282 |
-| **[Dark-Transparent-Tablet-Dashboard](https://github.com/reylinux/Dark-Transparent-Tablet-Dashboard)** | A sleek, dark-themed tablet layout that I currently use.  Please note: I don’t claim ownership of some of the code used in this setup. If you recognize your work here, let me know — I’ll be more than happy to credit you properly in the Credits section. |  |  |  | 229 |
-| **[xslt](https://github.com/pacocoursey/xslt)** | Native web build system (XML+XSLT) | XSLT |  |  | 222 |
-| **[snapai](https://github.com/betomoedano/snapai)** | AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models. | TypeScript |  | <details><summary>ai, c...</summary><p>ai, cli, developer-tools, expo, icon-generator, openai, react-native</p></details> | 215 |
-| **[LINO_UniPS](https://github.com/houyuanchen111/LINO_UniPS)** |  | Python |  |  | 212 |
-| **[meanflow](https://github.com/Gsunshine/meanflow)** | JAX implementation of MeanFlow | Python |  |  | 189 |
-| **[Free-Cursor](https://github.com/dulikaifazr/Free-Cursor)** | 世面上唯一一款免费、无需任何梯子环境、虚拟机环境、浏览器环境就能保持cursor pro试用状态的软件 |  |  | <details><summary>curso...</summary><p>cursor, free, freetrial, pro</p></details> | 166 |
-| **[typr](https://github.com/Sakura-sx/typr)** | TUI typing test with a word selection algorithm inspired by keybr | Python |  | <details><summary>pytho...</summary><p>python, tui, typing, typing-game, typing-practice</p></details> | 159 |
-| **[claude-on-rails](https://github.com/obie/claude-on-rails)** | A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude | Ruby |  |  | 158 |
-| **[CRATES](https://github.com/DocAMYMEI/CRATES)** | Crypto & Cross‑Asset Event Study Toolkit — Cross‑Asset Event Study Analysis Repository | Jupyter Notebook |  |  | 156 |
-| **[FoundationChat](https://github.com/Dimillian/FoundationChat)** | A chat app with iOS 26 Foundation Models | Swift |  | <details><summary>ai, f...</summary><p>ai, foundation-models, swift, swiftui</p></details> | 153 |
-| **[oh-my-logo](https://github.com/shinshin86/oh-my-logo)** | Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI. | TypeScript |  | <details><summary>ascii...</summary><p>ascii, ascii-art, cli, logo</p></details> | 141 |
-| **[DreamLayer](https://github.com/DreamLayer-AI/DreamLayer)** | Most intuitive Stable Diffusion WebUI for AI artists, developers & researchers |  |  | <details><summary>ai-ar...</summary><p>ai-art, comfyui, diffusion-models, generative-ai, image-generation, stable-diffusion, stable-diffusion-webui</p></details> | 136 |
-| **[claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy)** | Claude Code to OpenAI API Proxy | Python |  |  | 135 |
-| **[ShareGPT-4o-Image](https://github.com/FreedomIntelligence/ShareGPT-4o-Image)** |  |  |  |  | 131 |
+| **[Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions](https://github.com/TgSurfer/Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions)** | Telegram Members Adding Software/Script for free. Scrape more than 10k Telegram members and add members to your group. | Python |  | <details><summary>adder...</summary><p>adder, adder-telegram, members-adding-scri, tele-members, telegram-bot, telegram-bot-tools, telegram-channel, telegram-channel-scraper, telegram-channel-scrapper, telegram-clone, telegram-forwarder, telegram-group-member-adding, telegram-hack, telegram-member-adder2024, telegram-member-scraper-tool, telegram-message-forwarder, telegram-message-sender, telegram-report-ban-tool, telegram-tool, telegram-tool-free</p></details> | 730 |
+| **[claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder)** |  |  |  |  | 507 |
+| **[dxt](https://github.com/anthropics/dxt)** | Desktop Extensions: One-click local MCP server installation in desktop apps | TypeScript |  |  | 397 |
+| **[zenta](https://github.com/e6a5/zenta)** | zenta - mindfulness for terminal users 🧘‍♂️ | Go |  |  | 337 |
+| **[Keye](https://github.com/Kwai-Keye/Keye)** |  | Python |  |  | 308 |
+| **[xslt](https://github.com/pacocoursey/xslt)** | Native web build system (XML+XSLT) | XSLT |  |  | 249 |
+| **[Dark-Transparent-Tablet-Dashboard](https://github.com/reylinux/Dark-Transparent-Tablet-Dashboard)** | A sleek, dark-themed tablet layout that I currently use.  Please note: I don’t claim ownership of some of the code used in this setup. If you recognize your work here, let me know — I’ll be more than happy to credit you properly in the Credits section. |  |  |  | 236 |
+| **[Hunyuan-A13B](https://github.com/Tencent-Hunyuan/Hunyuan-A13B)** | Tencent Hunyuan A13B (short as Hunyuan-A13B), an innovative and open-source LLM built on a fine-grained MoE architecture. | Python |  |  | 216 |
+| **[warzone-cheats](https://github.com/cheats-warzone/warzone-cheats)** | Warzone Cheat: Unlock your full potential with this undetected Aimbot features. Featuring the most advanced Warzone Aimbot, ESP, Radar, Skinchanger, and Unlock All Tool. Dominate every lobby with safe, precise, and user-friendly enhancements. Join thousands of players upgrading their Warzone experience. | C++ |  |  | 197 |
+| **[MultiAgentPPT](https://github.com/johnson7788/MultiAgentPPT)** | MultiAgentPPT 是一个集成了 A2A（Ask-to-Answer）+ MCP（Multi-agent Control Protocol）+ ADK（Agent Development Kit） 架构的智能化演示文稿生成系统，支持通过多智能体协作和流式并发机制 | Python |  |  | 195 |
+| **[meanflow](https://github.com/Gsunshine/meanflow)** | JAX implementation of MeanFlow | Python |  |  | 193 |
+| **[claude-on-rails](https://github.com/obie/claude-on-rails)** | A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude | Ruby |  |  | 181 |
+| **[DeepWism-R2](https://github.com/DeepWism/DeepWism-R2)** | DeepWism R2 is a next-generation AGI system built on the T3CEDS framework (Thin-Thick-Thin Crowd Entropy Dynamics System), which redefines intelligence as a process of entropy reduction rather than attention modeling. |  |  |  | 178 |
+| **[ApexUltimateSoftware](https://github.com/apex-legend-cheat/ApexUltimateSoftware)** | Apex Cheat is a powerful, undetected toolset for serious players looking to improve their performance in Apex Legends. With customizable features like aimbot, ESP, and triggerbot, this Apex Legends cheat helps you stay ahead without compromising stealth or control. Perfect for competitive players who want an edge | C++ |  |  | 175 |
+| **[FoundationChat](https://github.com/Dimillian/FoundationChat)** | A chat app with iOS 26 Foundation Models | Swift |  | <details><summary>ai, f...</summary><p>ai, foundation-models, swift, swiftui</p></details> | 163 |
+| **[oh-my-logo](https://github.com/shinshin86/oh-my-logo)** | Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI. | TypeScript |  | <details><summary>ascii...</summary><p>ascii, ascii-art, cli, logo</p></details> | 159 |
+| **[Sketech](https://github.com/SketechWorld/Sketech)** |  |  |  |  | 158 |
+| **[workflow-comfyui-single-image-to-lora-flux](https://github.com/lovisdotio/workflow-comfyui-single-image-to-lora-flux)** | Single image to Lora Model for Flux in ComfyUI using Llm and Flux Kontext |  |  |  | 130 |
+| **[rust-security-handbook](https://github.com/yevh/rust-security-handbook)** | A 10-chapter handbook for writing actually secure Rust: type-safety, panic-proofing & more. |  |  | <details><summary>rust,...</summary><p>rust, security</p></details> | 119 |
+| **[hypnus](https://github.com/joaoviictorti/hypnus)** | Memory Obfuscation in Rust | Rust |  | <details><summary>obfus...</summary><p>obfuscation, offensive-security, rust, windows</p></details> | 110 |
 
