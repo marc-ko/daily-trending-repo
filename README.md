@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-07-02
+Last update: 2025-07-03
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-07-02
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[OpenFLOW](https://github.com/stan-smith/OpenFLOW)** | Make beautiful isometric infrastructure diagrams | TypeScript |  | <details><summary>devop...</summary><p>devops, infra, infrastructure</p></details> | 1251 |
-| **[claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder)** |  |  |  |  | 846 |
-| **[dxt](https://github.com/anthropics/dxt)** | Desktop Extensions: One-click local MCP server installation in desktop apps | TypeScript |  |  | 642 |
-| **[Hunyuan-A13B](https://github.com/Tencent-Hunyuan/Hunyuan-A13B)** | Tencent Hunyuan A13B (short as Hunyuan-A13B), an innovative and open-source LLM built on a fine-grained MoE architecture. | Python |  |  | 487 |
-| **[reviewit](https://github.com/yoshiko-pg/reviewit)** | A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view | TypeScript |  |  | 485 |
-| **[ccseva](https://github.com/Iamshankhadeep/ccseva)** |  | TypeScript |  |  | 474 |
-| **[zenta](https://github.com/e6a5/zenta)** | zenta - mindfulness for terminal users 🧘‍♂️ | Go |  |  | 385 |
-| **[wayback](https://github.com/kaniini/wayback)** | experimental X11 compatibility layer | C |  |  | 382 |
-| **[PosterCraft](https://github.com/MeiGen-AI/PosterCraft)** | Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework | Python |  |  | 310 |
-| **[Context-Engineering](https://github.com/davidkimai/Context-Engineering)** | "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. | Python |  |  | 279 |
-| **[Mev-Trading-Bot](https://github.com/Tevrinodt6aXTD/Mev-Trading-Bot)** | My Local MEV Trading Bot.Use CodePen to run it. | HTML |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, front-running, mempool, metamask, mev, sandwich-attacks, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 272 |
-| **[xslt](https://github.com/pacocoursey/xslt)** | Native web build system (XML+XSLT) | XSLT |  |  | 266 |
-| **[claude-on-rails](https://github.com/obie/claude-on-rails)** | A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude | Ruby |  |  | 234 |
-| **[Gift-Buyer-Tg](https://github.com/LLMotion/Gift-Buyer-Tg)** | A universal bot for automatically sniping and purchasing Telegram gifts, with many useful features | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-sniper, telegram-gifts, tg-bot, tg-gifts</p></details> | 216 |
-| **[ICMPTunnel](https://github.com/Qteam-official/ICMPTunnel)** |  | Shell |  |  | 213 |
-| **[XVerse](https://github.com/bytedance/XVerse)** | Official implementation of "XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation". | Python |  | research | 205 |
-| **[oh-my-logo](https://github.com/shinshin86/oh-my-logo)** | Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI. | TypeScript |  | <details><summary>ascii...</summary><p>ascii, ascii-art, cli, logo</p></details> | 199 |
-| **[Sketech](https://github.com/SketechWorld/Sketech)** |  |  |  |  | 189 |
-| **[workflow-comfyui-single-image-to-lora-flux](https://github.com/lovisdotio/workflow-comfyui-single-image-to-lora-flux)** | Single image to Lora Model for Flux in ComfyUI using Llm and Flux Kontext |  |  |  | 183 |
-| **[huawei-od-active-manage](https://github.com/Younghusband/huawei-od-active-manage)** | 华为式主动管理 |  |  |  | 175 |
+| **[FossFLOW](https://github.com/stan-smith/FossFLOW)** | Make beautiful isometric infrastructure diagrams | TypeScript |  | <details><summary>devop...</summary><p>devops, infra, infrastructure</p></details> | 1948 |
+| **[claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder)** |  |  |  |  | 897 |
+| **[reviewit](https://github.com/yoshiko-pg/reviewit)** | A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view | TypeScript |  |  | 543 |
+| **[Context-Engineering](https://github.com/davidkimai/Context-Engineering)** | "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. | Python |  |  | 540 |
+| **[Hunyuan-A13B](https://github.com/Tencent-Hunyuan/Hunyuan-A13B)** | Tencent Hunyuan A13B (short as Hunyuan-A13B), an innovative and open-source LLM built on a fine-grained MoE architecture. | Python |  |  | 526 |
+| **[wayback](https://github.com/kaniini/wayback)** | experimental X11 compatibility layer | C |  |  | 422 |
+| **[GLM-4.1V-Thinking](https://github.com/THUDM/GLM-4.1V-Thinking)** | GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning. | Python |  | <details><summary>image...</summary><p>image2text, reasoning, video-understanding, vlm</p></details> | 395 |
+| **[PosterCraft](https://github.com/MeiGen-AI/PosterCraft)** | Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework | Python |  |  | 374 |
+| **[huawei-od-active-manage](https://github.com/Younghusband/huawei-od-active-manage)** | 华为式主动管理 |  |  |  | 352 |
+| **[Mev-Trading-Bot](https://github.com/Tevrinodt6aXTD/Mev-Trading-Bot)** | My Local MEV Trading Bot.Use CodePen to run it. | HTML |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, front-running, mempool, metamask, mev, sandwich-attacks, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 273 |
+| **[ICMPTunnel](https://github.com/Qteam-official/ICMPTunnel)** |  | Shell |  |  | 239 |
+| **[Gift-Buyer-Tg](https://github.com/LLMotion/Gift-Buyer-Tg)** | A universal bot for automatically sniping and purchasing Telegram gifts, with many useful features | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-sniper, telegram-gifts, tg-bot, tg-gifts</p></details> | 217 |
+| **[workflow-comfyui-single-image-to-lora-flux](https://github.com/lovisdotio/workflow-comfyui-single-image-to-lora-flux)** | Single image to Lora Model for Flux in ComfyUI using Llm and Flux Kontext |  |  |  | 198 |
+| **[Telegram-Members-Adder-Forwarder-Scraper-Much-More](https://github.com/Coder4TG/Telegram-Members-Adder-Forwarder-Scraper-Much-More)** | Telegram marketing tool with over 43 stunning features! Scrape members, add members to groups, send messages to members, forward messages and much more! No coding skills required, easy to use, updated to the newest state of 2025. | Python |  | <details><summary>adder...</summary><p>adder, adder-telegram, tele-members, telegram-bot, telegram-bot-tools, telegram-channel, telegram-channel-scraper, telegram-channel-scrapper, telegram-clone, telegram-ecommerce, telegram-forwarder, telegram-group-member-adding, telegram-hack, telegram-member-adder2024, telegram-member-adder2025, telegram-member-scraper-tool, telegram-message-forwarder, telegram-message-sender, telegram-report-ban-tool, telegram-tool</p></details> | 180 |
+| **[freenet](https://github.com/sajjadabd/freenet)** | connect freely to the internet | Python |  |  | 178 |
+| **[ml-diffucoder](https://github.com/apple/ml-diffucoder)** | DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation | Python |  |  | 161 |
+| **[r6-cheat](https://github.com/r6-cheat/r6-cheat)** | R6 Cheat is the ultimate undetected solution for Rainbow Six Siege, featuring a powerful R6S aimbot, detailed R6S ESP, and advanced R6S wallhack. With streamproof mode, no recoil, and HWID spoofer, our R6S cheats give you a safe, high-performance edge in every match customizable and easy to use. | C++ |  |  | 142 |
+| **[l0](https://github.com/cmriat/l0)** | A scalable, end-to-end training pipeline for general-purpose agents | Python |  |  | 131 |
+| **[4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home)** | The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy. | JavaScript |  |  | 129 |
+| **[o3-search-mcp](https://github.com/yoshiko-pg/o3-search-mcp)** | MCP server for OpenAI o3 web search | JavaScript |  | <details><summary>ai, c...</summary><p>ai, claude, llm, o3, search</p></details> | 127 |
 
