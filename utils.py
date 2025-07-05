@@ -1,5 +1,4 @@
 import os
-from dotenv import load_dotenv
     
 import pytz
 from openai import OpenAI
@@ -12,7 +11,6 @@ import base64
 
 def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[str, str]]:
     day_diff = (datetime.now() - timedelta(days=days)).strftime('%Y-%m-%d')
-    load_dotenv()
 
     # API endpoint and parameters
     url = 'https://api.github.com/search/repositories'
@@ -142,7 +140,6 @@ def get_daily_date():
     today = datetime.now(hongkong_timezone)
     return today.strftime("%B %d, %Y")
 def query_ai(query: str, model: str = "gpt-4o-mini") -> str:
-    load_dotenv()
     # query the AI with a specified system role
     system_role = "You are a helpful assistant that ONLY summarizes the content of the GitHub repository by seeing the README.md file. You MUST be CONCISE and to the point by ONE sentence and within 20 WORDS ONLY. PLEASE BE CONCISE. You MUST NOT include any other information in your response except the summary."
 
