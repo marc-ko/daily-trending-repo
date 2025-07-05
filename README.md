@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-07-04
+Last update: 2025-07-05
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-07-04
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[FossFLOW](https://github.com/stan-smith/FossFLOW)** | Make beautiful isometric infrastructure diagrams | TypeScript |  | <details><summary>devop...</summary><p>devops, infra, infrastructure</p></details> | 3018 |
-| **[glass](https://github.com/pickle-com/glass)** |  | JavaScript |  |  | 1276 |
-| **[Context-Engineering](https://github.com/davidkimai/Context-Engineering)** | "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. | Python |  |  | 722 |
-| **[reviewit](https://github.com/yoshiko-pg/reviewit)** | A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view | TypeScript |  |  | 577 |
-| **[GLM-4.1V-Thinking](https://github.com/THUDM/GLM-4.1V-Thinking)** | GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning. | Python |  | <details><summary>image...</summary><p>image2text, reasoning, video-understanding, vlm</p></details> | 515 |
-| **[PosterCraft](https://github.com/MeiGen-AI/PosterCraft)** | Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework | Python |  |  | 480 |
-| **[context-engineering-intro](https://github.com/coleam00/context-engineering-intro)** | Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant! |  |  |  | 450 |
-| **[wayback](https://github.com/kaniini/wayback)** | experimental X11 compatibility layer | C |  |  | 450 |
-| **[huawei-od-active-manage](https://github.com/Younghusband/huawei-od-active-manage)** | 华为式主动管理 |  |  |  | 416 |
-| **[ml-diffucoder](https://github.com/apple/ml-diffucoder)** | DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation | Python |  |  | 317 |
-| **[Mev-Trading-Bot](https://github.com/Tevrinodt6aXTD/Mev-Trading-Bot)** | My Local MEV Trading Bot.Use CodePen to run it. | HTML |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, front-running, mempool, metamask, mev, sandwich-attacks, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 274 |
-| **[4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home)** | The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy. | JavaScript |  |  | 269 |
-| **[freenet](https://github.com/sajjadabd/freenet)** | connect freely to the internet | Python |  |  | 266 |
-| **[Telegram-Members-Adder-Forwarder-Scraper-Much-More](https://github.com/Coder4TG/Telegram-Members-Adder-Forwarder-Scraper-Much-More)** | Telegram marketing tool with over 43 stunning features! Scrape members, add members to groups, send messages to members, forward messages and much more! No coding skills required, easy to use, updated to the newest state of 2025. | Python |  | <details><summary>adder...</summary><p>adder, adder-telegram, tele-members, telegram-bot, telegram-bot-tools, telegram-channel, telegram-channel-scraper, telegram-channel-scrapper, telegram-clone, telegram-ecommerce, telegram-forwarder, telegram-group-member-adding, telegram-hack, telegram-member-adder2024, telegram-member-adder2025, telegram-member-scraper-tool, telegram-message-forwarder, telegram-message-sender, telegram-report-ban-tool, telegram-tool</p></details> | 265 |
-| **[ICMPTunnel](https://github.com/Qteam-official/ICMPTunnel)** |  | Shell |  |  | 257 |
-| **[gmailtail](https://github.com/c4pt0r/gmailtail)** | tail -f your gmail | Python |  |  | 256 |
-| **[Immortal-spoofer](https://github.com/Perezwell954/Immortal-spoofer)** | Advanced hwid spoofer - changer for many games, free to use! |  |  | hwid | 232 |
-| **[ZSim](https://github.com/ZZZSimulator/ZSim)** | 绝区零模拟仿真程序，可使用定制化手法，计算伤害。 | Python |  |  | 191 |
-| **[gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)** | MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding | JavaScript |  | <details><summary>ai, c...</summary><p>ai, claude, cli, codebase-analysis, file-analysis, gemini, mcp, model-context-protocol, npm, typescript</p></details> | 150 |
-| **[LLM-Fingerprint](https://github.com/HonestAGI/LLM-Fingerprint)** | Our paper about robust LLM fingerprints. |  |  |  | 148 |
+| **[FossFLOW](https://github.com/stan-smith/FossFLOW)** | Make beautiful isometric infrastructure diagrams | TypeScript |  | <details><summary>devop...</summary><p>devops, infra, infrastructure</p></details> | 3683 |
+| **[glass](https://github.com/pickle-com/glass)** |  | JavaScript |  |  | 2224 |
+| **[Context-Engineering](https://github.com/davidkimai/Context-Engineering)** | "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. | Python |  |  | 877 |
+| **[context-engineering-intro](https://github.com/coleam00/context-engineering-intro)** | Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant! |  |  |  | 665 |
+| **[reviewit](https://github.com/yoshiko-pg/reviewit)** | A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view | TypeScript |  |  | 607 |
+| **[PosterCraft](https://github.com/MeiGen-AI/PosterCraft)** | Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework | Python |  |  | 498 |
+| **[huawei-od-active-manage](https://github.com/Younghusband/huawei-od-active-manage)** | 华为式主动管理 |  |  |  | 426 |
+| **[ZSim](https://github.com/ZZZSimulator/ZSim)** | 绝区零模拟仿真程序，可使用定制化手法，计算伤害。 | Python |  |  | 392 |
+| **[ml-diffucoder](https://github.com/apple/ml-diffucoder)** | DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation | Python |  |  | 387 |
+| **[postcard](https://github.com/contraptionco/postcard)** | Personal website + newsletter as an alternative to social media. | Ruby |  |  | 347 |
+| **[freenet](https://github.com/sajjadabd/freenet)** | connect freely to the internet | Python |  |  | 293 |
+| **[gmailtail](https://github.com/c4pt0r/gmailtail)** | tail -f your gmail | Python |  |  | 287 |
+| **[Mev-Trading-Bot](https://github.com/Tevrinodt6aXTD/Mev-Trading-Bot)** | My Local MEV Trading Bot.Use CodePen to run it. | HTML |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, front-running, mempool, metamask, mev, sandwich-attacks, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 276 |
+| **[gremllm](https://github.com/awwaiid/gremllm)** | A slight upgrade to the Gremlins in your code | Python |  |  | 235 |
+| **[CVE-2025-32463_chwoot](https://github.com/pr0v3rbs/CVE-2025-32463_chwoot)** | sudo Local Privilege Escalation CVE-2025-32463 | Shell |  |  | 176 |
+| **[homeassistant-frosted-glass-themes](https://github.com/wessamlauf/homeassistant-frosted-glass-themes)** | Frosted Glass Theme for Home Assistant - Light and Dark version |  |  |  | 175 |
+| **[gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)** | MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding | JavaScript |  | <details><summary>ai, c...</summary><p>ai, claude, cli, codebase-analysis, file-analysis, gemini, mcp, model-context-protocol, npm, typescript</p></details> | 173 |
+| **[treequest](https://github.com/SakanaAI/treequest)** | A Tree Search Library with Flexible API for LLM Inference-Time Scaling | Python |  |  | 163 |
+| **[AI-Trading-Bot](https://github.com/470WALI/AI-Trading-Bot)** | TradeMaster AI: A revolutionary, hands-free trading platform for Ethereum and Binance Smart Chain. Harnesses innovative arbitrage, momentum, and range-bound strategies with a sleek interface. Lowers transaction costs and defends against MEV threats.  |  |  | <details><summary>ai-tr...</summary><p>ai-trading, blockchain, bot, crypto, crypto-bot, crypto-trading-bot, cryptocurrency, dex, eth, ethereum, evm, mempool, mev, solana-snipe-bot, solidity, trade-bot, trading, trading-bot, trading-strategies, tradingbot</p></details> | 146 |
+| **[Academic-LaTeX-Writing-Submission-Checklist-](https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-)** | This checklist is designed to help you systematically prepare and polish academic papers for top conferences and journals (e.g., ICML, NeurIPS, CVPR). It incorporates widely recommended best practices, formatting standards, and common reviewer expectations. |  |  |  | 131 |
 
