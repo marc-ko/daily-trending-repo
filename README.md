@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-07-05
+Last update: 2025-07-06
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-07-05
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[FossFLOW](https://github.com/stan-smith/FossFLOW)** | Make beautiful isometric infrastructure diagrams | TypeScript |  | <details><summary>devop...</summary><p>devops, infra, infrastructure</p></details> | 3683 |
-| **[glass](https://github.com/pickle-com/glass)** |  | JavaScript |  |  | 2224 |
-| **[Context-Engineering](https://github.com/davidkimai/Context-Engineering)** | "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. | Python |  |  | 877 |
-| **[context-engineering-intro](https://github.com/coleam00/context-engineering-intro)** | Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant! |  |  |  | 665 |
-| **[reviewit](https://github.com/yoshiko-pg/reviewit)** | A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view | TypeScript |  |  | 607 |
-| **[PosterCraft](https://github.com/MeiGen-AI/PosterCraft)** | Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework | Python |  |  | 498 |
-| **[huawei-od-active-manage](https://github.com/Younghusband/huawei-od-active-manage)** | 华为式主动管理 |  |  |  | 426 |
-| **[ZSim](https://github.com/ZZZSimulator/ZSim)** | 绝区零模拟仿真程序，可使用定制化手法，计算伤害。 | Python |  |  | 392 |
-| **[ml-diffucoder](https://github.com/apple/ml-diffucoder)** | DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation | Python |  |  | 387 |
-| **[postcard](https://github.com/contraptionco/postcard)** | Personal website + newsletter as an alternative to social media. | Ruby |  |  | 347 |
-| **[freenet](https://github.com/sajjadabd/freenet)** | connect freely to the internet | Python |  |  | 293 |
-| **[gmailtail](https://github.com/c4pt0r/gmailtail)** | tail -f your gmail | Python |  |  | 287 |
+| **[FossFLOW](https://github.com/stan-smith/FossFLOW)** | Make beautiful isometric infrastructure diagrams | TypeScript |  | <details><summary>devop...</summary><p>devops, infra, infrastructure</p></details> | 3779 |
+| **[glass](https://github.com/pickle-com/glass)** |  | JavaScript |  |  | 2890 |
+| **[context-engineering-intro](https://github.com/coleam00/context-engineering-intro)** | Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant! |  |  |  | 1012 |
+| **[gemini-bball](https://github.com/farzaa/gemini-bball)** |  | Python |  |  | 625 |
+| **[PosterCraft](https://github.com/MeiGen-AI/PosterCraft)** | Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework | Python |  |  | 505 |
+| **[ZSim](https://github.com/ZZZSimulator/ZSim)** | 绝区零模拟仿真程序，可使用定制化手法，计算伤害。 | Python |  |  | 485 |
+| **[gremllm](https://github.com/awwaiid/gremllm)** | A slight upgrade to the Gremlins in your code | Python |  |  | 437 |
+| **[huawei-od-active-manage](https://github.com/Younghusband/huawei-od-active-manage)** | 华为式主动管理 |  |  |  | 433 |
+| **[ml-diffucoder](https://github.com/apple/ml-diffucoder)** | DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation | Python |  |  | 432 |
+| **[postcard](https://github.com/contraptionco/postcard)** | Personal website + newsletter as an alternative to social media. | Ruby |  |  | 421 |
+| **[freenet](https://github.com/sajjadabd/freenet)** | connect freely to the internet | Python |  |  | 320 |
+| **[gmailtail](https://github.com/c4pt0r/gmailtail)** | tail -f your gmail | Python |  |  | 316 |
 | **[Mev-Trading-Bot](https://github.com/Tevrinodt6aXTD/Mev-Trading-Bot)** | My Local MEV Trading Bot.Use CodePen to run it. | HTML |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, front-running, mempool, metamask, mev, sandwich-attacks, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 276 |
-| **[gremllm](https://github.com/awwaiid/gremllm)** | A slight upgrade to the Gremlins in your code | Python |  |  | 235 |
-| **[CVE-2025-32463_chwoot](https://github.com/pr0v3rbs/CVE-2025-32463_chwoot)** | sudo Local Privilege Escalation CVE-2025-32463 | Shell |  |  | 176 |
-| **[homeassistant-frosted-glass-themes](https://github.com/wessamlauf/homeassistant-frosted-glass-themes)** | Frosted Glass Theme for Home Assistant - Light and Dark version |  |  |  | 175 |
-| **[gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool)** | MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding | JavaScript |  | <details><summary>ai, c...</summary><p>ai, claude, cli, codebase-analysis, file-analysis, gemini, mcp, model-context-protocol, npm, typescript</p></details> | 173 |
-| **[treequest](https://github.com/SakanaAI/treequest)** | A Tree Search Library with Flexible API for LLM Inference-Time Scaling | Python |  |  | 163 |
+| **[homeassistant-frosted-glass-themes](https://github.com/wessamlauf/homeassistant-frosted-glass-themes)** | Frosted Glass Theme for Home Assistant - Light and Dark version |  |  |  | 222 |
+| **[tower-of-time-game](https://github.com/maciej-trebacz/tower-of-time-game)** | Vibe coded Tower Defense type of game made for a game jam | TypeScript |  |  | 191 |
+| **[CVE-2025-32463_chwoot](https://github.com/pr0v3rbs/CVE-2025-32463_chwoot)** | Escalation of Privilege to the root through sudo binary with chroot option. CVE-2025-32463 | Shell |  | <details><summary>docke...</summary><p>docker, docker-container, docker-image, eop, escalate-privilages, exploit, linux, lpe, poc, privilege-escalation, privilege-escalation-exploits, proof-of-concept, proof-of-work, scanner, sudo, tools, vulnerability</p></details> | 189 |
+| **[treequest](https://github.com/SakanaAI/treequest)** | A Tree Search Library with Flexible API for LLM Inference-Time Scaling | Python |  |  | 181 |
 | **[AI-Trading-Bot](https://github.com/470WALI/AI-Trading-Bot)** | TradeMaster AI: A revolutionary, hands-free trading platform for Ethereum and Binance Smart Chain. Harnesses innovative arbitrage, momentum, and range-bound strategies with a sleek interface. Lowers transaction costs and defends against MEV threats.  |  |  | <details><summary>ai-tr...</summary><p>ai-trading, blockchain, bot, crypto, crypto-bot, crypto-trading-bot, cryptocurrency, dex, eth, ethereum, evm, mempool, mev, solana-snipe-bot, solidity, trade-bot, trading, trading-bot, trading-strategies, tradingbot</p></details> | 146 |
-| **[Academic-LaTeX-Writing-Submission-Checklist-](https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-)** | This checklist is designed to help you systematically prepare and polish academic papers for top conferences and journals (e.g., ICML, NeurIPS, CVPR). It incorporates widely recommended best practices, formatting standards, and common reviewer expectations. |  |  |  | 131 |
+| **[DeepWism-miRNA](https://github.com/DeepWism/DeepWism-miRNA)** | A L4 innovative AGI System Empowering miRNA Drug Discovery |  |  |  | 135 |
+| **[Academic-LaTeX-Writing-Submission-Checklist-](https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-)** | This checklist is designed to help you systematically prepare and polish academic papers for top conferences and journals (e.g., ICML, NeurIPS, CVPR). It incorporates widely recommended best practices, formatting standards, and common reviewer expectations. |  |  |  | 132 |
 
