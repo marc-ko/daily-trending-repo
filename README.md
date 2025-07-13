@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-07-12
+Last update: 2025-07-13
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-07-12
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[bitchat-android](https://github.com/permissionlesstech/bitchat-android)** | bluetooth mesh chat, IRC vibes | Kotlin |  |  | 1384 |
-| **[MemOS](https://github.com/MemTensor/MemOS)** | MemOS (Preview) | Intelligence Begins with Memory | Python |  | <details><summary>agent...</summary><p>agent, kv-cache, language-model, llm, llm-memory, long-term-memory, lora, memcube, memory, memory-management, memory-operating-system, memory-retrieval, memory-scheduling, memos, neo4j, rag, retrieval-augmented-generation, tree</p></details> | 1327 |
-| **[Manifesto-against-the-Plagiarist-Yunhe-Wang](https://github.com/knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang)** | 讨贼王云鹤檄文 |  |  |  | 986 |
-| **[rinha-de-backend-2025](https://github.com/zanfranceschi/rinha-de-backend-2025)** | Rinha de Backend - Terceira Edição | JavaScript |  |  | 816 |
-| **[CoreInject](https://github.com/QiuChenly/CoreInject)** | 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！ | JavaScript |  |  | 391 |
-| **[annas-mcp](https://github.com/iosifache/annas-mcp)** | MCP server and CLI tool for searching and downloading documents from Anna's Archive | Go |  | <details><summary>annas...</summary><p>annas-archive, cli, mcp-server</p></details> | 340 |
-| **[torch-profiling-tutorial](https://github.com/Quentin-Anthony/torch-profiling-tutorial)** |  | Python |  |  | 329 |
-| **[Long-RL](https://github.com/NVlabs/Long-RL)** | Long-RL: Scaling RL to Long Sequences | Python |  | <details><summary>effic...</summary><p>efficient-ai, large-language-models, long-sequence, multi-modality, reinforcement-learning, sequence-parallelism</p></details> | 291 |
-| **[warzone-cheat](https://github.com/qawe68/warzone-cheat)** | Warzone Cheat is the top undetected cheat for Call of Duty: Warzone. With advanced aimbot, ESP, wallhack, unlock-all, and HWID Spoofer, you’ll dominate every match. Stay secure and climb the ranks fast. Thousands of users, 100% satisfaction. Join now and unlock your full potential. | C++ |  |  | 210 |
-| **[grok-cli](https://github.com/ComposioHQ/grok-cli)** |  | Python |  |  | 208 |
-| **[legid](https://github.com/shuding/legid)** | A library for generating safe, legit and random URL-compat IDs. | TypeScript |  | <details><summary>rando...</summary><p>random-id, uuid</p></details> | 184 |
-| **[muvera-py](https://github.com/sigridjineth/muvera-py)** | Python Implementation of MUVERA (Multi-Vector Retrieval via Fixed Dimensional Encodings) | Python |  |  | 175 |
-| **[grass-bot](https://github.com/braindotcode/grass-bot)** | bot for automated grass farming | Python |  | <details><summary>autof...</summary><p>autofarm, grass, grass-bot, grass-farm</p></details> | 174 |
-| **[solana-mev-bot](https://github.com/solana-mage/solana-mev-bot)** | Solana MEV (Arbitrage) bot written in Rust, with Jito bundles, private RPC, multiple DEX support | Rust |  | <details><summary>solan...</summary><p>solana-arbitrage-bot, solana-dex-arbitrage, solana-mev, solana-mev-bot, solana-rust-bot, solana-rust-mev</p></details> | 167 |
+| **[bitchat-android](https://github.com/permissionlesstech/bitchat-android)** | bluetooth mesh chat, IRC vibes | Kotlin |  |  | 1503 |
+| **[Manifesto-against-the-Plagiarist-Yunhe-Wang](https://github.com/knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang)** | 讨贼王云鹤檄文 |  |  |  | 999 |
+| **[CoreInject](https://github.com/QiuChenly/CoreInject)** | 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！ | JavaScript |  |  | 421 |
+| **[torch-profiling-tutorial](https://github.com/Quentin-Anthony/torch-profiling-tutorial)** |  | Python |  |  | 366 |
+| **[annas-mcp](https://github.com/iosifache/annas-mcp)** | MCP server and CLI tool for searching and downloading documents from Anna's Archive | Go |  | <details><summary>annas...</summary><p>annas-archive, cli, mcp-server</p></details> | 359 |
+| **[Long-RL](https://github.com/NVlabs/Long-RL)** | Long-RL: Scaling RL to Long Sequences | Python |  | <details><summary>effic...</summary><p>efficient-ai, large-language-models, long-sequence, multi-modality, reinforcement-learning, sequence-parallelism</p></details> | 328 |
+| **[warzone-cheat](https://github.com/qawe68/warzone-cheat)** | Warzone Cheat is the top undetected cheat for Call of Duty: Warzone. With advanced aimbot, ESP, wallhack, unlock-all, and HWID Spoofer, you’ll dominate every match. Stay secure and climb the ranks fast. Thousands of users, 100% satisfaction. Join now and unlock your full potential. | C++ |  |  | 247 |
+| **[grok-cli](https://github.com/ComposioHQ/grok-cli)** |  | Python |  |  | 244 |
+| **[legid](https://github.com/shuding/legid)** | A library for generating safe, legit and random URL-compat IDs. | TypeScript |  | <details><summary>rando...</summary><p>random-id, uuid</p></details> | 236 |
+| **[kimi-cc](https://github.com/LLM-Red-Team/kimi-cc)** | Use Kimi's latest model(kimi-k2-0711-preview) to drive your Claude Code. | Shell |  |  | 194 |
+| **[grass-bot](https://github.com/braindotcode/grass-bot)** | bot for automated grass farming | Python |  | <details><summary>autof...</summary><p>autofarm, grass, grass-bot, grass-farm</p></details> | 175 |
 | **[MonadTestnet-Bot](https://github.com/NetherlandsDev/MonadTestnet-Bot)** | A bot for automated Monad Testnet farm | Python |  | <details><summary>farmi...</summary><p>farming, monad, monad-automation, monad-testnet</p></details> | 166 |
-| **[SecArchive](https://github.com/MDKAIF302/SecArchive)** | 🥷 SecArchive - Cybersecurity Resource Collection  A curated archive of high-quality resources for learning cybersecurity, bug bounty, ethical hacking, and penetration testing.  |  |  |  | 164 |
-| **[AI-Coding-Style-Guides](https://github.com/lidangzzz/AI-Coding-Style-Guides)** | A set of coding style guidelines for Vibe Coding or SWE-Agents that maximize efficiency and improve human readability. | JavaScript |  |  | 163 |
-| **[PSG](https://github.com/itsyebekhe/PSG)** | Proxy Subscription Generator | HTML |  |  | 153 |
-| **[CVE-2025-32023](https://github.com/leesh3288/CVE-2025-32023)** | PoC & Exploit for CVE-2025-32023 / PlaidCTF 2025 "Zerodeo" | Python |  |  | 150 |
-| **[CVE-2025-48799](https://github.com/Wh04m1001/CVE-2025-48799)** |  | C++ |  |  | 144 |
+| **[PSG](https://github.com/itsyebekhe/PSG)** | Proxy Subscription Generator | HTML |  |  | 159 |
+| **[CVE-2025-48799](https://github.com/Wh04m1001/CVE-2025-48799)** |  | C++ |  |  | 152 |
+| **[jcorp-nomad](https://github.com/Jstudner/jcorp-nomad)** | An extremely compact offline media server for Movies, Shows, Books, and Music. | HTML |  | <details><summary>dlna,...</summary><p>dlna, esp32, homelab, jellyfin, low-power, media-server, offline-server, selfhosted, server, usb-server, wifi-hotspot</p></details> | 143 |
+| **[screenenv](https://github.com/huggingface/screenenv)** | A powerful Python library for creating and managing isolated desktop environments using Docker containers. | Python |  |  | 142 |
+| **[luci-mobile](https://github.com/cogwheel0/luci-mobile)** | Remotely manage your OpenWrt router. Monitor clients, interfaces, and status. | Dart |  |  | 138 |
+| **[Ai-Novel-Editor](https://github.com/inliver233/Ai-Novel-Editor)** | 使用python+pyqt6实现的ai辅助小说编辑器 | Python |  |  | 137 |
+| **[llm-inference-in-production](https://github.com/bentoml/llm-inference-in-production)** | Everything you need to know about LLM inference | TypeScript |  | <details><summary>llm, ...</summary><p>llm, llm-inference</p></details> | 136 |
+| **[TikTok-Scraper-Video-Downloader-Auto-Reporter-2025](https://github.com/skitSkills/TikTok-Scraper-Video-Downloader-Auto-Reporter-2025)** | An All-In-1 TikTok marketing bot for scraping, Download videos without watermarks and auto-reporter | Python |  | <details><summary>tikto...</summary><p>tiktok, tiktok-api, tiktok-automation, tiktok-downloader, tiktok-downloader-bot, tiktok-downloader-hd, tiktok-downloader-without-watermaek, tiktok-generator, tiktok-report, tiktok-report-ban, tiktok-reporter, tiktok-reporter-github, tiktok-reporting-mass, tiktok-scraper, tiktok-scraper-tool, tiktok-scraper-tool-win, tiktok-tool, tiktok-videos-download, tiktok-videos-downloader, tiktokbot</p></details> | 133 |
 
