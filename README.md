@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-07-21
+Last update: 2025-07-22
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-07-21
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Bella](https://github.com/Jackywine/Bella)** | Bella is best | JavaScript |  |  | 2278 |
-| **[make-it-heavy](https://github.com/Doriandarko/make-it-heavy)** | A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query. | Python |  |  | 887 |
-| **[ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor)** | 一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。 | Python |  |  | 708 |
-| **[react](https://github.com/untitleduico/react)** | Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, paste, and build. | TypeScript |  | <details><summary>compo...</summary><p>components, design-system, react, react-aria, react-aria-components, tailwindcss, ui-library</p></details> | 689 |
-| **[fogsight](https://github.com/fogsightai/fogsight)** | Fogsight is an AI agent and animation engine powered by Large Language Models. | JavaScript |  |  | 442 |
-| **[sniffly](https://github.com/chiphuyen/sniffly)** | Claude Code dashboard with usage stats, error analysis, and sharable feature | Python |  | <details><summary>agent...</summary><p>agent, ai, analytics, coding</p></details> | 388 |
-| **[Pi3](https://github.com/yyfz/Pi3)** | Code of π^3: Scalable Permutation-Equivariant Visual Geometry Learning | Python |  |  | 371 |
-| **[Mev-Bot-Uniswap](https://github.com/Quovanewordy0JP/Mev-Bot-Uniswap)** | 🚀 Open-Source (Ethereum - MEV) Sandwich. Bot 🍔 A beginner-friendly tool for automatic Uniswap .arbitrage.! Achieved 8.43% daily gains on April 19, 2025. Dive into DeFi and try it now! ✨ | Solidity |  | <details><summary>block...</summary><p>blockchain, bot, crypto-bot, cryptocurrency, dex, eth, ethereum, evm, mempool, mev, sandwich-attacks, solana, solidity, trade-bot, trading, tradingbot, uniswap</p></details> | 347 |
-| **[openai-imo-2025-proofs](https://github.com/aw31/openai-imo-2025-proofs)** |  |  |  |  | 330 |
-| **[firegeo](https://github.com/mendableai/firegeo)** | 🔥 GEO-powered SaaS starter built with Firecrawl for brand monitoring, auth, and billing | TypeScript |  |  | 301 |
-| **[Flux](https://github.com/bugthesystem/Flux)** | Flux is a high-performance, zero-copy message transport (IPC, UDP, RUDP) library for Rust, designed for ultra-low-latency applications requiring maximum throughput. It is built on patterns & practices inspired by LMAX Disruptor and Aeron, with modern Rust optimizations. | Rust |  | <details><summary>aeron...</summary><p>aeron, disruptor, high-performance, iouring, numa, reliable-udp, rust, simd, udp</p></details> | 290 |
-| **[claude-code-kimi-groq](https://github.com/fakerybakery/claude-code-kimi-groq)** | A basic proxy to use Kimi K2 on Claude Code through Groq | Python |  |  | 263 |
-| **[CommonGround](https://github.com/Intelligent-Internet/CommonGround)** | An open-source application for building, observing, and collaborating with teams of AI agents. | Python |  |  | 238 |
+| **[Bella](https://github.com/Jackywine/Bella)** | Bella is best | JavaScript |  |  | 3274 |
+| **[TrackWeight](https://github.com/KrishKrosh/TrackWeight)** |  | Swift |  |  | 1432 |
+| **[ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor)** | 一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。 | Python |  |  | 1399 |
+| **[Pi3](https://github.com/yyfz/Pi3)** | Code of π^3: Scalable Permutation-Equivariant Visual Geometry Learning | Python |  |  | 611 |
+| **[fogsight](https://github.com/fogsightai/fogsight)** | Fogsight is an AI agent and animation engine powered by Large Language Models. | JavaScript |  |  | 495 |
+| **[openai-imo-2025-proofs](https://github.com/aw31/openai-imo-2025-proofs)** |  |  |  |  | 386 |
+| **[CommonGround](https://github.com/Intelligent-Internet/CommonGround)** | An open-source application for building, observing, and collaborating with teams of AI agents. | Python |  |  | 307 |
+| **[joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie)** | 开源的端到端产品级通用智能体 | Java |  |  | 295 |
+| **[Subscription-Management](https://github.com/huhusmang/Subscription-Management)** |  | TypeScript |  |  | 263 |
+| **[am-i-vibing](https://github.com/ascorbic/am-i-vibing)** | Detect agentic coding environments and AI editors | TypeScript |  |  | 252 |
+| **[VisionThink](https://github.com/dvlab-research/VisionThink)** | Efficient Reasoning Vision Language Models | Python |  |  | 245 |
 | **[warzone-cheats](https://github.com/ElusionCheats/warzone-cheats)** | Warzone Cheats is your undetected cheat for Call of Duty Warzone. Featuring customizable aimbot, full ESP wallhack, item ESP, Unlock All Tool, and HWID Spoofer. Secure and updated, it's the ultimate cheat to dominate lobbies, earn wins, and collect rewards faster than ever before. | C++ |  |  | 229 |
-| **[VisionThink](https://github.com/dvlab-research/VisionThink)** | Efficient Reasoning Vision Language Models | Python |  |  | 205 |
-| **[Subscription-Management](https://github.com/huhusmang/Subscription-Management)** |  | TypeScript |  |  | 185 |
-| **[LenaTunnel](https://github.com/MrAminiDev/LenaTunnel)** |  Lena is a blazing-fast and lightweight tunnel powered by VxLAN — the smart choice for stable and secure connectivity. | Shell |  |  | 167 |
-| **[v0-sdk](https://github.com/vercel/v0-sdk)** | SDK for the v0 Platform API | TypeScript |  |  | 160 |
-| **[GateSentinel](https://github.com/kyxiaxiang/GateSentinel)** | GateSentinel 是一个现代化的 C2 (Command and Control) 框架，专为安全研究和渗透测试设计。该项目采用 Go 语言开发服务端，C 语言开发客户端，提供了强大的远程控制和管理功能。 | JavaScript |  | <details><summary>bypas...</summary><p>bypass, c2, redteam</p></details> | 144 |
-| **[am-i-vibing](https://github.com/ascorbic/am-i-vibing)** | Detect agentic coding environments and AI editors | TypeScript |  |  | 129 |
+| **[pogocache](https://github.com/tidwall/pogocache)** | Fast caching software with a focus on low latency and cpu efficiency. | C |  |  | 221 |
+| **[Gemini-CLI-2-API](https://github.com/justlovemaki/Gemini-CLI-2-API)** | GeminiCli2API：本地代理Gemini CLI，兼容OpenAI API，每日千次免费请求。通过API轻松接入任何客户端，让AI开发更高效！ | JavaScript |  |  | 203 |
+| **[blastoff-llm](https://github.com/realtime-ai/blastoff-llm)** | a super fast llm response using small llm model to prefix large llm model | Python |  |  | 181 |
+| **[r6-cheat](https://github.com/24imepuza/r6-cheat)** | R6 Cheat with Aimbot, ESP, Wallhack and No Recoil features for Rainbow Six Siege X. Get advanced aimbot, clean ESP, unlock all tool, and a robust HWID spoofer, it’s built for both legit players and ragers. Stay undetected, climb ranks, and win every match with ease. Compatible with all editions and platforms. | C++ |  |  | 175 |
+| **[LenaTunnel](https://github.com/MrAminiDev/LenaTunnel)** |  Lena is a blazing-fast and lightweight tunnel powered by VxLAN — the smart choice for stable and secure connectivity. | Shell |  |  | 172 |
+| **[v0-sdk](https://github.com/vercel/v0-sdk)** | SDK for the v0 Platform API | TypeScript |  |  | 167 |
+| **[GateSentinel](https://github.com/kyxiaxiang/GateSentinel)** | GateSentinel 是一个现代化的 C2 (Command and Control) 框架，专为安全研究和渗透测试设计。该项目采用 Go 语言开发服务端，C 语言开发客户端，提供了强大的远程控制和管理功能。 | JavaScript |  | <details><summary>bypas...</summary><p>bypass, c2, redteam</p></details> | 153 |
+| **[ai-resume-analyzer](https://github.com/adrianhajdin/ai-resume-analyzer)** | AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI. | JavaScript |  | <details><summary>puter...</summary><p>puter, puterjs, react, react19, reactjs, typescript, zustand</p></details> | 136 |
 
