@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-07-26
+Last update: 2025-07-27
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-07-26
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[TrackWeight](https://github.com/KrishKrosh/TrackWeight)** | Use your Mac trackpad as a weighing scale | Swift |  |  | 5461 |
-| **[higgs-audio](https://github.com/boson-ai/higgs-audio)** | Text-audio foundation model from Boson AI | Python |  |  | 4628 |
-| **[pogocache](https://github.com/tidwall/pogocache)** | Fast caching software with a focus on low latency and cpu efficiency. | C |  |  | 1036 |
-| **[claude-agents](https://github.com/iannuttall/claude-agents)** | Custom subagents to use with Claude Code. |  |  |  | 380 |
-| **[theProtector](https://github.com/IHATEGIVINGAUSERNAME/theProtector)** | Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response | Shell |  |  | 352 |
-| **[People-Inside-Prompts](https://github.com/metapromptjc/People-Inside-Prompts)** |  |  |  |  | 334 |
-| **[GodotPixelRenderer](https://github.com/bukkbeek/GodotPixelRenderer)** | Complete 3D to Pixel Toolkit [Built using Godot Engine] | GDScript |  | <details><summary>3d, g...</summary><p>3d, game-development, gamedev, godot, godot-engine, pixel, pixel-art</p></details> | 333 |
-| **[Gemini-CLI-2-API](https://github.com/justlovemaki/Gemini-CLI-2-API)** | GeminiCli2API：本地代理Gemini CLI，兼容OpenAI API，每日千次免费请求。通过API轻松接入任何客户端，让AI开发更高效！ | JavaScript |  |  | 290 |
-| **[wtffmpeg](https://github.com/scottvr/wtffmpeg)** | a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line | Python |  | <details><summary>ffmpe...</summary><p>ffmpeg, llm</p></details> | 263 |
-| **[apple-health-mcp](https://github.com/neiltron/apple-health-mcp)** | MCP server for querying Apple Health data with natural language and SQL | TypeScript |  |  | 246 |
-| **[IMO25](https://github.com/lyang36/IMO25)** |  | Python |  |  | 233 |
-| **[CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)** | SharePoint WebPart Injection Exploit Tool | Python |  |  | 218 |
-| **[Web](https://github.com/nuance-dev/Web)** |  | Swift |  |  | 194 |
-| **[MEV-BOT.blog](https://github.com/Aveldorb7BP2/MEV-BOT.blog)** | Explore MEV (Miner Extractable Value) bot development with our comprehensive guide. From setup to deployment, learn how to create profitable MEV bots with AI-powered assistance. Features live tutorials, source code, and step-by-step instructions. |  |  | <details><summary>ai, b...</summary><p>ai, blockchain, bot, crypto-bot, cryptocurrency, dex, eth, ethereum, evm, mempool, mev, solana, solidity, trade-bot, trading, tradingbot, uniswap</p></details> | 190 |
-| **[Chronos](https://github.com/Kodezi/Chronos)** | Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS. | Python |  | <details><summary>artif...</summary><p>artificial-intelligence, autonomous-debugging, benchmark, benchmark-report, bug-fixing, chronos, code, code-analysis, code-analysis-tool, code-debugger, code-understanding, debugging, developer-tools, kodezi, language-model, machine-learning, program-repair, software-engineering</p></details> | 182 |
-| **[DMOSpeech2](https://github.com/yl4579/DMOSpeech2)** |  | Python |  |  | 156 |
-| **[neuralagent](https://github.com/withneural/neuralagent)** | The AI Agent That Lives On Your Desktop And Uses It Like You Do! | Python |  |  | 147 |
+| **[TrackWeight](https://github.com/KrishKrosh/TrackWeight)** | Use your Mac trackpad as a weighing scale | Swift |  |  | 5655 |
+| **[pogocache](https://github.com/tidwall/pogocache)** | Fast caching software with a focus on low latency and cpu efficiency. | C |  |  | 1116 |
+| **[claude-agents](https://github.com/iannuttall/claude-agents)** | Custom subagents to use with Claude Code. |  |  |  | 736 |
+| **[theProtector](https://github.com/IHATEGIVINGAUSERNAME/theProtector)** | Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response | Shell |  |  | 375 |
+| **[GodotPixelRenderer](https://github.com/bukkbeek/GodotPixelRenderer)** | Complete 3D to Pixel Toolkit [Built using Godot Engine] | GDScript |  | <details><summary>3dto2...</summary><p>3dto2d, gamedev-tool, gamedevelopment, godot, godot-engine, indiedev, open-source, pixelart</p></details> | 349 |
+| **[apple-health-mcp](https://github.com/neiltron/apple-health-mcp)** | MCP server for querying Apple Health data with natural language and SQL | TypeScript |  |  | 336 |
+| **[People-Inside-Prompts](https://github.com/metapromptjc/People-Inside-Prompts)** |  |  |  |  | 336 |
+| **[wtffmpeg](https://github.com/scottvr/wtffmpeg)** | a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line | Python |  | <details><summary>ffmpe...</summary><p>ffmpeg, llm</p></details> | 268 |
+| **[Chronos](https://github.com/Kodezi/Chronos)** | Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS. | Python |  | <details><summary>artif...</summary><p>artificial-intelligence, autonomous-debugging, benchmark, benchmark-report, bug-fixing, chronos, code, code-analysis, code-analysis-tool, code-debugger, code-understanding, debugging, developer-tools, kodezi, language-model, machine-learning, program-repair, software-engineering</p></details> | 244 |
+| **[neuralagent](https://github.com/withneural/neuralagent)** | The AI Agent That Lives On Your Desktop And Uses It Like You Do! | Python |  |  | 224 |
+| **[CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)** | SharePoint WebPart Injection Exploit Tool | Python |  |  | 222 |
+| **[rust-gpu-chimera](https://github.com/LegNeato/rust-gpu-chimera)** | Demo project showing a single Rust codebase running on CPU and directly on GPUs | Rust |  | <details><summary>cuda,...</summary><p>cuda, gpu, rust, rust-cuda, rust-gpu, vulkan</p></details> | 201 |
+| **[unfake.js](https://github.com/jenissimo/unfake.js)** | Fix AI Art. Pixel-perfect. | JavaScript |  |  | 184 |
+| **[DMOSpeech2](https://github.com/yl4579/DMOSpeech2)** |  | Python |  |  | 162 |
+| **[se-script](https://github.com/hvhghv/se-script)** | 分享一些个人编写（AI编写）或改良的脚本 | Shell |  |  | 139 |
+| **[DailiCode](https://github.com/nearmetips/DailiCode)** | AI agent that is compatible with multiple LLM models | TypeScript |  |  | 138 |
 | **[r6-cheat](https://github.com/24imepuza/r6-cheat)** | R6 Cheat with Aimbot, ESP, Wallhack and No Recoil features for Rainbow Six Siege X. Get advanced aimbot, clean ESP, unlock all tool, and a robust HWID spoofer, it’s built for both legit players and ragers. Stay undetected, climb ranks, and win every match with ease. Compatible with all editions and platforms. | C++ |  |  | 135 |
-| **[unfake.js](https://github.com/jenissimo/unfake.js)** | Fix AI Art. Pixel-perfect. | JavaScript |  |  | 135 |
-| **[SleepChartKit](https://github.com/DanielJamesTronca/SleepChartKit)** | A production-ready, high-fidelity reproduction of Apple's detailed sleep analysis chart, built with pure SwiftUI. | Swift |  | <details><summary>apple...</summary><p>apple-health, chart, fitness, healthkit, ios, sleep-chart, sleep-tracking, swift, swift-package, swiftui, swiftui-components</p></details> | 134 |
+| **[hajimi-king](https://github.com/GakkiNoOne/hajimi-king)** | 人人都是哈基米大王 | Python |  |  | 130 |
+| **[EtaPanel](https://github.com/EtaPanel-dev/EtaPanel)** | A brand new server maintaince tool, developing at AdventureX 2025 Hackathon |  |  | <details><summary>adven...</summary><p>adventurex2025</p></details> | 129 |
+| **[Step3](https://github.com/stepfun-ai/Step3)** |  |  |  |  | 120 |
 
