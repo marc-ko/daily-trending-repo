@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-07-27
+Last update: 2025-07-28
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-07-27
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[TrackWeight](https://github.com/KrishKrosh/TrackWeight)** | Use your Mac trackpad as a weighing scale | Swift |  |  | 5655 |
-| **[pogocache](https://github.com/tidwall/pogocache)** | Fast caching software with a focus on low latency and cpu efficiency. | C |  |  | 1116 |
-| **[claude-agents](https://github.com/iannuttall/claude-agents)** | Custom subagents to use with Claude Code. |  |  |  | 736 |
-| **[theProtector](https://github.com/IHATEGIVINGAUSERNAME/theProtector)** | Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response | Shell |  |  | 375 |
-| **[GodotPixelRenderer](https://github.com/bukkbeek/GodotPixelRenderer)** | Complete 3D to Pixel Toolkit [Built using Godot Engine] | GDScript |  | <details><summary>3dto2...</summary><p>3dto2d, gamedev-tool, gamedevelopment, godot, godot-engine, indiedev, open-source, pixelart</p></details> | 349 |
-| **[apple-health-mcp](https://github.com/neiltron/apple-health-mcp)** | MCP server for querying Apple Health data with natural language and SQL | TypeScript |  |  | 336 |
-| **[People-Inside-Prompts](https://github.com/metapromptjc/People-Inside-Prompts)** |  |  |  |  | 336 |
-| **[wtffmpeg](https://github.com/scottvr/wtffmpeg)** | a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line | Python |  | <details><summary>ffmpe...</summary><p>ffmpeg, llm</p></details> | 268 |
-| **[Chronos](https://github.com/Kodezi/Chronos)** | Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS. | Python |  | <details><summary>artif...</summary><p>artificial-intelligence, autonomous-debugging, benchmark, benchmark-report, bug-fixing, chronos, code, code-analysis, code-analysis-tool, code-debugger, code-understanding, debugging, developer-tools, kodezi, language-model, machine-learning, program-repair, software-engineering</p></details> | 244 |
-| **[neuralagent](https://github.com/withneural/neuralagent)** | The AI Agent That Lives On Your Desktop And Uses It Like You Do! | Python |  |  | 224 |
-| **[CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)** | SharePoint WebPart Injection Exploit Tool | Python |  |  | 222 |
-| **[rust-gpu-chimera](https://github.com/LegNeato/rust-gpu-chimera)** | Demo project showing a single Rust codebase running on CPU and directly on GPUs | Rust |  | <details><summary>cuda,...</summary><p>cuda, gpu, rust, rust-cuda, rust-gpu, vulkan</p></details> | 201 |
-| **[unfake.js](https://github.com/jenissimo/unfake.js)** | Fix AI Art. Pixel-perfect. | JavaScript |  |  | 184 |
-| **[DMOSpeech2](https://github.com/yl4579/DMOSpeech2)** |  | Python |  |  | 162 |
-| **[se-script](https://github.com/hvhghv/se-script)** | 分享一些个人编写（AI编写）或改良的脚本 | Shell |  |  | 139 |
-| **[DailiCode](https://github.com/nearmetips/DailiCode)** | AI agent that is compatible with multiple LLM models | TypeScript |  |  | 138 |
-| **[r6-cheat](https://github.com/24imepuza/r6-cheat)** | R6 Cheat with Aimbot, ESP, Wallhack and No Recoil features for Rainbow Six Siege X. Get advanced aimbot, clean ESP, unlock all tool, and a robust HWID spoofer, it’s built for both legit players and ragers. Stay undetected, climb ranks, and win every match with ease. Compatible with all editions and platforms. | C++ |  |  | 135 |
-| **[hajimi-king](https://github.com/GakkiNoOne/hajimi-king)** | 人人都是哈基米大王 | Python |  |  | 130 |
-| **[EtaPanel](https://github.com/EtaPanel-dev/EtaPanel)** | A brand new server maintaince tool, developing at AdventureX 2025 Hackathon |  |  | <details><summary>adven...</summary><p>adventurex2025</p></details> | 129 |
-| **[Step3](https://github.com/stepfun-ai/Step3)** |  |  |  |  | 120 |
+| **[claude-agents](https://github.com/iannuttall/claude-agents)** | Custom subagents to use with Claude Code. |  |  |  | 899 |
+| **[theProtector](https://github.com/IHATEGIVINGAUSERNAME/theProtector)** | Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response | Shell |  |  | 389 |
+| **[apple-health-mcp](https://github.com/neiltron/apple-health-mcp)** | MCP server for querying Apple Health data with natural language and SQL | TypeScript |  |  | 354 |
+| **[awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** | An orchestrated sub agent dev team powered by claude code |  |  |  | 352 |
+| **[rust-gpu-chimera](https://github.com/LegNeato/rust-gpu-chimera)** | Demo project showing a single Rust codebase running on CPU and directly on GPUs | Rust |  | <details><summary>cuda,...</summary><p>cuda, gpu, rust, rust-cuda, rust-gpu, vulkan</p></details> | 290 |
+| **[neuralagent](https://github.com/withneural/neuralagent)** | The AI Agent That Lives On Your Desktop And Uses It Like You Do! | Python |  |  | 277 |
+| **[wtffmpeg](https://github.com/scottvr/wtffmpeg)** | a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line | Python |  | <details><summary>ffmpe...</summary><p>ffmpeg, llm</p></details> | 271 |
+| **[cc](https://github.com/kn1026/cc)** | claude code system prompt |  |  |  | 235 |
+| **[Intern-S1](https://github.com/InternLM/Intern-S1)** |  |  |  |  | 191 |
+| **[Claude](https://github.com/Dimillian/Claude)** | My Claude Code Setup |  |  |  | 184 |
+| **[claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection)** | Claude Code Subagents Collection |  |  |  | 182 |
+| **[hajimi-king](https://github.com/GakkiNoOne/hajimi-king)** | 人人都是哈基米大王 | Python |  |  | 169 |
+| **[Step3](https://github.com/stepfun-ai/Step3)** |  |  |  |  | 157 |
+| **[se-script](https://github.com/hvhghv/se-script)** | 分享一些个人编写（AI编写）或改良的脚本 | Shell |  |  | 154 |
+| **[DailiCode](https://github.com/nearmetips/DailiCode)** | AI agent that is compatible with multiple LLM models | TypeScript |  |  | 141 |
+| **[EtaPanel](https://github.com/EtaPanel-dev/EtaPanel)** | A brand new server maintaince tool, developing at AdventureX 2025 Hackathon |  |  | <details><summary>adven...</summary><p>adventurex2025</p></details> | 140 |
+| **[jj-workshop](https://github.com/jkoppel/jj-workshop)** |  |  |  |  | 132 |
+| **[agents](https://github.com/wshobson/agents)** | A collection of production-ready subagents for Claude Code |  |  | <details><summary>agent...</summary><p>agents, ai, ai-agents, anthropic, automation, claude, claude-code, subagents</p></details> | 132 |
+| **[AstroBox-Public](https://github.com/AstralSightStudios/AstroBox-Public)** | Public source code for AstroBox | Rust |  |  | 129 |
+| **[warzone-cheat-aimbot-esp](https://github.com/ElusnCheat/warzone-cheat-aimbot-esp)** | Unlock the best undetected Warzone Cheat with aimbot, ESP, wallhack, and unlock all tool. Dominate Call of Duty: Warzone using powerful Warzone cheats including Warzone aimbot, Warzone ESP, and Warzone wallhack. Safe, updated, and 100% positive reviews. Join now for access and elevate your gameplay. | C++ |  |  | 113 |
 
