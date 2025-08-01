@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-07-31
+Last update: 2025-08-01
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-07-31
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[agents](https://github.com/contains-studio/agents)** | sharing current agents in use |  |  |  | 3940 |
-| **[awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** | An orchestrated sub agent dev team powered by claude code |  |  |  | 2148 |
-| **[Wan2.2](https://github.com/Wan-Video/Wan2.2)** | Wan: Open and Advanced Large-Scale Video Generative Models | Python |  | <details><summary>aigc,...</summary><p>aigc, video-generation</p></details> | 1952 |
-| **[claude-agents](https://github.com/iannuttall/claude-agents)** | Custom subagents to use with Claude Code. |  |  |  | 1343 |
-| **[claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection)** | Claude Code Subagents Collection | JavaScript |  | <details><summary>claud...</summary><p>claude, claude-code, subagents</p></details> | 1166 |
-| **[CCPlugins](https://github.com/brennercruvinel/CCPlugins)** | Claude Code Plugins that actually save time. Built by a dev tired of typing please act like a senior engineer in every conversation. | Python |  | <details><summary>autom...</summary><p>automated, claude, claude-ai, claude-code, cli, collection, commands, extensions, plugins</p></details> | 890 |
-| **[periodic-table](https://github.com/jarulraj/periodic-table)** | A Periodic Table of System Design Principles |  |  |  | 776 |
-| **[eigent](https://github.com/eigent-ai/eigent)** | Eigent is the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity. | TypeScript |  |  | 655 |
-| **[cc](https://github.com/kn1026/cc)** | claude code system prompt |  |  |  | 477 |
-| **[YJYpaper](https://github.com/zouzhekang/YJYpaper)** | 一个用来记录武汉大学杨景媛论文问题的仓库 |  |  |  | 415 |
-| **[Intern-S1](https://github.com/InternLM/Intern-S1)** |  |  |  |  | 343 |
-| **[ccflare](https://github.com/snipeship/ccflare)** | The ultimate CC proxy | TypeScript |  |  | 323 |
-| **[Claude](https://github.com/Dimillian/Claude)** | My Claude Code Setup |  |  |  | 271 |
-| **[Multi-Trading-Bot](https://github.com/Dravine1vDf7/Multi-Trading-Bot)** | Multi-Trading Bot |  |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, mempool, metamask, mev, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 270 |
-| **[hajimi-king](https://github.com/GakkiNoOne/hajimi-king)** | 人人都是哈基米大王 | Python |  |  | 267 |
-| **[awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents)** | A curated list of awesome Claude Code Sub-Agents |  |  |  | 253 |
-| **[Step3](https://github.com/stepfun-ai/Step3)** |  |  |  |  | 241 |
+| **[agents](https://github.com/contains-studio/agents)** | sharing current agents in use |  |  |  | 4478 |
+| **[awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)** | An orchestrated sub agent dev team powered by claude code |  |  |  | 2348 |
+| **[Wan2.2](https://github.com/Wan-Video/Wan2.2)** | Wan: Open and Advanced Large-Scale Video Generative Models | Python |  | <details><summary>aigc,...</summary><p>aigc, video-generation</p></details> | 2120 |
+| **[YJYpaper](https://github.com/zouzhekang/YJYpaper)** | 一个用来记录武汉大学杨景媛论文问题的仓库 |  |  |  | 936 |
+| **[periodic-table](https://github.com/jarulraj/periodic-table)** | A Periodic Table of System Design Principles |  |  |  | 902 |
+| **[eigent](https://github.com/eigent-ai/eigent)** | Eigent is the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity. | TypeScript |  |  | 819 |
+| **[cc](https://github.com/kn1026/cc)** | claude code system prompt |  |  |  | 491 |
+| **[deepagents](https://github.com/hwchase17/deepagents)** |  | Python |  |  | 463 |
+| **[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents)** | Collection of specialized AI subagents for Claude Code for personal use. |  |  | <details><summary>ai-ag...</summary><p>ai-agents, claude-code, claudecode-config, claudecode-subagents, sub-agents, subagents</p></details> | 403 |
+| **[awesome-claude-code-agents](https://github.com/hesreallyhim/awesome-claude-code-agents)** | A curated list of awesome Claude Code Sub-Agents |  |  |  | 291 |
+| **[resumePolice](https://github.com/itMrBoy/resumePolice)** | 简历警察 🕵️‍♂️ 疯狂逮捕 |  |  |  | 261 |
+| **[Multi-Trading-Bot](https://github.com/Dravine1vDf7/Multi-Trading-Bot)** | Multi-Trading Bot |  |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, mempool, metamask, mev, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 254 |
+| **[zuse](https://github.com/babycommando/zuse)** | ZUSE is an irc client for the terminal made in Go with Bubbletea | Go |  |  | 227 |
+| **[mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development)** | Spec-Driven Development MCP Server, no just Vibe Coding | TypeScript |  | <details><summary>mcp, ...</summary><p>mcp, mcp-server, spec-driven-development, vibe-coding</p></details> | 224 |
 | **[Ethereum-Trading-Bot](https://github.com/ColvoxvadSex/Ethereum-Trading-Bot)** | Ethereum Trading Bot for Uniswap and Sushiswap |  |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, mempool, metamask, mev, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 224 |
-| **[zuse](https://github.com/babycommando/zuse)** | ZUSE is an irc client for the terminal made in Go with Bubbletea | Go |  |  | 216 |
-| **[mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development)** | Spec-Driven Development MCP Server, no just Vibe Coding | TypeScript |  | <details><summary>mcp, ...</summary><p>mcp, mcp-server, spec-driven-development, vibe-coding</p></details> | 203 |
+| **[cozeworkflows](https://github.com/fenggeliaoai/cozeworkflows)** | coze 的200+工作流合集汇总，一直更新 |  |  |  | 220 |
+| **[terminal-bench-rl](https://github.com/Danau5tin/terminal-bench-rl)** | GRPO training code which scales to 32xH100s for long horizon terminal/coding tasks. Base agent is now the top Qwen3 agent on Stanford's TerminalBench leaderboard. | Python |  |  | 201 |
+| **[InsForge](https://github.com/InsForge/InsForge)** | InsForge is the Agent-Native Supabase Alternative. We are building the features of Supabase in an AI-native way, enabling AI agents to build and manage full-stack applications autonomously. | TypeScript |  |  | 197 |
+| **[UniPic](https://github.com/SkyworkAI/UniPic)** | Unified Autoregressive Modeling for Visual Understanding and Generation | Python |  |  | 185 |
+| **[X-Omni](https://github.com/X-Omni-Team/X-Omni)** | Official inference code and LongText-Bench benchmark for our paper X-Omni (https://arxiv.org/pdf/2507.22058). | Python |  |  | 177 |
 
