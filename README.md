@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-08-06
+Last update: 2025-08-07
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-08-06
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[harmony](https://github.com/openai/harmony)** | Renderer for the harmony response format to be used with gpt-oss | Rust |  |  | 1672 |
-| **[Qwen-Image](https://github.com/QwenLM/Qwen-Image)** | Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing. | Python |  |  | 1648 |
-| **[KittenTTS](https://github.com/KittenML/KittenTTS)** |  State-of-the-art TTS model under 25MB 😻  | Python |  |  | 824 |
-| **[CobaltStrikeBeaconCppSource](https://github.com/kyxiaxiang/CobaltStrikeBeaconCppSource)** | Out-of-the-box CobaltStrike Beacon source code use C++ | C++ |  |  | 627 |
-| **[fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)** | Finally a Fast Fuzzy File Finder for neovim  | Lua |  | <details><summary>files...</summary><p>filesearch, lua, neovim, neovim-plugin, rust</p></details> | 514 |
-| **[Recap](https://github.com/RecapAI/Recap)** | Open Source, Privacy-First, macOS-Native AI Meeting Summary  | Swift |  | <details><summary>core-...</summary><p>core-audio, openrouter, summarization, swift, whisper, whisper-cpp</p></details> | 453 |
-| **[MEV-UniswapBot](https://github.com/8ZenrithsteWbI/MEV-UniswapBot)** | MEV Uniswap Bot – A sophisticated bot built for executing MEV-based trading strategies, including sandwich attacks, on Uniswap. Maximizes profitability with high security and compatibility across EVM networks. Perfect for traders and developers looking to capitalize on Ethereum's mempool opportunities and automated trading solutions. | Python |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, mempool, metamask, mev, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 440 |
-| **[openbench](https://github.com/groq/openbench)** | Provider-agnostic, open-source evaluation infrastructure for language models | Python |  | <details><summary>manag...</summary><p>managed-by-terraform</p></details> | 334 |
-| **[LIVE](https://github.com/Mursor/LIVE)** | Mursor的直播源收藏仓库 |  |  |  | 275 |
-| **[RunVSAgent](https://github.com/wecode-ai/RunVSAgent)** | Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment. | Kotlin |  | <details><summary>ai-co...</summary><p>ai-coding-agent, jetbrains, roo-code</p></details> | 262 |
-| **[XBai-o4](https://github.com/MetaStone-AI/XBai-o4)** |  | Python |  |  | 260 |
-| **[GMR](https://github.com/YanjieZe/GMR)** | GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST. | Python |  |  | 243 |
-| **[awesome-yangjingyuan](https://github.com/yangjingyuan0828/awesome-yangjingyuan)** | 杨景媛（武汉大学）事件前因后果记录。A curated collection of remarkable stories, images, and insights documenting Yang Jingyuan. |  |  | <details><summary>yangj...</summary><p>yangjingyuan</p></details> | 243 |
-| **[BD-JB-1250](https://github.com/Gezine/BD-JB-1250)** | BD-JB for up to PS4 12.50 | Java |  |  | 241 |
-| **[MEV-by-JaredFromSubway](https://github.com/vesrithll8ci4/MEV-by-JaredFromSubway)** | MEV 2 Bot by JaredFromSubway |  |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, mempool, metamask, mev, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 237 |
-| **[Gift-Buyer-Tg](https://github.com/Lucranam/Gift-Buyer-Tg)** | A bot that searches for new gifts in telegram and purchases them based on your criteria. Supports integration with Telegram bot. | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-sniper, telegram</p></details> | 216 |
-| **[starchive](https://github.com/andrewarrow/starchive)** | browser plugin to send youtube videos to local backend | Go |  |  | 203 |
-| **[Mev-Sandwich-Bot](https://github.com/RavoxengsMOa/Mev-Sandwich-Bot)** | ✌️ The my source code for my Uniswap MEVbot. Complete instructions, usage guidelines, and access details are available in the README | Solidity |  | <details><summary>arbit...</summary><p>arbitrage, blockchain, bnbnodejs, bot, crypto-bot, decentralized-exchanges, dex, ethereum, javascript, mempool, mev, passive, smart-contracts, solana, solidity, trade, trading, trump</p></details> | 183 |
-| **[docstrange](https://github.com/NanoNets/docstrange)** | Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent content extraction and advanced OCR. | Python |  |  | 180 |
+| **[KittenTTS](https://github.com/KittenML/KittenTTS)** |  State-of-the-art TTS model under 25MB 😻  | Python |  |  | 3274 |
+| **[Qwen-Image](https://github.com/QwenLM/Qwen-Image)** | Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing. | Python |  |  | 1982 |
+| **[CobaltStrikeBeaconCppSource](https://github.com/kyxiaxiang/CobaltStrikeBeaconCppSource)** | Out-of-the-box CobaltStrike Beacon source code use C++ | C++ |  |  | 767 |
+| **[LIVE](https://github.com/Mursor/LIVE)** | Mursor的直播源收藏仓库 |  |  |  | 652 |
+| **[Recap](https://github.com/RecapAI/Recap)** | Open Source, Privacy-First, macOS-Native AI Meeting Summary  | Swift |  | <details><summary>core-...</summary><p>core-audio, openrouter, summarization, swift, whisper, whisper-cpp</p></details> | 507 |
+| **[bidc](https://github.com/shuding/bidc)** | Bidirectional Channels for JavaScript | TypeScript |  | <details><summary>async...</summary><p>async, channels, iframe, javascript, messaging, rpc, worker</p></details> | 485 |
+| **[GMR](https://github.com/YanjieZe/GMR)** | GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST. | Python |  |  | 302 |
+| **[XBai-o4](https://github.com/MetaStone-AI/XBai-o4)** |  | Python |  |  | 275 |
+| **[gpt-oss-pro-mode](https://github.com/mshumer/gpt-oss-pro-mode)** |  | Jupyter Notebook |  |  | 275 |
+| **[MEV-by-JaredFromSubway](https://github.com/4ArvanekhbLt/MEV-by-JaredFromSubway)** | MEV 2 Bot by JaredFromSubway |  |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, mempool, metamask, mev, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 272 |
+| **[BD-JB-1250](https://github.com/Gezine/BD-JB-1250)** | BD-JB for up to PS4 12.50 | Java |  |  | 258 |
+| **[gpt-oss-recipes](https://github.com/huggingface/gpt-oss-recipes)** | Collection of scripts and notebooks for OpenAI's latest GPT OSS models | Jupyter Notebook |  |  | 230 |
+| **[starchive](https://github.com/andrewarrow/starchive)** | browser plugin to send youtube videos to local backend | Go |  |  | 210 |
+| **[claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** | An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. | Python |  |  | 202 |
+| **[claude-code-unified-agents](https://github.com/stretchcloud/claude-code-unified-agents)** |  | Shell |  |  | 186 |
+| **[ReceiptPrinterAgent](https://github.com/CodingWithLewis/ReceiptPrinterAgent)** | From my video: I Fixed my ADHD with a Receipt Printer | Python |  |  | 178 |
 | **[grass-bot](https://github.com/KorthuDev/grass-bot)** | A bot for grass auto farm | Python |  |  | 172 |
+| **[quant-fund](https://github.com/yutiansut/quant-fund)** | 量化开源基金会 |  |  |  | 142 |
+| **[MonadTestnet-Bot](https://github.com/KorthuDev/MonadTestnet-Bot)** | A bot for automated Monad Testnet farm | Python |  | <details><summary>autof...</summary><p>autofarm, monad, monad-testnet</p></details> | 140 |
+| **[tuxagotchi](https://github.com/terpinedream/tuxagotchi)** | CLI application that encourages you to keep up with your projects. "Feed" tux in your terminal by pushing your code to github. | Python |  |  | 140 |
 
