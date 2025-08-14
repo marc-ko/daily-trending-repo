@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-08-13
+Last update: 2025-08-14
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-08-13
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[open-lovable](https://github.com/mendableai/open-lovable)** | 🔥 Clone and recreate any website as a modern React app in seconds | TypeScript |  |  | 7119 |
-| **[AionUi](https://github.com/office-sec/AionUi)** | Free, local, open-source GUI app for Gemini CLI — Enhance Chat Experience, Multi-tasking, Code Diff View, File & Project Management, and more | 🌟 Star if you like it! | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agent, gemini, gemini-ai, gemini-cli, gemini-pro, gui, gui-application, ide, llm, llm-code, multi-agent, nodejs, react, typescript</p></details> | 1202 |
-| **[gpt-5-coding-examples](https://github.com/openai/gpt-5-coding-examples)** | GPT-5 coding examples | HTML |  | <details><summary>codex...</summary><p>codex, coding, frontend, gpt, openai, web, website</p></details> | 1070 |
-| **[betanet](https://github.com/ravendevteam/betanet)** | The official specification for Betanet. |  |  |  | 564 |
-| **[horizon](https://github.com/dnlzro/horizon)** | The current sky at your approximate location, rendered as a CSS gradient | TypeScript |  | <details><summary>astro...</summary><p>astro, css, graphics, html-day</p></details> | 462 |
-| **[uk-retail-synthetic-data-generation](https://github.com/syncora-ai/uk-retail-synthetic-data-generation)** | Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving, realistic synthetic data for testing, analysis, and machine learning. |  |  |  | 456 |
-| **[Github-Mev-Bot](https://github.com/Foulvelstingw3S/Github-Mev-Bot)** | ✅ Github ⚡ Source code and instructions for creating a passive income tool using an MEV bot.⚡Detailed setup and launch instructions for the MEV bot are available in the Readme file. | Solidity |  | <details><summary>block...</summary><p>blockchain, bot, crypto-bot, cryptocurrency, dex, eth, ethereum, evm, mempool, mev, solana, solana-snipe-bot, solidity, trade-bot, trading, tradingbot, uniswap</p></details> | 368 |
-| **[nixos-wizard](https://github.com/km-clay/nixos-wizard)** | A TUI installer for NixOS | Rust |  |  | 348 |
-| **[MEV-by-JaredFromSubway](https://github.com/shenvithbiz5L/MEV-by-JaredFromSubway)** | MEV 2 Bot by JaredFromSubway |  |  | <details><summary>block...</summary><p>blockchain, codepen, crypto-bot, crypto-trading, defi, dex, eth, ethereum, ethereum-mainnet, evm, mempool, metamask, mev, smart-contract, solidity, uniswap, uniswap-v3, web3</p></details> | 313 |
-| **[uwu](https://github.com/context-labs/uwu)** |  | TypeScript |  |  | 301 |
-| **[Qwen-Image-Lightning](https://github.com/ModelTC/Qwen-Image-Lightning)** | Qwen-Image-Lightning: Speed up Qwen-Image model with distillation | Python |  |  | 284 |
-| **[Solana-bot](https://github.com/Wiseilvaneom0/Solana-bot)** | 🌫 Smart Solana MEV.. bot — runs in-browser or locally. Instantly analyzes transactions, snags profitable trades on Pump.FUN, Jupiter, and Raydium. Fully automated, lightning-fast, and tuned for top results. | JavaScript |  | <details><summary>block...</summary><p>blockchain, bot, crypto-bot, decentralized-exchanges, dex, ethereum, javascript, mempool, mev, nodejs, smart-contracts, solana, solidity</p></details> | 278 |
-| **[claude-code-configs](https://github.com/Matt-Dionis/claude-code-configs)** |  | Shell |  |  | 262 |
-| **[vipe](https://github.com/nv-tlabs/vipe)** | ViPE: Video Pose Engine for Geometric 3D Perception | Python |  | <details><summary>3d, c...</summary><p>3d, camera, depth-estimation, slam</p></details> | 222 |
-| **[tilf](https://github.com/danterolle/tilf)** | Tilf (Tiny Elf) is a simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo, and export options. | Python |  | <details><summary>cross...</summary><p>cross-platform, crossplatform, desktop-app, drag-and-drop, drawing, graphics, gui, pixel-art, pyside6, python, qt6, sprites, tiles</p></details> | 220 |
-| **[Gift-Buyer-Tg](https://github.com/KorthuDev/Gift-Buyer-Tg)** | A bot that searches for new gifts in telegram and purchases them based on your criteria. Supports integration with Telegram bot. | Python |  | <details><summary>gift-...</summary><p>gift-sniper, gifts, python, telegram-gift</p></details> | 212 |
-| **[MiroThinker](https://github.com/MiroMindAI/MiroThinker)** | MiroThinker is open-source agentic models trained for deep research and complex tool use scenarios. | Python |  |  | 179 |
-| **[HASS-epaper-display](https://github.com/r-morato/HASS-epaper-display)** | This project displays key smart home and server stats on a 7.5" e-paper screen using an ESP32-C3 board running ESPHome. |  |  |  | 170 |
-| **[LIVE](https://github.com/mursor1985/LIVE)** | mursor的LIVE仓库 |  |  |  | 164 |
-| **[Matrix-3D](https://github.com/SkyworkAI/Matrix-3D)** | Generate large-scale explorable 3D scene from a single image or text prompt. | Python |  | <details><summary>3d-ge...</summary><p>3d-generation, 3d-reconstruction, 3d-scene-generation, aigc, aigc3d, genie, genie3, graphics, image-to-3d, image-to-video, panorama-synthesis, scene-generation, text-to-3d, text-to-video, video-generation, world-models</p></details> | 156 |
+| **[open-lovable](https://github.com/mendableai/open-lovable)** | 🔥 Clone and recreate any website as a modern React app in seconds | TypeScript |  |  | 9531 |
+| **[LunaTV](https://github.com/MoonTechLab/LunaTV)** |  |  |  |  | 764 |
+| **[betanet](https://github.com/ravendevteam/betanet)** | The official specification for Betanet. |  |  |  | 630 |
+| **[uk-retail-synthetic-data-generation](https://github.com/syncora-ai/uk-retail-synthetic-data-generation)** | Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving, realistic synthetic data for testing, analysis, and machine learning. |  |  |  | 609 |
+| **[horizon](https://github.com/dnlzro/horizon)** | The current sky at your approximate location, rendered as a CSS gradient | TypeScript |  | <details><summary>astro...</summary><p>astro, css, graphics, html-day</p></details> | 494 |
+| **[vipe](https://github.com/nv-tlabs/vipe)** | ViPE: Video Pose Engine for Geometric 3D Perception | Python |  | <details><summary>3d, c...</summary><p>3d, camera, depth-estimation, slam</p></details> | 370 |
+| **[uwu](https://github.com/context-labs/uwu)** |  | TypeScript |  |  | 369 |
+| **[nixos-wizard](https://github.com/km-clay/nixos-wizard)** | A TUI installer for NixOS | Rust |  |  | 358 |
+| **[Qwen-Image-Lightning](https://github.com/ModelTC/Qwen-Image-Lightning)** | Qwen-Image-Lightning: Speed up Qwen-Image model with distillation | Python |  |  | 326 |
+| **[claude-code-configs](https://github.com/Matt-Dionis/claude-code-configs)** |  | Shell |  |  | 319 |
+| **[RLFromScratch](https://github.com/mingyin0312/RLFromScratch)** |  | Python |  |  | 275 |
+| **[Matrix-3D](https://github.com/SkyworkAI/Matrix-3D)** | Generate large-scale explorable 3D scenes with high-quality panorama videos from a single image or text prompt. | Python |  | <details><summary>3d-ge...</summary><p>3d-generation, 3d-reconstruction, 3d-scene-generation, aigc, aigc3d, genie, genie3, graphics, image-to-3d, image-to-video, panorama-synthesis, scene-generation, text-to-3d, text-to-video, video-generation, world-models</p></details> | 264 |
+| **[tilf](https://github.com/danterolle/tilf)** | Tilf (Tiny Elf) is a simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo, and export options. | Python |  | <details><summary>cross...</summary><p>cross-platform, crossplatform, desktop-app, drag-and-drop, drawing, graphics, gui, pixel-art, pyside6, python, qt6, sprites, tiles</p></details> | 260 |
+| **[LIVE](https://github.com/mursor1985/LIVE)** | mursor的LIVE仓库 |  |  |  | 201 |
+| **[OpenWrt-momo](https://github.com/nikkinikki-org/OpenWrt-momo)** | Transparent Proxy with sing-box on OpenWrt. | Shell |  | <details><summary>luci-...</summary><p>luci-app, luci-app-momo, momo, openwrt, sing-box, transparent-proxy</p></details> | 164 |
+| **[vectorless](https://github.com/roe-ai/vectorless)** |  | TypeScript |  |  | 160 |
+| **[CCometixLine](https://github.com/Haleclipse/CCometixLine)** | High-performance Claude Code statusline tool written in Rust | Rust |  |  | 159 |
+| **[browser-echo](https://github.com/instructa/browser-echo)** | ⚡ Stream browser logs to terminal, zero setup, perfect for Ai Agents | TypeScript |  | <details><summary>ai, b...</summary><p>ai, browser, claude-code, codex-cli, cursor, gemini-cli, llm, log, logging</p></details> | 158 |
+| **[StableAvatar](https://github.com/Francis-Rings/StableAvatar)** | We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a reference image and audio. | Python |  |  | 158 |
+| **[GENAI_graduation_projects](https://github.com/h9-tec/GENAI_graduation_projects)** |  |  |  |  | 156 |
 
