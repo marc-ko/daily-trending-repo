@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-08-15
+Last update: 2025-08-16
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-08-15
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[LunaTV](https://github.com/MoonTechLab/LunaTV)** |  |  |  |  | 1183 |
-| **[uk-retail-synthetic-data-generation](https://github.com/syncora-ai/uk-retail-synthetic-data-generation)** | Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving, realistic synthetic data for testing, analysis, and machine learning. |  |  |  | 669 |
-| **[horizon](https://github.com/dnlzro/horizon)** | The current sky at your approximate location, rendered as a CSS gradient | TypeScript |  | <details><summary>astro...</summary><p>astro, css, graphics, html-day</p></details> | 541 |
-| **[vipe](https://github.com/nv-tlabs/vipe)** | ViPE: Video Pose Engine for Geometric 3D Perception | Python |  | <details><summary>3d, c...</summary><p>3d, camera, depth-estimation, slam</p></details> | 532 |
-| **[uwu](https://github.com/context-labs/uwu)** |  | TypeScript |  |  | 384 |
-| **[RLFromScratch](https://github.com/mingyin0312/RLFromScratch)** |  | Python |  |  | 353 |
-| **[Qwen-Image-Lightning](https://github.com/ModelTC/Qwen-Image-Lightning)** | Qwen-Image-Lightning: Speed up Qwen-Image model with distillation | Python |  |  | 352 |
-| **[claude-code-configs](https://github.com/Matt-Dionis/claude-code-configs)** |  | TypeScript |  |  | 347 |
-| **[Matrix-3D](https://github.com/SkyworkAI/Matrix-3D)** | Generate large-scale explorable 3D scenes with high-quality panorama videos from a single image or text prompt. | Python |  | <details><summary>3d-ge...</summary><p>3d-generation, 3d-reconstruction, 3d-scene-generation, aigc, aigc3d, genie, genie3, graphics, image-to-3d, image-to-video, panorama-synthesis, scene-generation, text-to-3d, text-to-video, video-generation, world-models</p></details> | 306 |
-| **[StableAvatar](https://github.com/Francis-Rings/StableAvatar)** | We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a reference image and audio. | Python |  |  | 294 |
-| **[Frontrunning-Mev-Bot](https://github.com/Zalthorwb6BI/Frontrunning-Mev-Bot)** | TradeMaster AI: A revolutionary, hands-free trading platform for Ethereum and Binance Smart Chain. Harnesses innovative arbitrage, momentum, and range-bound strategies with a sleek interface. Lowers transaction costs and defends against MEV threats. Dive in at mevbot.online! |  |  | <details><summary>block...</summary><p>blockchain, bot, crypto-bot, cryptocurrency, dex, eth, ethereum, evm, mempool, mev, solana, solidity, trade-bot, trading, tradingbot, uniswap</p></details> | 237 |
-| **[deep-agents-ui](https://github.com/langchain-ai/deep-agents-ui)** | Custom UI for Deep Agents | TypeScript |  |  | 227 |
-| **[LIVE](https://github.com/mursor1985/LIVE)** | mursor的LIVE仓库 |  |  |  | 223 |
-| **[Gift-Buyer-Tg](https://github.com/MelnorCode/Gift-Buyer-Tg)** | A universal bot with many useful features for automatically sniping and buying Telegram gifts | Python |  | <details><summary>gift-...</summary><p>gift-buyer, python, telegram, telegram-gifts, telegrambot</p></details> | 223 |
-| **[whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking)** |  | Python |  |  | 222 |
-| **[Hunyuan-GameCraft-1.0](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0)** | Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition | Python |  |  | 212 |
-| **[Stand-In](https://github.com/WeChatCV/Stand-In)** | Stand-In is a lightweight, plug-and-play framework for identity-preserving video generation. | Python |  |  | 195 |
-| **[CCometixLine](https://github.com/Haleclipse/CCometixLine)** | High-performance Claude Code statusline tool written in Rust | Rust |  |  | 194 |
-| **[OpenWrt-momo](https://github.com/nikkinikki-org/OpenWrt-momo)** | Transparent Proxy with sing-box on OpenWrt. | Shell |  | <details><summary>luci-...</summary><p>luci-app, luci-app-momo, momo, openwrt, sing-box, transparent-proxy</p></details> | 181 |
-| **[browser-echo](https://github.com/instructa/browser-echo)** | ⚡ Stream browser logs to terminal, zero setup, perfect for Ai Agents | TypeScript |  | <details><summary>ai, b...</summary><p>ai, browser, claude-code, codex-cli, cursor, gemini-cli, llm, log, logging</p></details> | 176 |
+| **[LunaTV](https://github.com/MoonTechLab/LunaTV)** |  |  |  |  | 1497 |
+| **[uk-retail-synthetic-data-generation](https://github.com/syncora-ai/uk-retail-synthetic-data-generation)** | Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving, realistic synthetic data for testing, analysis, and machine learning. |  |  |  | 668 |
+| **[vipe](https://github.com/nv-tlabs/vipe)** | ViPE: Video Pose Engine for Geometric 3D Perception | Python |  | <details><summary>3d, c...</summary><p>3d, camera, depth-estimation, slam</p></details> | 595 |
+| **[uwu](https://github.com/context-labs/uwu)** |  | TypeScript |  |  | 398 |
+| **[StableAvatar](https://github.com/Francis-Rings/StableAvatar)** | We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a reference image and audio. | Python |  |  | 379 |
+| **[RLFromScratch](https://github.com/mingyin0312/RLFromScratch)** |  | Python |  |  | 369 |
+| **[claude-code-configs](https://github.com/Matt-Dionis/claude-code-configs)** |  | TypeScript |  |  | 358 |
+| **[Matrix-3D](https://github.com/SkyworkAI/Matrix-3D)** | Generate large-scale explorable 3D scenes with high-quality panorama videos from a single image or text prompt. | Python |  | <details><summary>3d-ge...</summary><p>3d-generation, 3d-reconstruction, 3d-scene-generation, aigc, aigc3d, genie, genie3, graphics, image-to-3d, image-to-video, panorama-synthesis, scene-generation, text-to-3d, text-to-video, video-generation, world-models</p></details> | 325 |
+| **[whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking)** |  | Python |  |  | 324 |
+| **[Hunyuan-GameCraft-1.0](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0)** | Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition | Python |  |  | 297 |
+| **[NextStep-1](https://github.com/stepfun-ai/NextStep-1)** |  | Python |  |  | 281 |
+| **[LIVE](https://github.com/mursor1985/LIVE)** | mursor的LIVE仓库 |  |  |  | 252 |
+| **[Stand-In](https://github.com/WeChatCV/Stand-In)** | Stand-In is a lightweight, plug-and-play framework for identity-preserving video generation. | Python |  |  | 239 |
+| **[Frontrunning-Mev-Bot](https://github.com/Zalthorwb6BI/Frontrunning-Mev-Bot)** | TradeMaster AI: A revolutionary, hands-free trading platform for Ethereum and Binance Smart Chain. Harnesses innovative arbitrage, momentum, and range-bound strategies with a sleek interface. Lowers transaction costs and defends against MEV threats. Dive in at mevbot.online! |  |  | <details><summary>block...</summary><p>blockchain, bot, crypto-bot, cryptocurrency, dex, eth, ethereum, evm, mempool, mev, solana, solidity, trade-bot, trading, tradingbot, uniswap</p></details> | 238 |
+| **[synapse-trading-bot](https://github.com/anthugeist/synapse-trading-bot)** | An multi-functional crypto trading bot. | Python |  | <details><summary>bitco...</summary><p>bitcoin, bitcoin-trading, crypto, cryptocurrency, open-source, trading, trading-bot, trading-strategies, trading-systems, trading-tool</p></details> | 214 |
+| **[CCometixLine](https://github.com/Haleclipse/CCometixLine)** | High-performance Claude Code statusline tool written in Rust | Rust |  |  | 208 |
+| **[EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn)** | A tweak to enhance Spotify experience | Swift |  |  | 195 |
+| **[browser-echo](https://github.com/instructa/browser-echo)** | ⚡ Stream browser logs to terminal, zero setup, perfect for Ai Agents | TypeScript |  | <details><summary>ai, b...</summary><p>ai, browser, claude-code, codex-cli, cursor, gemini-cli, llm, log, logging</p></details> | 188 |
+| **[org-social](https://github.com/tanrax/org-social)** | Org-social is a decentralized social network that runs on an Org Mode file over HTTP. | Emacs Lisp |  |  | 179 |
+| **[free-vps-py](https://github.com/byJoey/free-vps-py)** |  | Shell |  |  | 160 |
 
