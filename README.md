@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-08-18
+Last update: 2025-08-19
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-08-18
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[LunaTV](https://github.com/MoonTechLab/LunaTV)** |  |  |  |  | 2035 |
-| **[synapse-bot](https://github.com/anthugeist/synapse-bot)** | A free, opensource, multi functional crypto trading bot. It combines flexibility, speed and extensibility, allowing the user to effectively interact with exchanges, analyze data and make trading decisions in real time. | Python |  | <details><summary>bitco...</summary><p>bitcoin, bitcoin-trading, crypto, cryptocurrency, open-source, trading, trading-bot, trading-strategies, trading-systems, trading-tool</p></details> | 507 |
-| **[warzone-cheat](https://github.com/BO6-Warzone-cheat/warzone-cheat)** | Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy. |  |  |  | 471 |
-| **[keyboard-signature](https://github.com/cnrad/keyboard-signature)** | keyboard-based digital signatures | TypeScript |  |  | 426 |
-| **[RLFromScratch](https://github.com/mingyin0312/RLFromScratch)** |  | Python |  |  | 387 |
-| **[Stand-In](https://github.com/WeChatCV/Stand-In)** | Stand-In is a lightweight, plug-and-play framework for identity-preserving video generation. | Python |  |  | 382 |
-| **[NextStep-1](https://github.com/stepfun-ai/NextStep-1)** |  | Python |  |  | 357 |
-| **[Hunyuan-GameCraft-1.0](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0)** | Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition | Python |  |  | 356 |
-| **[EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn)** | A tweak to enhance Spotify experience | Swift |  |  | 270 |
-| **[doxx](https://github.com/bgreenwell/doxx)** | Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! | Rust |  |  | 243 |
-| **[overtype](https://github.com/panphora/overtype)** |  | JavaScript |  |  | 237 |
-| **[Gift-Buyer](https://github.com/blindxvc/Gift-Buyer)** | A universal bot for automatically sniping and buying Telegram gifts | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-sniper, opensource, python, telegram-gift-buyer, telegramgift</p></details> | 219 |
-| **[vllm-cli](https://github.com/Chen-zexi/vllm-cli)** | A command-line interface tool for serving LLM using vLLM. | Python |  | <details><summary>llm, ...</summary><p>llm, llm-tools, vllm</p></details> | 217 |
-| **[lue](https://github.com/superstarryeyes/lue)** | Terminal eBook Reader with Text-to-Speech | Python |  | <details><summary>book,...</summary><p>book, cli, doc, docx, ebook, epub, modular, pdf, reader, terminal, text-to-speech, tts, txt, voice</p></details> | 208 |
-| **[deepagents](https://github.com/sagar-n/deepagents)** |  | Python |  |  | 204 |
-| **[org-social](https://github.com/tanrax/org-social)** | Org-social is a decentralized social network that runs on an Org Mode file over HTTP. |  |  |  | 198 |
-| **[Crypto-Asset-Tracing-Handbook](https://github.com/slowmist/Crypto-Asset-Tracing-Handbook)** |  |  |  |  | 167 |
-| **[gpoParser](https://github.com/synacktiv/gpoParser)** | gpoParser is a tool designed to extract and analyze configurations applied through Group Policy Objects (GPOs) in an Active Directory environment. | Python |  | <details><summary>activ...</summary><p>active-directory, gpo, pentest-tool, red-team</p></details> | 162 |
-| **[claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows)** | The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup. |  |  |  | 158 |
-| **[Awesome-Flow-RL-Papers](https://github.com/Tonghe-Zhang/Awesome-Flow-RL-Papers)** | A collection of paper/projects that trains flow matching model/policies via RL.  |  |  |  | 154 |
+| **[doxx](https://github.com/bgreenwell/doxx)** | Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! | Rust |  | <details><summary>cli, ...</summary><p>cli, docx, msword, render, rust, terminal, tui</p></details> | 929 |
+| **[overtype](https://github.com/panphora/overtype)** | The markdown editor that's just a textarea https://overtype.dev | JavaScript |  |  | 713 |
+| **[synapse-bot](https://github.com/anthugeist/synapse-bot)** | A free, opensource, multi functional crypto trading bot. It combines flexibility, speed and extensibility, allowing the user to effectively interact with exchanges, analyze data and make trading decisions in real time. | Python |  | <details><summary>bitco...</summary><p>bitcoin, bitcoin-trading, crypto, cryptocurrency, open-source, trading, trading-bot, trading-strategies, trading-systems, trading-tool</p></details> | 632 |
+| **[keyboard-signature](https://github.com/cnrad/keyboard-signature)** | keyboard-based digital signatures | TypeScript |  |  | 611 |
+| **[NextStep-1](https://github.com/stepfun-ai/NextStep-1)** |  | Python |  |  | 425 |
+| **[Hunyuan-GameCraft-1.0](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0)** | Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition | Python |  |  | 422 |
+| **[warzone-cheat](https://github.com/BO6-Warzone-cheat/warzone-cheat)** | Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy. |  |  |  | 362 |
+| **[vllm-cli](https://github.com/Chen-zexi/vllm-cli)** | A command-line interface tool for serving LLM using vLLM. | Python |  | <details><summary>llm, ...</summary><p>llm, llm-tools, vllm</p></details> | 303 |
+| **[betterbahn](https://github.com/l2xu/betterbahn)** |  | JavaScript |  |  | 296 |
+| **[EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn)** | A tweak to enhance Spotify experience | Swift |  |  | 295 |
+| **[deepagents](https://github.com/sagar-n/deepagents)** |  | Python |  |  | 282 |
+| **[lue](https://github.com/superstarryeyes/lue)** | Terminal eBook Reader with Text-to-Speech | Python |  | <details><summary>book,...</summary><p>book, cli, doc, docx, ebook, epub, modular, pdf, reader, terminal, text-to-speech, tts, txt, voice</p></details> | 236 |
+| **[PocketChest](https://github.com/Hzao/PocketChest)** | Secure, serverless file and text sharing built on Cloudflare with large file support. | TypeScript |  |  | 228 |
+| **[ChatMock](https://github.com/RayBytes/ChatMock)** | Access OpenAI models programmatically through your ChatGPT subscription. | Python |  |  | 224 |
+| **[Gift-Buyer](https://github.com/blindxvc/Gift-Buyer)** | A universal bot for automatically sniping and buying Telegram gifts | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-sniper, opensource, python, telegram-gift-buyer, telegramgift</p></details> | 220 |
+| **[global-testflight-link](https://github.com/fmz200/global-testflight-link)** | 收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS/iPadOS/MacOS Testflight links. |  |  |  | 195 |
+| **[gpoParser](https://github.com/synacktiv/gpoParser)** | gpoParser is a tool designed to extract and analyze configurations applied through Group Policy Objects (GPOs) in an Active Directory environment. | Python |  | <details><summary>activ...</summary><p>active-directory, gpo, pentest-tool, red-team</p></details> | 193 |
+| **[Crypto-Asset-Tracing-Handbook](https://github.com/slowmist/Crypto-Asset-Tracing-Handbook)** |  |  |  |  | 178 |
+| **[Awesome-Flow-RL-Papers](https://github.com/Tonghe-Zhang/Awesome-Flow-RL-Papers)** | A collection of paper/projects that trains flow matching model/policies via RL.  |  |  |  | 167 |
+| **[ViewState-Cracker](https://github.com/whwlsfb/ViewState-Cracker)** | ASP.net ViewState密钥被动扫描爆破BurpSuite插件 | Java |  |  | 157 |
 
