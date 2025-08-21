@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - August 20, 2025
+title: Latest 10 Trending Repositories - August 21, 2025
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: August 20, 2025
+### 📅 Date: August 21, 2025
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[doxx](https://github.com/bgreenwell/doxx)** | Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! | Rust |  | <details><summary>cli, ...</summary><p>cli, docx, msword, render, rust, terminal, tui</p></details> | 1062 |
-| **[overtype](https://github.com/panphora/overtype)** | The markdown editor that's just a textarea https://overtype.dev | JavaScript |  |  | 991 |
-| **[keyboard-signature](https://github.com/cnrad/keyboard-signature)** | keyboard-based digital signatures | TypeScript |  |  | 653 |
-| **[synapse-bot](https://github.com/anthugeist/synapse-bot)** | A free, opensource, multi functional crypto trading bot. It combines flexibility, speed and extensibility, allowing the user to effectively interact with exchanges, analyze data and make trading decisions in real time. | Python |  | <details><summary>bitco...</summary><p>bitcoin, bitcoin-trading, crypto, cryptocurrency, open-source, trading, trading-bot, trading-strategies, trading-systems, trading-tool</p></details> | 634 |
-| **[NextStep-1](https://github.com/stepfun-ai/NextStep-1)** |  | Python |  |  | 456 |
-| **[betterbahn](https://github.com/l2xu/betterbahn)** |  | JavaScript |  |  | 408 |
-| **[warzone-cheat](https://github.com/BO6-Warzone-cheat/warzone-cheat)** | Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy. |  |  |  | 362 |
-| **[ChatMock](https://github.com/RayBytes/ChatMock)** | Access OpenAI models programmatically through your ChatGPT subscription. | Python |  |  | 362 |
-| **[vllm-cli](https://github.com/Chen-zexi/vllm-cli)** | A command-line interface tool for serving LLM using vLLM. | Python |  | <details><summary>llm, ...</summary><p>llm, llm-inference, llm-tools, vllm</p></details> | 329 |
-| **[EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn)** | A tweak to enhance Spotify experience | Swift |  |  | 326 |
+| **[agents.md](https://github.com/openai/agents.md)** | AGENTS.md — a simple, open format for guiding coding agents | TypeScript |  |  | 1639 |
+| **[doxx](https://github.com/bgreenwell/doxx)** | Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! | Rust |  | <details><summary>cli, ...</summary><p>cli, docx, msword, render, rust, terminal, tui</p></details> | 1165 |
+| **[overtype](https://github.com/panphora/overtype)** | The markdown editor that's just a textarea https://overtype.dev | JavaScript |  |  | 1147 |
+| **[ccpm](https://github.com/automazeio/ccpm)** | Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. | Shell |  | <details><summary>ai-ag...</summary><p>ai-agents, ai-coding, claude, claude-code, project-management, vibe-coding</p></details> | 730 |
+| **[streamdown](https://github.com/vercel/streamdown)** | A drop-in replacement for react-markdown, designed for AI-powered streaming. | TypeScript |  | <details><summary>ai, m...</summary><p>ai, markdown, streaming</p></details> | 708 |
+| **[keyboard-signature](https://github.com/cnrad/keyboard-signature)** | keyboard-based digital signatures | TypeScript |  |  | 664 |
+| **[mobile-use](https://github.com/minitap-ai/mobile-use)** | AI agents can now use real Android and iOS apps, just like a human. | Python |  | <details><summary>agent...</summary><p>agents, ai, browser-use, langgraph, mobile, mobile-use, python</p></details> | 636 |
+| **[rendergit](https://github.com/karpathy/rendergit)** | Render any git repo into a single static HTML page for humans or LLMs | Python |  |  | 542 |
+| **[Open-Fiesta](https://github.com/NiladriHazra/Open-Fiesta)** | I just made an open-source version of  Dhruv Rathee's  AI startup.  Even with more models :) | TypeScript |  |  | 505 |
+| **[betterbahn](https://github.com/l2xu/betterbahn)** |  | JavaScript |  |  | 427 |
 
