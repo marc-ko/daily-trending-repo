@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-08-21
+Last update: 2025-08-22
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-08-21
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[agents.md](https://github.com/openai/agents.md)** | AGENTS.md — a simple, open format for guiding coding agents | TypeScript |  |  | 1639 |
-| **[doxx](https://github.com/bgreenwell/doxx)** | Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! | Rust |  | <details><summary>cli, ...</summary><p>cli, docx, msword, render, rust, terminal, tui</p></details> | 1165 |
-| **[overtype](https://github.com/panphora/overtype)** | The markdown editor that's just a textarea https://overtype.dev | JavaScript |  |  | 1147 |
-| **[ccpm](https://github.com/automazeio/ccpm)** | Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. | Shell |  | <details><summary>ai-ag...</summary><p>ai-agents, ai-coding, claude, claude-code, project-management, vibe-coding</p></details> | 730 |
-| **[streamdown](https://github.com/vercel/streamdown)** | A drop-in replacement for react-markdown, designed for AI-powered streaming. | TypeScript |  | <details><summary>ai, m...</summary><p>ai, markdown, streaming</p></details> | 708 |
-| **[keyboard-signature](https://github.com/cnrad/keyboard-signature)** | keyboard-based digital signatures | TypeScript |  |  | 664 |
-| **[mobile-use](https://github.com/minitap-ai/mobile-use)** | AI agents can now use real Android and iOS apps, just like a human. | Python |  | <details><summary>agent...</summary><p>agents, ai, browser-use, langgraph, mobile, mobile-use, python</p></details> | 636 |
-| **[rendergit](https://github.com/karpathy/rendergit)** | Render any git repo into a single static HTML page for humans or LLMs | Python |  |  | 542 |
-| **[Open-Fiesta](https://github.com/NiladriHazra/Open-Fiesta)** | I just made an open-source version of  Dhruv Rathee's  AI startup.  Even with more models :) | TypeScript |  |  | 505 |
-| **[betterbahn](https://github.com/l2xu/betterbahn)** |  | JavaScript |  |  | 427 |
-| **[av](https://github.com/auv-sh/av)** | An extremely fast av movie  manager, written in Rust. | Rust |  |  | 423 |
-| **[ChatMock](https://github.com/RayBytes/ChatMock)** | Access OpenAI models programmatically through your ChatGPT subscription. | Python |  |  | 420 |
-| **[PocketChest](https://github.com/Hzao/PocketChest)** | Secure, serverless file and text sharing built on Cloudflare with large file support. | TypeScript |  |  | 334 |
-| **[Thyme](https://github.com/yfzhang114/Thyme)** | Think Beyond Images | Python |  |  | 273 |
-| **[try](https://github.com/tobi/try)** | fresh directories for every vibe | Ruby |  |  | 271 |
-| **[warzone-cheat](https://github.com/BO6-Warzone-cheat/warzone-cheat)** | Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy. |  |  |  | 261 |
-| **[DllShimmer](https://github.com/Print3M/DllShimmer)** | Weaponize DLL hijacking easily. Backdoor any function in any DLL. | Go |  | <details><summary>backd...</summary><p>backdoor, dll-hijacking, dll-sideloading, golang, initial-access, malware, pentesting, persistence, redteam, security, security-tools, windows, windows-security</p></details> | 261 |
-| **[lue](https://github.com/superstarryeyes/lue)** | Terminal eBook Reader with Text-to-Speech | Python |  | <details><summary>book,...</summary><p>book, cli, doc, docx, ebook, epub, modular, pdf, reader, terminal, text-to-speech, tts, txt, voice</p></details> | 259 |
-| **[Complete-RoadMap-To-Learn-AI](https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI)** |  |  |  |  | 250 |
-| **[global-testflight-link](https://github.com/fmz200/global-testflight-link)** | 收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS/iPadOS/MacOS Testflight links. |  |  |  | 226 |
+| **[agents.md](https://github.com/openai/agents.md)** | AGENTS.md — a simple, open format for guiding coding agents | TypeScript |  |  | 2401 |
+| **[doxx](https://github.com/bgreenwell/doxx)** | Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! | Rust |  | <details><summary>cli, ...</summary><p>cli, docx, msword, render, rust, terminal, tui</p></details> | 1527 |
+| **[ccpm](https://github.com/automazeio/ccpm)** | Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. | Shell |  | <details><summary>ai-ag...</summary><p>ai-agents, ai-coding, claude, claude-code, project-management, vibe-coding</p></details> | 1157 |
+| **[mobile-use](https://github.com/minitap-ai/mobile-use)** | AI agents can now use real Android and iOS apps, just like a human. | Python |  | <details><summary>agent...</summary><p>agents, ai, browser-use, langgraph, mobile, mobile-use, python</p></details> | 914 |
+| **[rendergit](https://github.com/karpathy/rendergit)** | Render any git repo into a single static HTML page for humans or LLMs | Python |  |  | 885 |
+| **[keyboard-signature](https://github.com/cnrad/keyboard-signature)** | keyboard-based digital signatures | TypeScript |  |  | 673 |
+| **[Open-Fiesta](https://github.com/NiladriHazra/Open-Fiesta)** | An open-source version of  Dhruv Rathee's  AI startup.  Even with more models :) | TypeScript |  |  | 548 |
+| **[av](https://github.com/auv-sh/av)** | An extremely fast movie  manager, written in Rust. | Rust |  |  | 482 |
+| **[try](https://github.com/tobi/try)** | fresh directories for every vibe | Ruby |  |  | 408 |
+| **[DiffMem](https://github.com/Growth-Kinetics/DiffMem)** | Git Based Memory Storage for Conversational AI Agent | Python |  |  | 372 |
+| **[PocketChest](https://github.com/Hzao/PocketChest)** | Secure, serverless file and text sharing built on Cloudflare with large file support. | TypeScript |  |  | 356 |
+| **[lue](https://github.com/superstarryeyes/lue)** | Terminal eBook Reader with Text-to-Speech | Python |  | <details><summary>book,...</summary><p>book, cli, doc, docx, ebook, epub, modular, pdf, reader, terminal, text-to-speech, tts, txt, voice</p></details> | 325 |
+| **[Complete-RoadMap-To-Learn-AI](https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI)** |  |  |  |  | 305 |
+| **[Thyme](https://github.com/yfzhang114/Thyme)** | Think Beyond Images | Python |  |  | 299 |
+| **[DllShimmer](https://github.com/Print3M/DllShimmer)** | Weaponize DLL hijacking easily. Backdoor any function in any DLL. | Go |  | <details><summary>backd...</summary><p>backdoor, dll-hijacking, dll-sideloading, golang, initial-access, malware, pentesting, persistence, redteam, security, security-tools, windows, windows-security</p></details> | 287 |
+| **[global-testflight-link](https://github.com/fmz200/global-testflight-link)** | 收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS/iPadOS/MacOS Testflight links. |  |  |  | 243 |
+| **[Gift-Buyer](https://github.com/blindxvc/Gift-Buyer)** | A universal bot for automatically sniping and buying Telegram gifts | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-sniper, opensource, python, telegram-gift-buyer, telegramgift</p></details> | 224 |
+| **[Datarus-JupyterAgent](https://github.com/DatarusAI/Datarus-JupyterAgent)** | A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model | Python |  |  | 214 |
+| **[warzone-cheat](https://github.com/BO6-Warzone-cheat/warzone-cheat)** | Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy. |  |  |  | 204 |
+| **[t3chat-composio](https://github.com/ComposioHQ/t3chat-composio)** |  | TypeScript |  |  | 189 |
 
