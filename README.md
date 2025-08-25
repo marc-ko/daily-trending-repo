@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-08-24
+Last update: 2025-08-25
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-08-24
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[agents.md](https://github.com/openai/agents.md)** | AGENTS.md — a simple, open format for guiding coding agents | TypeScript |  |  | 3170 |
-| **[ccpm](https://github.com/automazeio/ccpm)** | Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. | Shell |  | <details><summary>ai-ag...</summary><p>ai-agents, ai-coding, claude, claude-code, project-management, vibe-coding</p></details> | 1495 |
-| **[rendergit](https://github.com/karpathy/rendergit)** | Render any git repo into a single static HTML page for humans or LLMs | Python |  |  | 1119 |
-| **[Open-Fiesta](https://github.com/NiladriHazra/Open-Fiesta)** | An open-source version of  Dhruv Rathee's  AI startup.  Even with more models :) | TypeScript |  |  | 651 |
-| **[Claudable](https://github.com/opactorai/Claudable)** | Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly. | TypeScript |  |  | 562 |
-| **[av](https://github.com/auv-sh/av)** | An extremely fast movie  manager, written in Rust. | Rust |  |  | 495 |
-| **[try](https://github.com/tobi/try)** | fresh directories for every vibe | Ruby |  |  | 489 |
-| **[DiffMem](https://github.com/Growth-Kinetics/DiffMem)** | Git Based Memory Storage for Conversational AI Agent | Python |  |  | 465 |
-| **[nstr](https://github.com/shuding/nstr)** | number → string, but looks good | TypeScript |  |  | 364 |
-| **[librebox-demo](https://github.com/librebox-devs/librebox-demo)** | Librebox – Open-source Luau 3D engine (API-compatible) | C++ |  |  | 264 |
-| **[FocusDPO](https://github.com/bytedance-fanqie-ai/FocusDPO)** |  |  |  |  | 218 |
-| **[MOSAIC](https://github.com/bytedance-fanqie-ai/MOSAIC)** |  |  |  |  | 214 |
-| **[Datarus-JupyterAgent](https://github.com/DatarusAI/Datarus-JupyterAgent)** | A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model | Python |  |  | 202 |
-| **[scam-max-disabler](https://github.com/scaik/scam-max-disabler)** | Позволяет убедительно показать, что Max «не работает» на вашем устройстве в ситуациях, когда требуют его установку | Kotlin |  |  | 202 |
-| **[t3chat-composio](https://github.com/ComposioHQ/t3chat-composio)** |  | TypeScript |  |  | 192 |
-| **[fenrir](https://github.com/R0rt1z2/fenrir)** | Bootchain exploit for MediaTek devices | Python |  |  | 190 |
-| **[RFdiffusion2](https://github.com/RosettaCommons/RFdiffusion2)** |  | Python |  |  | 179 |
-| **[GroupPolicyBackdoor](https://github.com/synacktiv/GroupPolicyBackdoor)** | Group Policy Objects manipulation and exploitation framework | Python |  |  | 161 |
-| **[pumpfun-bundler](https://github.com/printz-labs/pumpfun-bundler)** | PumpFun bundler is a bundling tool to create/buy token in single bundle for Pumpfun with 20 wallets | TypeScript |  | <details><summary>bundl...</summary><p>bundler, bundler-bot, pumpfun-bundler</p></details> | 156 |
-| **[1ai](https://github.com/code100x/1ai)** |  | TypeScript |  |  | 148 |
+| **[agents.md](https://github.com/openai/agents.md)** | AGENTS.md — a simple, open format for guiding coding agents | TypeScript |  |  | 3376 |
+| **[rendergit](https://github.com/karpathy/rendergit)** | Render any git repo into a single static HTML page for humans or LLMs | Python |  |  | 1174 |
+| **[Claudable](https://github.com/opactorai/Claudable)** | Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly. | TypeScript |  |  | 808 |
+| **[try](https://github.com/tobi/try)** | fresh directories for every vibe | Ruby |  |  | 502 |
+| **[av](https://github.com/auv-sh/av)** | An extremely fast movie  manager, written in Rust. | Rust |  |  | 499 |
+| **[DiffMem](https://github.com/Growth-Kinetics/DiffMem)** | Git Based Memory Storage for Conversational AI Agent | Python |  |  | 484 |
+| **[nstr](https://github.com/shuding/nstr)** | number → string, but looks good | TypeScript |  |  | 444 |
+| **[lunar-test](https://github.com/lunarengine/lunar-test)** | LunarEngine – Open-source Luau 3D engine (API-compatible) | C++ |  |  | 371 |
+| **[pumpfun-bundler](https://github.com/printz-labs/pumpfun-bundler)** | PumpFun bundler is a bundling tool to create/buy token in single bundle for Pumpfun with 20 wallets | TypeScript |  | <details><summary>bundl...</summary><p>bundler, bundler-bot, pumpfun-bundler</p></details> | 344 |
+| **[copytrading-bot-solana](https://github.com/printz-labs/copytrading-bot-solana)** | Copy trading bot(copytrading bot): copy the trader's trading on solana, This copy trading bot can work on any DEXs on Solana | TypeScript |  | <details><summary>auto-...</summary><p>auto-trade-bot, bot, copy-trade, copy-trading, copytrading, dexscreener, jupiter, raydium-bot, solana, solana-trade-bot, trade, trade-bot, trading</p></details> | 341 |
+| **[solana-raydium-pumpfun-sniper-Rust](https://github.com/printz-labs/solana-raydium-pumpfun-sniper-Rust)** | solana raydium sniper/pumpfun sniper: this solana raydium sniper/pumpfun sniper is written in Rust⚡. In addtion to these solana raydium | Rust |  | <details><summary>copyt...</summary><p>copytradingbot, geyser, grpc, helius, nextblock, pumpdotfun, pumpfun-pumpswap-migration, raydium-bundler-bot, raydium-snier-bot, spl-token-swap, yellowstone</p></details> | 327 |
+| **[bonkfun-sniper](https://github.com/printz-labs/bonkfun-sniper)** | 🎯Solana Sniper Sets: ✅Raydium Bonkfun Sniper, ✅Pumpfun Sniper, ✅Migration Sniper and ✅Meteora Sniper | TypeScript |  | <details><summary>bonkb...</summary><p>bonkbot, bonkfun, letsbonk, letsbonkfun, pumpdotfun, sniper, solana, trading</p></details> | 322 |
+| **[pumpswap-bot-solana](https://github.com/printz-labs/pumpswap-bot-solana)** | A PumpSwap trading bot for Solana. Also supports CPMM/OpenBook Raydium. Same-TX or human mode. | TypeScript |  | <details><summary>pumps...</summary><p>pumpswap, pumpswap-bot, pumpswap-bundler, pumpswap-buy-bot, pumpswap-copy-trading-bot, pumpswap-volume-bot</p></details> | 320 |
+| **[FocusDPO](https://github.com/bytedance-fanqie-ai/FocusDPO)** |  |  |  |  | 272 |
+| **[MOSAIC](https://github.com/bytedance-fanqie-ai/MOSAIC)** |  |  |  |  | 268 |
+| **[port-kill](https://github.com/kagehq/port-kill)** | A lightweight mac status bar development port monitor | Rust |  |  | 230 |
+| **[scam-max-disabler](https://github.com/scaik/scam-max-disabler)** | Позволяет убедительно показать, что Max «не работает» на вашем устройстве в ситуациях, когда требуют его установку | Kotlin |  |  | 224 |
+| **[TG-2025](https://github.com/CallToSta/TG-2025)** | Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions. | Python |  | <details><summary>adder...</summary><p>adder, hidden-members, mass-dm, members-adding-scri, members-adding-script, members-script, scraper-telegram, scraper-tools, shilling-bot, tele-marketing, tele-scraper-bot, telegarm-scrape, telegram, telegram-reporter-botss, telegram-scraper2025, telegram-username-checker, telegramadder, telegrambot, telegramgroups, telegramscraper</p></details> | 211 |
+| **[Datarus-JupyterAgent](https://github.com/DatarusAI/Datarus-JupyterAgent)** | A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model | Python |  |  | 205 |
+| **[functorio](https://github.com/konne88/functorio)** |  | Lean |  |  | 194 |
 
