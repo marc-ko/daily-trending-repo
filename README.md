@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-08-25
+Last update: 2025-08-26
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-08-25
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[agents.md](https://github.com/openai/agents.md)** | AGENTS.md — a simple, open format for guiding coding agents | TypeScript |  |  | 3376 |
-| **[rendergit](https://github.com/karpathy/rendergit)** | Render any git repo into a single static HTML page for humans or LLMs | Python |  |  | 1174 |
-| **[Claudable](https://github.com/opactorai/Claudable)** | Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly. | TypeScript |  |  | 808 |
-| **[try](https://github.com/tobi/try)** | fresh directories for every vibe | Ruby |  |  | 502 |
-| **[av](https://github.com/auv-sh/av)** | An extremely fast movie  manager, written in Rust. | Rust |  |  | 499 |
-| **[DiffMem](https://github.com/Growth-Kinetics/DiffMem)** | Git Based Memory Storage for Conversational AI Agent | Python |  |  | 484 |
-| **[nstr](https://github.com/shuding/nstr)** | number → string, but looks good | TypeScript |  |  | 444 |
-| **[lunar-test](https://github.com/lunarengine/lunar-test)** | LunarEngine – Open-source Luau 3D engine (API-compatible) | C++ |  |  | 371 |
-| **[pumpfun-bundler](https://github.com/printz-labs/pumpfun-bundler)** | PumpFun bundler is a bundling tool to create/buy token in single bundle for Pumpfun with 20 wallets | TypeScript |  | <details><summary>bundl...</summary><p>bundler, bundler-bot, pumpfun-bundler</p></details> | 344 |
-| **[copytrading-bot-solana](https://github.com/printz-labs/copytrading-bot-solana)** | Copy trading bot(copytrading bot): copy the trader's trading on solana, This copy trading bot can work on any DEXs on Solana | TypeScript |  | <details><summary>auto-...</summary><p>auto-trade-bot, bot, copy-trade, copy-trading, copytrading, dexscreener, jupiter, raydium-bot, solana, solana-trade-bot, trade, trade-bot, trading</p></details> | 341 |
-| **[solana-raydium-pumpfun-sniper-Rust](https://github.com/printz-labs/solana-raydium-pumpfun-sniper-Rust)** | solana raydium sniper/pumpfun sniper: this solana raydium sniper/pumpfun sniper is written in Rust⚡. In addtion to these solana raydium | Rust |  | <details><summary>copyt...</summary><p>copytradingbot, geyser, grpc, helius, nextblock, pumpdotfun, pumpfun-pumpswap-migration, raydium-bundler-bot, raydium-snier-bot, spl-token-swap, yellowstone</p></details> | 327 |
-| **[bonkfun-sniper](https://github.com/printz-labs/bonkfun-sniper)** | 🎯Solana Sniper Sets: ✅Raydium Bonkfun Sniper, ✅Pumpfun Sniper, ✅Migration Sniper and ✅Meteora Sniper | TypeScript |  | <details><summary>bonkb...</summary><p>bonkbot, bonkfun, letsbonk, letsbonkfun, pumpdotfun, sniper, solana, trading</p></details> | 322 |
-| **[pumpswap-bot-solana](https://github.com/printz-labs/pumpswap-bot-solana)** | A PumpSwap trading bot for Solana. Also supports CPMM/OpenBook Raydium. Same-TX or human mode. | TypeScript |  | <details><summary>pumps...</summary><p>pumpswap, pumpswap-bot, pumpswap-bundler, pumpswap-buy-bot, pumpswap-copy-trading-bot, pumpswap-volume-bot</p></details> | 320 |
-| **[FocusDPO](https://github.com/bytedance-fanqie-ai/FocusDPO)** |  |  |  |  | 272 |
-| **[MOSAIC](https://github.com/bytedance-fanqie-ai/MOSAIC)** |  |  |  |  | 268 |
-| **[port-kill](https://github.com/kagehq/port-kill)** | A lightweight mac status bar development port monitor | Rust |  |  | 230 |
-| **[scam-max-disabler](https://github.com/scaik/scam-max-disabler)** | Позволяет убедительно показать, что Max «не работает» на вашем устройстве в ситуациях, когда требуют его установку | Kotlin |  |  | 224 |
-| **[TG-2025](https://github.com/CallToSta/TG-2025)** | Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions. | Python |  | <details><summary>adder...</summary><p>adder, hidden-members, mass-dm, members-adding-scri, members-adding-script, members-script, scraper-telegram, scraper-tools, shilling-bot, tele-marketing, tele-scraper-bot, telegarm-scrape, telegram, telegram-reporter-botss, telegram-scraper2025, telegram-username-checker, telegramadder, telegrambot, telegramgroups, telegramscraper</p></details> | 211 |
-| **[Datarus-JupyterAgent](https://github.com/DatarusAI/Datarus-JupyterAgent)** | A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model | Python |  |  | 205 |
-| **[functorio](https://github.com/konne88/functorio)** |  | Lean |  |  | 194 |
+| **[rendergit](https://github.com/karpathy/rendergit)** | Render any git repo into a single static HTML page for humans or LLMs | Python |  |  | 1226 |
+| **[Claudable](https://github.com/opactorai/Claudable)** | Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly. | TypeScript |  |  | 1056 |
+| **[DiffMem](https://github.com/Growth-Kinetics/DiffMem)** | Git Based Memory Storage for Conversational AI Agent | Python |  |  | 504 |
+| **[growchief](https://github.com/growchief/growchief)** | All-in Social media automation (outreach) tool 🤖 | TypeScript |  | <details><summary>autom...</summary><p>automation, n8n, nestjs, nodejs, outreach, social-media, temporal</p></details> | 501 |
+| **[nstr](https://github.com/shuding/nstr)** | number → string, but looks good | TypeScript |  |  | 496 |
+| **[VibeVoice](https://github.com/microsoft/VibeVoice)** | Frontier Open-Source Text-to-Speech | Python |  |  | 458 |
+| **[lunar-test](https://github.com/lunarengine/lunar-test)** | LunarEngine – Open-source Luau 3D engine (API-compatible) | C++ |  |  | 414 |
+| **[copytrading-bot-solana](https://github.com/printz-labs/copytrading-bot-solana)** | Copy trading bot(copytrading bot): copy the trader's trading on solana, This copy trading bot can work on any DEXs on Solana | TypeScript |  | <details><summary>auto-...</summary><p>auto-trade-bot, bot, copy-trade, copy-trading, copytrading, dexscreener, jupiter, raydium-bot, solana, solana-trade-bot, trade, trade-bot, trading</p></details> | 378 |
+| **[port-kill](https://github.com/kagehq/port-kill)** | A lightweight mac status bar development port monitor | Rust |  |  | 294 |
+| **[scam-max-disabler](https://github.com/scaik/scam-max-disabler)** | Позволяет убедительно показать, что Max «не работает» на вашем устройстве в ситуациях, когда требуют его установку | Kotlin |  |  | 239 |
+| **[PEP](https://github.com/ENDESGA/PEP)** | Prediction-Encoded Pixels - a tiny yet powerful pixel art compression method | C |  | <details><summary>c, co...</summary><p>c, compression, image-compression, pixel-art, single-header</p></details> | 230 |
+| **[Trading-Bot-Tools](https://github.com/topsecretagent007/Trading-Bot-Tools)** | Pumpfun, Bonkfun, Bagsfm, Raydium, Metaora, Sui, Heaven, | TypeScript |  | <details><summary>bagsf...</summary><p>bagsfm, bonkfun, bundler, copytrading, meteor, pumpdotfun, raydium, sniper, sui, volume</p></details> | 226 |
+| **[agent-c](https://github.com/bravenewxyz/agent-c)** | Ultra-lightweight AI Agent | C |  | <details><summary>agent...</summary><p>agent, ai-agent, openrouter</p></details> | 221 |
+| **[functorio](https://github.com/konne88/functorio)** |  | Lean |  |  | 216 |
+| **[TG-2025](https://github.com/CallToSta/TG-2025)** | Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions. | Python |  | <details><summary>adder...</summary><p>adder, hidden-members, mass-dm, members-adding-scri, members-adding-script, members-script, scraper-telegram, scraper-tools, shilling-bot, tele-marketing, tele-scraper-bot, telegarm-scrape, telegram, telegram-reporter-botss, telegram-scraper2025, telegram-username-checker, telegramadder, telegrambot, telegramgroups, telegramscraper</p></details> | 210 |
+| **[Datarus-JupyterAgent](https://github.com/DatarusAI/Datarus-JupyterAgent)** | A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model | Python |  |  | 210 |
+| **[GroupPolicyBackdoor](https://github.com/synacktiv/GroupPolicyBackdoor)** | Group Policy Objects manipulation and exploitation framework | Python |  |  | 202 |
+| **[Phantom](https://github.com/Team-intN18-SoybeanSeclab/Phantom)** | 一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置 | JavaScript |  |  | 195 |
+| **[warzone-cheat](https://github.com/warzone-cheats-aimbot/warzone-cheat)** | Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Improve aim, awareness, and tactical strategy. |  |  | warzone | 187 |
+| **[1ai](https://github.com/code100x/1ai)** |  | TypeScript |  |  | 180 |
 
