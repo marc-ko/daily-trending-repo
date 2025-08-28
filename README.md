@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-08-27
+Last update: 2025-08-28
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-08-27
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[growchief](https://github.com/growchief/growchief)** | The Ultimate all-in social media automation (outreach) tool 🤖 | TypeScript |  | <details><summary>autom...</summary><p>automation, n8n, nestjs, nodejs, outreach, social-media, temporal</p></details> | 2718 |
-| **[VibeVoice](https://github.com/microsoft/VibeVoice)** | Frontier Open-Source Text-to-Speech | Python |  |  | 1837 |
-| **[nstr](https://github.com/shuding/nstr)** | number → string, but looks good | TypeScript |  |  | 525 |
-| **[lunar-test](https://github.com/lunarengine/lunar-test)** | LunarEngine – Open-source Luau 3D engine (API-compatible) | C++ |  |  | 434 |
-| **[port-kill](https://github.com/kagehq/port-kill)** | A lightweight mac status bar development port monitor | Rust |  |  | 317 |
-| **[PEP](https://github.com/ENDESGA/PEP)** | Prediction-Encoded Pixels - a tiny yet powerful pixel art compression method | C |  | <details><summary>c, co...</summary><p>c, compression, image-compression, pixel-art, single-header</p></details> | 284 |
-| **[agent-c](https://github.com/bravenewxyz/agent-c)** | Ultra-lightweight AI Agent | C |  | <details><summary>agent...</summary><p>agent, ai-agent, openrouter</p></details> | 252 |
-| **[Phantom](https://github.com/Team-intN18-SoybeanSeclab/Phantom)** | 一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置 | JavaScript |  |  | 248 |
-| **[functorio](https://github.com/konne88/functorio)** |  | Lean |  |  | 222 |
+| **[VibeVoice](https://github.com/microsoft/VibeVoice)** | Frontier Open-Source Text-to-Speech | Python |  |  | 3896 |
+| **[lunar-test](https://github.com/lunarengine/lunar-test)** | LunarEngine – Open-source Luau 3D engine (API-compatible) | C++ |  |  | 443 |
+| **[vimmaster](https://github.com/renzorlive/vimmaster)** | VIM Master is a lightweight in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing. | HTML |  |  | 404 |
+| **[port-kill](https://github.com/kagehq/port-kill)** | A lightweight mac status bar development port monitor | Rust |  |  | 331 |
+| **[PEP](https://github.com/ENDESGA/PEP)** | Prediction-Encoded Pixels - a tiny yet powerful pixel art compression method | C |  | <details><summary>c, co...</summary><p>c, compression, image-compression, pixel-art, single-header</p></details> | 298 |
+| **[async-server](https://github.com/bkdevs/async-server)** | It's like Claude Code + Linear + GitHub PR | Python |  |  | 282 |
+| **[agent-c](https://github.com/bravenewxyz/agent-c)** | Ultra-lightweight AI Agent | C |  | <details><summary>agent...</summary><p>agent, ai-agent, openrouter</p></details> | 265 |
+| **[functorio](https://github.com/konne88/functorio)** |  | Lean |  |  | 227 |
 | **[TG-2025](https://github.com/CallToSta/TG-2025)** | Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions. | Python |  | <details><summary>adder...</summary><p>adder, hidden-members, mass-dm, members-adding-scri, members-adding-script, members-script, scraper-telegram, scraper-tools, shilling-bot, tele-marketing, tele-scraper-bot, telegarm-scrape, telegram, telegram-reporter-botss, telegram-scraper2025, telegram-username-checker, telegramadder, telegrambot, telegramgroups, telegramscraper</p></details> | 210 |
-| **[MEV-BOT-SMARTCONTRACT](https://github.com/AshlirabjRVG/MEV-BOT-SMARTCONTRACT)** | Easy create your own bot for trading, arbitrage, and more on Ethereum and other blockchains. No coding required! |  |  | <details><summary>arbit...</summary><p>arbitrage, blockchain, bnbnodejs, bot, crypto-bot, decentralized-exchanges, dex, ethereum, javascript, mempool, mev, passive, smart-contracts, solana, solidity, trade, trading, trump</p></details> | 204 |
+| **[semana-javascript-expert09](https://github.com/ErickWendel/semana-javascript-expert09)** | Criando um chatbot inteligente 100% offline e no navegador | JavaScript |  | <details><summary>chatb...</summary><p>chatbot, chatbot-widget, chrome, chrome-prompt-api, javascript, webai</p></details> | 205 |
+| **[ThinkMesh](https://github.com/martianlantern/ThinkMesh)** | Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly | Python |  |  | 204 |
 | **[warzone-cheat](https://github.com/warzone-cheats-aimbot/warzone-cheat)** | Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Improve aim, awareness, and tactical strategy. |  |  | warzone | 195 |
-| **[ThinkMesh](https://github.com/martianlantern/ThinkMesh)** | Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly | Python |  |  | 184 |
-| **[1ai](https://github.com/code100x/1ai)** |  | TypeScript |  |  | 183 |
-| **[repomirror](https://github.com/repomirrorhq/repomirror)** |  | TypeScript |  |  | 178 |
-| **[CreateProcessAsPPL](https://github.com/2x7EQ13/CreateProcessAsPPL)** | This is the loader that supports running a program with Protected Process Light (PPL) protection functionality. | C++ |  |  | 139 |
-| **[LIV_handhold_2](https://github.com/hku-mars/LIV_handhold_2)** | LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI. | C++ |  | <details><summary>3d-re...</summary><p>3d-reconstruction, 3d-vision, embodied-ai, lidar-camera-fusion, lidar-slam, sensor-fusion, slam</p></details> | 139 |
-| **[Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated)** | A PC Port of The Legend of Zelda: Link's Awakening. | C# |  |  | 135 |
-| **[semana-javascript-expert09](https://github.com/ErickWendel/semana-javascript-expert09)** | Criando um chatbot inteligente 100% offline e no navegador | JavaScript |  | <details><summary>chatb...</summary><p>chatbot, chatbot-widget, chrome, chrome-prompt-api, javascript, webai</p></details> | 131 |
-| **[yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt)** | 魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用 |  |  |  | 130 |
+| **[repomirror](https://github.com/repomirrorhq/repomirror)** |  | TypeScript |  |  | 194 |
+| **[yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt)** | 魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用 |  |  |  | 191 |
+| **[cm5-reveng](https://github.com/schlae/cm5-reveng)** | Reverse engineered Raspberry Pi Compute Module 5 |  |  |  | 163 |
+| **[CreateProcessAsPPL](https://github.com/2x7EQ13/CreateProcessAsPPL)** | This is the loader that supports running a program with Protected Process Light (PPL) protection functionality. | C++ |  |  | 151 |
+| **[pocket-server](https://github.com/yayasoumah/pocket-server)** |  | TypeScript |  |  | 130 |
+| **[Image-Detection-Bypass-Utility](https://github.com/PurinNyova/Image-Detection-Bypass-Utility)** | Attempts to bypass AI Image detection by employing various methods such as: Noise Injection, FFT Smoothing, FFT Matching, Pixel Perturbation, Camera Simulation, and more. | Python |  |  | 124 |
+| **[avatar-ui-core](https://github.com/sito-sikino/avatar-ui-core)** | Classic terminal-style UI core. A project foundation extensible from chat UIs to CLI integration. | JavaScript |  |  | 121 |
+| **[SpatialGen](https://github.com/manycore-research/SpatialGen)** | SpatialGen: Layout-guided 3D Indoor Scene Generation | Python |  | <details><summary>image...</summary><p>image-generation, layout, mvd</p></details> | 120 |
 
