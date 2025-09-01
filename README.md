@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-08-31
+Last update: 2025-09-01
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-08-31
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[VibeVoice](https://github.com/microsoft/VibeVoice)** | Frontier Open-Source Text-to-Speech | Python |  |  | 6086 |
-| **[vimmaster](https://github.com/renzorlive/vimmaster)** | VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing. | HTML |  | <details><summary>codin...</summary><p>coding, education, game, indie-game, vim</p></details> | 1019 |
-| **[agent-c](https://github.com/bravenewxyz/agent-c)** | Ultra-lightweight AI Agent | C |  | <details><summary>agent...</summary><p>agent, ai-agent, openrouter</p></details> | 352 |
-| **[semana-javascript-expert09](https://github.com/ErickWendel/semana-javascript-expert09)** | Criando um chatbot inteligente 100% offline e no navegador | JavaScript |  | <details><summary>chatb...</summary><p>chatbot, chatbot-widget, chrome, chrome-prompt-api, javascript, webai</p></details> | 330 |
-| **[limit](https://github.com/google-deepmind/limit)** | On the Theoretical Limitations of Embedding-Based Retrieval | Jupyter Notebook |  |  | 291 |
-| **[Genie](https://github.com/High-Logic/Genie)** | GPT-SoVITS ONNX Inference Engine & Model Converter | Python |  | <details><summary>gpt-s...</summary><p>gpt-sovits, text-to-speech, tts, vits, voice-clone, voice-cloning</p></details> | 281 |
-| **[yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt)** | 魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用 |  |  |  | 277 |
-| **[ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)** | 我的 nano-banana 创意玩法大合集！  持续更新中！ |  |  |  | 217 |
-| **[immich-drop](https://github.com/Nasogaa/immich-drop)** | A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server. | Python |  |  | 198 |
-| **[cactoide](https://github.com/polaroi8d/cactoide)** | 🌵 Mobile first open-source RSVP platform. Alternative for meetup.com & eventbrite and partiful for small companies and groups. | Svelte |  | <details><summary>event...</summary><p>events, gathering, group, rsvp</p></details> | 193 |
-| **[awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning)** | 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！ |  |  |  | 188 |
-| **[unwrap_or_ai](https://github.com/NoodlesOfWrath/unwrap_or_ai)** | Transform your failing Rust functions into INTELLIGENT SUCCESS SYSTEMS | Rust |  |  | 185 |
-| **[acp-claude-code](https://github.com/Xuanwo/acp-claude-code)** | The ACP implementation for Claude Code | TypeScript |  |  | 180 |
-| **[mvtracker](https://github.com/ethz-vlg/mvtracker)** | [ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking | Python |  |  | 177 |
-| **[sgr-deep-research](https://github.com/vakovalskii/sgr-deep-research)** | Schema-Guided Reasoning (SGR) is a technique that guides large language models (LLMs) to produce structured, clear, and predictable outputs by enforcing reasoning through predefined steps. By creating a specific schema (or structured template), you explicitly define: | Python |  | <details><summary>agent...</summary><p>agent, llm, sgr, so, structured-output</p></details> | 169 |
-| **[VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI)** | A VibeVoice Wrapper for ComfyUI | Python |  |  | 163 |
-| **[AI_tools_nontechnical](https://github.com/h9-tec/AI_tools_nontechnical)** |  |  |  |  | 161 |
-| **[pocket-server](https://github.com/yayasoumah/pocket-server)** |  | TypeScript |  |  | 154 |
-| **[MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)** | A sub-micrometer 3D motion control plattform. | C++ |  |  | 133 |
-| **[Pharos-Testnet-Bot](https://github.com/ox1nec/Pharos-Testnet-Bot)** | Pharos Testnet automation python bot | Python |  | <details><summary>pharo...</summary><p>pharos-bot, pharos-testnet, pharos-testnet-automation, pharos-testnet-bot, python</p></details> | 131 |
+| **[vimmaster](https://github.com/renzorlive/vimmaster)** | VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing. | HTML |  | <details><summary>codin...</summary><p>coding, education, game, indie-game, vim</p></details> | 1069 |
+| **[Pharos-Testnet-Bot](https://github.com/ox1nec/Pharos-Testnet-Bot)** | Pharos Testnet automation python bot | Python |  | <details><summary>pharo...</summary><p>pharos-bot, pharos-testnet, pharos-testnet-automation, pharos-testnet-bot, python</p></details> | 406 |
+| **[limit](https://github.com/google-deepmind/limit)** | On the Theoretical Limitations of Embedding-Based Retrieval | Jupyter Notebook |  |  | 346 |
+| **[LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat)** |  |  |  |  | 316 |
+| **[MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)** | A sub-micrometer 3D motion control plattform. | C++ |  |  | 301 |
+| **[yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt)** | 魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用 |  |  |  | 286 |
+| **[ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)** | 我的 nano-banana 创意玩法大合集！  持续更新中！ |  |  |  | 231 |
+| **[immich-drop](https://github.com/Nasogaa/immich-drop)** | A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server. | Python |  |  | 226 |
+| **[mvtracker](https://github.com/ethz-vlg/mvtracker)** | [ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking | Python |  |  | 213 |
+| **[cactoide](https://github.com/polaroi8d/cactoide)** | 🌵 Mobile first open-source RSVP platform. Alternative for meetup.com & eventbrite and partiful for small companies and groups. | Svelte |  | <details><summary>event...</summary><p>events, gathering, group, rsvp</p></details> | 205 |
+| **[semantic-router](https://github.com/vllm-project/semantic-router)** | Intelligent Mixture-of-Models Router for Efficient LLM Inference | Python |  | <details><summary>bert-...</summary><p>bert-classification, golang, huggingface-candle, huggingface-transformers, mixture-of-models, pii-detection, prompt-guard, python, rust, semantic-router, vllm</p></details> | 205 |
+| **[acp-claude-code](https://github.com/Xuanwo/acp-claude-code)** | The ACP implementation for Claude Code | TypeScript |  |  | 196 |
+| **[sgr-deep-research](https://github.com/vakovalskii/sgr-deep-research)** | Hybrid Schema-Guided Reasoning (SGR) has agentic system design create by neuraldeep community  Creator of SGR concemption: https://abdullin.com/schema-guided-reasoning/demo Schema-Guided Reasoning (SGR) is a technique that guides large language models (LLMs) to produce structured, clear, and predictable outputs by enforcing reasoning through  | Python |  | <details><summary>agent...</summary><p>agent, llm, sgr, so, structured-output</p></details> | 195 |
+| **[cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy)** | A multi-agent LLM system for detecting and resolving cognitive dissonance. | Python |  |  | 188 |
+| **[VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI)** | A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows. | Python |  | <details><summary>ai-au...</summary><p>ai-audio, ai-tts, ai-voice, ai-voice-clone, ai-voice-clonining, comfyu-c, comfyui-custom-node, comfyui-custom-nodes-text-to-speech, comfyui-nodes, t2s, text-to-speech, tts, vibevoice, vibevoice-microsoft, voice-cloning, voice-generation, voice-generator</p></details> | 184 |
+| **[cod-warzone-cheat](https://github.com/cod-warzone-aimbots/cod-warzone-cheat)** | Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match. |  |  |  | 169 |
+| **[AI_tools_nontechnical](https://github.com/h9-tec/AI_tools_nontechnical)** |  |  |  |  | 169 |
+| **[aice_ps](https://github.com/aigem/aice_ps)** | Nano Banana editor(webui) for aistudio or gemini api key.  最强Ai修图APP，方便实用！如登录了google aistudio，可直接在DEMO APP中使用。 | TypeScript |  | <details><summary>ai, a...</summary><p>ai, api, app, gemini, i2i, nano-banana, t2i, webui</p></details> | 159 |
+| **[pocket-server](https://github.com/yayasoumah/pocket-server)** |  | TypeScript |  |  | 156 |
+| **[home-assistant-cards](https://github.com/polamoros/home-assistant-cards)** |  |  |  |  | 139 |
 
