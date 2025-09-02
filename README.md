@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-09-01
+Last update: 2025-09-02
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-09-01
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[vimmaster](https://github.com/renzorlive/vimmaster)** | VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing. | HTML |  | <details><summary>codin...</summary><p>coding, education, game, indie-game, vim</p></details> | 1069 |
-| **[Pharos-Testnet-Bot](https://github.com/ox1nec/Pharos-Testnet-Bot)** | Pharos Testnet automation python bot | Python |  | <details><summary>pharo...</summary><p>pharos-bot, pharos-testnet, pharos-testnet-automation, pharos-testnet-bot, python</p></details> | 406 |
-| **[limit](https://github.com/google-deepmind/limit)** | On the Theoretical Limitations of Embedding-Based Retrieval | Jupyter Notebook |  |  | 346 |
-| **[LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat)** |  |  |  |  | 316 |
-| **[MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)** | A sub-micrometer 3D motion control plattform. | C++ |  |  | 301 |
-| **[yangbing_prompt](https://github.com/YXYAXA/yangbing_prompt)** | 魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用 |  |  |  | 286 |
-| **[ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)** | 我的 nano-banana 创意玩法大合集！  持续更新中！ |  |  |  | 231 |
-| **[immich-drop](https://github.com/Nasogaa/immich-drop)** | A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server. | Python |  |  | 226 |
-| **[mvtracker](https://github.com/ethz-vlg/mvtracker)** | [ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking | Python |  |  | 213 |
-| **[cactoide](https://github.com/polaroi8d/cactoide)** | 🌵 Mobile first open-source RSVP platform. Alternative for meetup.com & eventbrite and partiful for small companies and groups. | Svelte |  | <details><summary>event...</summary><p>events, gathering, group, rsvp</p></details> | 205 |
-| **[semantic-router](https://github.com/vllm-project/semantic-router)** | Intelligent Mixture-of-Models Router for Efficient LLM Inference | Python |  | <details><summary>bert-...</summary><p>bert-classification, golang, huggingface-candle, huggingface-transformers, mixture-of-models, pii-detection, prompt-guard, python, rust, semantic-router, vllm</p></details> | 205 |
-| **[acp-claude-code](https://github.com/Xuanwo/acp-claude-code)** | The ACP implementation for Claude Code | TypeScript |  |  | 196 |
-| **[sgr-deep-research](https://github.com/vakovalskii/sgr-deep-research)** | Hybrid Schema-Guided Reasoning (SGR) has agentic system design create by neuraldeep community  Creator of SGR concemption: https://abdullin.com/schema-guided-reasoning/demo Schema-Guided Reasoning (SGR) is a technique that guides large language models (LLMs) to produce structured, clear, and predictable outputs by enforcing reasoning through  | Python |  | <details><summary>agent...</summary><p>agent, llm, sgr, so, structured-output</p></details> | 195 |
-| **[cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy)** | A multi-agent LLM system for detecting and resolving cognitive dissonance. | Python |  |  | 188 |
-| **[VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI)** | A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows. | Python |  | <details><summary>ai-au...</summary><p>ai-audio, ai-tts, ai-voice, ai-voice-clone, ai-voice-clonining, comfyu-c, comfyui-custom-node, comfyui-custom-nodes-text-to-speech, comfyui-nodes, t2s, text-to-speech, tts, vibevoice, vibevoice-microsoft, voice-cloning, voice-generation, voice-generator</p></details> | 184 |
+| **[dionysus](https://github.com/pewdiepie-archdaemon/dionysus)** | laptop  | Shell |  |  | 1203 |
+| **[vimmaster](https://github.com/renzorlive/vimmaster)** | VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  | JavaScript |  | <details><summary>codin...</summary><p>coding, education, game, indie-game, vim</p></details> | 1101 |
+| **[LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat)** |  |  |  |  | 644 |
+| **[limit](https://github.com/google-deepmind/limit)** | On the Theoretical Limitations of Embedding-Based Retrieval | Jupyter Notebook |  |  | 387 |
+| **[MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)** | A sub-micrometer 3D motion control plattform. | C++ |  |  | 378 |
+| **[mvtracker](https://github.com/ethz-vlg/mvtracker)** | [ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking | Python |  |  | 253 |
+| **[ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)** | 我的 nano-banana 创意玩法大合集！  持续更新中！ |  |  |  | 239 |
+| **[cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy)** | A multi-agent LLM system for detecting and resolving cognitive dissonance. | Python |  |  | 225 |
+| **[cactoide](https://github.com/polaroi8d/cactoide)** | 🌵 Mobile first open-source RSVP platform. Alternative for meetup.com & eventbrite and partiful for small companies and groups. | Svelte |  | <details><summary>event...</summary><p>events, gathering, group, rsvp</p></details> | 214 |
+| **[omarchist](https://github.com/tahayvr/omarchist)** | A GUI app for Omarchy.  | Rust |  |  | 204 |
+| **[acp-claude-code](https://github.com/Xuanwo/acp-claude-code)** | The ACP implementation for Claude Code | TypeScript |  |  | 202 |
+| **[VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI)** | A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows. | Python |  | <details><summary>ai-au...</summary><p>ai-audio, ai-tts, ai-voice, ai-voice-clone, ai-voice-clonining, comfyu-c, comfyui-custom-node, comfyui-custom-nodes-text-to-speech, comfyui-nodes, t2s, text-to-speech, tts, vibevoice, vibevoice-microsoft, voice-cloning, voice-generation, voice-generator</p></details> | 201 |
+| **[jupiter-arbitrage-bot](https://github.com/0xalberto/jupiter-arbitrage-bot)** | jupiter arbitrage bot : A high-performance, fully automated arbitrage bot built on Solana, leveraging the power of Jupiter Aggregator v6 for real-time profitable trading between decentralized exchanges. solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot | TypeScript |  | <details><summary>arbit...</summary><p>arbitrage, bot, dex, jupiter, solana, trading</p></details> | 201 |
+| **[KatelyaTV](https://github.com/katelya77/KatelyaTV)** | 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.1 通知：猛攻了一天，同时更新了一下DecoTV具体可见我的项目，发现bug越修越多心态有点炸了，最新的v0.4.0差不多就这样，后续的bug等我休息一下吧，遭不住了】 | TypeScript |  |  | 199 |
+| **[solana-raydium-pumpfun-sniper-Rust](https://github.com/0xalberto/solana-raydium-pumpfun-sniper-Rust)** | solana raydium sniper/pumpfun sniper: this solana raydium sniper/pumpfun sniper is written in Rust⚡. In addtion to these solana raydium snipe bot(raydium sniping bot) and pumpfun snipe bot(pumpfun sniping bot), it has raydium bundler, pumpfun bundler, copy trading bot, raydium/pumpfun volume bot more. | Rust |  |  | 198 |
+| **[solana-crash-game](https://github.com/0xalberto/solana-crash-game)** | 🚀 Rocket Crash Game – Web3 Blockchain Betting | A crash game where players bet, cash out, and win before the rocket crashes! Featuring provably fair on-chain gameplay, decentralized betting, instant payouts, and NFT rewards. Built with Rust, Anchor, and React for a fast, low-fee, and immersive crypto gaming experience. | TypeScript |  |  | 195 |
+| **[bonkfun-sniper-grpc](https://github.com/0xalberto/bonkfun-sniper-grpc)** | ⚡ Ultra-fast Bonk.fun Sniper Bot using Helius Laserstream gRPC for real-time Solana transaction streaming and automated sniping execution. bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot | Rust |  |  | 195 |
+| **[pumpfun-laserstream-sniper-rust](https://github.com/0xalberto/pumpfun-laserstream-sniper-rust)** | Ultra Fast Rust PumpFun Sniper Bot is a high-performance, low-latency sniper bot built in Rust designed for the Solana blockchain pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot | Rust |  | <details><summary>ancho...</summary><p>anchor, bot, helius, pumpfun, rust, sniper, solana, trading</p></details> | 195 |
+| **[mcp-bench](https://github.com/Accenture/mcp-bench)** | MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers | Python |  |  | 176 |
 | **[cod-warzone-cheat](https://github.com/cod-warzone-aimbots/cod-warzone-cheat)** | Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match. |  |  |  | 169 |
-| **[AI_tools_nontechnical](https://github.com/h9-tec/AI_tools_nontechnical)** |  |  |  |  | 169 |
-| **[aice_ps](https://github.com/aigem/aice_ps)** | Nano Banana editor(webui) for aistudio or gemini api key.  最强Ai修图APP，方便实用！如登录了google aistudio，可直接在DEMO APP中使用。 | TypeScript |  | <details><summary>ai, a...</summary><p>ai, api, app, gemini, i2i, nano-banana, t2i, webui</p></details> | 159 |
-| **[pocket-server](https://github.com/yayasoumah/pocket-server)** |  | TypeScript |  |  | 156 |
-| **[home-assistant-cards](https://github.com/polamoros/home-assistant-cards)** |  |  |  |  | 139 |
 
