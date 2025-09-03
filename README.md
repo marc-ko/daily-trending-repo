@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-09-02
+Last update: 2025-09-03
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-09-02
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[dionysus](https://github.com/pewdiepie-archdaemon/dionysus)** | laptop  | Shell |  |  | 1203 |
-| **[vimmaster](https://github.com/renzorlive/vimmaster)** | VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels.  | JavaScript |  | <details><summary>codin...</summary><p>coding, education, game, indie-game, vim</p></details> | 1101 |
-| **[LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat)** |  |  |  |  | 644 |
-| **[limit](https://github.com/google-deepmind/limit)** | On the Theoretical Limitations of Embedding-Based Retrieval | Jupyter Notebook |  |  | 387 |
-| **[MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)** | A sub-micrometer 3D motion control plattform. | C++ |  |  | 378 |
-| **[mvtracker](https://github.com/ethz-vlg/mvtracker)** | [ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking | Python |  |  | 253 |
-| **[ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)** | 我的 nano-banana 创意玩法大合集！  持续更新中！ |  |  |  | 239 |
-| **[cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy)** | A multi-agent LLM system for detecting and resolving cognitive dissonance. | Python |  |  | 225 |
-| **[cactoide](https://github.com/polaroi8d/cactoide)** | 🌵 Mobile first open-source RSVP platform. Alternative for meetup.com & eventbrite and partiful for small companies and groups. | Svelte |  | <details><summary>event...</summary><p>events, gathering, group, rsvp</p></details> | 214 |
-| **[omarchist](https://github.com/tahayvr/omarchist)** | A GUI app for Omarchy.  | Rust |  |  | 204 |
-| **[acp-claude-code](https://github.com/Xuanwo/acp-claude-code)** | The ACP implementation for Claude Code | TypeScript |  |  | 202 |
-| **[VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI)** | A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows. | Python |  | <details><summary>ai-au...</summary><p>ai-audio, ai-tts, ai-voice, ai-voice-clone, ai-voice-clonining, comfyu-c, comfyui-custom-node, comfyui-custom-nodes-text-to-speech, comfyui-nodes, t2s, text-to-speech, tts, vibevoice, vibevoice-microsoft, voice-cloning, voice-generation, voice-generator</p></details> | 201 |
-| **[jupiter-arbitrage-bot](https://github.com/0xalberto/jupiter-arbitrage-bot)** | jupiter arbitrage bot : A high-performance, fully automated arbitrage bot built on Solana, leveraging the power of Jupiter Aggregator v6 for real-time profitable trading between decentralized exchanges. solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot | TypeScript |  | <details><summary>arbit...</summary><p>arbitrage, bot, dex, jupiter, solana, trading</p></details> | 201 |
-| **[KatelyaTV](https://github.com/katelya77/KatelyaTV)** | 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.1 通知：猛攻了一天，同时更新了一下DecoTV具体可见我的项目，发现bug越修越多心态有点炸了，最新的v0.4.0差不多就这样，后续的bug等我休息一下吧，遭不住了】 | TypeScript |  |  | 199 |
-| **[solana-raydium-pumpfun-sniper-Rust](https://github.com/0xalberto/solana-raydium-pumpfun-sniper-Rust)** | solana raydium sniper/pumpfun sniper: this solana raydium sniper/pumpfun sniper is written in Rust⚡. In addtion to these solana raydium snipe bot(raydium sniping bot) and pumpfun snipe bot(pumpfun sniping bot), it has raydium bundler, pumpfun bundler, copy trading bot, raydium/pumpfun volume bot more. | Rust |  |  | 198 |
-| **[solana-crash-game](https://github.com/0xalberto/solana-crash-game)** | 🚀 Rocket Crash Game – Web3 Blockchain Betting | A crash game where players bet, cash out, and win before the rocket crashes! Featuring provably fair on-chain gameplay, decentralized betting, instant payouts, and NFT rewards. Built with Rust, Anchor, and React for a fast, low-fee, and immersive crypto gaming experience. | TypeScript |  |  | 195 |
-| **[bonkfun-sniper-grpc](https://github.com/0xalberto/bonkfun-sniper-grpc)** | ⚡ Ultra-fast Bonk.fun Sniper Bot using Helius Laserstream gRPC for real-time Solana transaction streaming and automated sniping execution. bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot bonk-sniper-grpc-bot | Rust |  |  | 195 |
-| **[pumpfun-laserstream-sniper-rust](https://github.com/0xalberto/pumpfun-laserstream-sniper-rust)** | Ultra Fast Rust PumpFun Sniper Bot is a high-performance, low-latency sniper bot built in Rust designed for the Solana blockchain pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot | Rust |  | <details><summary>ancho...</summary><p>anchor, bot, helius, pumpfun, rust, sniper, solana, trading</p></details> | 195 |
-| **[mcp-bench](https://github.com/Accenture/mcp-bench)** | MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers | Python |  |  | 176 |
-| **[cod-warzone-cheat](https://github.com/cod-warzone-aimbots/cod-warzone-cheat)** | Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match. |  |  |  | 169 |
+| **[LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat)** |  |  |  |  | 801 |
+| **[linear-algebra](https://github.com/the-litte-book-of/linear-algebra)** | There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne | TeX |  |  | 577 |
+| **[MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)** | A sub-micrometer 3D motion control plattform. | C++ |  |  | 444 |
+| **[limit](https://github.com/google-deepmind/limit)** | On the Theoretical Limitations of Embedding-Based Retrieval | Jupyter Notebook |  |  | 432 |
+| **[mvtracker](https://github.com/ethz-vlg/mvtracker)** | [ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking | Python |  |  | 285 |
+| **[multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system)** | Now #12 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing. | Python |  |  | 266 |
+| **[ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)** | 我的 nano-banana 创意玩法大合集！  持续更新中！ |  |  |  | 258 |
+| **[Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT)** |  | Python |  |  | 250 |
+| **[omarchist](https://github.com/tahayvr/omarchist)** | A GUI app for Omarchy.  | Rust |  |  | 234 |
+| **[cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy)** | A multi-agent LLM system for detecting and resolving cognitive dissonance. | Python |  |  | 230 |
+| **[TG-Adding-Scrapping-FREE-2025](https://github.com/TGTools-Free/TG-Adding-Scrapping-FREE-2025)** | A free tool for TG written in Python to for adding and data extraction. Updated for 2025. |  |  | <details><summary>adder...</summary><p>adder, hidden-members, members-adding-scri, members-adding-script, members-script, scraper-telegram, telegram, telegram-add-members-2025, telegram-add-members-free, telegram-add-users, telegram-add-users-free, telegram-adder-free, telegram-adder-free-2025, telegram-member-adder-free, telegram-member-adder-free-2025, telegram-members-adder-free, telegram-scrape-hidden-users, telegram-scraper2025, telegramadder, telegrambot</p></details> | 221 |
+| **[MenuBarUSB](https://github.com/rafaelSwi/MenuBarUSB)** | Simple app that displays your USB connections in the macOS MenuBar | Swift |  |  | 178 |
+| **[EO-1](https://github.com/EO-Robotics/EO-1)** | EO: Open-source Unified Embodied Foundation Model Series |  |  |  | 172 |
+| **[Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)** |  |  |  |  | 158 |
+| **[cod-warzone-cheat](https://github.com/cod-warzone-aimbots/cod-warzone-cheat)** | Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match. |  |  |  | 154 |
+| **[Migraine-PumpFun-Launch-Bundler](https://github.com/ItxTorito/Migraine-PumpFun-Launch-Bundler)** | Generate bundled wallets, auto buy/dump and send all sol back to dev wallet |  |  | <details><summary>pumpf...</summary><p>pumpfun, pumpfun-bundler, solana-pumpfun</p></details> | 153 |
+| **[LIVE](https://github.com/mursor1985/LIVE)** |  |  |  |  | 145 |
+| **[surf](https://github.com/enetx/surf)** |  | Go |  |  | 145 |
+| **[hallbayes](https://github.com/leochlon/hallbayes)** |  | Python |  |  | 138 |
+| **[OpenAI-Compatible-API-Proxy-for-Z](https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z)** | 这是一个为 Zai 提供 OpenAI API 兼容接口的代理服务，允许开发者通过标准的 OpenAI API 格式访问 Zai 的 GLM-4.5 模型。 | Go |  |  | 133 |
 
