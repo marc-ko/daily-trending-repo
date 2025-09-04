@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-09-03
+Last update: 2025-09-04
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-09-03
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat)** |  |  |  |  | 801 |
-| **[linear-algebra](https://github.com/the-litte-book-of/linear-algebra)** | There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne | TeX |  |  | 577 |
-| **[MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)** | A sub-micrometer 3D motion control plattform. | C++ |  |  | 444 |
-| **[limit](https://github.com/google-deepmind/limit)** | On the Theoretical Limitations of Embedding-Based Retrieval | Jupyter Notebook |  |  | 432 |
-| **[mvtracker](https://github.com/ethz-vlg/mvtracker)** | [ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking | Python |  |  | 285 |
-| **[multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system)** | Now #12 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing. | Python |  |  | 266 |
-| **[ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)** | 我的 nano-banana 创意玩法大合集！  持续更新中！ |  |  |  | 258 |
-| **[Hunyuan-MT](https://github.com/Tencent-Hunyuan/Hunyuan-MT)** |  | Python |  |  | 250 |
-| **[omarchist](https://github.com/tahayvr/omarchist)** | A GUI app for Omarchy.  | Rust |  |  | 234 |
-| **[cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy)** | A multi-agent LLM system for detecting and resolving cognitive dissonance. | Python |  |  | 230 |
-| **[TG-Adding-Scrapping-FREE-2025](https://github.com/TGTools-Free/TG-Adding-Scrapping-FREE-2025)** | A free tool for TG written in Python to for adding and data extraction. Updated for 2025. |  |  | <details><summary>adder...</summary><p>adder, hidden-members, members-adding-scri, members-adding-script, members-script, scraper-telegram, telegram, telegram-add-members-2025, telegram-add-members-free, telegram-add-users, telegram-add-users-free, telegram-adder-free, telegram-adder-free-2025, telegram-member-adder-free, telegram-member-adder-free-2025, telegram-members-adder-free, telegram-scrape-hidden-users, telegram-scraper2025, telegramadder, telegrambot</p></details> | 221 |
-| **[MenuBarUSB](https://github.com/rafaelSwi/MenuBarUSB)** | Simple app that displays your USB connections in the macOS MenuBar | Swift |  |  | 178 |
-| **[EO-1](https://github.com/EO-Robotics/EO-1)** | EO: Open-source Unified Embodied Foundation Model Series |  |  |  | 172 |
-| **[Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)** |  |  |  |  | 158 |
-| **[cod-warzone-cheat](https://github.com/cod-warzone-aimbots/cod-warzone-cheat)** | Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match. |  |  |  | 154 |
-| **[Migraine-PumpFun-Launch-Bundler](https://github.com/ItxTorito/Migraine-PumpFun-Launch-Bundler)** | Generate bundled wallets, auto buy/dump and send all sol back to dev wallet |  |  | <details><summary>pumpf...</summary><p>pumpfun, pumpfun-bundler, solana-pumpfun</p></details> | 153 |
-| **[LIVE](https://github.com/mursor1985/LIVE)** |  |  |  |  | 145 |
-| **[surf](https://github.com/enetx/surf)** |  | Go |  |  | 145 |
-| **[hallbayes](https://github.com/leochlon/hallbayes)** |  | Python |  |  | 138 |
-| **[OpenAI-Compatible-API-Proxy-for-Z](https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z)** | 这是一个为 Zai 提供 OpenAI API 兼容接口的代理服务，允许开发者通过标准的 OpenAI API 格式访问 Zai 的 GLM-4.5 模型。 | Go |  |  | 133 |
+| **[linear-algebra](https://github.com/the-litte-book-of/linear-algebra)** | There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne | TeX |  |  | 1181 |
+| **[LongCat-Flash-Chat](https://github.com/meituan-longcat/LongCat-Flash-Chat)** |  |  |  |  | 863 |
+| **[multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system)** | Reached #13 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing. | Python |  |  | 623 |
+| **[limit](https://github.com/google-deepmind/limit)** | On the Theoretical Limitations of Embedding-Based Retrieval | Jupyter Notebook |  |  | 460 |
+| **[omarchist](https://github.com/tahayvr/omarchist)** | A GUI app for Omarchy.  | Rust |  |  | 253 |
+| **[surf](https://github.com/enetx/surf)** | SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping. | Go |  |  | 195 |
+| **[LIVE](https://github.com/mursor1985/LIVE)** |  |  |  |  | 192 |
+| **[FastVGGT](https://github.com/mystorm16/FastVGGT)** | Code for FastVGGT: Training-Free Acceleration of Visual Geometry Transformer | Python |  |  | 166 |
+| **[liquid-glass](https://github.com/callstack/liquid-glass)** | Liquid Glass in React Native | TypeScript |  |  | 163 |
+| **[hallbayes](https://github.com/leochlon/hallbayes)** |  | Python |  |  | 163 |
+| **[thermoptic](https://github.com/mandatoryprogrammer/thermoptic)** | A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack. | JavaScript |  |  | 158 |
+| **[obamify](https://github.com/Spu7Nix/obamify)** | revolutionary new technology that turns any image into obama | Rust |  |  | 152 |
+| **[Prompt-Tools](https://github.com/jwangkun/Prompt-Tools)** | 一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。 | JavaScript |  |  | 145 |
+| **[OpenAI-Compatible-API-Proxy-for-Z](https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z)** | 这是一个为 Zai 提供 OpenAI API 兼容接口的代理服务，允许开发者通过标准的 OpenAI API 格式访问 Zai 的 GLM-4.5 模型。 | Go |  |  | 144 |
+| **[cagent](https://github.com/docker/cagent)** | Agent Builder and Runtime by Docker Engineering | Go |  | agents, ai | 135 |
+| **[free-VPN](https://github.com/lzA6/free-VPN)** | 更新的都是高质量高速度的VPN，通常用IDM等等下载工具下载huggingface的大模型速度都能跑到100MB+，但是可能仅限于下载。对于访问google相关服务不太理想 |  |  |  | 134 |
+| **[ai-tools-registry](https://github.com/xn1cklas/ai-tools-registry)** | Install AI tools and UI components for the AI SDK via the shadcn registry | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-sdk, nodejs, shadcn</p></details> | 117 |
+| **[nodebook](https://github.com/ishtms/nodebook)** | Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments. | JavaScript |  | <details><summary>async...</summary><p>asynchronous-programming, backend, javascript, libuv, napi, node, nodejs, optimisation, servers, v8</p></details> | 116 |
+| **[Material-Design-3-Dynamic-Dashboard](https://github.com/reylinux/Material-Design-3-Dynamic-Dashboard)** | Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic |  |  |  | 112 |
+| **[img-cool](https://github.com/joeseesun/img-cool)** |  | TypeScript |  |  | 110 |
 
