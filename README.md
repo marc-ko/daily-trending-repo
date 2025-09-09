@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-09-08
+Last update: 2025-09-09
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-09-08
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[linear-algebra](https://github.com/little-book-of/linear-algebra)** | There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne | TeX |  |  | 1525 |
-| **[LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor)** | tfw when you when your lid when uhh angle your lid sensor | Objective-C |  |  | 1465 |
-| **[nano-banana-hackathon-kit](https://github.com/google-gemini/nano-banana-hackathon-kit)** | 🍌 The official starter kit for the Nano Banana Hackathon. Clone this repo to get building fast! | Jupyter Notebook |  |  | 619 |
-| **[nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)** |  | TypeScript |  |  | 371 |
-| **[liquid-glass](https://github.com/callstack/liquid-glass)** | Liquid Glass in React Native | TypeScript |  |  | 280 |
-| **[flint](https://github.com/ccheshirecat/flint)** | Lightweight tool for managing linux virtual machines | TypeScript |  |  | 267 |
-| **[Disciplined-AI-Software-Development](https://github.com/Varietyz/Disciplined-AI-Software-Development)** | This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints. | Python |  | <details><summary>ai, a...</summary><p>ai, ai-agents, ai-collaboration, best-practices, collaborate, collaboration, collaborative, context, documentation, dry, educational, kiss, llms, methodology, methodology-development, prompt-engineering, software-architecture, software-development, software-engineering, workflow</p></details> | 242 |
-| **[absolutelyright](https://github.com/yoavf/absolutelyright)** | Claude said I'm absolutely right! | Python |  |  | 233 |
-| **[Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)** | 香蕉超市｜各种玩法一键生成，无需提示词，支持局部涂选、连续编辑 | TypeScript |  |  | 216 |
-| **[thermoptic](https://github.com/mandatoryprogrammer/thermoptic)** | A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack. | JavaScript |  |  | 215 |
-| **[Material-Design-3-Dynamic-Mobile-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard)** | Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic |  |  |  | 179 |
-| **[desktop-tui](https://github.com/Julien-cpsn/desktop-tui)** | A desktop environment without graphics | Rust |  |  | 169 |
-| **[z.ai2api_python](https://github.com/ZyphrZero/z.ai2api_python)** | 将Z.ai转换为OpenAI兼容格式的高性能代理，无缝接入 GLM-4.5 系列模型 | Python |  |  | 157 |
-| **[Open-dLLM](https://github.com/pengzhangzhi/Open-dLLM)** | The most open diffusion language model for code generation — releasing pretraining, evaluation, inference, and checkpoints. | Python |  | <details><summary>diffu...</summary><p>diffusion-models, large-language-models</p></details> | 150 |
+| **[LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor)** | tfw when you when your lid when uhh angle your lid sensor | Objective-C |  |  | 2386 |
+| **[nano-banana-hackathon-kit](https://github.com/google-gemini/nano-banana-hackathon-kit)** | 🍌 The official starter kit for the Nano Banana Hackathon. Clone this repo to get building fast! | Jupyter Notebook |  |  | 736 |
+| **[nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)** |  | TypeScript |  |  | 471 |
+| **[flint](https://github.com/ccheshirecat/flint)** | Lightweight tool for managing linux virtual machines | TypeScript |  | <details><summary>cloud...</summary><p>cloud, cloud-init, devops, hypervisor, infra, infrastructure, kvm, libvirt, orchestration, oss, qemu, serial, snapshot, virtual-machine, virtualization, vm, vmm, webtty</p></details> | 361 |
+| **[desktop-tui](https://github.com/Julien-cpsn/desktop-tui)** | A desktop environment without graphics | Rust |  |  | 301 |
+| **[Disciplined-AI-Software-Development](https://github.com/Varietyz/Disciplined-AI-Software-Development)** | This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints. | Python |  | <details><summary>ai, a...</summary><p>ai, ai-agents, ai-collaboration, best-practices, collaborate, collaboration, collaborative, context, documentation, dry, educational, kiss, llms, methodology, methodology-development, prompt-engineering, software-architecture, software-development, software-engineering, workflow</p></details> | 266 |
+| **[Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)** | 香蕉超市｜各种玩法一键生成，无需提示词，支持局部涂选、连续编辑 | TypeScript |  |  | 257 |
+| **[qwen600](https://github.com/yassa9/qwen600)** | Static suckless single batch CUDA-only qwen3-0.6B mini inference engine | Cuda |  | <details><summary>cuda,...</summary><p>cuda, cuda-programming, gpu, llamacpp, llm, llm-inference, transformer</p></details> | 255 |
+| **[absolutelyright](https://github.com/yoavf/absolutelyright)** | Claude said I'm absolutely right! | Python |  |  | 251 |
+| **[mev-bot-pool-ethereum](https://github.com/hYPEdqysmash851storm/mev-bot-pool-ethereum)** | Ethereum MEV arbitrage pool (non-custodial): personal smart contracts, on-chain transparency (Etherscan), dashboard, flexible plans. |  |  | <details><summary>arbit...</summary><p>arbitrage, dashboard, defi, dex, ethereum, ethereum-mainnet, etherscan, evm, mempool, metamask, mev, non-custodial, passive-income, smart-contract, solidity, trading-bot, tradingbot, uniswap, uniswap-v3, web3</p></details> | 224 |
+| **[wall-x](https://github.com/X-Square-Robot/wall-x)** | Building General-Purpose Robots Based on Embodied Foundation Model | Python |  |  | 214 |
+| **[Material-Design-3-Dynamic-Mobile-Dashboard](https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard)** | Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic |  |  |  | 184 |
+| **[cfnew](https://github.com/byJoey/cfnew)** |  |  |  |  | 144 |
+| **[VibeVoice](https://github.com/vibevoice-community/VibeVoice)** | Long-form conversational TTS | Community fork | Python |  |  | 142 |
+| **[awesome-nano-banana-images](https://github.com/githubssg/awesome-nano-banana-images)** | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities. | JavaScript |  |  | 141 |
 | **[Pharos-Testnet-Bot](https://github.com/axekado/Pharos-Testnet-Bot)** | A bot for Pharos Testnet automation | Python |  | <details><summary>pharo...</summary><p>pharos-bot, pharos-faucet, pharos-testnet, pharos-testnet-bot</p></details> | 138 |
-| **[composable](https://github.com/cinkhangin/composable)** | An open-source Android app showcasing Jetpack Compose UI components and interactions for learning and inspiration. | Kotlin |  |  | 133 |
-| **[awesome-nano-banana-images](https://github.com/githubssg/awesome-nano-banana-images)** | Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities. | JavaScript |  |  | 128 |
-| **[eccm](https://github.com/bijomaru78/eccm)** | Ethernet Cable Connection Manager | HTML |  | <details><summary>ether...</summary><p>ethernet, homelab, network, networking, offline-first-app, sysadmin</p></details> | 127 |
-| **[Quantum-Mechanics-Concise-Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)** | A concise text on quantum mechanics, intended for a general audience including CS, engineering, math, and physics undergrads, as well as anyone interested in a concise intro/overview of QM. Prerequisites: linear algebra, calculus, high school physics |  |  | <details><summary>book,...</summary><p>book, concise, quantum, quantum-mechanics</p></details> | 122 |
-| **[dspy-0to1-guide](https://github.com/haasonsaas/dspy-0to1-guide)** | A comprehensive 0-to-1 guide for building self-improving LLM applications with DSPy framework | Python |  |  | 119 |
+| **[dspy-0to1-guide](https://github.com/haasonsaas/dspy-0to1-guide)** | A comprehensive 0-to-1 guide for building self-improving LLM applications with DSPy framework | Python |  |  | 128 |
+| **[Quantum-Mechanics-Concise-Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)** | A concise text on quantum mechanics, intended for a general mathematical audience including CS, engineering, math, and physics undergrads, as well as anyone interested in a concise intro/overview of QM. Prerequisites: linear algebra, calculus, high school physics |  |  | <details><summary>book,...</summary><p>book, concise, quantum, quantum-mechanics</p></details> | 128 |
+| **[Gift-Buyer-Tg](https://github.com/axekado/Gift-Buyer-Tg)** | A bot that scans for telergam gifts and buys them based on given criteria | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-buyer-tg, telegram-gift-buyer</p></details> | 122 |
+| **[agentic-design-patterns-book-rus](https://github.com/pridees/agentic-design-patterns-book-rus)** | 🇷🇺 Русский перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем |  |  | <details><summary>adk, ...</summary><p>adk, agentic-ai-development, ai, ai-agents, langchain, langgraph, prompt-engineering, python</p></details> | 119 |
 
