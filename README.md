@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-09-12
+Last update: 2025-09-13
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-09-12
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[term.everything](https://github.com/mmulet/term.everything)** | Run any GUI app in the terminal❗ | TypeScript |  | <details><summary>alacr...</summary><p>alacritty, cli, foss, iterm2, kitty, linux, ssh, terminal, wayland, wayland-compositor</p></details> | 3307 |
-| **[LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor)** | tfw when you when your lid when uhh angle your lid sensor | Objective-C |  |  | 3047 |
-| **[desktop-tui](https://github.com/Julien-cpsn/desktop-tui)** | A desktop environment without graphics | Rust |  |  | 640 |
-| **[nano-banana-infinimap](https://github.com/seezatnap/nano-banana-infinimap)** |  | TypeScript |  |  | 524 |
-| **[flint](https://github.com/ccheshirecat/flint)** | Lightweight tool for managing linux virtual machines | TypeScript |  | <details><summary>cloud...</summary><p>cloud, cloud-init, devops, hypervisor, infra, infrastructure, kvm, libvirt, orchestration, oss, qemu, serial, snapshot, virtual-machine, virtualization, vm, vmm, webtty</p></details> | 520 |
-| **[checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine)** | Checkpoint-engine is a simple middleware to update model weights in LLM inference engines | Python |  |  | 509 |
-| **[qwen600](https://github.com/yassa9/qwen600)** | Static suckless single batch CUDA-only qwen3-0.6B mini inference engine | Cuda |  | <details><summary>cuda,...</summary><p>cuda, cuda-programming, gpu, llamacpp, llm, llm-inference, qwen, qwen3, transformer</p></details> | 416 |
-| **[batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops)** |  | Python |  |  | 401 |
-| **[bake](https://github.com/losfair/bake)** | Bake microVMs into standalone executables | Rust |  |  | 342 |
-| **[cfnew](https://github.com/byJoey/cfnew)** |  |  |  |  | 213 |
-| **[Lumina-DiMOO](https://github.com/Alpha-VLLM/Lumina-DiMOO)** | Lumina-DiMOO - An Open-Sourced Multi-Modal Large Diffusion Language Model | Python |  | <details><summary>diffu...</summary><p>diffusion-large-language-model, discrete-diffusion-models, unified-multimodal-understanding-and-generation</p></details> | 210 |
-| **[ai-sdk-devtools](https://github.com/midday-ai/ai-sdk-devtools)** |  | TypeScript |  |  | 200 |
-| **[Gift-buyer-tg](https://github.com/cozythrill/Gift-buyer-tg)** | A bot that scans for available telegram gifts and buys them based on given criteria. | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-sniper, gifts-parser, telegram-gift-buyer, telegramgifts</p></details> | 199 |
-| **[MFTool](https://github.com/Kudaes/MFTool)** | Direct access to NTFS volumes | Rust |  |  | 194 |
-| **[LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook)** | One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools. | Python |  | <details><summary>ai, a...</summary><p>ai, ai-agent, ai-agents, fine-tuning, finetuning-llms, freamework, llm, llmops, local-development, mcp-server, memory, rag, rag-chatbot, voice-agent</p></details> | 186 |
-| **[Mini-o3](https://github.com/Mini-o3/Mini-o3)** | Official Code for "Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search" | Python |  |  | 183 |
-| **[uniprof](https://github.com/indragiek/uniprof)** | Universal CPU profiler designed for humans and AI agents | TypeScript |  | <details><summary>perfo...</summary><p>performance, performance-optimization, profiler, profiling</p></details> | 159 |
-| **[PAI](https://github.com/danielmiessler/PAI)** | Personal AI Infrastructure for upgrading humans. | TypeScript |  | <details><summary>ai, a...</summary><p>ai, augmentation, productivity</p></details> | 152 |
-| **[video-testing-tool](https://github.com/forasoft/video-testing-tool)** | Chrome extension for monitoring WebRTC connection health | TypeScript |  |  | 148 |
-| **[MiddleOfNowhere](https://github.com/Krusty84/MiddleOfNowhere)** |  |  |  |  | 145 |
+| **[term.everything](https://github.com/mmulet/term.everything)** | Run any GUI app in the terminal❗ | TypeScript |  | <details><summary>alacr...</summary><p>alacritty, cli, foss, iterm2, kitty, linux, ssh, terminal, wayland, wayland-compositor</p></details> | 4030 |
+| **[checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine)** | Checkpoint-engine is a simple middleware to update model weights in LLM inference engines | Python |  |  | 570 |
+| **[batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops)** |  | Python |  |  | 484 |
+| **[ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026)** | ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server. | C# |  | <details><summary>crypt...</summary><p>crypter, crypter-fud, fud-crypter, fud-stealer, panel-stealer, stealer, stealer-files, stealer-fud, stealer-panel, stealing</p></details> | 354 |
+| **[oq](https://github.com/plutov/oq)** | Terminal OpenAPI Spec viewer | Go |  |  | 273 |
+| **[Lumina-DiMOO](https://github.com/Alpha-VLLM/Lumina-DiMOO)** | Lumina-DiMOO - An Open-Sourced Multi-Modal Large Diffusion Language Model | Python |  | <details><summary>diffu...</summary><p>diffusion-large-language-model, discrete-diffusion-models, unified-multimodal-understanding-and-generation</p></details> | 264 |
+| **[fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)** | A hilarious macOS app that plays fart sounds as you open and close your MacBook lid | Objective-C |  |  | 260 |
+| **[MFTool](https://github.com/Kudaes/MFTool)** | Direct access to NTFS volumes | Rust |  |  | 207 |
+| **[nano11](https://github.com/ntdevlabs/nano11)** | Script to build possibly the most trimmed-down Windows 11 experience. | PowerShell |  |  | 204 |
+| **[Mini-o3](https://github.com/Mini-o3/Mini-o3)** | Official Code for "Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search" | Python |  |  | 203 |
+| **[uniprof](https://github.com/indragiek/uniprof)** | Universal CPU profiler designed for humans and AI agents | TypeScript |  | <details><summary>perfo...</summary><p>performance, performance-optimization, profiler, profiling</p></details> | 186 |
+| **[HuMo](https://github.com/Phantom-video/HuMo)** | HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning | Python |  |  | 180 |
+| **[AgentGym-RL](https://github.com/WooooDyy/AgentGym-RL)** | Code and implementations for the paper "AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning" by Zhiheng Xi et al. | Python |  | <details><summary>agent...</summary><p>agent, llm, llm-based-agent, scaling</p></details> | 178 |
+| **[AI-Solana_Bot](https://github.com/MirthaaafcH/AI-Solana_Bot)** | Fast Solana arbitrage bot for low-latency trading across DEXs, with real-time market analysis and customizable strategies. | JavaScript |  | <details><summary>arbit...</summary><p>arbitrage, blockchaine, bot, btc, eth, evm, income, java, json, mev, passive, rust, script, sol, solana, solscan, trading</p></details> | 167 |
+| **[BananaFlow-ZHO](https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO)** | 香蕉工厂：基于 Nano Banana 和 Veo3 模型/工具，轻松实现流程自动化 | TypeScript |  |  | 155 |
+| **[DOOMQL](https://github.com/cedardb/DOOMQL)** | A multiplayer DOOM-like in pure SQL | Python |  |  | 152 |
+| **[compress.lol](https://github.com/anhostfr/compress.lol)** | Compress videos in your browser to fit Discord limitations and more. - An alternative to 8mb.video | Svelte |  | <details><summary>compr...</summary><p>compression, ffmpeg, ffmpegwasm, file-compression, svelte, sveltekit, tailwindcss, video-compression, video-compressor</p></details> | 148 |
+| **[SpatialVID](https://github.com/NJU-3DV/SpatialVID)** | official repository for SpatialVID | Python |  |  | 147 |
+| **[PromptEnhancer](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer)** | PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation. | Python |  | <details><summary>hunyu...</summary><p>hunyuan, hunyuan-image, prompt, prompt-engineering, prompt-enhancer, vlm</p></details> | 143 |
+| **[codex-1up](https://github.com/regenrek/codex-1up)** | 🍄 Give your CLI an extra life | Shell |  |  | 134 |
 
