@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-09-16
+Last update: 2025-09-17
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-09-16
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[RustGPT](https://github.com/tekaratzas/RustGPT)** | An transformer based LLM. Written completely in Rust | Rust |  |  | 1173 |
-| **[Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)** |  | GDScript |  |  | 698 |
-| **[batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops)** |  | Python |  |  | 591 |
-| **[nano11](https://github.com/ntdevlabs/nano11)** | Script to build possibly the most trimmed-down Windows 11 experience. | PowerShell |  |  | 559 |
-| **[oq](https://github.com/plutov/oq)** | Terminal OpenAPI Spec viewer | Go |  |  | 531 |
-| **[docker-mcp-tutorial](https://github.com/theNetworkChuck/docker-mcp-tutorial)** | Complete tutorial materials for building MCP servers with Docker - from NetworkChuck's video |  |  |  | 472 |
-| **[elden-github](https://github.com/SaltyAom/elden-github)** | Elden Ring experience for GitHub | TypeScript |  |  | 459 |
-| **[ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026)** | ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server. | C# |  | <details><summary>crypt...</summary><p>crypter, crypter-fud, fud-crypter, fud-stealer, panel-stealer, stealer, stealer-files, stealer-fud, stealer-panel, stealing</p></details> | 457 |
-| **[ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools)** | A collection of essential utilities for AI development. State management, debugging tools, and artifact handling - everything you need to build production-ready AI applications. | TypeScript |  | ai-sdk | 449 |
-| **[fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)** | A hilarious macOS app that plays fart sounds as you open and close your MacBook lid | Objective-C |  |  | 315 |
-| **[uniprof](https://github.com/indragiek/uniprof)** | Universal CPU profiler designed for humans and AI agents | TypeScript |  | <details><summary>perfo...</summary><p>performance, performance-optimization, profiler, profiling</p></details> | 301 |
-| **[titania](https://github.com/gingerBill/titania)** | Titania Programming Language | Odin |  |  | 299 |
-| **[devtools-debugger-mcp](https://github.com/ScriptedAlchemy/devtools-debugger-mcp)** | An MCP server exposing full Chrome DevTools Protocol debugging: breakpoints, step/run, call stacks, eval, and source maps. | JavaScript |  |  | 281 |
-| **[AgentGym-RL](https://github.com/WooooDyy/AgentGym-RL)** | Code and implementations for the paper "AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning" by Zhiheng Xi et al. | Python |  | <details><summary>agent...</summary><p>agent, llm, llm-based-agent, scaling</p></details> | 280 |
-| **[SpatialVID](https://github.com/NJU-3DV/SpatialVID)** | SpatialVID: A Large-Scale Video Dataset with Spatial Annotations | Python |  | <details><summary>3d-ge...</summary><p>3d-generation, 3d-reconstruction, 4d-generation, 4d-reconstruction, spatial-intelligence, video-dataset, video-generation, video-reasoning, vision-language-model, world-models</p></details> | 252 |
-| **[snippets-vless-reverse-proxy](https://github.com/neibcn/snippets-vless-reverse-proxy)** |  | JavaScript |  |  | 209 |
-| **[Gift-Buyer-Tg](https://github.com/aezate/Gift-Buyer-Tg)** | A bot that scans and buys telegram gifts based on given criteria | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-buyer-tg, telegram-gift-buyer</p></details> | 206 |
-| **[reconstruction-alignment](https://github.com/HorizonWind2004/reconstruction-alignment)** | Official repo of paper "Reconstruction Alignment Improves Unified Multimodal Models". Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning. | Python |  | <details><summary>aigc,...</summary><p>aigc, bagel, comfy, comfyui, diffusion, image-editing, image-generation, multimodal</p></details> | 187 |
-| **[WSASS](https://github.com/TwoSevenOneT/WSASS)** | This is the tool to dump the LSASS process on modern Windows 11 | C++ |  |  | 182 |
-| **[compress.lol](https://github.com/anhostfr/compress.lol)** | Compress videos in your browser to fit Discord limitations and more. - An alternative to 8mb.video | Svelte |  | <details><summary>compr...</summary><p>compression, ffmpeg, ffmpegwasm, file-compression, svelte, sveltekit, tailwindcss, video-compression, video-compressor</p></details> | 179 |
+| **[RustGPT](https://github.com/tekaratzas/RustGPT)** | An transformer based LLM. Written completely in Rust | Rust |  |  | 1782 |
+| **[Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)** |  | GDScript |  |  | 993 |
+| **[oq](https://github.com/plutov/oq)** | Terminal OpenAPI Spec viewer | Go |  | <details><summary>hackt...</summary><p>hacktoberfest</p></details> | 554 |
+| **[ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026)** | ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server. | C# |  | <details><summary>crypt...</summary><p>crypter, crypter-fud, fud-crypter, fud-stealer, panel-stealer, stealer, stealer-files, stealer-fud, stealer-panel, stealing</p></details> | 539 |
+| **[docker-mcp-tutorial](https://github.com/theNetworkChuck/docker-mcp-tutorial)** | Complete tutorial materials for building MCP servers with Docker - from NetworkChuck's video |  |  |  | 522 |
+| **[elden-github](https://github.com/SaltyAom/elden-github)** | Elden Ring experience for GitHub | TypeScript |  |  | 483 |
+| **[titania](https://github.com/gingerBill/titania)** | Titania Programming Language | Odin |  |  | 378 |
+| **[fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)** | A hilarious macOS app that plays fart sounds as you open and close your MacBook lid | Objective-C |  |  | 318 |
+| **[unifolm-world-model-action](https://github.com/unitreerobotics/unifolm-world-model-action)** |  | Python |  |  | 302 |
+| **[devtools-debugger-mcp](https://github.com/ScriptedAlchemy/devtools-debugger-mcp)** | An MCP server exposing full Chrome DevTools Protocol debugging: breakpoints, step/run, call stacks, eval, and source maps. | JavaScript |  |  | 297 |
+| **[WSASS](https://github.com/TwoSevenOneT/WSASS)** | This is the tool to dump the LSASS process on modern Windows 11 | C++ |  |  | 247 |
+| **[snippets-vless-reverse-proxy](https://github.com/neibcn/snippets-vless-reverse-proxy)** |  | JavaScript |  |  | 216 |
+| **[PrimoAgent](https://github.com/ivebotunac/PrimoAgent)** | PrimoAgent: Multi-Agent Stock Analysis | Python |  |  | 187 |
+| **[OmniWorld](https://github.com/yangzhou24/OmniWorld)** | OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling | Python |  |  | 184 |
+| **[provenance-action](https://github.com/danielroe/provenance-action)** | GitHub Action that detects dependency provenance downgrades from lockfile changes (npm/pnpm/yarn). | TypeScript |  |  | 164 |
+| **[maildrop](https://github.com/haileyydev/maildrop)** |  | Python |  |  | 120 |
+| **[Intelligent_Customer_Agents](https://github.com/h9-tec/Intelligent_Customer_Agents)** |  |  |  |  | 119 |
+| **[pyLDAPGui](https://github.com/ZephrFish/pyLDAPGui)** | Python based GUI for browsing LDAP | Python |  | <details><summary>adexp...</summary><p>adexplorer, bloodhound, ldap, neo4j, pyqt, python3</p></details> | 105 |
+| **[DriftDB](https://github.com/DavidLiedle/DriftDB)** | DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust. | Rust |  |  | 103 |
+| **[ai-sdk-zustand](https://github.com/midday-ai/ai-sdk-zustand)** |  | TypeScript |  |  | 103 |
 
