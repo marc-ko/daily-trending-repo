@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-09-18
+Last update: 2025-09-19
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-09-18
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[RustGPT](https://github.com/tekaratzas/RustGPT)** | An transformer based LLM. Written completely in Rust | Rust |  |  | 2002 |
-| **[Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)** |  | GDScript |  |  | 1058 |
-| **[docker-mcp-tutorial](https://github.com/theNetworkChuck/docker-mcp-tutorial)** | Complete tutorial materials for building MCP servers with Docker - from NetworkChuck's video |  |  |  | 575 |
-| **[oq](https://github.com/plutov/oq)** | Terminal OpenAPI Spec viewer | Go |  | <details><summary>hackt...</summary><p>hacktoberfest</p></details> | 571 |
-| **[ZeroTrace-Stealer-13-2026](https://github.com/luis22d/ZeroTrace-Stealer-13-2026)** | ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server. | C# |  | <details><summary>crypt...</summary><p>crypter, crypter-fud, fud-crypter, fud-stealer, panel-stealer, stealer, stealer-files, stealer-fud, stealer-panel, stealing</p></details> | 556 |
-| **[elden-github](https://github.com/SaltyAom/elden-github)** | Elden Ring experience for GitHub | TypeScript |  |  | 487 |
-| **[unifolm-world-model-action](https://github.com/unitreerobotics/unifolm-world-model-action)** |  | Python |  |  | 445 |
-| **[titania](https://github.com/gingerBill/titania)** | Titania Programming Language | Odin |  |  | 390 |
-| **[GuitarPedal](https://github.com/torvalds/GuitarPedal)** |  |  |  |  | 341 |
-| **[Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)** | A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops | ASL |  |  | 335 |
-| **[devtools-debugger-mcp](https://github.com/ScriptedAlchemy/devtools-debugger-mcp)** | An MCP server exposing full Chrome DevTools Protocol debugging: breakpoints, step/run, call stacks, eval, and source maps. | JavaScript |  |  | 308 |
-| **[WSASS](https://github.com/TwoSevenOneT/WSASS)** | This is the tool to dump the LSASS process on modern Windows 11 | C++ |  |  | 290 |
-| **[VoxCPM](https://github.com/OpenBMB/VoxCPM)** | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning | Python |  |  | 270 |
-| **[OmniWorld](https://github.com/yangzhou24/OmniWorld)** | OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling | Python |  |  | 267 |
-| **[snippets-vless-reverse-proxy](https://github.com/neibcn/snippets-vless-reverse-proxy)** |  | JavaScript |  |  | 227 |
-| **[provenance-action](https://github.com/danielroe/provenance-action)** | Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status | TypeScript |  | <details><summary>githu...</summary><p>github-actions, provenance, security, trusted-publishing</p></details> | 226 |
-| **[uuidv47](https://github.com/stateless-me/uuidv47)** | ⚡ UUIDv47 = v4 privacy + v7 performance | C |  | <details><summary>c89, ...</summary><p>c89, database, header-only, siphash, uuid, uuidv4, uuidv7</p></details> | 186 |
-| **[Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit)** | Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support. | Python |  |  | 176 |
-| **[LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5)** |  | Python |  |  | 147 |
-| **[Gift-Buyer-Tg](https://github.com/GothemU/Gift-Buyer-Tg)** | Bot that searches and buys telegram gifts based on given criteria | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-buyer-tg, telegram-gift, telegram-gift-buyer</p></details> | 137 |
+| **[RustGPT](https://github.com/tekaratzas/RustGPT)** | An transformer based LLM. Written completely in Rust | Rust |  |  | 2202 |
+| **[Super-Mario-Bros.-Remastered-Public](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)** |  | GDScript |  |  | 1106 |
+| **[VoxCPM](https://github.com/OpenBMB/VoxCPM)** | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning | Python |  |  | 653 |
+| **[elden-github](https://github.com/SaltyAom/elden-github)** | Elden Ring experience for GitHub | TypeScript |  |  | 501 |
+| **[GuitarPedal](https://github.com/torvalds/GuitarPedal)** |  |  |  |  | 451 |
+| **[Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)** | A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops | ASL |  |  | 420 |
+| **[titania](https://github.com/gingerBill/titania)** | Titania Programming Language | Odin |  |  | 400 |
+| **[uuidv47](https://github.com/stateless-me/uuidv47)** | ⚡ UUIDv47 = v4 privacy + v7 performance | C |  | <details><summary>c89, ...</summary><p>c89, database, header-only, postgresql, siphash, uuid, uuidv4, uuidv7</p></details> | 373 |
+| **[Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit)** | Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support. | Python |  |  | 307 |
+| **[WSASS](https://github.com/TwoSevenOneT/WSASS)** | This is the tool to dump the LSASS process on modern Windows 11 | C++ |  |  | 305 |
+| **[OmniWorld](https://github.com/yangzhou24/OmniWorld)** | OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling | Python |  |  | 303 |
+| **[comfydeploy](https://github.com/comfy-deploy/comfydeploy)** | ComfyDeployed |  |  |  | 298 |
+| **[provenance-action](https://github.com/danielroe/provenance-action)** | Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status | TypeScript |  | <details><summary>githu...</summary><p>github-actions, provenance, security, trusted-publishing</p></details> | 247 |
+| **[snippets-vless-reverse-proxy](https://github.com/neibcn/snippets-vless-reverse-proxy)** |  | JavaScript |  |  | 240 |
+| **[LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5)** |  | Python |  |  | 207 |
+| **[vibe-coding-playbook](https://github.com/RiyaParikh0112/vibe-coding-playbook)** |  |  |  |  | 173 |
+| **[free-sqlite](https://github.com/fjb040911/free-sqlite)** | Free SQLite for VSCode.Support writing SQL statements | JavaScript |  |  | 172 |
+| **[pgmcp](https://github.com/subnetmarco/pgmcp)** | An MCP server to query any Postgres database in natural language. | Go |  | <details><summary>agent...</summary><p>agent, agentic-ai, ai, analytics, artificial-intelligence, data-analysis, database, kong, mcp, mcp-server, postgres, postgresql</p></details> | 145 |
+| **[pingoo](https://github.com/pingooio/pingoo)** | The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io | Rust |  | <details><summary>akama...</summary><p>akamai, anti-bot, apache2, api, api-gateway, captcha, cloudflare, fastly, firewall, haproxy, load-balancer, nginx, pingoo, proxy, quic, reverse-proxy, rust, security, service-discovery, waf</p></details> | 138 |
+| **[maildrop](https://github.com/haileyydev/maildrop)** |  | CSS |  |  | 138 |
 
