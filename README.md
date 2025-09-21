@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-09-20
+Last update: 2025-09-21
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-09-20
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[VoxCPM](https://github.com/OpenBMB/VoxCPM)** | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning | Python |  |  | 870 |
-| **[GuitarPedal](https://github.com/torvalds/GuitarPedal)** |  |  |  |  | 513 |
-| **[Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)** | A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops | ASL |  |  | 476 |
-| **[uuidv47](https://github.com/stateless-me/uuidv47)** | ⚡ UUIDv47 = v4 privacy + v7 performance | C |  | <details><summary>c, c8...</summary><p>c, c89, database, header-only, libpq, postgres, postgresql-extension, siphash, uuid, uuidv4, uuidv7</p></details> | 441 |
-| **[titania](https://github.com/gingerBill/titania)** | Titania Programming Language | Odin |  |  | 406 |
-| **[comfydeploy](https://github.com/comfy-deploy/comfydeploy)** | ComfyDeployed |  |  |  | 385 |
-| **[Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit)** | Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support. | Python |  |  | 356 |
-| **[OmniWorld](https://github.com/yangzhou24/OmniWorld)** | OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling | Python |  |  | 326 |
-| **[pgmcp](https://github.com/subnetmarco/pgmcp)** | An MCP server to query any Postgres database in natural language. | Go |  | <details><summary>agent...</summary><p>agent, agentic-ai, ai, analytics, artificial-intelligence, data-analysis, database, kong, mcp, mcp-server, postgres, postgresql</p></details> | 306 |
-| **[MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio)** |  | Python |  |  | 292 |
-| **[cryptotracker](https://github.com/0xcomp/cryptotracker)** |  | TypeScript |  |  | 280 |
-| **[provenance-action](https://github.com/danielroe/provenance-action)** | Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status | TypeScript |  | <details><summary>githu...</summary><p>github-actions, provenance, security, trusted-publishing</p></details> | 262 |
-| **[LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5)** |  | Python |  |  | 246 |
-| **[free-sqlite](https://github.com/fjb040911/free-sqlite)** | Free SQLite for VSCode.Support writing SQL statements | JavaScript |  |  | 225 |
-| **[LaunchNext](https://github.com/RoversX/LaunchNext)** | Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free. | Swift |  |  | 220 |
-| **[pingoo](https://github.com/pingooio/pingoo)** | The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io | Rust |  | <details><summary>akama...</summary><p>akamai, anti-bot, apache2, api, api-gateway, captcha, cloudflare, fastly, firewall, haproxy, load-balancer, nginx, pingoo, proxy, quic, reverse-proxy, rust, security, service-discovery, waf</p></details> | 195 |
-| **[vibe-coding-playbook](https://github.com/RiyaParikh0112/vibe-coding-playbook)** |  |  |  |  | 186 |
-| **[VibeVoice-finetuning](https://github.com/voicepowered-ai/VibeVoice-finetuning)** | Unofficial WIP LoRa Finetuning repository for VibeVoice | Python |  |  | 137 |
-| **[CLOV](https://github.com/Aihy/CLOV)** | Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, chatbot</p></details> | 126 |
-| **[gemini_icpc2025](https://github.com/google-deepmind/gemini_icpc2025)** | Gemini 2025 ICPC World Finals Code Submissions | C++ |  |  | 126 |
+| **[VoxCPM](https://github.com/OpenBMB/VoxCPM)** | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning | Python |  |  | 975 |
+| **[GuitarPedal](https://github.com/torvalds/GuitarPedal)** |  |  |  |  | 565 |
+| **[Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)** | A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops | ASL |  |  | 508 |
+| **[uuidv47](https://github.com/stateless-me/uuidv47)** | ⚡ UUIDv47 = v4 privacy + v7 performance | C |  | <details><summary>c, c8...</summary><p>c, c89, database, header-only, libpq, postgres, postgresql-extension, siphash, uuid, uuidv4, uuidv7</p></details> | 459 |
+| **[Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit)** | Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support. | Python |  |  | 408 |
+| **[MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio)** |  | Python |  |  | 399 |
+| **[comfydeploy](https://github.com/comfy-deploy/comfydeploy)** | ComfyDeployed |  |  |  | 396 |
+| **[pgmcp](https://github.com/subnetmarco/pgmcp)** | An MCP server to query any Postgres database in natural language. | Go |  | <details><summary>agent...</summary><p>agent, agentic-ai, ai, analytics, artificial-intelligence, data-analysis, database, kong, mcp, mcp-server, postgres, postgresql</p></details> | 336 |
+| **[OmniWorld](https://github.com/yangzhou24/OmniWorld)** | OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling | Python |  |  | 332 |
+| **[LaunchNext](https://github.com/RoversX/LaunchNext)** | Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free. | Swift |  |  | 289 |
+| **[cryptotracker](https://github.com/0xcomp/cryptotracker)** |  | TypeScript |  |  | 281 |
+| **[free-sqlite](https://github.com/fjb040911/free-sqlite)** | Free SQLite for VSCode.Support writing SQL statements | JavaScript |  |  | 272 |
+| **[LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5)** |  | Python |  |  | 267 |
+| **[provenance-action](https://github.com/danielroe/provenance-action)** | Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status | TypeScript |  | <details><summary>githu...</summary><p>github-actions, provenance, security, trusted-publishing</p></details> | 266 |
+| **[pingoo](https://github.com/pingooio/pingoo)** | The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io | Rust |  | <details><summary>akama...</summary><p>akamai, anti-bot, apache2, api, api-gateway, captcha, cloudflare, fastly, firewall, haproxy, load-balancer, nginx, pingoo, proxy, quic, reverse-proxy, rust, security, service-discovery, waf</p></details> | 226 |
+| **[vibe-coding-playbook](https://github.com/RiyaParikh0112/vibe-coding-playbook)** |  |  |  |  | 201 |
+| **[sj.h](https://github.com/rxi/sj.h)** | A tiny little JSON parsing library | C |  |  | 183 |
+| **[Lucy-Edit-ComfyUI](https://github.com/DecartAI/Lucy-Edit-ComfyUI)** |  | Python |  |  | 165 |
+| **[CLOV](https://github.com/Aihy/CLOV)** | Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, chatbot</p></details> | 161 |
+| **[GiftBuyer-Tg](https://github.com/Ko1de/GiftBuyer-Tg)** | A bot that scans and buys telegram gifts based on your criteria | Python |  | <details><summary>gift-...</summary><p>gift-buyer, gift-buyer-tg, telegram-gift-buyer</p></details> | 159 |
 
