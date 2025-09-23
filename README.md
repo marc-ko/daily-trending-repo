@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-09-22
+Last update: 2025-09-23
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-09-22
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[VoxCPM](https://github.com/OpenBMB/VoxCPM)** | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning | Python |  |  | 1077 |
-| **[GuitarPedal](https://github.com/torvalds/GuitarPedal)** |  | OpenSCAD |  |  | 643 |
-| **[sj.h](https://github.com/rxi/sj.h)** | A tiny little JSON parsing library | C |  |  | 594 |
-| **[uuidv47](https://github.com/stateless-me/uuidv47)** | ⚡ UUIDv47 = v4 privacy + v7 performance | C |  | <details><summary>c, c8...</summary><p>c, c89, database, header-only, libpq, postgres, postgresql-extension, siphash, uuid, uuidv4, uuidv7</p></details> | 560 |
-| **[Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)** | A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops | ASL |  |  | 540 |
-| **[MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio)** |  | Python |  |  | 482 |
-| **[Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit)** | Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support. | Python |  |  | 447 |
-| **[comfydeploy](https://github.com/comfy-deploy/comfydeploy)** | ComfyDeployed |  |  |  | 405 |
-| **[pgmcp](https://github.com/subnetmarco/pgmcp)** | An MCP server to query any Postgres database in natural language. | Go |  | <details><summary>agent...</summary><p>agent, agentic-ai, ai, analytics, artificial-intelligence, data-analysis, database, kong, mcp, mcp-server, postgres, postgresql</p></details> | 354 |
-| **[LaunchNext](https://github.com/RoversX/LaunchNext)** | Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free. | Swift |  |  | 336 |
-| **[free-sqlite](https://github.com/fjb040911/free-sqlite)** | Free SQLite for VSCode.Support writing SQL statements | JavaScript |  |  | 318 |
-| **[LLaVA-OneVision-1.5](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5)** |  | Python |  |  | 292 |
-| **[cryptotracker](https://github.com/0xcomp/cryptotracker)** |  | TypeScript |  |  | 282 |
-| **[provenance-action](https://github.com/danielroe/provenance-action)** | Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status | TypeScript |  | <details><summary>githu...</summary><p>github-actions, provenance, security, trusted-publishing</p></details> | 267 |
-| **[pingoo](https://github.com/pingooio/pingoo)** | The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io | Rust |  | <details><summary>akama...</summary><p>akamai, anti-bot, apache2, api, api-gateway, captcha, cloudflare, fastly, firewall, haproxy, load-balancer, nginx, pingoo, proxy, quic, reverse-proxy, rust, security, service-discovery, waf</p></details> | 250 |
-| **[Lucy-Edit-ComfyUI](https://github.com/DecartAI/Lucy-Edit-ComfyUI)** |  | Python |  |  | 223 |
-| **[vibe-coding-playbook](https://github.com/RiyaParikh0112/vibe-coding-playbook)** |  |  |  |  | 208 |
-| **[OpenTrack](https://github.com/GalaxyGeneralRobotics/OpenTrack)** | Official implementation of OpenTrack. | Python |  |  | 198 |
-| **[CLOV](https://github.com/Aihy/CLOV)** | Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, chatbot</p></details> | 185 |
-| **[ComfyUI-VoxCPM](https://github.com/wildminder/ComfyUI-VoxCPM)** | ComfyUI node for highly expressive speech and realistic zero-shot voice cloning | Python |  | <details><summary>ai-vo...</summary><p>ai-voice, audio, comfyui-node, t2s, text-to-speech, tts, voice-cloning, voice-generation</p></details> | 163 |
+| **[sj.h](https://github.com/rxi/sj.h)** | A tiny little JSON parsing library | C |  |  | 918 |
+| **[GuitarPedal](https://github.com/torvalds/GuitarPedal)** | Linus learns analog circuits | OpenSCAD |  |  | 692 |
+| **[MiMo-Audio](https://github.com/XiaomiMiMo/MiMo-Audio)** |  | Python |  |  | 607 |
+| **[Selene](https://github.com/MoonTechLab/Selene)** | 一个以 MoonTV v100 版本为后端的 Android/iOS 客户端，针对移动端体验优化 |  |  |  | 558 |
+| **[Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni)** | Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time. | Jupyter Notebook |  |  | 529 |
+| **[comfydeploy](https://github.com/comfy-deploy/comfydeploy)** | ComfyDeployed |  |  |  | 408 |
+| **[Lucy-Edit-ComfyUI](https://github.com/DecartAI/Lucy-Edit-ComfyUI)** |  | Python |  |  | 312 |
+| **[cryptotracker](https://github.com/0xcomp/cryptotracker)** |  | TypeScript |  |  | 280 |
+| **[OpenTrack](https://github.com/GalaxyGeneralRobotics/OpenTrack)** | Official implementation of OpenTrack. | Python |  |  | 278 |
+| **[pingoo](https://github.com/pingooio/pingoo)** | The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io | Rust |  | <details><summary>akama...</summary><p>akamai, anti-bot, apache2, api, api-gateway, captcha, cloudflare, fastly, firewall, haproxy, load-balancer, nginx, pingoo, proxy, quic, reverse-proxy, rust, security, service-discovery, waf</p></details> | 272 |
+| **[EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)** | EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state. | C++ |  |  | 262 |
+| **[claude-code-sdk-demos](https://github.com/anthropics/claude-code-sdk-demos)** | Claude Code SDK Demos | TypeScript |  |  | 245 |
+| **[CLOV](https://github.com/Aihy/CLOV)** | Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, chatbot</p></details> | 210 |
+| **[BananaFace](https://github.com/ZHO-ZHO-ZHO/BananaFace)** | 基于 Nano Banana 的捏脸神器！精心打造您的完美肖像。使用控制选项，让 AI 将您的想象变为现实 | TypeScript |  |  | 177 |
+| **[ComfyUI-VoxCPM](https://github.com/wildminder/ComfyUI-VoxCPM)** | ComfyUI node for highly expressive speech and realistic zero-shot voice cloning | Python |  | <details><summary>ai-vo...</summary><p>ai-voice, audio, comfyui-node, t2s, text-to-speech, tts, voice-cloning, voice-generation</p></details> | 170 |
+| **[VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter)** | VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model | Python |  | <details><summary>embod...</summary><p>embodied-ai, robotics, vision-language-action-model</p></details> | 165 |
+| **[gemini_icpc2025](https://github.com/google-deepmind/gemini_icpc2025)** | Gemini 2025 ICPC World Finals Code Submissions | C++ |  |  | 144 |
+| **[CrystalLens](https://github.com/SecFathy/CrystalLens)** | CrystalLens is a social media screening and analysis platform that collects posts from multiple sources (via Apify scrapers) and applies local AI (Ollama) to generate character insights, behavioral patterns, and risk assessments for employees or candidates. | Python |  |  | 122 |
+| **[npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices)** | How to stay safe from NPM supply chain attacks |  |  | <details><summary>deno,...</summary><p>deno, javascript, list, nodejs, npm, pnpm, security, yarn</p></details> | 121 |
+| **[LongCat-Flash-Thinking](https://github.com/meituan-longcat/LongCat-Flash-Thinking)** |  |  |  |  | 119 |
 
