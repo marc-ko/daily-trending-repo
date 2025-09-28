@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - September 27, 2025
+title: Latest 10 Trending Repositories - September 28, 2025
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: September 27, 2025
+### 📅 Date: September 28, 2025
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni)** | Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time. | Jupyter Notebook |  |  | 2155 |
-| **[Dayflow](https://github.com/JerryZLiu/Dayflow)** | Generate a timeline of your day, automatically | Swift |  |  | 1882 |
-| **[EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)** | EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state. | C++ |  |  | 520 |
-| **[ml-simplefold](https://github.com/apple/ml-simplefold)** |  | Python |  |  | 428 |
-| **[coding-agent-template](https://github.com/vercel-labs/coding-agent-template)** | Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway | TypeScript |  |  | 357 |
-| **[Sec-Interview](https://github.com/duckpigdog/Sec-Interview)** | 全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云） |  |  |  | 236 |
-| **[swift-configuration](https://github.com/apple/swift-configuration)** | API package for reading configuration. | Swift |  | <details><summary>confi...</summary><p>configuration, server, swift</p></details> | 235 |
-| **[Qwen3Guard](https://github.com/QwenLM/Qwen3Guard)** | Qwen3Guard is a multilingual guardrail model series developed by the Qwen team at Alibaba Cloud. |  |  |  | 190 |
-| **[LongCat-Flash-Thinking](https://github.com/meituan-longcat/LongCat-Flash-Thinking)** |  |  |  |  | 188 |
-| **[YPrompt](https://github.com/fish2018/YPrompt)** | 通过对话挖掘用户需求，并自动生成专业的Prompt | TypeScript |  |  | 182 |
+| **[Dayflow](https://github.com/JerryZLiu/Dayflow)** | Generate a timeline of your day, automatically | Swift |  |  | 2168 |
+| **[The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO)** | How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary  |  |  | <details><summary>scali...</summary><p>scaling, system-design</p></details> | 611 |
+| **[ml-simplefold](https://github.com/apple/ml-simplefold)** |  | Python |  |  | 603 |
+| **[NCE](https://github.com/iChochy/NCE)** | 《新概念英语》全四册在线课文朗读、单句点读 | JavaScript |  | <details><summary>engli...</summary><p>english, learn, nce</p></details> | 588 |
+| **[spyder-osint](https://github.com/yasadEv/spyder-osint)** | A powerful osint tool. | Python |  | <details><summary>osint...</summary><p>osint, osint-python, osint-resources, osint-tool, osint-tools</p></details> | 522 |
+| **[coding-agent-template](https://github.com/vercel-labs/coding-agent-template)** | Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway | TypeScript |  |  | 451 |
+| **[swift-configuration](https://github.com/apple/swift-configuration)** | API package for reading configuration. | Swift |  | <details><summary>confi...</summary><p>configuration, server, swift</p></details> | 284 |
+| **[Sec-Interview](https://github.com/duckpigdog/Sec-Interview)** | 全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云） |  |  |  | 257 |
+| **[Hunyuan3D-Omni](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni)** | Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets | Python |  | <details><summary>3d, 3...</summary><p>3d, 3d-aigc, 3d-generation, hunyuan3d, image-to-3d, multimodal, shape</p></details> | 232 |
+| **[open-letter](https://github.com/Plan-Vert/open-letter)** | An open letter calling for a hard fork of Rails to remove DHH's influence |  |  |  | 229 |
 
