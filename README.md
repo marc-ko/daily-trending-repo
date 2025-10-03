@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-10-02
+Last update: 2025-10-03
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-10-02
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO)** | How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary  |  |  | <details><summary>scali...</summary><p>scaling, system-design</p></details> | 1626 |
-| **[HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)** | HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation | Python |  | <details><summary>image...</summary><p>image-generation, native-multimodal-model</p></details> | 1569 |
-| **[sidekick.nvim](https://github.com/folke/sidekick.nvim)** | Your Neovim AI sidekick | Lua |  | <details><summary>claud...</summary><p>claude-code, codex-cli, copilot, copilot-cli, gemini-cli, neovim, neovim-plugin, nvim, nvim-plugin</p></details> | 960 |
-| **[jscamp](https://github.com/midudev/jscamp)** | Contenido y ejercicios del JSCamp InfoJobs | CSS |  | bootcamp | 759 |
-| **[DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)** |  | Python |  |  | 743 |
-| **[spyder-osint](https://github.com/gumot0/spyder-osint)** | An advanced multi-functional osint tool | Python |  | <details><summary>doxin...</summary><p>doxing, osint, osint-python, osint-tool</p></details> | 585 |
-| **[agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)** | The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe. |  |  |  | 512 |
-| **[Mystical-Blue-Theme](https://github.com/juxtopposed/Mystical-Blue-Theme)** | KDE Plasma 6 Blue Theme |  |  | <details><summary>kde, ...</summary><p>kde, kde-plasma-6, kvantum, plasma-desktop</p></details> | 483 |
-| **[bdh](https://github.com/pathwaycom/bdh)** | Baby Dragon Hatchling (BDH) – Architecture and Code | Python |  |  | 460 |
-| **[craftgpt](https://github.com/sammyuri/craftgpt)** | Small language model built in Minecraft. | Python |  |  | 441 |
-| **[flareprox](https://github.com/MrTurvey/flareprox)** | Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox | Python |  |  | 414 |
+| **[HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)** | HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation | Python |  | <details><summary>image...</summary><p>image-generation, native-multimodal-model</p></details> | 1608 |
+| **[bdh](https://github.com/pathwaycom/bdh)** | Baby Dragon Hatchling (BDH) – Architecture and Code | Python |  |  | 1340 |
+| **[jscamp](https://github.com/midudev/jscamp)** | Contenido y ejercicios del JSCamp InfoJobs | CSS |  | bootcamp | 1016 |
+| **[DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)** |  | Python |  |  | 763 |
+| **[spyder-osint](https://github.com/gumot0/spyder-osint)** | An advanced multi-functional osint tool | Python |  | <details><summary>doxin...</summary><p>doxing, osint, osint-python, osint-tool</p></details> | 592 |
+| **[agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol)** | The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe. |  |  |  | 550 |
+| **[Mystical-Blue-Theme](https://github.com/juxtopposed/Mystical-Blue-Theme)** | KDE Plasma 6 Blue Theme |  |  | <details><summary>kde, ...</summary><p>kde, kde-plasma-6, kvantum, plasma-desktop</p></details> | 533 |
+| **[craftgpt](https://github.com/sammyuri/craftgpt)** | Small language model built in Minecraft. | Python |  |  | 489 |
+| **[crypto-arbitrage-bot](https://github.com/yottjane/crypto-arbitrage-bot)** | A free, open-source, multifunctional crypto arbitrage bot | TypeScript |  | <details><summary>arbit...</summary><p>arbitrage, arbitrage-bots, binance, bitcoin, crypto-trading, cryptocurrency, ethereum, smart-contracts, trading, trading-bot</p></details> | 325 |
 | **[grass-bot](https://github.com/haspread/grass-bot)** | Grass automation python bot | Python |  | <details><summary>grass...</summary><p>grass-autoclaimer-bot, grass-autofarm, grass-bot</p></details> | 219 |
-| **[lidar_odometry](https://github.com/93won/lidar_odometry)** | Probabilistic Kernel Optimization for Robust State Estimation | C++ |  | <details><summary>lidar...</summary><p>lidar, odometry, slam</p></details> | 208 |
-| **[lynx](https://github.com/bytedance/lynx)** | Lynx: Towards High-Fidelity Personalized Video Generation | Python |  |  | 178 |
-| **[ode-ComfyUI-WanVideoWrapper](https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper)** | ode_lowstep | Python |  |  | 177 |
-| **[PharosTestnet-bot](https://github.com/haspread/PharosTestnet-bot)** | Pharos Testnet automation bot | Python |  | <details><summary>pharo...</summary><p>pharos-bot, pharos-testnet, pharos-testnet-bot</p></details> | 156 |
-| **[bookish-octo-telegram](https://github.com/bingcicle/bookish-octo-telegram)** | funding-webhook | Python |  |  | 154 |
-| **[env_guard](https://github.com/bingcicle/env_guard)** | env_guard | JavaScript |  |  | 153 |
-| **[friendly-potato](https://github.com/bingcicle/friendly-potato)** | jsonl-tool | Go |  |  | 153 |
-| **[crispy-palm-tree](https://github.com/bingcicle/crispy-palm-tree)** | dirhash | Rust |  |  | 152 |
+| **[TTT3R](https://github.com/Inception3D/TTT3R)** | A simple state update rule to enhance length generalization for CUT3R. | Python |  | <details><summary>3d-re...</summary><p>3d-reconstruction, rnn-model, slam</p></details> | 209 |
+| **[ode-ComfyUI-WanVideoWrapper](https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper)** | ode_lowstep | Python |  |  | 190 |
+| **[PharosTestnet-bot](https://github.com/haspread/PharosTestnet-bot)** | Pharos Testnet automation bot | Python |  | <details><summary>pharo...</summary><p>pharos-bot, pharos-testnet, pharos-testnet-bot</p></details> | 157 |
+| **[bookish-octo-telegram](https://github.com/bingcicle/bookish-octo-telegram)** | funding-webhook | Python |  |  | 153 |
+| **[env_guard](https://github.com/bingcicle/env_guard)** | env_guard | JavaScript |  |  | 152 |
+| **[friendly-potato](https://github.com/bingcicle/friendly-potato)** | jsonl-tool | Go |  |  | 152 |
+| **[crispy-palm-tree](https://github.com/bingcicle/crispy-palm-tree)** | dirhash | Rust |  |  | 151 |
+| **[resterm](https://github.com/unkn0wn-root/resterm)** | Terminal REST client for .http/.rest files with HTTP, GraphQL, and gRPC support. | Go |  | <details><summary>go, g...</summary><p>go, golang, rest, rest-api, rest-client, tui, tui-app</p></details> | 146 |
+| **[ComfyUI_VNCCS](https://github.com/AHEKOT/ComfyUI_VNCCS)** | Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks. | Python |  |  | 144 |
+| **[IntelligentVRAMNode](https://github.com/eddyhhlure1Eddy/IntelligentVRAMNode)** | IntelligentVRAMNode | Python |  |  | 139 |
 
