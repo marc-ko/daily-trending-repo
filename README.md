@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-10-09
+Last update: 2025-10-10
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-10-09
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[chatkit-js](https://github.com/openai/chatkit-js)** |  | TypeScript |  |  | 1094 |
-| **[TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** |  | Python |  |  | 1055 |
-| **[aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive)** | A curated collection of useful to have programs on a multiboot USB drive |  |  | <details><summary>all-i...</summary><p>all-in-one-tool, all-in-one-toolkit, iso, multiboot, multiboot-usb, multibootusb, usb, usb-drive, ventoy</p></details> | 997 |
-| **[openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)** | Example apps for the Apps SDK | JavaScript |  |  | 833 |
-| **[reddix](https://github.com/ck-zhang/reddix)** | Reddix - Reddit, refined for the terminal. | Rust |  | <details><summary>reddi...</summary><p>reddit, reddit-client</p></details> | 393 |
-| **[openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app)** | Starter app to build with OpenAI ChatKit + Agent Builder | TypeScript |  |  | 294 |
-| **[sora-extend](https://github.com/mshumer/sora-extend)** | Generate long Sora 2 videos that exceed OpenAI's native 12-second limit | Jupyter Notebook |  |  | 292 |
-| **[n8n-terry-guide](https://github.com/theNetworkChuck/n8n-terry-guide)** |  |  |  |  | 277 |
-| **[NetworkHound](https://github.com/MorDavid/NetworkHound)** | Advanced Active Directory network topology analyzer with SMB validation, multiple authentication methods (password/NTLM/Kerberos), and comprehensive network discovery. Export results as BloodHound‑compatible OpenGraph JSON. | Python |  |  | 251 |
-| **[WindowMode](https://github.com/True3DLabs/WindowMode)** | Turn your screen into a Window into a virtual world | TypeScript |  |  | 247 |
-| **[spacegamex64](https://github.com/InkboxSoftware/spacegamex64)** | Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform.  | Assembly |  |  | 246 |
-| **[unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2)** | The Release of Mordoria | Lua |  |  | 246 |
-| **[Sexual-Repression-Calculator](https://github.com/lamos22/Sexual-Repression-Calculator)** | Sexual-Repression-Calculator | TypeScript |  | <details><summary>sexua...</summary><p>sexual-repression-index-calculator</p></details> | 219 |
-| **[chatkit-python](https://github.com/openai/chatkit-python)** |  | Python |  |  | 190 |
-| **[css-extras](https://github.com/sindresorhus/css-extras)** | Useful CSS custom functions using the new @​function rule | CSS |  |  | 182 |
-| **[NCE-Flow](https://github.com/luzhenhua/NCE-Flow)** | 新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。 | JavaScript |  |  | 173 |
-| **[openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples)** | Starter app to build with OpenAI ChatKit SDK | Python |  |  | 170 |
-| **[golang-interview-prep-in-english](https://github.com/Raezil/golang-interview-prep-in-english)** |  |  |  | <details><summary>golan...</summary><p>golang, interview-preparation</p></details> | 168 |
-| **[aspipes](https://github.com/irony/aspipes)** |  | JavaScript |  |  | 167 |
-| **[CyberBlue](https://github.com/cyberblu3s/CyberBlue)** | CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR, CTI, SOAR, and Network Analysis | Shell |  | <details><summary>cti, ...</summary><p>cti, dfir, edr, siem, soar</p></details> | 167 |
+| **[TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)** |  | Python |  |  | 2170 |
+| **[chatkit-js](https://github.com/openai/chatkit-js)** |  | TypeScript |  |  | 1190 |
+| **[openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)** | Example apps for the Apps SDK | JavaScript |  |  | 1172 |
+| **[aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive)** | A curated collection of useful to have programs on a multiboot USB drive |  |  | <details><summary>all-i...</summary><p>all-in-one-tool, all-in-one-toolkit, iso, multiboot, multiboot-usb, multibootusb, usb, usb-drive, ventoy</p></details> | 1047 |
+| **[unnamed_game_1_v2](https://github.com/Mordoria/unnamed_game_1_v2)** | The Release of Mordoria | Lua |  |  | 412 |
+| **[MimicKit](https://github.com/xbpeng/MimicKit)** | Suite of motion imitation algorithms for training motion controllers. | Python |  |  | 402 |
+| **[sora-extend](https://github.com/mshumer/sora-extend)** | Generate long Sora 2 videos that exceed OpenAI's native 12-second limit | Jupyter Notebook |  |  | 348 |
+| **[openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app)** | Starter app to build with OpenAI ChatKit + Agent Builder | TypeScript |  |  | 337 |
+| **[gpu-hot](https://github.com/psalias2006/gpu-hot)** | 🔥 Real-time NVIDIA GPU dashboard | JavaScript |  | <details><summary>chart...</summary><p>charts, cuda, dashboard, docker, flask, gpu, gpu-monitoring, nvidia, nvidia-docker, nvidia-gpu, nvidia-smi, python, real-time, real-time-monitoring, socker-io, system-monitoring</p></details> | 308 |
+| **[NetworkHound](https://github.com/MorDavid/NetworkHound)** | Advanced Active Directory network topology analyzer with SMB validation, multiple authentication methods (password/NTLM/Kerberos), and comprehensive network discovery. Export results as BloodHound‑compatible OpenGraph JSON. | Python |  |  | 262 |
+| **[NCE-Flow](https://github.com/luzhenhua/NCE-Flow)** | 新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。 | JavaScript |  |  | 238 |
+| **[css-extras](https://github.com/sindresorhus/css-extras)** | Useful CSS custom functions using the new @​function rule | CSS |  |  | 216 |
+| **[chatkit-python](https://github.com/openai/chatkit-python)** |  | Python |  |  | 209 |
+| **[benefits-of-electron-executor](https://github.com/Tabish123t/benefits-of-electron-executor)** | benefits-of-electron-executor |  |  | <details><summary>benef...</summary><p>benefits-of-electron-executor, electron-executor, wave-download, zorara-download</p></details> | 208 |
+| **[benefits-of-krnl-for-roblox](https://github.com/shihebamri/benefits-of-krnl-for-roblox)** | benefits-of-krnl-for-roblox |  |  | <details><summary>benef...</summary><p>benefits-of-electron-executor, electron-executor, krnl, wave-download, zorara-download</p></details> | 208 |
+| **[DAWN](https://github.com/maopro825/DAWN)** | DAWN DAWN-workflow DAWN-decentralized DAWN-Testnet DAWN-free-download DAWN-setup-2025 DAWN-install DAWN-platform DAWN-tools |  |  | <details><summary>dawn,...</summary><p>dawn, dawn-decentralized, dawn-free-download, dawn-install, dawn-setup-2025, dawn-testnet, dawn-workflow</p></details> | 208 |
+| **[Axie-Infinity](https://github.com/hamza124243/Axie-Infinity)** | Download Axie Infinity Trainer Hack 2025 - Unlimited Energy, Auto Battle, SLP Farming & More Cheats |  |  | <details><summary>axie-...</summary><p>axie-infinity, axie-infinity-axies, axie-infinity-blockchain, axie-infinity-game, axie-infinity-nft</p></details> | 208 |
+| **[CryptoDragon](https://github.com/SaumyaRana21/CryptoDragon)** | Download CryptoDragon Trainer Hack 2025 – Unlimited Resources, Auto-Battle & Dragon Evolution Cheats |  |  | <details><summary>crypt...</summary><p>cryptodragon, cryptodragon-blockchain, cryptodragon-crypto, cryptodragon-defi, cryptodragon-nft, cryptodragon-smartcontract, cryptodragon-token, cryptodragon-web3</p></details> | 208 |
+| **[Avantisfi-DEX-TRADING](https://github.com/ZaferGunal/Avantisfi-DEX-TRADING)** | AvantisFi Quantum Trader 2025 - AI-Powered DeFi Yield Optimizer |  |  | <details><summary>apy-i...</summary><p>apy-in-defi, avantis, avantisfi, avantisfi-trading-bot-review-2025, avantisfialpha, defialpha, yieldfarming</p></details> | 208 |
+| **[Aster-Protocol---Overview](https://github.com/DariusCorp/Aster-Protocol---Overview)** | Aster - Next-Generation Blockchain Orchestration Platform |  |  | <details><summary>aster...</summary><p>aster-coin, aster-defi, aster-protocol</p></details> | 208 |
 
