@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-10-20
+Last update: 2025-10-21
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-10-20
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[dexter](https://github.com/virattt/dexter)** | An autonomous agent for deep financial research | Python |  |  | 1679 |
-| **[open-agent-builder](https://github.com/firecrawl/open-agent-builder)** | 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution | TypeScript |  |  | 1121 |
-| **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** | Single powerful tool to convert ANY documentation website into a Claude skill | Python |  | <details><summary>ai-to...</summary><p>ai-tools, automation, claude-ai, claude-skills, documentation, documentation-generator, mcp, mcp-server, python, web-scraping</p></details> | 929 |
-| **[awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** | A curated list of Claude Skills. |  |  |  | 860 |
-| **[UZDoom](https://github.com/UZDoom/UZDoom)** | UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer, powerful scripting capabilities, and forked under a | C++ |  |  | 747 |
-| **[crypto-tax-calculator](https://github.com/Acn6S/crypto-tax-calculator)** | An advanced cryptocurrency & personal income tax calculator. | Python |  | <details><summary>bitco...</summary><p>bitcoin, crypto, crypto-tax-reports, cryptocurrency, cryptotax, tax-calculation, tax-calculator, tax-report, us-tax</p></details> | 593 |
-| **[sora2-watermark-remover](https://github.com/hate0s/sora2-watermark-remover)** | Watermark remover for Sora 2 generated videos | Python |  | <details><summary>sora-...</summary><p>sora-ai, sora-watermark-remover, sora2-api</p></details> | 287 |
-| **[ro](https://github.com/samber/ro)** | 🏎️ Reactive Programming paradigm for Go: declarative and composable API for event-driven applications | Go |  | <details><summary>event...</summary><p>event-driven, generics, go, golang, hacktoberfest, observable, observer, pipe, pipeline, reactive, reactive-extensions, reactive-programming, reactive-streams, reactivex, rx, rxjs, stream, subscription</p></details> | 283 |
-| **[awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code |  |  | <details><summary>agent...</summary><p>agentic-coding, anthropic, awesome, awesome-list, awesome-lists, claude, claude-ai, claude-code, claude-desktop, claude-skills, claudeskills</p></details> | 273 |
-| **[FlashVSR](https://github.com/OpenImagingLab/FlashVSR)** | Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder. | Python |  | <details><summary>diffu...</summary><p>diffusion-models, video-super-resolution</p></details> | 269 |
-| **[TraceAnything](https://github.com/ByteDance-Seed/TraceAnything)** | Trace Anything: Representing Any Video in 4D via Trajectory Fields | Python |  | <details><summary>3d-re...</summary><p>3d-reconstruction, 4d-reconstruction, computer-vision</p></details> | 235 |
-| **[WithAnyone](https://github.com/Doby-Xu/WithAnyone)** | ✨ WithAnyone is capable of generating high-quality, controllable, and ID consistent images | Python |  |  | 234 |
-| **[anyup](https://github.com/wimmerth/anyup)** | Repository of the paper "AnyUp: Universal Feature Upsampling". | Jupyter Notebook |  |  | 233 |
-| **[Browser-Data-Grabber](https://github.com/sankha-ghosh/Browser-Data-Grabber)** | Simple, open-source wrappers for browser data extraction and analysis |  |  | <details><summary>app-b...</summary><p>app-bound-encryption, brave, browser, chrome, chromium, cookies, csharp, cybersecurity, decryption, dotnet, edge, encryption, forensics, passwords, penetration-testing, powershell, python, security, stealer, wrapper</p></details> | 207 |
-| **[Y2JB](https://github.com/Gezine/Y2JB)** | Y2JB is userland code execution using PS5 Youtube app | Python |  |  | 195 |
-| **[mirza_pro](https://github.com/mahdiMGF2/mirza_pro)** | bot pro for sell vpn | PHP |  |  | 192 |
-| **[async-react](https://github.com/rickhanlonii/async-react)** | The final state of the React Conf 2025 Async React talk. | TypeScript |  |  | 178 |
-| **[rlm](https://github.com/alexzhang13/rlm)** | Super basic implementation (gist-like) of RLMs with REPL environments. | Python |  |  | 166 |
-| **[LongCat-Audio-Codec](https://github.com/meituan-longcat/LongCat-Audio-Codec)** | LongCat Audio Tokenizer and Detokenizer | Python |  |  | 144 |
-| **[NEO](https://github.com/EvolvingLMMs-Lab/NEO)** | NEO Series: Native Vision-Language Models from First Principles | Python |  |  | 141 |
+| **[DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)** | Contexts Optical Compression | Python |  |  | 4352 |
+| **[open-agent-builder](https://github.com/firecrawl/open-agent-builder)** | 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution | TypeScript |  |  | 1294 |
+| **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** | Single powerful tool to convert ANY documentation website into a Claude skill | Python |  | <details><summary>ai-to...</summary><p>ai-tools, automation, claude-ai, claude-skills, documentation, documentation-generator, mcp, mcp-server, python, web-scraping</p></details> | 1280 |
+| **[awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)** | A curated list of Claude Skills. |  |  |  | 1029 |
+| **[awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code |  |  | <details><summary>agent...</summary><p>agentic-coding, anthropic, awesome, awesome-list, awesome-lists, claude, claude-ai, claude-code, claude-desktop, claude-skills, claudeskills</p></details> | 446 |
+| **[sora2-watermark-remover](https://github.com/Lsangeles/sora2-watermark-remover)** | Watermark remover for Sora 2 generated videos | Python |  | <details><summary>sora-...</summary><p>sora-ai, sora2, sora2-watermark-remover</p></details> | 299 |
+| **[playwright-skill](https://github.com/lackeyjb/playwright-skill)** | Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation. | JavaScript |  | <details><summary>ai-to...</summary><p>ai-tools, automation, browser-automation, claude, claude-code, claude-plugin, claude-skills, developer-tools, e2e-testing, model-invoked, nodejs, playwright, web-testing</p></details> | 269 |
+| **[TraceAnything](https://github.com/ByteDance-Seed/TraceAnything)** | Trace Anything: Representing Any Video in 4D via Trajectory Fields | Python |  | <details><summary>3d-re...</summary><p>3d-reconstruction, 4d-reconstruction, computer-vision</p></details> | 262 |
+| **[percolator](https://github.com/aeyakovenko/percolator)** |  | Makefile |  |  | 230 |
+| **[Browser-Data-Grabber](https://github.com/sankha-ghosh/Browser-Data-Grabber)** | Stealer for Windows 10/11 for Chrome, Edge, Firefox, Brave with Wallet, Discord, Telegram and many more functions. Passwords, cookies, autofills, payments, etc. | C++ |  | <details><summary>app-b...</summary><p>app-bound, autofills, brave, chrome, cookies, credit-card, edge, encryption, exploit, firefox, fud, grabber, malware, passwords, payments, stealer, undetectable, wallet, windows</p></details> | 207 |
+| **[sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** | A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. | TypeScript |  |  | 205 |
+| **[Y2JB](https://github.com/Gezine/Y2JB)** | Y2JB is userland code execution using PS5 Youtube app | Python |  |  | 204 |
+| **[gitfetch](https://github.com/Matars/gitfetch)** | A neofetch alternative for GitHub quick view | Python |  |  | 197 |
+| **[mirza_pro](https://github.com/mahdiMGF2/mirza_pro)** | bot pro for sell vpn | PHP |  |  | 196 |
+| **[dosbox-pure-unleashed](https://github.com/schellingb/dosbox-pure-unleashed)** | DOSBox reimagined, with a friendly interface, ZIP loading and save states | C++ |  |  | 190 |
+| **[BSC-MEME-RUSH-BOT](https://github.com/GRIffInlIOnZo/BSC-MEME-RUSH-BOT)** | EVM Sniper Bot v4.31 is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain. | Python |  | <details><summary>binan...</summary><p>binance, bsc, evm, meme, rush, sandwich</p></details> | 183 |
+| **[rlm](https://github.com/alexzhang13/rlm)** | Super basic implementation (gist-like) of RLMs with REPL environments. | Python |  |  | 173 |
+| **[freephdlabor](https://github.com/ltjed/freephdlabor)** | freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem | Python |  | <details><summary>ai-ag...</summary><p>ai-agents, ai4science, autonomous-agents, multiagent-systems, research-automation</p></details> | 165 |
+| **[SearchPaperByEmbedding](https://github.com/gyj155/SearchPaperByEmbedding)** |  | Python |  |  | 162 |
+| **[LongCat-Audio-Codec](https://github.com/meituan-longcat/LongCat-Audio-Codec)** | LongCat Audio Tokenizer and Detokenizer | Python |  |  | 161 |
 
