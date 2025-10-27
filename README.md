@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-10-26
+Last update: 2025-10-27
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-10-26
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[surf](https://github.com/deta/surf)** | Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local). | TypeScript |  | <details><summary>claud...</summary><p>claude, deepseek, gemma, knowledge-base, knowledge-management, llm, local, local-llm, ollama, openai, productivity, rust, svelte, typescript</p></details> | 1727 |
-| **[sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)** | A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. | TypeScript |  |  | 1077 |
-| **[deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** | A quick vibe coded app for deepseek OCR | JavaScript |  |  | 812 |
-| **[workflow](https://github.com/vercel/workflow)** | Workflow DevKit: Build durable, resilient, and observable workflows | TypeScript |  |  | 596 |
+| **[deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app)** | A quick vibe coded app for deepseek OCR | JavaScript |  |  | 988 |
+| **[pico-banana-400k](https://github.com/apple/pico-banana-400k)** |  | Python |  |  | 861 |
+| **[ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns. | JavaScript |  | <details><summary>ai-ag...</summary><p>ai-agents, educational, function-calling, llm, llm-agent, node-llama-cpp, react-agent, tutorial</p></details> | 688 |
+| **[workflow](https://github.com/vercel/workflow)** | Workflow DevKit: Build durable, resilient, and observable workflows | TypeScript |  |  | 678 |
+| **[deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** | Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run. | Rust |  | <details><summary>candl...</summary><p>candle, ocr, ocr-recognition, openai, rust</p></details> | 666 |
+| **[DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API)** |  | Python |  |  | 645 |
 | **[spyder-osint](https://github.com/mocred/spyder-osint)** | An universal OSINT tool. | Python |  | <details><summary>osint...</summary><p>osint, osint-python, osint-resources, osint-tool, osint-tools, spyder-osint</p></details> | 566 |
+| **[lightly-studio](https://github.com/lightly-ai/lightly-studio)** | Curate, Annotate, and Manage Your Data in LightlyStudio. | Python |  | <details><summary>compu...</summary><p>computer-vision, image-labeling, mlops</p></details> | 549 |
 | **[crypto-tax-calculator](https://github.com/s4myot/crypto-tax-calculator)** | An advanced cryptocurrency & personal income tax calculator. | Python |  | <details><summary>bitco...</summary><p>bitcoin, crypto, crypto-tax-reports, cryptocurrency, cryptotax, tax-calculation, us-tax</p></details> | 544 |
-| **[lightly-studio](https://github.com/lightly-ai/lightly-studio)** | Curate, Annotate, and Manage Your Data in LightlyStudio. | Python |  | <details><summary>compu...</summary><p>computer-vision, image-labeling, mlops</p></details> | 543 |
-| **[ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)** | Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns. | JavaScript |  | <details><summary>ai-ag...</summary><p>ai-agents, educational, function-calling, llm, llm-agent, node-llama-cpp, react-agent, tutorial</p></details> | 527 |
-| **[DeekSeek-OCR---Dockerized-API](https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API)** |  | Python |  |  | 454 |
-| **[HacxGPT](https://github.com/setls/HacxGPT)** | HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy. | Python |  | <details><summary>ai, c...</summary><p>ai, chatbot, gpt, hackerai, hacking, hacx-gpt, hacxgpt, wormgpt</p></details> | 435 |
-| **[Aictionary](https://github.com/ahpxex/Aictionary)** | 一个桌面词典：快速、简洁，并且真的让你学会英语 | C# |  | <details><summary>avalo...</summary><p>avalonia, chinese, desktop-app, dictionary, english-learning</p></details> | 384 |
-| **[sora2-watermark-remover](https://github.com/boukrat/sora2-watermark-remover)** | Sora 2 generated videos AI watermark remover | Python |  | <details><summary>sora-...</summary><p>sora-watermark-remover, sora2, sora2-ai, sora2-watermark-remover, soraai</p></details> | 336 |
-| **[tiny8](https://github.com/sql-hkr/tiny8)** | A tiny CPU simulator written in Python | Python |  | <details><summary>8-bit...</summary><p>8-bit-computer, assembler, visualization</p></details> | 326 |
-| **[AITradeGame](https://github.com/chadyi/AITradeGame)** |  | Python |  |  | 324 |
-| **[AI-Trader](https://github.com/HKUDS/AI-Trader)** | "AI-Trader: Can AI Beat the Market?" | Python |  |  | 282 |
+| **[AI-Trader](https://github.com/HKUDS/AI-Trader)** | "AI-Trader: Can AI Beat the Market?" | Python |  |  | 497 |
+| **[HacxGPT](https://github.com/setls/HacxGPT)** | HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy. | Python |  | <details><summary>ai, c...</summary><p>ai, chatbot, gpt, hackerai, hacking, hacx-gpt, hacxgpt, wormgpt</p></details> | 437 |
+| **[Aictionary](https://github.com/ahpxex/Aictionary)** | 一个桌面词典：快速、简洁，并且真的让你学会英语 | C# |  | <details><summary>avalo...</summary><p>avalonia, chinese, desktop-app, dictionary, english-learning</p></details> | 425 |
+| **[toon](https://github.com/johannschopplich/toon)** | 🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost | TypeScript |  |  | 376 |
+| **[sora2-watermark-remover](https://github.com/boukrat/sora2-watermark-remover)** | Sora 2 generated videos AI watermark remover | Python |  | <details><summary>sora-...</summary><p>sora-watermark-remover, sora2, sora2-ai, sora2-watermark-remover, soraai</p></details> | 348 |
+| **[nof0](https://github.com/wquguru/nof0)** | nof1.ai完整复刻版（持续开发） | TypeScript |  |  | 320 |
+| **[LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** |  | Python |  |  | 314 |
+| **[pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c)** | Use your PCB itself as a USB C connector! Including 10 and 14 Pin versions |  |  |  | 287 |
 | **[Ethereal-DEX-TRADING](https://github.com/AnshulTulsian749/Ethereal-DEX-TRADING)** | Ethereal - Next-Generation Blockchain Infrastructure Platform |  |  |  | 272 |
-| **[Active-UNDELETE-Ultimate](https://github.com/PerformMAx/Active-UNDELETE-Ultimate)** | Download Active UNDELETE Ultimate 2025 - Recover Deleted Files, Photos, Documents & Partitions with Advanced Data Restoration |  |  |  | 272 |
 | **[Hibachi-Trade](https://github.com/atul695/Hibachi-Trade)** | Hibachi.xyz - Advanced Multi-Chain DEX Aggregator & Yield Optimizer |  |  |  | 272 |
-| **[Abelssoft-SyncManager-Pro](https://github.com/Ghlbishi/Abelssoft-SyncManager-Pro)** | Download Abelssoft SyncManager Pro 2025 – Advanced File Synchronization, Backup, and Cloud Management Tool for Windows |  |  |  | 272 |
-| **[Gradient-Network](https://github.com/ashashty/Gradient-Network)** | Gradient-Network Gradient-free-download Gradient-setup-2024 Gradient-install Gradient-crypto Gradient-tools Gradient-Reger Gradient-Farmer Gradient-Miner Gradient-Multireger Gradient-Multifarmer Gradient-Extension-Bot Gradient-Bot Gradient-Multiwallet Gradient-AutoFarm airdrop crypto blockchain |  |  | <details><summary>gradi...</summary><p>gradient-crypto, gradient-farmer, gradient-free-download, gradient-install, gradient-network, gradient-reger, gradient-setup-2025, gradient-tools</p></details> | 272 |
+| **[Active-UNDELETE-Ultimate](https://github.com/PerformMAx/Active-UNDELETE-Ultimate)** | Download Active UNDELETE Ultimate 2025 - Recover Deleted Files, Photos, Documents & Partitions with Advanced Data Restoration |  |  |  | 272 |
 
