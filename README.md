@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-10-30
+Last update: 2025-10-31
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-10-30
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** | Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run. | Rust |  | <details><summary>candl...</summary><p>candle, ocr, ocr-recognition, openai, rust</p></details> | 1418 |
-| **[nofx](https://github.com/tinkle-community/nofx)** | Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard | Go |  | <details><summary>ai-tr...</summary><p>ai-trading, aster, cryptocurrency, deepseek, futures-trading, hyperliquid, llm, llm-trading, nof1ai, qwen, trading-bot</p></details> | 1035 |
-| **[MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** | MiniMax-M2, a Mini model built for Max coding & agentic workflows. |  |  | <details><summary>large...</summary><p>large-language-models, llm</p></details> | 841 |
-| **[LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** |  | Python |  |  | 785 |
-| **[Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** |  | C# |  |  | 612 |
-| **[recall-for-linux](https://github.com/rolflobker/recall-for-linux)** | Bring Microsoft Recall to Linux! | Shell |  |  | 600 |
-| **[nof1-tracker](https://github.com/terryso/nof1-tracker)** | A command-line tool for tracking nof1.ai AI Agent trading signals and automatically executing Binance futures trades | TypeScript |  | nof1 | 519 |
-| **[pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c)** | Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions |  |  |  | 467 |
+| **[nofx](https://github.com/tinkle-community/nofx)** | Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard | Go |  | <details><summary>ai-tr...</summary><p>ai-trading, aster, cryptocurrency, deepseek, futures-trading, hyperliquid, llm, llm-trading, nof1ai, qwen, trading-bot</p></details> | 2169 |
+| **[deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs)** | Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run. | Rust |  | <details><summary>candl...</summary><p>candle, ocr, ocr-recognition, openai, rust</p></details> | 1516 |
+| **[MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2)** | MiniMax-M2, a model built for Max coding & agentic workflows. |  |  | <details><summary>large...</summary><p>large-language-models, llm</p></details> | 948 |
+| **[LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)** |  | Python |  |  | 820 |
+| **[Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** |  | C# |  |  | 752 |
+| **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** | Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents | Shell |  |  | 721 |
+| **[recall-for-linux](https://github.com/rolflobker/recall-for-linux)** | Bring Microsoft Recall to Linux! | Shell |  |  | 617 |
+| **[Emu3.5](https://github.com/baaivision/Emu3.5)** | Native Multimodal Models are World Learners | Python |  |  | 574 |
+| **[pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c)** | Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions |  |  |  | 479 |
+| **[boltzgen](https://github.com/HannesStark/boltzgen)** |  | Jupyter Notebook |  |  | 476 |
 | **[btc-python-utils](https://github.com/kirodaki/btc-python-utils)** | Bitcoin utilities and protocol library for interacting with the network | Python |  | <details><summary>bitco...</summary><p>bitcoin, bitcoin-utils, crypto, cryptocurrency, learning</p></details> | 441 |
-| **[boltzgen](https://github.com/HannesStark/boltzgen)** |  | Jupyter Notebook |  |  | 434 |
+| **[openskills](https://github.com/numman-ali/openskills)** | Universal skills loader for AI coding agents - npm i -g openskills | TypeScript |  |  | 336 |
 | **[eth-python-utils](https://github.com/kirodaki/eth-python-utils)** | Ethereum utilities and protocol library for interacting with the network | Python |  | <details><summary>crypt...</summary><p>cryptocurrency, eth-utils, ethereum, utility-library</p></details> | 326 |
-| **[BSC-MEME-RUSH-BOT](https://github.com/PYrOogrEvENUs/BSC-MEME-RUSH-BOT)** | EVM Sniper Bot v4.31 is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain. | Python |  | <details><summary>binan...</summary><p>binance, bsc, evm, meme, rush, sandwich</p></details> | 290 |
-| **[Data_Engineer_Roadmap](https://github.com/anshlambagit/Data_Engineer_Roadmap)** |  |  |  |  | 288 |
-| **[sora2-api](https://github.com/jun6ry/sora2-api)** | A tool for generating videos using the Sora 2 API. | Python |  | <details><summary>artif...</summary><p>artificial-intelligence, python-tools, sora, sora-ai, sora-api, sora2</p></details> | 288 |
-| **[anyapk](https://github.com/sam1am/anyapk)** | Install any apk on the device you own.  | Kotlin |  |  | 269 |
-| **[Pacifica-DEX](https://github.com/azhrzuhro/Pacifica-DEX)** | Trade automatically on pacificaDEX and profit from trades and future airdrop |  |  | <details><summary>pacif...</summary><p>pacifica-airdrop, pacifica-dex, pacifica-drop, pacifica-procent, pacifica-sol, pacifica-top-10, pacifica-trading</p></details> | 263 |
-| **[Ethereal-DEX-TRADING](https://github.com/AnshulTulsian749/Ethereal-DEX-TRADING)** | Ethereal - Next-Generation Blockchain Infrastructure Platform |  |  |  | 262 |
-| **[Active-UNDELETE-Ultimate](https://github.com/PerformMAx/Active-UNDELETE-Ultimate)** | Download Active UNDELETE Ultimate 2025 - Recover Deleted Files, Photos, Documents & Partitions with Advanced Data Restoration |  |  |  | 262 |
-| **[Hibachi-Trade](https://github.com/atul695/Hibachi-Trade)** | Hibachi.xyz - Advanced Multi-Chain DEX Aggregator & Yield Optimizer |  |  |  | 262 |
-| **[Gradient-Network](https://github.com/ashashty/Gradient-Network)** | Gradient-Network Gradient-free-download Gradient-setup-2024 Gradient-install Gradient-crypto Gradient-tools Gradient-Reger Gradient-Farmer Gradient-Miner Gradient-Multireger Gradient-Multifarmer Gradient-Extension-Bot Gradient-Bot Gradient-Multiwallet Gradient-AutoFarm airdrop crypto blockchain |  |  | <details><summary>gradi...</summary><p>gradient-crypto, gradient-farmer, gradient-free-download, gradient-install, gradient-network, gradient-reger, gradient-setup-2025, gradient-tools</p></details> | 262 |
+| **[sora2-api](https://github.com/jun6ry/sora2-api)** | A tool for generating videos using the Sora 2 API. | Python |  | <details><summary>artif...</summary><p>artificial-intelligence, python-tools, sora, sora-ai, sora-api, sora2</p></details> | 295 |
+| **[Data_Engineer_Roadmap](https://github.com/anshlambagit/Data_Engineer_Roadmap)** |  |  |  |  | 293 |
+| **[ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)** | My custom cursor shaders for ghostty (trails and ripple/pulse effects) | GLSL |  |  | 292 |
+| **[chain](https://github.com/juchain-network/chain)** | JuChain: Ethereum-compatible blockchain with JPoSA consensus (DPoS+PoA). Fast, low-cost, EVM compatible.  | Go |  |  | 278 |
+| **[Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** |  |  |  |  | 271 |
+| **[EdgeML](https://github.com/0xEdgeAI/EdgeML)** |  |  |  |  | 212 |
+| **[vite-plugin-use-golang](https://github.com/yarlson/vite-plugin-use-golang)** |  | TypeScript |  |  | 177 |
 
