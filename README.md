@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-11-02
+Last update: 2025-11-03
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-11-02
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[nofx](https://github.com/tinkle-community/nofx)** | NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard | Go |  | <details><summary>ai-tr...</summary><p>ai-trading, aster, cryptocurrency, deepseek, futures-trading, hyperliquid, llm, llm-trading, nof1ai, qwen, trading-bot</p></details> | 4302 |
-| **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** | Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents | Shell |  |  | 1770 |
-| **[Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** |  | C# |  |  | 872 |
-| **[Emu3.5](https://github.com/baaivision/Emu3.5)** | Native Multimodal Models are World Learners | Python |  |  | 868 |
-| **[Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** |  |  |  |  | 785 |
-| **[sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover)** | Sora 2 AI generated videos gentle watermark remover | Python |  | <details><summary>ai, s...</summary><p>ai, sora-ai, sora-video, sora-watermark-remover, sora2</p></details> | 402 |
-| **[sora2-api](https://github.com/jun6ry/sora2-api)** | A tool for generating videos using the Sora 2 API. | Python |  | <details><summary>artif...</summary><p>artificial-intelligence, python-tools, sora, sora-ai, sora-api, sora2</p></details> | 359 |
-| **[eth-python-utils](https://github.com/kirodaki/eth-python-utils)** | Ethereum utilities and protocol library for interacting with the network | Python |  | <details><summary>crypt...</summary><p>cryptocurrency, eth-utils, ethereum, utility-library</p></details> | 326 |
-| **[ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)** | My custom cursor shaders for ghostty (trails and ripple/pulse effects) | GLSL |  |  | 317 |
-| **[chain](https://github.com/juchain-network/chain)** | JuChain: Ethereum-compatible blockchain with JPoSA consensus (DPoS+PoA). Fast, low-cost, EVM compatible.  | Go |  |  | 293 |
-| **[ReCode](https://github.com/FoundationAgents/ReCode)** | Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making. | Python |  |  | 232 |
-| **[nof1.ai](https://github.com/195440/nof1.ai)** | ⚡ Open nof1.ai  | Autonomous AI Trading Agent (自主AI交易系统) | https://open-nof1.195440.com | TypeScript |  | <details><summary>ai-qu...</summary><p>ai-quantitative, ai-trader, nof1, nofx, rockflow, toon, valuecell</p></details> | 223 |
-| **[EdgeML](https://github.com/0xEdgeAI/EdgeML)** |  |  |  |  | 216 |
-| **[ai-in-the-terminal](https://github.com/theNetworkChuck/ai-in-the-terminal)** | Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows |  |  |  | 202 |
-| **[Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** | A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling. |  |  |  | 196 |
-| **[eye](https://github.com/eight-atulya/eye)** | Part of BRAIN project | TypeScript |  |  | 179 |
-| **[opentalent-new](https://github.com/OS-HUBU/opentalent-new)** |  | Vue |  |  | 175 |
-| **[Hyper-Alpha-Arena](https://github.com/HammerGPT/Hyper-Alpha-Arena)** | Hyper Alpha Arena is an advanced AI trading competition platform in live cryptocurrency trading,inspired by nof1 Alpha Arena. | Python |  |  | 170 |
-| **[BTC-Wallet-Finder](https://github.com/abdullahalhwyji/BTC-Wallet-Finder)** |  |  |  | <details><summary>addre...</summary><p>address-finder, address-scanner, bitcoin-address, bitcoin-analysis, bitcoin-tools, bitcoin-tracking, bitcoin-wallet, blockchain-explorer, btc-address-scanner, btc-explorer, btc-tracker, wallet-analyzer, wallet-balance-checker, wallet-database, wallet-finder, wallet-finder-crypto-checker, wallet-lookup, wallet-monitor, wallet-tracker</p></details> | 160 |
-| **[ComfyUI-DyPE](https://github.com/wildminder/ComfyUI-DyPE)** | ComfyUI node brings DyPE to FLUX, enabling artifact-free 4K+ image generation | Python |  | <details><summary>comfy...</summary><p>comfyui, comfyui-nodes, flux, high-resolution, t2i, text2image</p></details> | 145 |
+| **[nofx](https://github.com/NoFxAiOS/nofx)** | NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard | Go |  | <details><summary>agent...</summary><p>agentic-ai, agentictrading, ai, ai-trading, aitradingos, nof1ai, trading</p></details> | 5260 |
+| **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** | Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents | Shell |  |  | 2581 |
+| **[Emu3.5](https://github.com/baaivision/Emu3.5)** | Native Multimodal Models are World Learners | Python |  |  | 947 |
+| **[Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** |  | C# |  |  | 908 |
+| **[Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** |  |  |  |  | 871 |
+| **[react-native-godot](https://github.com/borndotcom/react-native-godot)** | React Native Godot - Embed Godot Engine in React Native apps | C++ |  | <details><summary>andro...</summary><p>android, godot, godot-engine, ios, react-native</p></details> | 622 |
+| **[sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover)** | Sora 2 AI generated videos gentle watermark remover | Python |  | <details><summary>ai, s...</summary><p>ai, sora-ai, sora-video, sora-watermark-remover, sora2</p></details> | 405 |
+| **[sora2-api](https://github.com/jun6ry/sora2-api)** | A tool for generating videos using the Sora 2 API. | Python |  | <details><summary>artif...</summary><p>artificial-intelligence, python-tools, sora, sora-ai, sora-api, sora2</p></details> | 366 |
+| **[Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** | A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling. |  |  |  | 364 |
+| **[compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** | 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ. | Kotlin |  | <details><summary>andro...</summary><p>android, compose, intellij-plugin, jetpack-compose, kotlin-compiler-plugin, skydoves, stability</p></details> | 332 |
+| **[MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel)** | 一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事 | Python |  |  | 245 |
+| **[ai-in-the-terminal](https://github.com/theNetworkChuck/ai-in-the-terminal)** | Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows |  |  |  | 222 |
+| **[EdgeML](https://github.com/0xEdgeAI/EdgeML)** |  |  |  |  | 217 |
+| **[nokode](https://github.com/samrolken/nokode)** |  | JavaScript |  |  | 205 |
+| **[BTC-Wallet-Finder](https://github.com/abdullahalhwyji/BTC-Wallet-Finder)** |  |  |  | <details><summary>addre...</summary><p>address-finder, address-scanner, bitcoin-address, bitcoin-analysis, bitcoin-tools, bitcoin-tracking, bitcoin-wallet, blockchain-explorer, btc-address-scanner, btc-explorer, btc-tracker, wallet-analyzer, wallet-balance-checker, wallet-database, wallet-finder, wallet-finder-crypto-checker, wallet-lookup, wallet-monitor, wallet-tracker</p></details> | 199 |
+| **[opentalent-new](https://github.com/OS-HUBU/opentalent-new)** |  | Vue |  |  | 177 |
+| **[linux-wasm](https://github.com/joelseverin/linux-wasm)** | WebAssembly (Wasm) arch support for the Linux kernel | JavaScript |  | <details><summary>linux...</summary><p>linux, wasm</p></details> | 172 |
+| **[pipedash](https://github.com/hcavarsan/pipedash)** | A desktop app for managing CI/CD pipelines from multiple providers | Rust |  |  | 164 |
+| **[ShareHound](https://github.com/p0dalirius/ShareHound)** | A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily | Python |  | <details><summary>blood...</summary><p>bloodhound, network, opengraph, sharehound, shares</p></details> | 162 |
+| **[WineGDK](https://github.com/Weather-OS/WineGDK)** | GDK Components and *some* WinRT Components ported to Wine. | C |  |  | 159 |
 
