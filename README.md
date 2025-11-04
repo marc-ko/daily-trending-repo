@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-11-03
+Last update: 2025-11-04
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-11-03
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[nofx](https://github.com/NoFxAiOS/nofx)** | NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard | Go |  | <details><summary>agent...</summary><p>agentic-ai, agentictrading, ai, ai-trading, aitradingos, nof1ai, trading</p></details> | 5260 |
-| **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** | Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents | Shell |  |  | 2581 |
-| **[Emu3.5](https://github.com/baaivision/Emu3.5)** | Native Multimodal Models are World Learners | Python |  |  | 947 |
-| **[Escape-From-Duckov-Coop-Mod-Preview](https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview)** |  | C# |  |  | 908 |
-| **[Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** |  |  |  |  | 871 |
-| **[react-native-godot](https://github.com/borndotcom/react-native-godot)** | React Native Godot - Embed Godot Engine in React Native apps | C++ |  | <details><summary>andro...</summary><p>android, godot, godot-engine, ios, react-native</p></details> | 622 |
-| **[sora2-watermark-remover](https://github.com/oyokki/sora2-watermark-remover)** | Sora 2 AI generated videos gentle watermark remover | Python |  | <details><summary>ai, s...</summary><p>ai, sora-ai, sora-video, sora-watermark-remover, sora2</p></details> | 405 |
-| **[sora2-api](https://github.com/jun6ry/sora2-api)** | A tool for generating videos using the Sora 2 API. | Python |  | <details><summary>artif...</summary><p>artificial-intelligence, python-tools, sora, sora-ai, sora-api, sora2</p></details> | 366 |
-| **[Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** | A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling. |  |  |  | 364 |
-| **[compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** | 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ. | Kotlin |  | <details><summary>andro...</summary><p>android, compose, intellij-plugin, jetpack-compose, kotlin-compiler-plugin, skydoves, stability</p></details> | 332 |
-| **[MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel)** | 一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事 | Python |  |  | 245 |
-| **[ai-in-the-terminal](https://github.com/theNetworkChuck/ai-in-the-terminal)** | Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows |  |  |  | 222 |
-| **[EdgeML](https://github.com/0xEdgeAI/EdgeML)** |  |  |  |  | 217 |
-| **[nokode](https://github.com/samrolken/nokode)** |  | JavaScript |  |  | 205 |
-| **[BTC-Wallet-Finder](https://github.com/abdullahalhwyji/BTC-Wallet-Finder)** |  |  |  | <details><summary>addre...</summary><p>address-finder, address-scanner, bitcoin-address, bitcoin-analysis, bitcoin-tools, bitcoin-tracking, bitcoin-wallet, blockchain-explorer, btc-address-scanner, btc-explorer, btc-tracker, wallet-analyzer, wallet-balance-checker, wallet-database, wallet-finder, wallet-finder-crypto-checker, wallet-lookup, wallet-monitor, wallet-tracker</p></details> | 199 |
-| **[opentalent-new](https://github.com/OS-HUBU/opentalent-new)** |  | Vue |  |  | 177 |
-| **[linux-wasm](https://github.com/joelseverin/linux-wasm)** | WebAssembly (Wasm) arch support for the Linux kernel | JavaScript |  | <details><summary>linux...</summary><p>linux, wasm</p></details> | 172 |
-| **[pipedash](https://github.com/hcavarsan/pipedash)** | A desktop app for managing CI/CD pipelines from multiple providers | Rust |  |  | 164 |
-| **[ShareHound](https://github.com/p0dalirius/ShareHound)** | A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily | Python |  | <details><summary>blood...</summary><p>bloodhound, network, opengraph, sharehound, shares</p></details> | 162 |
-| **[WineGDK](https://github.com/Weather-OS/WineGDK)** | GDK Components and *some* WinRT Components ported to Wine. | C |  |  | 159 |
+| **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** | Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents | Shell |  |  | 3440 |
+| **[react-native-godot](https://github.com/borndotcom/react-native-godot)** | React Native Godot - Embed Godot Engine in React Native apps | C++ |  | <details><summary>andro...</summary><p>android, godot, godot-engine, ios, react-native</p></details> | 1500 |
+| **[Emu3.5](https://github.com/baaivision/Emu3.5)** | Native Multimodal Models are World Learners | Python |  |  | 1056 |
+| **[Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear)** |  |  |  |  | 965 |
+| **[compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** | 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ. | Kotlin |  | <details><summary>andro...</summary><p>android, compose, intellij-plugin, jetpack-compose, kotlin-compiler-plugin, skydoves, stability</p></details> | 616 |
+| **[Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** | A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling. |  |  |  | 519 |
+| **[linux-wasm](https://github.com/joelseverin/linux-wasm)** | WebAssembly (Wasm) arch support for the Linux kernel | JavaScript |  | <details><summary>linux...</summary><p>linux, wasm</p></details> | 377 |
+| **[MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel)** | 一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事 | Python |  |  | 324 |
+| **[sora2-api](https://github.com/jun6ry/sora2-api)** | A tool for generating videos using the Sora 2 API. | Python |  | <details><summary>artif...</summary><p>artificial-intelligence, python-tools, sora, sora-ai, sora-api, sora2</p></details> | 317 |
+| **[lightning-lm](https://github.com/gaoxiang12/lightning-lm)** | Lidar Localization and Mapping | C++ |  |  | 284 |
+| **[WineGDK](https://github.com/Weather-OS/WineGDK)** | GDK Components and *some* WinRT Components ported to Wine. | C |  |  | 278 |
+| **[nokode](https://github.com/samrolken/nokode)** |  | JavaScript |  |  | 243 |
+| **[apps.apple.com](https://github.com/rxliuli/apps.apple.com)** | App Store web version | HTML |  |  | 225 |
+| **[pipedash](https://github.com/hcavarsan/pipedash)** | A desktop app for managing CI/CD pipelines from multiple providers | Rust |  |  | 220 |
+| **[CVE-2025-59287](https://github.com/Sid6Effect/CVE-2025-59287)** | WSUS vulnerability PoC | Python |  | <details><summary>cve-2...</summary><p>cve-2025-59287, wsus-vulnerability</p></details> | 220 |
+| **[casino-bonus-november-2025](https://github.com/welcome-bonus/casino-bonus-november-2025)** | Get the best casino bonus and no deposit bonus for new users this November 2025! 🎰 Claim exclusive rewards, deposit matches, and crypto casino offers. Enjoy instant payouts, free spins, and trusted promotions — start your casino adventure with top bonuses today! | HTML |  | <details><summary>casin...</summary><p>casino, casino-games, html</p></details> | 217 |
+| **[BTC-Wallet-Finder](https://github.com/abdullahalhwyji/BTC-Wallet-Finder)** |  |  |  | <details><summary>addre...</summary><p>address-finder, address-scanner, bitcoin-address, bitcoin-analysis, bitcoin-tools, bitcoin-tracking, bitcoin-wallet, blockchain-explorer, btc-address-scanner, btc-explorer, btc-tracker, wallet-analyzer, wallet-balance-checker, wallet-database, wallet-finder, wallet-finder-crypto-checker, wallet-lookup, wallet-monitor, wallet-tracker</p></details> | 200 |
+| **[realtime-vla](https://github.com/Dexmal/realtime-vla)** | Running VLA at 30Hz frame rate and 480Hz trajectory frequency | Python |  | <details><summary>4090,...</summary><p>4090, pi0, real-time, vla</p></details> | 176 |
+| **[ShareHound](https://github.com/p0dalirius/ShareHound)** | A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily | Python |  | <details><summary>blood...</summary><p>bloodhound, network, opengraph, sharehound, shares</p></details> | 173 |
+| **[casino-bonus](https://github.com/bestbonuses/casino-bonus)** | Crypto Casino Bonus 2025 💎 Get casino no deposit bonus with code 2025 and enjoy instant crypto payouts, secure blockchain gaming, and exclusive promotions. Join the future of gaming with top crypto casino bonuses and win bigger this year! | HTML |  | <details><summary>casin...</summary><p>casino, casino-games, html</p></details> | 171 |
 
