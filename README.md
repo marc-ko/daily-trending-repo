@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-11-05
+Last update: 2025-11-06
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-11-05
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** | Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents | Shell |  |  | 3768 |
-| **[apps.apple.com](https://github.com/rxliuli/apps.apple.com)** | App Store web version | HTML |  |  | 3194 |
-| **[react-native-godot](https://github.com/borndotcom/react-native-godot)** | React Native Godot - Embed Godot Engine in React Native apps | C++ |  | <details><summary>andro...</summary><p>android, godot, godot-engine, ios, react-native</p></details> | 1827 |
-| **[compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** | 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ. | Kotlin |  | <details><summary>andro...</summary><p>android, compose, intellij-plugin, jetpack-compose, kotlin-compiler-plugin, skydoves, stability</p></details> | 713 |
-| **[linux-wasm](https://github.com/joelseverin/linux-wasm)** | WebAssembly (Wasm) arch support for the Linux kernel | JavaScript |  | <details><summary>linux...</summary><p>linux, wasm</p></details> | 620 |
-| **[Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** | A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling. |  |  |  | 600 |
-| **[pg_lake](https://github.com/Snowflake-Labs/pg_lake)** | pg_lake: Postgres with Iceberg and data lake access | C |  |  | 479 |
-| **[smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)** | A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language | JavaScript |  | <details><summary>ai, c...</summary><p>ai, chart, excalidraw</p></details> | 421 |
-| **[NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** | Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil! | C |  |  | 381 |
-| **[MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel)** | 一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事 | Python |  |  | 362 |
-| **[WineGDK](https://github.com/Weather-OS/WineGDK)** | GDK Components and *some* WinRT Components ported to Wine. | C |  |  | 324 |
-| **[pipedash](https://github.com/hcavarsan/pipedash)** | A desktop app for managing CI/CD pipelines from multiple providers | Rust |  |  | 289 |
-| **[sora2-watermark-remover](https://github.com/ammiehax/sora2-watermark-remover)** | Sora 2 AI generated videos gentle watermark remover | Python |  | <details><summary>sora-...</summary><p>sora-ai, sora-video, sora2, sora2-ai</p></details> | 284 |
-| **[crypto-casino-bonus](https://github.com/armadillomaxwell8/crypto-casino-bonus)** | Claim your Crypto Casino Bonus 2025 at NexusRoll! 🪙 Get a $100 casino deposit bonus with code 2025, play in secure crypto casinos, and enjoy instant payouts, stake bonuses, and no KYC registration. Discover fast, private, and rewarding gaming experiences today! |  |  | <details><summary>casin...</summary><p>casino-bonuses</p></details> | 267 |
-| **[nokode](https://github.com/samrolken/nokode)** |  | JavaScript |  |  | 259 |
-| **[realtime-vla](https://github.com/Dexmal/realtime-vla)** | Running VLA at 30Hz frame rate and 480Hz trajectory frequency | Python |  | <details><summary>4090,...</summary><p>4090, pi0, real-time, vla</p></details> | 197 |
-| **[singularity](https://github.com/MisterPrada/singularity)** | Black Hole -> Three.js -> TSL -> (WebGPU/WebGL) | JavaScript |  | <details><summary>black...</summary><p>blackhole, bloom, raymarching, threejs, tsl, webgl, webgpu</p></details> | 181 |
-| **[ShareHound](https://github.com/p0dalirius/ShareHound)** | A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily | Python |  | <details><summary>blood...</summary><p>bloodhound, network, opengraph, sharehound, shares</p></details> | 180 |
-| **[casino-bonus](https://github.com/casino-bonus-2025-no-deposit/casino-bonus)** | Claim the best Casino Bonus 2025, get a $100 casino deposit bonus with code 2025 and explore the world of crypto casino gaming. Enjoy instant rewards, stake bonuses, and no KYC signup for privacy and speed. Start playing and winning today! | HTML |  |  | 176 |
-| **[all-of-it](https://github.com/Infatoshi/all-of-it)** |  | Jupyter Notebook |  |  | 171 |
+| **[react-native-godot](https://github.com/borndotcom/react-native-godot)** | React Native Godot - Embed Godot Engine in React Native apps | C++ |  | <details><summary>andro...</summary><p>android, godot, godot-engine, ios, react-native</p></details> | 2019 |
+| **[pg_lake](https://github.com/Snowflake-Labs/pg_lake)** | pg_lake: Postgres with Iceberg and data lake access | C |  |  | 902 |
+| **[compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)** | 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ. | Kotlin |  | <details><summary>andro...</summary><p>android, compose, intellij-plugin, jetpack-compose, kotlin-compiler-plugin, skydoves, stability</p></details> | 764 |
+| **[linux-wasm](https://github.com/joelseverin/linux-wasm)** | WebAssembly (Wasm) arch support for the Linux kernel | JavaScript |  | <details><summary>linux...</summary><p>linux, wasm</p></details> | 726 |
+| **[Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models)** | A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling. |  |  |  | 644 |
+| **[NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat)** | Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil! | C |  |  | 513 |
+| **[WineGDK](https://github.com/Weather-OS/WineGDK)** | GDK Components and *some* WinRT Components ported to Wine. | C |  |  | 353 |
+| **[pipedash](https://github.com/hcavarsan/pipedash)** | A desktop app for managing CI/CD pipelines from multiple providers | Rust |  | <details><summary>build...</summary><p>buildkite, cicd, devops, devtools, gitlab, jenkins, sre, tekton</p></details> | 342 |
+| **[nokode](https://github.com/samrolken/nokode)** |  | JavaScript |  |  | 279 |
+| **[all-of-it](https://github.com/Infatoshi/all-of-it)** |  | Jupyter Notebook |  |  | 242 |
+| **[singularity](https://github.com/MisterPrada/singularity)** | Black Hole -> Three.js -> TSL -> (WebGPU/WebGL) | JavaScript |  | <details><summary>black...</summary><p>blackhole, bloom, raymarching, threejs, tsl, webgl, webgpu</p></details> | 201 |
+| **[SilentButDeadly](https://github.com/loosehose/SilentButDeadly)** | SilentButDeadly is a network communication blocker specifically designed to neutralize EDR/AV software by preventing their cloud connectivity using Windows Filtering Platform (WFP). This version focuses solely on network isolation without process termination. | C |  |  | 184 |
+| **[deep-reading-analyst-skill](https://github.com/ginobefun/deep-reading-analyst-skill)** | A professional Claude AI skill for deep reading analysis | Shell |  |  | 179 |
+| **[keyleak-detector](https://github.com/Amal-David/keyleak-detector)** | KeyLeak Detector – Scan websites for exposed API keys and secrets | Python |  | <details><summary>devop...</summary><p>devops, security-audit, security-tools, web</p></details> | 158 |
+| **[docx_compressor](https://github.com/adysec/docx_compressor)** | 一个轻量级的跨平台工具，用于压缩 Word (.docx) 文件中的图片，显著减小文档体积。支持 Windows 与 Linux，拥有简洁的图形化界面。 | Rust |  | docs, docx | 149 |
+| **[agent-commands](https://github.com/mitsuhiko/agent-commands)** | These are commands I use with agents, mostly Claude | JavaScript |  |  | 134 |
+| **[DonPwner](https://github.com/MorDavid/DonPwner)** | Advanced Domain Controller attack and credential analysis tool leveraging DonPAPI database | Python |  |  | 127 |
+| **[Large-Laravel-PHP-Project-Examples](https://github.com/LaravelDaily/Large-Laravel-PHP-Project-Examples)** |  |  |  |  | 124 |
+| **[clianpro](https://github.com/supzza/clianpro)** | 超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。 |  |  |  | 121 |
+| **[cloudflare-manager](https://github.com/lu0b0/cloudflare-manager)** | 一个强大的Cloudflare多账号Workers批量管理系统，支持账号管理、批量操作、实时监控和Workers脚本管理。 | TypeScript |  |  | 120 |
 
