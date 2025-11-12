@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-11-11
+Last update: 2025-11-12
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-11-11
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Valdi](https://github.com/Snapchat/Valdi)** | Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. | C++ |  | <details><summary>andro...</summary><p>android, cross-platform, ios, typescript</p></details> | 5462 |
-| **[openpcc](https://github.com/openpcc/openpcc)** | An open-source framework for verifiably private AI inference | Go |  |  | 787 |
-| **[solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** | Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI. |  |  | <details><summary>bitco...</summary><p>bitcoin-transaction, blockchain, blockchain-wallet, ethereum, ethereum-contract, ethereum-dapp, ethereum-wallet, indicator-analysis, ledger-wallet, solana, solana-memecoin-sniper-bot, solana-rug, solana-token-launcher, solanamemecoines, web3, web3-dapp, web3js</p></details> | 614 |
-| **[Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** | 自动登录netlib.re网站保活域名 | JavaScript |  |  | 598 |
-| **[ai-vids](https://github.com/nozy-greier/ai-vids)** | https://tinyurl.com/best-ai-video  Directory of NSFW AI Video and Image Generators. |  |  | <details><summary>ai-po...</summary><p>ai-porn-maker, ai-porn-video-2025, ai-porn-video-creator, ai-porn-video-generator-no-limit, nsfw-ai-gen, nsfw-ai-undress, nsfw-ai-video-2026, nsfw-ai-video-free, nsfw-ai-video-generator-2025, undress-her-ai, undressher-ai</p></details> | 526 |
-| **[NoteDiscovery](https://github.com/gamosoft/NoteDiscovery)** | Your Self-Hosted Knowledge Base | JavaScript |  | <details><summary>docke...</summary><p>docker, evernote, fastapi, free, hosted, knowledge-base, markdown, note, note-taking, notion, obsidian, open-source, privacy, python, self-hosted</p></details> | 430 |
-| **[2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** |  |  |  |  | 389 |
-| **[ChatTutor](https://github.com/sheepbox8646/ChatTutor)** | 👨‍🏫 ChatTutor: Visual and Interactive AI Tutor | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-education, education, llm, stem</p></details> | 376 |
-| **[kimi-writer](https://github.com/Doriandarko/kimi-writer)** | AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning | Python |  |  | 356 |
-| **[acemcp](https://github.com/qy527145/acemcp)** | 一个将ACE(Augment Context Engine) 做成MCP的项目 | Python |  |  | 329 |
-| **[git-rewrite-commits](https://github.com/f/git-rewrite-commits)** | AI-powered git commit message rewriter using GPT | TypeScript |  | <details><summary>git, ...</summary><p>git, pre-commit-hook</p></details> | 327 |
-| **[Steve](https://github.com/YuvDwi/Steve)** | Cursor for Minecraft | Java |  |  | 311 |
-| **[sticker-dream](https://github.com/wesbos/sticker-dream)** | voice activated sticker dreamer and printer.  | TypeScript |  |  | 307 |
-| **[omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** | Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages | Python |  |  | 299 |
-| **[midnight_fetcher_bot_public](https://github.com/ADA-Markets/midnight_fetcher_bot_public)** |  | TypeScript |  |  | 287 |
-| **[venom](https://github.com/boku7/venom)** | Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence | Python |  |  | 282 |
-| **[mcporter](https://github.com/steipete/mcporter)** | Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli. | TypeScript |  | <details><summary>cli, ...</summary><p>cli, mcp, ts-api</p></details> | 272 |
-| **[stake-bonus-promo-code](https://github.com/welcome-bonuses/stake-bonus-promo-code)** | Get the Casino Bonus 2025 and claim your Welcome Bonus. Use code 2025 to unlock crypto rewards, stake cashback, and deposit promotions. Fast payouts, secure gaming, and exclusive Stake Bonus promos — your gateway to the best casino experience this year! |  |  | <details><summary>stake...</summary><p>stake-bonus</p></details> | 228 |
-| **[bonus](https://github.com/stake-com-bonus/bonus)** | Claim your Crypto Casino Bonus 2025, get a casino deposit bonus with code 2025, play in secure crypto casinos, and enjoy instant payouts, stake bonuses, and no KYC registration. Discover fast, private, and rewarding gaming experiences today! |  |  | <details><summary>bcgam...</summary><p>bcgame, bcgame-casino, casino-bonus, crypto-casino-bonus, stake, stake-bonus, stake-casino, stake-casino-link</p></details> | 227 |
-| **[copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra)** |  |  |  |  | 227 |
+| **[Valdi](https://github.com/Snapchat/Valdi)** | Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. | C++ |  | <details><summary>andro...</summary><p>android, cross-platform, ios, typescript</p></details> | 6894 |
+| **[omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** | Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages | Python |  |  | 1151 |
+| **[Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** | 自动登录netlib.re网站保活域名 | JavaScript |  |  | 797 |
+| **[Steve](https://github.com/YuvDwi/Steve)** | Cursor for Minecraft | Java |  |  | 556 |
+| **[crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** | crypto-trading-open | Python |  |  | 536 |
+| **[git-rewrite-commits](https://github.com/f/git-rewrite-commits)** | AI-powered git commit message rewriter using GPT | TypeScript |  | <details><summary>git, ...</summary><p>git, pre-commit-hook</p></details> | 527 |
+| **[solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** | Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI. |  |  | <details><summary>bitco...</summary><p>bitcoin-transaction, blockchain, blockchain-wallet, ethereum, ethereum-contract, ethereum-dapp, ethereum-wallet, indicator-analysis, ledger-wallet, solana, solana-memecoin-sniper-bot, solana-rug, solana-token-launcher, solanamemecoines, web3, web3-dapp, web3js</p></details> | 495 |
+| **[2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** |  |  |  |  | 433 |
+| **[kimi-writer](https://github.com/Doriandarko/kimi-writer)** | AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning | Python |  |  | 394 |
+| **[acemcp](https://github.com/qy527145/acemcp)** | 一个将ACE(Augment Context Engine) 做成MCP的项目 | Python |  |  | 383 |
+| **[sticker-dream](https://github.com/wesbos/sticker-dream)** | voice activated sticker dreamer and printer.  | TypeScript |  |  | 369 |
+| **[ok-duet-night-abyss](https://github.com/BnanZ0/ok-duet-night-abyss)** | 二重螺旋 后台副本挂机 Automation for Duet Night Abyss | Python |  | <details><summary>dna, ...</summary><p>dna, duet-night-abyss, duet-night-abyss-hack, duet-night-abyss-software, ok-dna, okdna</p></details> | 361 |
+| **[venom](https://github.com/boku7/venom)** | Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence | Python |  |  | 295 |
+| **[code-switch](https://github.com/daodao97/code-switch)** | Claude Code & Codex 多供应商代理与管理工具 | Vue |  |  | 250 |
+| **[copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra)** |  |  |  |  | 237 |
+| **[Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** |  | Ren'Py |  |  | 234 |
+| **[Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers)** | A curated list of Model Context Protocol (MCP) servers MCP资源及服务列表 |  |  |  | 218 |
+| **[domains-lookup](https://github.com/akinloluwami/domains-lookup)** |  | JavaScript |  |  | 195 |
+| **[FastGS](https://github.com/fastgs/FastGS)** | Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds" |  |  |  | 184 |
+| **[ComfyUI-PainterI2V](https://github.com/princepainter/ComfyUI-PainterI2V)** | An enhanced Wan2.2 Image-to-Video node specifically designed to fix the slow-motion issue in 4-step LoRAs (like lightx2v). | Python |  |  | 175 |
 
