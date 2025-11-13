@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - November 12, 2025
+title: Latest 10 Trending Repositories - November 13, 2025
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: November 12, 2025
+### 📅 Date: November 13, 2025
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Valdi](https://github.com/Snapchat/Valdi)** | Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. | C++ |  | <details><summary>andro...</summary><p>android, cross-platform, ios, typescript</p></details> | 6894 |
-| **[omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)** | Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages | Python |  |  | 1151 |
-| **[Auto-login-netlib](https://github.com/eooce/Auto-login-netlib)** | 自动登录netlib.re网站保活域名 | JavaScript |  |  | 797 |
-| **[Steve](https://github.com/YuvDwi/Steve)** | Cursor for Minecraft | Java |  |  | 556 |
-| **[crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** | crypto-trading-open | Python |  |  | 536 |
-| **[git-rewrite-commits](https://github.com/f/git-rewrite-commits)** | AI-powered git commit message rewriter using GPT | TypeScript |  | <details><summary>git, ...</summary><p>git, pre-commit-hook</p></details> | 527 |
-| **[solana-starter-kit](https://github.com/SolanaUpdateTools/solana-starter-kit)** | Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI. |  |  | <details><summary>bitco...</summary><p>bitcoin-transaction, blockchain, blockchain-wallet, ethereum, ethereum-contract, ethereum-dapp, ethereum-wallet, indicator-analysis, ledger-wallet, solana, solana-memecoin-sniper-bot, solana-rug, solana-token-launcher, solanamemecoines, web3, web3-dapp, web3js</p></details> | 495 |
-| **[2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** |  |  |  |  | 433 |
-| **[kimi-writer](https://github.com/Doriandarko/kimi-writer)** | AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning | Python |  |  | 394 |
-| **[acemcp](https://github.com/qy527145/acemcp)** | 一个将ACE(Augment Context Engine) 做成MCP的项目 | Python |  |  | 383 |
+| **[crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** | crypto-trading-open | Python |  |  | 901 |
+| **[git-rewrite-commits](https://github.com/f/git-rewrite-commits)** | AI-powered git commit message rewriter using GPT | TypeScript |  | <details><summary>git, ...</summary><p>git, pre-commit-hook</p></details> | 600 |
+| **[2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** |  |  |  |  | 448 |
+| **[kimi-writer](https://github.com/Doriandarko/kimi-writer)** | AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning | Python |  |  | 427 |
+| **[sticker-dream](https://github.com/wesbos/sticker-dream)** | voice activated sticker dreamer and printer.  | TypeScript |  |  | 390 |
+| **[code-switch](https://github.com/daodao97/code-switch)** | Claude Code & Codex 多供应商代理与管理工具 | Vue |  |  | 333 |
+| **[venom](https://github.com/boku7/venom)** | Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence | Python |  |  | 308 |
+| **[Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** |  | Ren'Py |  |  | 252 |
+| **[ComfyUI-PainterI2V](https://github.com/princepainter/ComfyUI-PainterI2V)** | An enhanced Wan2.2 Image-to-Video node specifically designed to fix the slow-motion issue in 4-step LoRAs (like lightx2v). | Python |  |  | 215 |
+| **[FastGS](https://github.com/fastgs/FastGS)** | Offical code for "FastGS: Training 3D Gaussian Splatting in 100 Seconds" |  |  |  | 202 |
 
