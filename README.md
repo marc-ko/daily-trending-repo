@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-11-14
+Last update: 2025-11-15
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-11-14
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** | crypto-trading-open | Python |  |  | 1023 |
-| **[git-rewrite-commits](https://github.com/f/git-rewrite-commits)** | AI-powered git commit message rewriter using GPT | TypeScript |  | <details><summary>git, ...</summary><p>git, pre-commit-hook</p></details> | 686 |
-| **[2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** |  |  |  |  | 450 |
-| **[kimi-writer](https://github.com/Doriandarko/kimi-writer)** | AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning | Python |  |  | 437 |
-| **[code-switch](https://github.com/daodao97/code-switch)** | Claude Code & Codex 多供应商代理与管理工具 | Go |  |  | 373 |
-| **[lejepa](https://github.com/rbalestr-lab/lejepa)** |  | Python |  |  | 279 |
-| **[windows-key-gen](https://github.com/screwtape34bell/windows-key-gen)** | 🔥windows key gen🔥 windows key generator windows 10 key generator windows 11 key generator windows 7 key generator 🔥windows key gen🔥 windows key generator windows 10 key generator windows 11 key generator windows 7 key generator 🔥windows key gen🔥 windows key generator windows 10 key generator windows 11 key generator windows 7 key e | Python |  |  | 259 |
-| **[Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** |  | Ren'Py |  |  | 256 |
-| **[ComfyUI-PainterI2V](https://github.com/princepainter/ComfyUI-PainterI2V)** | An enhanced Wan2.2 Image-to-Video node specifically designed to fix the slow-motion issue in 4-step LoRAs (like lightx2v). | Python |  |  | 255 |
-| **[Discord-Nitro-Generator](https://github.com/stokemrnegotive/Discord-Nitro-Generator)** | 🔥 discord nitro generator 🔥 nitro generator & checker ⭐ gens discord nitro codes and checks - discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer discord nitro checker discord nitro gen discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer ffs | Python |  |  | 182 |
-| **[CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect)** | AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt. |  |  |  | 176 |
-| **[spoofer-hwid](https://github.com/avebonkers176/spoofer-hwid)** | hwid spoofer hwid changer 🔑︎ disk, guid, mac, gpu, pc-name, win-id, efi, smbios spoofing fortnite warzone apex rust escape from tarkov and all eac be games hwid spoof hwid changer hwid spoof hwid changer hwid spoof hwid changer hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid v | Python |  |  | 175 |
+| **[crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)** | crypto-trading-open | Python |  |  | 1100 |
+| **[git-rewrite-commits](https://github.com/f/git-rewrite-commits)** | AI-powered git commit message rewriter using Ollama or GPT | TypeScript |  | <details><summary>git, ...</summary><p>git, pre-commit-hook</p></details> | 710 |
+| **[Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** | Depth Anything 3 | Jupyter Notebook |  |  | 630 |
+| **[2K-N8NWORKFLOWS](https://github.com/crowmd/2K-N8NWORKFLOWS)** |  |  |  |  | 457 |
+| **[lejepa](https://github.com/rbalestr-lab/lejepa)** |  | Python |  |  | 357 |
+| **[mcp](https://github.com/hopx-ai/mcp)** |  | Python |  |  | 297 |
+| **[ComfyUI-PainterI2V](https://github.com/princepainter/ComfyUI-PainterI2V)** | An enhanced Wan2.2 Image-to-Video node specifically designed to fix the slow-motion issue in 4-step LoRAs (like lightx2v). | Python |  |  | 270 |
+| **[Startrail-Gal](https://github.com/Meph1s-t/Startrail-Gal)** |  | Ren'Py |  |  | 258 |
+| **[ethereum-vanity-address-generator](https://github.com/obstraction9851/ethereum-vanity-address-generator)** | ethereum vanity address generator 🔥 working 2025 🔥 vanity ethereum ethereum address generator ethereum address zero address vanity contract vanity ethereum vanity custom address ethereum address vanity address ethereum address vanity ethereum address vanity generator vanity gen eth vanity gen ethereum vanity qvf | Python |  |  | 220 |
+| **[CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect)** | AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt. |  |  |  | 210 |
+| **[gamehub-lite](https://github.com/Producdevity/gamehub-lite)** |  |  |  |  | 207 |
+| **[Claudix](https://github.com/Haleclipse/Claudix)** | Gorgeous Claude Code Extend for VS Code. | TypeScript |  |  | 181 |
+| **[qoder-rules](https://github.com/lvzhaobo/qoder-rules)** |  | Python |  |  | 178 |
+| **[spoofer-hwid](https://github.com/avebonkers176/spoofer-hwid)** | hwid spoofer hwid changer 🔑︎ disk, guid, mac, gpu, pc-name, win-id, efi, smbios spoofing fortnite warzone apex rust escape from tarkov and all eac be games hwid spoof hwid changer hwid spoof hwid changer hwid spoof hwid changer hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid v | Python |  |  | 176 |
 | **[python-keylogger](https://github.com/ahoaparadox8/python-keylogger)** | paython keylogger windows keylogger keylogger discord webhook + email 💥 keylogger windows 10/11 linux 💥 python keylogger working on all os. keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger  c | Python |  |  | 174 |
 | **[ZPhisher-Python](https://github.com/powerblade1266/ZPhisher-Python)** | zphisher python edition 🔥 unflagged 🔥 phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher blackphish  phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher d | Python |  |  | 172 |
 | **[PyPhisher](https://github.com/hotchocolate469/PyPhisher)** | phisher pyphisher 💥 best phisher in python 💥 phisher written in python for educational purpose. phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website r | Python |  |  | 170 |
-| **[gamehub-lite](https://github.com/Producdevity/gamehub-lite)** |  |  |  |  | 169 |
-| **[qoder-rules](https://github.com/lvzhaobo/qoder-rules)** |  | Python |  |  | 168 |
 | **[Blank-Grabber](https://github.com/bossdlyavseh410/Blank-Grabber)** | grabber 🔥 blank grabber 🔥 updated 2025 🔥 blank password grabber written in python. cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber p | Python |  |  | 168 |
-| **[expo-apple-maps-sheet](https://github.com/rit3zh/expo-apple-maps-sheet)** | 🗺️ Apple Maps–style bottom sheet for React Native | TypeScript |  |  | 162 |
-| **[OpenNof1](https://github.com/wfnuser/OpenNof1)** | Your custom 24/7 AI trading agent. Inspired by nof1.ai | Python |  |  | 160 |
+| **[BlackCap-Grabber-NoDualHook](https://github.com/tailerxoreoxx8/BlackCap-Grabber-NoDualHook)** | grabber 🔥 blackcap grabber 🔥 fixed stealer - dualhook removed - python3 logger blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber m | Python |  |  | 168 |
+| **[expo-apple-maps-sheet](https://github.com/rit3zh/expo-apple-maps-sheet)** | 🗺️ Apple Maps–style bottom sheet for React Native | TypeScript |  |  | 164 |
 
