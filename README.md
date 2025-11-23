@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-11-22
+Last update: 2025-11-23
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-11-22
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[misaka26](https://github.com/straight-tamago/misaka26)** | iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.  |  |  |  | 2167 |
-| **[reader3](https://github.com/karpathy/reader3)** | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it. | Python |  |  | 1729 |
-| **[karpathy](https://github.com/K-Dense-AI/karpathy)** | An agentic Machine Learning Engineer | Python |  | <details><summary>agent...</summary><p>agentic-ai, automl, machine-learning</p></details> | 841 |
-| **[supertonic](https://github.com/supertone-inc/supertonic)** | Lightning-fast, on-device TTS — running natively via ONNX. | Swift |  | <details><summary>cpp, ...</summary><p>cpp, csharp, go, ios, java, lightweight, nodejs, on-device, python, rust, swift, text-to-speech, tt, tts, web</p></details> | 542 |
-| **[install-nothing](https://github.com/buyukakyuz/install-nothing)** | A terminal application that simulates installing things but doesn't actually install anything | Rust |  | <details><summary>cli, ...</summary><p>cli, rust, simulation, terminal</p></details> | 501 |
-| **[Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** | 一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。 | Python |  |  | 481 |
-| **[moss](https://github.com/hexagonal-sun/moss)** | Rust Linux-compatible kernel | Rust |  |  | 367 |
-| **[HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** | HunyuanVideo-1.5: A leading lightweight video generation model | Python |  | <details><summary>image...</summary><p>image-to-video, text-to-video, video-generation</p></details> | 327 |
-| **[strace-macos](https://github.com/Mic92/strace-macos)** | A clone of the strace command for macOS | Python |  | <details><summary>build...</summary><p>build-with-buildbot</p></details> | 314 |
-| **[claude-code-mux](https://github.com/9j/claude-code-mux)** | High-performance AI routing proxy built in Rust with automatic failover, priority-based routing, and    support for 15+ providers (Anthropic, OpenAI, Cerebras, Minimax, Kimi, etc.) | Rust |  | <details><summary>ai, a...</summary><p>ai, anthropic, claude-code, claude-code-router, openai</p></details> | 306 |
-| **[LPLB](https://github.com/deepseek-ai/LPLB)** | An early research stage MoE load balancer based on inear programming. | Python |  |  | 303 |
-| **[zigbook](https://github.com/zigbook/zigbook)** | A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming. | Zig |  | <details><summary>c, do...</summary><p>c, docs, documentation, rust, rust-lang, systems-programming, zig, zig-library, zig-package, zigbook, ziglang</p></details> | 296 |
-| **[claude-agent-server](https://github.com/dzhng/claude-agent-server)** | Run Claude Agent (Claude Code) in a sandbox, control it via websocket | TypeScript |  | <details><summary>agent...</summary><p>agent, ai, claude, claude-agent-sdk, claude-agents, claude-code</p></details> | 284 |
-| **[2025-blog-public](https://github.com/YYsuni/2025-blog-public)** | An open-source blog focused on front-end UI controls, where content is submitted via the blog's UI rather than through code updates. | TypeScript |  | <details><summary>blog,...</summary><p>blog, github-app</p></details> | 256 |
-| **[iOS-Clone-SwiftUI](https://github.com/PallavAg/iOS-Clone-SwiftUI)** | iOS Clone built by Gemini 3.0 Pro in SwiftUI | Swift |  | <details><summary>ios, ...</summary><p>ios, swiftui</p></details> | 204 |
-| **[RoMaV2](https://github.com/Parskatt/RoMaV2)** |  | Python |  |  | 193 |
-| **[claude-skill](https://github.com/ast-grep/claude-skill)** |  |  |  |  | 188 |
-| **[dr-tulu](https://github.com/rlresearch/dr-tulu)** | Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research | Python |  | <details><summary>deepr...</summary><p>deepresearch, rl, rubrics, tool-use</p></details> | 178 |
-| **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** | IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting | Python |  |  | 177 |
-| **[SettingsKit](https://github.com/Aeastr/SettingsKit)** | A declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling | Swift |  |  | 169 |
+| **[reader3](https://github.com/karpathy/reader3)** | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it. | Python |  |  | 1814 |
+| **[supertonic](https://github.com/supertone-inc/supertonic)** | Lightning-fast, on-device TTS — running natively via ONNX. | Swift |  | <details><summary>cpp, ...</summary><p>cpp, csharp, go, ios, java, lightweight, nodejs, on-device, python, rust, swift, text-to-speech, tt, tts, web</p></details> | 635 |
+| **[Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** | 一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。 | Python |  |  | 603 |
+| **[install-nothing](https://github.com/buyukakyuz/install-nothing)** | A terminal application that simulates installing things but doesn't actually install anything | Rust |  | <details><summary>cli, ...</summary><p>cli, rust, simulation, terminal</p></details> | 576 |
+| **[moss](https://github.com/hexagonal-sun/moss)** | Rust Linux-compatible kernel | Rust |  |  | 528 |
+| **[HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** | HunyuanVideo-1.5: A leading lightweight video generation model | Python |  | <details><summary>image...</summary><p>image-to-video, text-to-video, video-generation</p></details> | 413 |
+| **[claude-agent-server](https://github.com/dzhng/claude-agent-server)** | Run Claude Agent (Claude Code) in a sandbox, control it via websocket | TypeScript |  | <details><summary>agent...</summary><p>agent, ai, claude, claude-agent-sdk, claude-agents, claude-code</p></details> | 320 |
+| **[LPLB](https://github.com/deepseek-ai/LPLB)** | An early research stage MoE load balancer based on inear programming. | Python |  |  | 320 |
+| **[llm-council](https://github.com/karpathy/llm-council)** | LLM Council works together to answer your hardest questions | Python |  |  | 320 |
+| **[strace-macos](https://github.com/Mic92/strace-macos)** | A clone of the strace command for macOS | Python |  | <details><summary>build...</summary><p>build-with-buildbot</p></details> | 317 |
+| **[iOS-Clone-SwiftUI](https://github.com/PallavAg/iOS-Clone-SwiftUI)** | iOS Clone built by Gemini 3.0 Pro in SwiftUI | Swift |  | <details><summary>ios, ...</summary><p>ios, swiftui</p></details> | 254 |
+| **[RoMaV2](https://github.com/Parskatt/RoMaV2)** |  | Python |  |  | 209 |
+| **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** | IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting | Python |  |  | 208 |
+| **[dr-tulu](https://github.com/rlresearch/dr-tulu)** | Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research | Python |  | <details><summary>deepr...</summary><p>deepresearch, rl, rubrics, tool-use</p></details> | 190 |
+| **[micam](https://github.com/miiot/micam)** | 🎦 Micam 是一个专为小米摄像头设计的 RTSP 桥接服务，能够将小米摄像头的视频流本地转推为 RTSP 格式，支持接入 HomeAssistant、Go2rtc、Frigate、Scrypted、Homekit 等多种 NVR 和智能家居系统。该项目采用 Docker Compose 快速部署方案，集成了 Miloco（小米摄像头管理工具）和 Go2rtc（RTSP 流转发服务），无需 GPU 即可运行，使小米摄像头能与各类主流智能家居平台无缝集成。 | Python |  | <details><summary>camer...</summary><p>camera, go2rtc, miloco, miot, rtsp, webcam, xiaomi</p></details> | 189 |
+| **[dark-web-scraping-guide](https://github.com/theNetworkChuck/dark-web-scraping-guide)** | Comprehensive guide for NetworkChuck Episode 480 - Robin AI Dark Web Scraping Tool. Installation, usage, safety guidelines, and troubleshooting for educational security research. |  |  |  | 175 |
+| **[dia2](https://github.com/nari-labs/dia2)** | TTS model capable of streaming conversational audio in realtime. | Python |  | <details><summary>open-...</summary><p>open-weight, text-to-speech</p></details> | 163 |
+| **[llm-interp-tau](https://github.com/mega002/llm-interp-tau)** | Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University |  |  |  | 153 |
+| **[caveman-compression](https://github.com/wilpel/caveman-compression)** | Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning. | Python |  |  | 150 |
+| **[banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** | Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly | JavaScript |  | <details><summary>banan...</summary><p>banana, gemini, prompt</p></details> | 138 |
 
