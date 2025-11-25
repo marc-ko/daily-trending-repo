@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-11-24
+Last update: 2025-11-25
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-11-24
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[llm-council](https://github.com/karpathy/llm-council)** | LLM Council works together to answer your hardest questions | Python |  |  | 2532 |
-| **[reader3](https://github.com/karpathy/reader3)** | Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it. | Python |  |  | 1994 |
-| **[supertonic](https://github.com/supertone-inc/supertonic)** | Lightning-fast, on-device TTS — running natively via ONNX. | JavaScript |  | <details><summary>cpp, ...</summary><p>cpp, csharp, go, ios, java, lightweight, nodejs, on-device, python, rust, swift, text-to-speech, tt, tts, web</p></details> | 821 |
-| **[Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)** | 一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。 | Python |  |  | 656 |
-| **[moss](https://github.com/hexagonal-sun/moss)** | Rust Linux-compatible kernel | Rust |  |  | 625 |
-| **[HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** | HunyuanVideo-1.5: A leading lightweight video generation model | Python |  | <details><summary>image...</summary><p>image-to-video, text-to-video, video-generation</p></details> | 518 |
-| **[claude-agent-server](https://github.com/dzhng/claude-agent-server)** | Run Claude Agent (Claude Code) in a sandbox, control it via websocket | TypeScript |  | <details><summary>agent...</summary><p>agent, ai, claude, claude-agent-sdk, claude-agents, claude-code</p></details> | 354 |
-| **[LPLB](https://github.com/deepseek-ai/LPLB)** | An early research stage MoE load balancer based on inear programming. | Python |  |  | 334 |
-| **[osgrep](https://github.com/Ryandonofrio3/osgrep)** |  | TypeScript |  |  | 322 |
-| **[iOS-Clone-SwiftUI](https://github.com/PallavAg/iOS-Clone-SwiftUI)** | iOS Clone built by Gemini 3.0 Pro in SwiftUI | Swift |  | <details><summary>ios, ...</summary><p>ios, swiftui</p></details> | 276 |
-| **[banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** | 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly | JavaScript |  | <details><summary>banan...</summary><p>banana, gemini, prompt</p></details> | 260 |
-| **[dr-tulu](https://github.com/rlresearch/dr-tulu)** | Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research | Python |  | <details><summary>deepr...</summary><p>deepresearch, rl, rubrics, tool-use</p></details> | 260 |
-| **[micam](https://github.com/miiot/micam)** | 🎦 Micam 是一个专为小米摄像头设计的 RTSP 桥接服务(非官方)，能够将小米摄像头的视频流本地转推到RTSP服务器，支持接入 HomeAssistant、Go2rtc、Frigate、Scrypted、Homekit 等多种NVR和智能家居系统。该项目采用 Docker Compose 快速部署方案，基于小米官方的Miloco，并集成Go2rtc实现RTSP流服务，无需GPU即可运行，使小米摄像头能与各类主流智能家居平台无缝集成。 | Python |  | <details><summary>camer...</summary><p>camera, go2rtc, miloco, miot, rtsp, webcam, xiaomi</p></details> | 256 |
-| **[ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)** | A self hosted dashboard and organizer for Excalidraw with live collaboration. | TypeScript |  | <details><summary>excal...</summary><p>excalidash, excalidraw, excalidraw-platform, self-hosted, selfhosted, websocket</p></details> | 237 |
-| **[RoMaV2](https://github.com/Parskatt/RoMaV2)** |  | Python |  |  | 236 |
-| **[Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)** | A modern proxy client built with Flutter and Rust, powered by Clash Mihomo core | Dart |  | <details><summary>clash...</summary><p>clash-launcher, flutter, launcher, rust</p></details> | 169 |
-| **[llm-interp-tau](https://github.com/mega002/llm-interp-tau)** | Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University |  |  |  | 156 |
-| **[bichon](https://github.com/rustmailer/bichon)** | Bichon – A lightweight, high-performance Rust email archiver with WebUI | TypeScript |  | <details><summary>backu...</summary><p>backup, compression, email, email-archiver, email-archiving, imap, mail, oauth2, openapi, rust, search, self-hosted, selfhosted, tantivy, webui</p></details> | 155 |
-| **[flowpilot](https://github.com/cos43/flowpilot)** |  | TypeScript |  |  | 138 |
-| **[Infidex](https://github.com/lofcz/Infidex)** | ∞į̴͓͖̜͐͗͐͑̒͘̚̕ḋ̸̢̞͇̳̟̹́̌͘e̷̙̫̥̹̱͓̬̿̄̆͝x̵̱̣̹͐̓̏̔̌̆͝ | C# |  | <details><summary>fullt...</summary><p>fulltext-index, fulltext-search, index, query, retrieval, search, search-engine, text, tfidf</p></details> | 137 |
+| **[llm-council](https://github.com/karpathy/llm-council)** | LLM Council works together to answer your hardest questions | Python |  |  | 4740 |
+| **[moss](https://github.com/hexagonal-sun/moss)** | Rust Linux-compatible kernel | Rust |  |  | 712 |
+| **[HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)** | HunyuanVideo-1.5: A leading lightweight video generation model | Python |  | <details><summary>image...</summary><p>image-to-video, text-to-video, video-generation</p></details> | 602 |
+| **[osgrep](https://github.com/Ryandonofrio3/osgrep)** | Open Source Semantic Search for your AI Agent | TypeScript |  | <details><summary>colbe...</summary><p>colbert, embeddings, grep, grep-search</p></details> | 479 |
+| **[banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)** | 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly | JavaScript |  | <details><summary>banan...</summary><p>banana, gemini, prompt</p></details> | 430 |
+| **[claude-agent-server](https://github.com/dzhng/claude-agent-server)** | Run Claude Agent (Claude Code) in a sandbox, control it via websocket | TypeScript |  | <details><summary>agent...</summary><p>agent, ai, claude, claude-agent-sdk, claude-agents, claude-code</p></details> | 387 |
+| **[LPLB](https://github.com/deepseek-ai/LPLB)** | An early research stage MoE load balancer based on inear programming. | Python |  |  | 361 |
+| **[ExcaliDash](https://github.com/ZimengXiong/ExcaliDash)** | A self hosted dashboard and organizer for Excalidraw with live collaboration. | TypeScript |  | <details><summary>excal...</summary><p>excalidash, excalidraw, excalidraw-platform, self-hosted, selfhosted, websocket</p></details> | 320 |
+| **[dembrandt](https://github.com/thevangelist/dembrandt)** | Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command. | JavaScript |  | <details><summary>autom...</summary><p>automation, cli, component-library, design, design-system, design-systems, design-tokens, developer-tools, figma, frontend, playwright, productivity, reverse-engineering, ui, web-automation, web-scraping</p></details> | 310 |
+| **[iOS-Clone-SwiftUI](https://github.com/PallavAg/iOS-Clone-SwiftUI)** | iOS Clone built by Gemini 3.0 Pro in SwiftUI | Swift |  | <details><summary>ios, ...</summary><p>ios, swiftui</p></details> | 291 |
+| **[micam](https://github.com/miiot/micam)** | 🎦 Micam 是一个专为小米摄像头设计的 RTSP 桥接服务(非官方)，能够将小米摄像头的视频流本地转推到RTSP服务器，支持接入 HomeAssistant、Go2rtc、Frigate、Scrypted、Homekit 等多种NVR和智能家居系统。该项目采用 Docker Compose 快速部署方案，基于小米官方的Miloco，并集成Go2rtc实现RTSP流服务，无需GPU即可运行，使小米摄像头能与各类主流智能家居平台无缝集成。 | Python |  | <details><summary>camer...</summary><p>camera, go2rtc, miloco, miot, rtsp, webcam, xiaomi</p></details> | 287 |
+| **[RoMaV2](https://github.com/Parskatt/RoMaV2)** |  | Python |  |  | 268 |
+| **[rep](https://github.com/bscript/rep)** | rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks | JavaScript |  |  | 249 |
+| **[twitter-account-location-in-username](https://github.com/RhysSullivan/twitter-account-location-in-username)** |  | JavaScript |  |  | 228 |
+| **[Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)** | A modern client built with Flutter and Rust, powered by Clash Mihomo core | Dart |  | <details><summary>clash...</summary><p>clash-launcher, flutter, launcher, rust</p></details> | 207 |
+| **[server-survival](https://github.com/pshenok/server-survival)** | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. | JavaScript |  | <details><summary>aws, ...</summary><p>aws, cloud, devops, education, game, javascript, learning, open-source, simulation, threejs, tower-defense</p></details> | 193 |
+| **[onlymaps](https://github.com/manoss96/onlymaps)** | A Python micro-ORM | Python |  | <details><summary>datab...</summary><p>database, orm, python, sql</p></details> | 179 |
+| **[egg.c](https://github.com/d0rc/egg.c)** | EGGROLL in C, integer-only training of a language model directly on the CPU | C |  |  | 178 |
+| **[MiMo-Embodied](https://github.com/XiaomiMiMo/MiMo-Embodied)** | MiMo-Embodied | Python |  |  | 168 |
+| **[go-memory-visualizer](https://github.com/1rhino2/go-memory-visualizer)** | Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering. | TypeScript |  | <details><summary>cache...</summary><p>cache-optimization, code-analysis, developer-tools, go-tools, golang, memory-optimization, memory-profiler, performance, struct-layout, vscode-extension</p></details> | 158 |
 
