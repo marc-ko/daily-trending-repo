@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-12-10
+Last update: 2025-12-11
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-12-10
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** |  | Python |  |  | 2628 |
-| **[react2shell-scanner](https://github.com/assetnote/react2shell-scanner)** | High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478) | Python |  |  | 1949 |
-| **[CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)** | Explanation and full RCE PoC for CVE-2025-55182 | Python |  |  | 1005 |
-| **[React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** | Original Proof-of-Concepts for React2Shell CVE-2025-55182 | JavaScript |  | <details><summary>cve-2...</summary><p>cve-2025-55182, react2shell</p></details> | 726 |
-| **[LiveAvatar](https://github.com/Alibaba-Quark/LiveAvatar)** | Implementation of "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length" | Python |  |  | 726 |
-| **[mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)** |  | TypeScript |  |  | 697 |
-| **[tgbot-verify](https://github.com/PastKing/tgbot-verify)** | 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。 | Python |  |  | 678 |
-| **[Paper2Slides](https://github.com/HKUDS/Paper2Slides)** | "Paper2Slides: From Paper to Presentation in One Click" | Python |  | <details><summary>agent...</summary><p>agentic-ai, llm-agents, paper2poster, paper2slides</p></details> | 656 |
-| **[NETREAPER](https://github.com/Nerds489/NETREAPER)** | Network security framework. 70+ tools. Built mean, runs clean. | Shell |  | <details><summary>aircr...</summary><p>aircrack-ng, arch-linux, bash, debian, ethical-hacking, kali, linux, linux-tools, network-security, nmap, offensive-security, penetration-testing, pentesting, red-team, security, wifi, wireless</p></details> | 595 |
-| **[ech-wk](https://github.com/byJoey/ech-wk)** |  | Python |  |  | 532 |
-| **[PromptFill](https://github.com/TanShilongMario/PromptFill)** | 一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。 | JavaScript |  |  | 469 |
-| **[qmd](https://github.com/tobi/qmd)** | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local | TypeScript |  |  | 460 |
-| **[RSC_Detector](https://github.com/mrknow001/RSC_Detector)** | Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182. | JavaScript |  |  | 404 |
-| **[mistral-vibe](https://github.com/mistralai/mistral-vibe)** | Minimal CLI coding agent by Mistral | Python |  |  | 390 |
+| **[Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone | Python |  | <details><summary>agent...</summary><p>agent, phone-use-agent</p></details> | 5889 |
+| **[Paper2Slides](https://github.com/HKUDS/Paper2Slides)** | "Paper2Slides: From Paper to Presentation in One Click" | Python |  | <details><summary>agent...</summary><p>agentic-ai, llm-agents, paper2poster, paper2slides</p></details> | 1159 |
+| **[tgbot-verify](https://github.com/PastKing/tgbot-verify)** | 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。 | Python |  |  | 803 |
+| **[ech-wk](https://github.com/byJoey/ech-wk)** |  | Python |  |  | 803 |
+| **[mistral-vibe](https://github.com/mistralai/mistral-vibe)** | Minimal CLI coding agent by Mistral | Python |  |  | 795 |
+| **[React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** | Original Proof-of-Concepts for React2Shell CVE-2025-55182 | JavaScript |  | <details><summary>cve-2...</summary><p>cve-2025-55182, react2shell</p></details> | 780 |
+| **[API-mega-list](https://github.com/cporter202/API-mega-list)** | This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪 | JavaScript |  | <details><summary>api, ...</summary><p>api, api-library, api-list, apis</p></details> | 737 |
+| **[PromptFill](https://github.com/TanShilongMario/PromptFill)** | 一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。 | JavaScript |  |  | 578 |
+| **[qmd](https://github.com/tobi/qmd)** | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local | TypeScript |  |  | 509 |
+| **[RSC_Detector](https://github.com/mrknow001/RSC_Detector)** | Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182. | JavaScript |  |  | 432 |
 | **[GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent)** |  |  |  |  | 341 |
-| **[Ai-Arastirma-Okumalarim-TR](https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR)** | Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz. |  |  |  | 319 |
-| **[SwiftAgents](https://github.com/twostraws/SwiftAgents)** | An AGENTS.md file for Swift and SwiftUI projects. |  |  |  | 311 |
-| **[Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478)** | A command-line scanner for batch detection of Next.js application versions and determining if they are affected by CVE-2025-66478 vulnerability. | Go |  | <details><summary>cve, ...</summary><p>cve, cve-2025-66478, cve-scanning, nextjs</p></details> | 307 |
-| **[HMLR-Agentic-AI-Memory-System](https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System)** | Living memory for AI | Python |  |  | 306 |
-| **[CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)** | RSC/Next.js RCE Vulnerability Detector & PoC Chrome Extension – CVE-2025-55182 & CVE-2025-66478 | JavaScript |  |  | 252 |
+| **[Ai-Arastirma-Okumalarim-TR](https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR)** | Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz. |  |  |  | 332 |
+| **[SwiftAgents](https://github.com/twostraws/SwiftAgents)** | An AGENTS.md file for Swift and SwiftUI projects. |  |  |  | 326 |
+| **[HMLR-Agentic-AI-Memory-System](https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System)** | Living memory for AI | Python |  |  | 308 |
+| **[GLM-ASR](https://github.com/zai-org/GLM-ASR)** | GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters | Python |  | <details><summary>asr, ...</summary><p>asr, edge, llm, voice</p></details> | 271 |
+| **[CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)** | RSC/Next.js RCE Vulnerability Detector & PoC Chrome Extension – CVE-2025-55182 & CVE-2025-66478 | JavaScript |  |  | 268 |
+| **[device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)** | A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal) | TypeScript |  | <details><summary>phone...</summary><p>phone-number, poc, signal, tracking, whatsapp</p></details> | 257 |
+| **[fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)** | One command to fix CVE-2025-66478 (React 2 Shell RCE) in your Next.js / React RSC app. | JavaScript |  |  | 255 |
+| **[CVE-2025-55182-advanced-scanner-](https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-)** |  | Shell |  |  | 239 |
+| **[automate-for-growth](https://github.com/cporter202/automate-for-growth)** | Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration. |  |  | <details><summary>ai-le...</summary><p>ai-learning, ai-learning-resource, social-media-automation</p></details> | 236 |
 
