@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-12-11
+Last update: 2025-12-12
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-12-11
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone | Python |  | <details><summary>agent...</summary><p>agent, phone-use-agent</p></details> | 5889 |
-| **[Paper2Slides](https://github.com/HKUDS/Paper2Slides)** | "Paper2Slides: From Paper to Presentation in One Click" | Python |  | <details><summary>agent...</summary><p>agentic-ai, llm-agents, paper2poster, paper2slides</p></details> | 1159 |
-| **[tgbot-verify](https://github.com/PastKing/tgbot-verify)** | 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。 | Python |  |  | 803 |
-| **[ech-wk](https://github.com/byJoey/ech-wk)** |  | Python |  |  | 803 |
-| **[mistral-vibe](https://github.com/mistralai/mistral-vibe)** | Minimal CLI coding agent by Mistral | Python |  |  | 795 |
-| **[React2Shell-CVE-2025-55182-original-poc](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)** | Original Proof-of-Concepts for React2Shell CVE-2025-55182 | JavaScript |  | <details><summary>cve-2...</summary><p>cve-2025-55182, react2shell</p></details> | 780 |
-| **[API-mega-list](https://github.com/cporter202/API-mega-list)** | This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪 | JavaScript |  | <details><summary>api, ...</summary><p>api, api-library, api-list, apis</p></details> | 737 |
-| **[PromptFill](https://github.com/TanShilongMario/PromptFill)** | 一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。 | JavaScript |  |  | 578 |
-| **[qmd](https://github.com/tobi/qmd)** | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local | TypeScript |  |  | 509 |
-| **[RSC_Detector](https://github.com/mrknow001/RSC_Detector)** | Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182. | JavaScript |  |  | 432 |
-| **[GoogleMapAIagent](https://github.com/crowmd/GoogleMapAIagent)** |  |  |  |  | 341 |
-| **[Ai-Arastirma-Okumalarim-TR](https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR)** | Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz. |  |  |  | 332 |
-| **[SwiftAgents](https://github.com/twostraws/SwiftAgents)** | An AGENTS.md file for Swift and SwiftUI projects. |  |  |  | 326 |
-| **[HMLR-Agentic-AI-Memory-System](https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System)** | Living memory for AI | Python |  |  | 308 |
-| **[GLM-ASR](https://github.com/zai-org/GLM-ASR)** | GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters | Python |  | <details><summary>asr, ...</summary><p>asr, edge, llm, voice</p></details> | 271 |
-| **[CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)** | RSC/Next.js RCE Vulnerability Detector & PoC Chrome Extension – CVE-2025-55182 & CVE-2025-66478 | JavaScript |  |  | 268 |
-| **[device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)** | A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal) | TypeScript |  | <details><summary>phone...</summary><p>phone-number, poc, signal, tracking, whatsapp</p></details> | 257 |
-| **[fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)** | One command to fix CVE-2025-66478 (React 2 Shell RCE) in your Next.js / React RSC app. | JavaScript |  |  | 255 |
-| **[CVE-2025-55182-advanced-scanner-](https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-)** |  | Shell |  |  | 239 |
-| **[automate-for-growth](https://github.com/cporter202/automate-for-growth)** | Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration. |  |  | <details><summary>ai-le...</summary><p>ai-learning, ai-learning-resource, social-media-automation</p></details> | 236 |
+| **[Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone | Python |  | <details><summary>agent...</summary><p>agent, phone-use-agent</p></details> | 9564 |
+| **[mistral-vibe](https://github.com/mistralai/mistral-vibe)** | Minimal CLI coding agent by Mistral | Python |  |  | 1489 |
+| **[Paper2Slides](https://github.com/HKUDS/Paper2Slides)** | "Paper2Slides: From Paper to Presentation in One Click" | Python |  | <details><summary>agent...</summary><p>agentic-ai, llm-agents, paper2poster, paper2slides</p></details> | 1485 |
+| **[ech-wk](https://github.com/byJoey/ech-wk)** |  | Python |  |  | 1013 |
+| **[tgbot-verify](https://github.com/PastKing/tgbot-verify)** | 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。 | Python |  |  | 881 |
+| **[API-mega-list](https://github.com/cporter202/API-mega-list)** | This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪 | JavaScript |  | <details><summary>api, ...</summary><p>api, api-library, api-list, apis</p></details> | 858 |
+| **[PromptFill](https://github.com/TanShilongMario/PromptFill)** | 一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。 | JavaScript |  |  | 624 |
+| **[qmd](https://github.com/tobi/qmd)** | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local | TypeScript |  |  | 539 |
+| **[canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor)** | 强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML | TypeScript |  | <details><summary>angul...</summary><p>angular, canvas, drawing-editor, image-editor, react, typescript, vue, web-component</p></details> | 432 |
+| **[GLM-TTS](https://github.com/zai-org/GLM-TTS)** | GLM-TTS: Controllable & Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning | Python |  | <details><summary>edge-...</summary><p>edge-computing, llm, tts</p></details> | 417 |
+| **[GLM-ASR](https://github.com/zai-org/GLM-ASR)** | GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters | Python |  | <details><summary>asr, ...</summary><p>asr, edge, llm, voice</p></details> | 391 |
+| **[Ai-Arastirma-Okumalarim-TR](https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR)** | Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz. |  |  |  | 338 |
+| **[SwiftAgents](https://github.com/twostraws/SwiftAgents)** | An AGENTS.md file for Swift and SwiftUI projects. |  |  |  | 329 |
+| **[MoZuku](https://github.com/t3tra-dev/MoZuku)** | 日本語文章の解析・校正を行う LSP サーバー。 | C++ |  |  | 326 |
+| **[device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker)** | A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal) | TypeScript |  | <details><summary>phone...</summary><p>phone-number, poc, signal, tracking, whatsapp</p></details> | 314 |
+| **[Wan-Move](https://github.com/ali-vilab/Wan-Move)** | [NeurIPS 2025] Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance | Python |  |  | 281 |
+| **[fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)** | One command to fix CVE-2025-66478 (React 2 Shell RCE) in your Next.js / React RSC app. | JavaScript |  |  | 280 |
+| **[CVE-2025-55182](https://github.com/emredavut/CVE-2025-55182)** | RSC/Next.js RCE Vulnerability Detector & PoC Chrome Extension – CVE-2025-55182 & CVE-2025-66478 | JavaScript |  |  | 276 |
+| **[hn-time-capsule](https://github.com/karpathy/hn-time-capsule)** | Analyzing Hacker News discussions from a decade ago in hindsight with LLMs | Python |  |  | 272 |
+| **[visionary](https://github.com/Visionary-Laboratory/visionary)** | Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform | Python |  | <details><summary>3dgs,...</summary><p>3dgs, 4dgs, avatar, computer-graphics, computer-vision, diffusion-models, gaussian-splatting, neural-rendering, onnx, threejs, viewer, webgpu, world-model</p></details> | 267 |
 
