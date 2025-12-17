@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-12-16
+Last update: 2025-12-17
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-12-16
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Gla-deploy](https://github.com/eooce/Gla-deploy)** |  | JavaScript |  |  | 992 |
-| **[scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs)** | This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.  | JavaScript |  | <details><summary>api-l...</summary><p>api-library, api-list, developer-api, scraping-api</p></details> | 944 |
-| **[android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** |  | Python |  |  | 771 |
-| **[clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** | 🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具) | Python |  | <details><summary>autom...</summary><p>automation, clash, clash-verge, ippure, iprisk, playwright, python</p></details> | 673 |
-| **[QQgroup-annual-report-analyzer](https://github.com/ZiHuixi/QQgroup-annual-report-analyzer)** | 一个用于分析QQ群聊记录并生成年度热词报告的工具。支持热词发现、趣味统计、可视化报告生成等功能。 | Python |  |  | 511 |
-| **[chorus](https://github.com/meltylabs/chorus)** | Chorus - AI chat app for Mac | TypeScript |  |  | 409 |
-| **[hn-time-capsule](https://github.com/karpathy/hn-time-capsule)** | Analyzing Hacker News discussions from a decade ago in hindsight with LLMs | Python |  |  | 408 |
-| **[oai-skills](https://github.com/eliasjudin/oai-skills)** | The contents of /home/oai/skills in ChatGPT's code interpreter environment | Python |  |  | 349 |
-| **[stoolap](https://github.com/stoolap/stoolap)** | A Modern Embedded SQL Database written in Rust | Rust |  | <details><summary>datab...</summary><p>database, embedded-sql, mvcc, rust, sql</p></details> | 341 |
-| **[gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel)** | 😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards. | Shell |  |  | 326 |
-| **[Open-AutoGLM-Hybrid](https://github.com/xietao778899-rgb/Open-AutoGLM-Hybrid)** | Open-AutoGLM混合方案 - 在手机上运行AI自动化，无需电脑 | Kotlin |  |  | 314 |
-| **[ppt-master](https://github.com/hugohe3/ppt-master)** | AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式 | Python |  |  | 229 |
-| **[Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** | Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab.  | Python |  | <details><summary>audio...</summary><p>audio, audio-language-model, audio-understanding, fun-asr, multimodal-large-language-models, pytorch, speaker-diarization, speech-recognition</p></details> | 221 |
-| **[Fourmeme-Bundler-BNB](https://github.com/kallie45s/Fourmeme-Bundler-BNB)** |  | TypeScript |  |  | 210 |
-| **[hyperliquid-trading-bot](https://github.com/kallie45s/hyperliquid-trading-bot)** |  | Python |  |  | 202 |
+| **[android-action-kernel](https://github.com/actionstatelabs/android-action-kernel)** |  | Python |  |  | 1074 |
+| **[Gla-deploy](https://github.com/eooce/Gla-deploy)** |  | JavaScript |  |  | 1066 |
+| **[ml-sharp](https://github.com/apple/ml-sharp)** | Sharp Monocular View Synthesis in Less Than a Second | Python |  |  | 838 |
+| **[port-killer](https://github.com/productdevbook/port-killer)** | Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers. | Swift |  | <details><summary>devel...</summary><p>developer-tools, macos, macos-app, menu-bar, port-killer, process-manager, swift, swiftui</p></details> | 735 |
+| **[clash-ip-checker](https://github.com/tombcato/clash-ip-checker)** | 🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具) | Python |  | <details><summary>autom...</summary><p>automation, clash, clash-verge, ippure, iprisk, playwright, python</p></details> | 719 |
+| **[chorus](https://github.com/meltylabs/chorus)** | Chorus - AI chat app for Mac | TypeScript |  |  | 466 |
+| **[rscexplorer](https://github.com/gaearon/rscexplorer)** | A tool for people curious about the React Server Components protocol | TypeScript |  |  | 462 |
+| **[oai-skills](https://github.com/eliasjudin/oai-skills)** | The contents of /home/oai/skills in ChatGPT's code interpreter environment | Python |  |  | 371 |
+| **[Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)** | Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab.  | Python |  | <details><summary>audio...</summary><p>audio, audio-language-model, audio-understanding, fun-asr, multimodal-large-language-models, pytorch, speaker-diarization, speech-recognition</p></details> | 352 |
+| **[stoolap](https://github.com/stoolap/stoolap)** | A Modern Embedded SQL Database written in Rust | Rust |  | <details><summary>datab...</summary><p>database, embedded-sql, mvcc, rust, sql</p></details> | 352 |
+| **[sqlit](https://github.com/Maxteabag/sqlit)** | A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more. | Python |  | <details><summary>cockr...</summary><p>cockroachdb, command-line-tool, duckdb, mariadb, mysql, oracle, postgresql, python, sql, sqlite, ssh, tui, turso</p></details> | 351 |
+| **[gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel)** | 😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards. | Shell |  |  | 348 |
+| **[markdown-site](https://github.com/waynesutton/markdown-site)** | A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery. | TypeScript |  | <details><summary>cms, ...</summary><p>cms, convex, markdown, sync</p></details> | 258 |
+| **[purrtran](https://github.com/cmontella/purrtran)** | 😻 It's the cat's meow! 😽  |  |  |  | 230 |
+| **[macUSB](https://github.com/Kruszoneq/macUSB)** | The easiest way to create legacy macOS bootable drives on modern Macs. Revive old Intel Macs using your Apple Silicon machine - no Terminal knowledge required. | Swift |  |  | 202 |
 | **[Flashloan-Arbitrage-Bot](https://github.com/daRkZvoidSTRi/Flashloan-Arbitrage-Bot)** | Flashloan Arbitrage Bot for Ethereum | JavaScript |  | <details><summary>arbit...</summary><p>arbitrage, binance, bot, env, eth, ethereum, flashloan, mev, mevbots, trader, trading</p></details> | 201 |
-| **[fourmeme-copytrading-bot-bnb](https://github.com/kallie45s/fourmeme-copytrading-bot-bnb)** |  |  |  |  | 199 |
-| **[hyperliquid-arbitrage-bot](https://github.com/kallie45s/hyperliquid-arbitrage-bot)** |  | TypeScript |  |  | 198 |
-| **[dawn](https://github.com/andrewmd5/dawn)** | A distraction-free writing environment; draft anything, write now. | C |  |  | 186 |
-| **[genai-security-training](https://github.com/schwartz1375/genai-security-training)** |  | Jupyter Notebook |  |  | 176 |
+| **[Disable-Call-Recording-BookRestore-](https://github.com/YangJiiii/Disable-Call-Recording-BookRestore-)** | Use the bl_sbx exploit to hide the call-recording notification sound on iOS | Python |  |  | 179 |
+| **[ProxyChecker](https://github.com/NotAnyoneMe/ProxyChecker)** | HTTP, SOCKS4, SOCKS5 proxies checker with gui style | Python |  | <details><summary>ai, h...</summary><p>ai, http, proxies, proxy, proxy-checker, proxyless, python, tkinter</p></details> | 165 |
+| **[PromptCraft](https://github.com/BesianSherifaj-AI/PromptCraft)** | An AI image gen prompt manager ! | JavaScript |  |  | 159 |
+| **[xkey](https://github.com/xmannv/xkey)** | Vietnamese Input for macOS - Bộ gõ Tiếng Việt mã nguồn mở cho macOS | Swift |  |  | 156 |
 
