@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-12-26
+Last update: 2025-12-27
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-12-26
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[mquickjs](https://github.com/bellard/mquickjs)** | Public repository of the Micro QuickJS Javascript Engine | C |  |  | 3841 |
-| **[Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. | Python |  |  | 2773 |
-| **[textarea](https://github.com/antonmedv/textarea)** | A notes webapp | HTML |  |  | 581 |
-| **[cinecli](https://github.com/eyeblech/cinecli)** | CineCLI is a cross-platform command-line movie browser built with Python. | Python |  | <details><summary>cli, ...</summary><p>cli, downloader, movie-web-app, pip, program, python, pythonpackage, script, tool, torrent-client-desktop, yts, yts-api</p></details> | 544 |
-| **[tigma](https://github.com/jlongster/tigma)** |  | TypeScript |  |  | 473 |
-| **[video2ascii](https://github.com/elijah0528/video2ascii)** | WebGL-powered React Component for video to ASCII conversion | TypeScript |  |  | 383 |
-| **[unredact](https://github.com/leedrake5/unredact)** | A simple tool for reading in poorly redacted documents and reproducing their origional form | Python |  |  | 379 |
-| **[OpenTinker](https://github.com/open-tinker/OpenTinker)** | OpenTinker is an RL-as-a-Service infrastructure for foundation models | Python |  |  | 378 |
-| **[opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** | OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。 | Go |  | <details><summary>crypt...</summary><p>crypto, crypto-bot, marketmaker, marketmakerbot</p></details> | 377 |
-| **[Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)** | Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions. | Python |  |  | 358 |
-| **[poly-sdk](https://github.com/cyl19970726/poly-sdk)** |  | TypeScript |  |  | 317 |
-| **[Continuous-Claude](https://github.com/parcadei/Continuous-Claude)** | Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows. | Python |  | <details><summary>agent...</summary><p>agents, claude-code, claude-code-cli, claude-code-hooks, claude-code-mcp, claude-code-skills, claude-code-subagents, claude-skills, mcp</p></details> | 307 |
-| **[tuitube](https://github.com/remorses/tuitube)** | Download videos from the command line with a TUI | TypeScript |  |  | 298 |
-| **[hapi](https://github.com/tiann/hapi)** | App for agentic coding - access coding agent anywhere | TypeScript |  |  | 268 |
-| **[RAG-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub)** | 100+ RAG interview questions with answers. |  |  |  | 244 |
-| **[ClaudeBar](https://github.com/tddworks/ClaudeBar)** | A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, and Gemini usage at a glance. | Swift |  |  | 218 |
-| **[agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup)** | System setup tool for beginners wanting agentic engineering capabilities - transforms a fresh VPS into a fully-armed agentic coding environment in under an hour. | TypeScript |  | <details><summary>agent...</summary><p>agentic-ai, agentic-workflow, agentmail, beads, bv</p></details> | 208 |
-| **[leanclr](https://github.com/focus-creative-games/leanclr)** | LeanCLR is a lean, cross-platform implementation of the Common Language Runtime (CLR). |  |  |  | 205 |
-| **[Xmas.JS](https://github.com/LemonHX/Xmas.JS)** | Xmas.JS is a lightweight, high-performance JavaScript/TypeScript runtime | Rust |  | <details><summary>javas...</summary><p>javascript, javascript-runtime, jsx, quickjs-ng, rust, serverless, transpiler, typescript, xmas</p></details> | 192 |
-| **[solana-fun-token-launch-pad](https://github.com/BlackSky-Jose/solana-fun-token-launch-pad)** | A comprehensive Next.js-based token launchpad platform for creating and managing SPL tokens on the Solana blockchain. This application provides an intuitive interface for token creation, liquidity management, market creation, and token authority management | TypeScript |  | <details><summary>launc...</summary><p>launch-pad, market-place, solana, token, token-launch</p></details> | 178 |
+| **[mquickjs](https://github.com/bellard/mquickjs)** | Public repository of the Micro QuickJS Javascript Engine | C |  |  | 4309 |
+| **[Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. | Python |  |  | 3345 |
+| **[textarea](https://github.com/antonmedv/textarea)** | A minimalist text editor that lives URL | HTML |  | <details><summary>minim...</summary><p>minimalistic, notes, text-editor</p></details> | 803 |
+| **[cinecli](https://github.com/eyeblech/cinecli)** | CineCLI is a cross-platform command-line movie browser built with Python. | Python |  | <details><summary>cli, ...</summary><p>cli, downloader, movie-web-app, pip, program, python, pythonpackage, script, tool, torrent-client-desktop, yts, yts-api</p></details> | 587 |
+| **[Continuous-Claude](https://github.com/parcadei/Continuous-Claude)** | Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows. | Python |  | <details><summary>agent...</summary><p>agents, claude-code, claude-code-cli, claude-code-hooks, claude-code-mcp, claude-code-skills, claude-code-subagents, claude-skills, mcp</p></details> | 560 |
+| **[opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** | OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。 | Go |  | <details><summary>crypt...</summary><p>crypto, crypto-bot, marketmaker, marketmakerbot</p></details> | 526 |
+| **[tigma](https://github.com/jlongster/tigma)** |  | TypeScript |  |  | 488 |
+| **[Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** |  |  |  |  | 422 |
+| **[unredact](https://github.com/leedrake5/unredact)** | A simple tool for reading in poorly redacted documents and reproducing their origional form | Python |  |  | 416 |
+| **[video2ascii](https://github.com/elijah0528/video2ascii)** | WebGL-powered React Component for video to ASCII conversion | TypeScript |  |  | 404 |
+| **[Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)** | Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions. | Python |  |  | 402 |
+| **[poly-sdk](https://github.com/cyl19970726/poly-sdk)** |  | TypeScript |  |  | 340 |
+| **[tuitube](https://github.com/remorses/tuitube)** | Download videos from the command line with a TUI | TypeScript |  |  | 303 |
+| **[hapi](https://github.com/tiann/hapi)** | App for agentic coding - access coding agent anywhere | TypeScript |  |  | 301 |
+| **[RAG-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub)** | 100+ RAG interview questions with answers. |  |  |  | 259 |
+| **[yourinfo](https://github.com/siinghd/yourinfo)** | Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization | TypeScript |  |  | 211 |
+| **[leanclr](https://github.com/focus-creative-games/leanclr)** | LeanCLR is a lean, cross-platform implementation of the Common Language Runtime (CLR). |  |  |  | 209 |
+| **[solana-fun-token-launch-pad](https://github.com/BlackSky-Jose/solana-fun-token-launch-pad)** | A comprehensive Next.js-based token launchpad platform for creating and managing SPL tokens on the Solana blockchain. This application provides an intuitive interface for token creation, liquidity management, market creation, and token authority management | TypeScript |  | <details><summary>launc...</summary><p>launch-pad, market-place, solana, token, token-launch</p></details> | 197 |
+| **[gemini-writer](https://github.com/Doriandarko/gemini-writer)** | AI writing agent powered by gemini 3 flash - autonomously creates novels and stories with deep reasoning | Python |  |  | 195 |
+| **[DumpChromeSecrets](https://github.com/Maldev-Academy/DumpChromeSecrets)** | Extract data from modern Chrome versions, including refresh tokens, cookies, saved credentials, autofill data, browsing history, and bookmarks | C |  | <details><summary>chrom...</summary><p>chrome, credential-harvesting</p></details> | 188 |
 
