@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2025-12-30
+Last update: 2025-12-31
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2025-12-30
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[quotio](https://github.com/nguyenphutrong/quotio)** | Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid. | Swift |  |  | 1207 |
-| **[Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** |  |  |  |  | 810 |
-| **[tuxmate](https://github.com/abusoww/tuxmate)** | THE MISSING BULK APP INSTALLER FOR LINUX | TypeScript |  | <details><summary>linux...</summary><p>linux, tool, web</p></details> | 805 |
-| **[mongobleed](https://github.com/joe-desimone/mongobleed)** |  | JavaScript |  |  | 653 |
-| **[opensqt_market_maker](https://github.com/dennisyang1986/opensqt_market_maker)** | OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。 | Go |  | <details><summary>crypt...</summary><p>crypto, crypto-bot, marketmaker, marketmakerbot</p></details> | 581 |
-| **[datashield-lightweight-labs](https://github.com/liuxiaomingskm/datashield-lightweight-labs)** | a lightweight tool to protect privacy/user data in Internet | MDX |  |  | 578 |
-| **[DeepTutor](https://github.com/HKUDS/DeepTutor)** | "DeepTutor: AI-Powered Personalized Learning Assistant" | Python |  | <details><summary>ai-tu...</summary><p>ai-tutor, ai-tutor-assistant, deepresearch, idea-generation, interactive-learning, knowledge-graph, large-language-models, multi-agent-systems, rag</p></details> | 460 |
-| **[mapcn](https://github.com/AnmolSaini16/mapcn)** | Beautiful map components. 100% Free, Zero config, one command setup. | TypeScript |  |  | 447 |
-| **[nodecast-tv](https://github.com/technomancer702/nodecast-tv)** | A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly. | JavaScript |  |  | 443 |
-| **[claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)** | Tools for publishing transcripts for Claude Code sessions | Python |  |  | 433 |
-| **[AudioPriorityBar](https://github.com/tobi/AudioPriorityBar)** | A native macOS menu bar app for managing audio device priorities | Swift |  |  | 392 |
-| **[guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** | 这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.） |  |  |  | 375 |
-| **[tally](https://github.com/davidfowl/tally)** | Let AI classify your bank transactions. | Python |  |  | 362 |
-| **[hapi](https://github.com/tiann/hapi)** | App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere | TypeScript |  |  | 350 |
-| **[yourinfo](https://github.com/siinghd/yourinfo)** | Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization | TypeScript |  |  | 284 |
-| **[claudeskill-loki-mode](https://github.com/asklokesh/claudeskill-loki-mode)** | Multi-agent autonomous startup system for Claude Code | Shell |  |  | 281 |
-| **[cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)** | CLI for internet speed test via cloudflare | Rust |  | <details><summary>cloud...</summary><p>cloudflare, linux, linux-cli, network-performance, rust, speedtest, tui</p></details> | 244 |
-| **[ultimate-linux](https://github.com/popovicu/ultimate-linux)** | The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise! | JavaScript |  | <details><summary>abi, ...</summary><p>abi, c, go, haskell, javascript, linux, rust, typescript</p></details> | 228 |
-| **[rnsec](https://github.com/adnxy/rnsec)** | Lightweight Security Scanner for React Native & Expo | TypeScript |  |  | 224 |
-| **[UniSecurityGuard](https://github.com/UniSecurityGuard/UniSecurityGuard)** | 本科华五，曾赴美qs50读博，某兄弟院校副教授，校园门卫亭女性主理人，为防止炸号的备份平台，是本人。 |  |  |  | 223 |
+| **[Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration)** |  |  |  |  | 819 |
+| **[mongobleed](https://github.com/joe-desimone/mongobleed)** |  | JavaScript |  |  | 742 |
+| **[DeepTutor](https://github.com/HKUDS/DeepTutor)** | "DeepTutor: AI-Powered Personalized Learning Assistant" | Python |  | <details><summary>ai-ag...</summary><p>ai-agents, ai-assistant, ai-tutor, deepresearch, idea-generation, interactive-learning, knowledge-graph, large-language-models, multi-agent-systems, rag</p></details> | 695 |
+| **[corroded](https://github.com/buyukakyuz/corroded)** | Illegal rust | Rust |  |  | 672 |
+| **[datashield-lightweight-labs](https://github.com/liuxiaomingskm/datashield-lightweight-labs)** | a lightweight tool to protect privacy/user data in Internet | MDX |  |  | 649 |
+| **[mapcn](https://github.com/AnmolSaini16/mapcn)** | Beautiful map components. 100% Free, Zero config, one command setup. | TypeScript |  |  | 609 |
+| **[guizang-s-prompt](https://github.com/op7418/guizang-s-prompt)** | 这里是歸藏的提示词储存库，存放着歸藏撰写的所有 AI 模型提示词（This is Guizang's prompt repository, containing all AI model prompts written by Guizang.） |  |  |  | 538 |
+| **[nodecast-tv](https://github.com/technomancer702/nodecast-tv)** | A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly. | JavaScript |  |  | 499 |
+| **[AudioPriorityBar](https://github.com/tobi/AudioPriorityBar)** | A native macOS menu bar app for managing audio device priorities | Swift |  |  | 440 |
+| **[tally](https://github.com/davidfowl/tally)** | Let agents classify your bank transactions. | Python |  |  | 422 |
+| **[HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)** |  | Python |  |  | 370 |
+| **[cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)** | CLI for internet speed test via cloudflare | Rust |  | <details><summary>cloud...</summary><p>cloudflare, linux, linux-cli, network-performance, rust, speedtest, tui</p></details> | 326 |
+| **[claudeskill-loki-mode](https://github.com/asklokesh/claudeskill-loki-mode)** | Multi-agent autonomous startup system for Claude Code | Shell |  |  | 296 |
+| **[claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net)** | A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute. | Python |  | <details><summary>claud...</summary><p>claude, claude-code, claude-code-plugin, destructive-commands, security</p></details> | 290 |
+| **[awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** | A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code) |  |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, ai-development, anthropic, automation, awesome, awesome-list, claude, codex, github-copilot, llm, mcp, openai, productivity, skill-md, vscode</p></details> | 269 |
+| **[Rackula](https://github.com/RackulaLives/Rackula)** | Drag and drop rack visualizer | TypeScript |  | <details><summary>drag-...</summary><p>drag-and-drop, homelab, rack, self-host, server-rack, svelte</p></details> | 256 |
+| **[PowerTrader_AI](https://github.com/garagesteve1155/PowerTrader_AI)** | Fully automated crypto trading powered by a custom price prediction AI and a structured/tiered DCA system. | Python |  |  | 232 |
+| **[UniSecurityGuard](https://github.com/UniSecurityGuard/UniSecurityGuard)** | 本科华五，曾赴美qs50读博，某兄弟院校副教授，校园门卫亭女性主理人，为防止炸号的备份平台，是本人。 |  |  |  | 231 |
+| **[ShaderBeam](https://github.com/mausimus/ShaderBeam)** | Overlay for running BFI/CRT Beam Simulation shaders on Windows desktop | C++ |  |  | 227 |
+| **[clopus-watcher](https://github.com/kubeden/clopus-watcher)** | An autonomous 24/7 on-call engineer in the form of a Claude Code living in a cronjob. | Go |  |  | 217 |
 
