@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - January 05, 2026
+title: Latest 10 Trending Repositories - January 06, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: January 05, 2026
+### 📅 Date: January 06, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1)** |  | Python |  |  | 996 |
-| **[claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)** | Universal Claude Code workflow plugin with agents, skills, hooks, and commands | Python |  |  | 948 |
-| **[zpdf](https://github.com/Lulzx/zpdf)** | Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration. | Zig |  | <details><summary>high-...</summary><p>high-performance, parser, pdf, simd, text-extraction, zero-copy, zero-dependency, zig</p></details> | 729 |
-| **[claude-hud](https://github.com/jarrodwatts/claude-hud)** | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress | JavaScript |  | <details><summary>anthr...</summary><p>anthropic, claude, claude-code, cli, plugin, statusline, typescript</p></details> | 611 |
-| **[VoidNovelEngine](https://github.com/VoidmatrixHeathcliff/VoidNovelEngine)** | A free, modern engine for visual novels | 自由，现代化的视觉小说引擎 |  |  |  | 598 |
-| **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. |  |  |  | 504 |
-| **[Skills](https://github.com/Dimillian/Skills)** | My Codex Skills | Python |  |  | 498 |
-| **[smaug](https://github.com/alexknowshtml/smaug)** | Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark. | JavaScript |  |  | 482 |
-| **[tradecat](https://github.com/tukuaiai/tradecat)** | 交易猫；tradecat；全市场量化交易数据平台 | Python |  | <details><summary>ai, b...</summary><p>ai, binance, bitcoin, ccxt, crypto, cryptocurrency, ethereum, futures, indicators, market-data, pandas, python, quantitative-trading, real-time, ta-lib, technical-analysis, telegram-bot, timescaledb, trading, wyckoff</p></details> | 472 |
-| **[cc-mirror](https://github.com/numman-ali/cc-mirror)** | Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM) | TypeScript |  |  | 463 |
+| **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. |  |  |  | 1210 |
+| **[taws](https://github.com/huseyinbabal/taws)** | Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager | Rust |  |  | 1163 |
+| **[IQuest-Coder-V1](https://github.com/IQuestLab/IQuest-Coder-V1)** |  | Python |  |  | 1063 |
+| **[claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)** | Universal Claude Code workflow plugin with agents, skills, hooks, and commands | Python |  |  | 987 |
+| **[cc-mirror](https://github.com/numman-ali/cc-mirror)** | Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM) | TypeScript |  |  | 921 |
+| **[claude-hud](https://github.com/jarrodwatts/claude-hud)** | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress | JavaScript |  | <details><summary>anthr...</summary><p>anthropic, claude, claude-code, cli, plugin, statusline, typescript</p></details> | 787 |
+| **[VoidNovelEngine](https://github.com/VoidmatrixHeathcliff/VoidNovelEngine)** | A free, modern engine for visual novels | 自由，现代化的视觉小说引擎 |  |  |  | 680 |
+| **[smaug](https://github.com/alexknowshtml/smaug)** | Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark. | JavaScript |  |  | 503 |
+| **[hypermind](https://github.com/lklynet/hypermind)** | The High-Availability Solution to a Problem That Doesn't Exist. | JavaScript |  | <details><summary>decen...</summary><p>decentralized, dht, distributed-system, docker, fun, homelab, hyperswarm, meme, nodejs, p2p, pointless, self-hosted, selfhosting, server, social-experiment, toy-project, useless</p></details> | 425 |
+| **[claude-run](https://github.com/kamranahmedse/claude-run)** | A beautiful web UI for browsing Claude Code conversation history. | TypeScript |  |  | 376 |
 
