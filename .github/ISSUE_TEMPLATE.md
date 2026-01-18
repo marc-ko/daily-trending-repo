@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - January 17, 2026
+title: Latest 10 Trending Repositories - January 18, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: January 17, 2026
+### 📅 Date: January 18, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[agent-browser](https://github.com/vercel-labs/agent-browser)** | Browser automation CLI for AI agents | TypeScript |  |  | 6898 |
-| **[json-render](https://github.com/vercel-labs/json-render)** | AI → JSON → UI | TypeScript |  |  | 5370 |
-| **[Zen-C](https://github.com/z-libs/Zen-C)** | Write like a high-level language, run like C. | C |  |  | 2740 |
-| **[Engram](https://github.com/deepseek-ai/Engram)** | Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models | Python |  |  | 2636 |
-| **[Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** | OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe. | TypeScript |  |  | 1520 |
-| **[nanocode](https://github.com/1rgs/nanocode)** | Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines. | Python |  |  | 1357 |
-| **[skills](https://github.com/trailofbits/skills)** | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows | Python |  | <details><summary>agent...</summary><p>agent-skills</p></details> | 1178 |
-| **[openwork](https://github.com/accomplish-ai/openwork)** | Openwork™ is the open source Al coworker that lives on your desktop | TypeScript |  |  | 915 |
-| **[ralph-tui](https://github.com/subsy/ralph-tui)** |  | TypeScript |  |  | 900 |
-| **[better-shot](https://github.com/KartikLabhshetwar/better-shot)** | An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality. | TypeScript |  | <details><summary>deskt...</summary><p>desktop-application, macos-app, macos-application, tauri, vitejs</p></details> | 867 |
+| **[json-render](https://github.com/vercel-labs/json-render)** | AI → JSON → UI | TypeScript |  |  | 5866 |
+| **[Engram](https://github.com/deepseek-ai/Engram)** | Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models | Python |  |  | 2734 |
+| **[Claude-Cowork](https://github.com/DevAgentForge/Claude-Cowork)** | OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe. | TypeScript |  |  | 1655 |
+| **[skills](https://github.com/trailofbits/skills)** | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows | Python |  | <details><summary>agent...</summary><p>agent-skills</p></details> | 1265 |
+| **[openwork](https://github.com/different-ai/openwork)** | An open-source alternative to Claude Cowork, powered by OpenCode | TypeScript |  |  | 1221 |
+| **[openwork](https://github.com/accomplish-ai/openwork)** | Openwork™ is the open source Al coworker that lives on your desktop | TypeScript |  |  | 1145 |
+| **[add-skill](https://github.com/vercel-labs/add-skill)** |  | TypeScript |  |  | 1014 |
+| **[1code](https://github.com/21st-dev/1code)** | Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex) | TypeScript |  |  | 913 |
+| **[nginxpulse](https://github.com/likaia/nginxpulse)** | 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 | Go |  |  | 841 |
+| **[antigravity-kit](https://github.com/vudovn/antigravity-kit)** |  | Python |  |  | 764 |
 
