@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-01-20
+Last update: 2026-01-21
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-01-20
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[json-render](https://github.com/vercel-labs/json-render)** | AI → JSON → UI | TypeScript |  |  | 7283 |
-| **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. |  |  |  | 3446 |
-| **[openwork](https://github.com/different-ai/openwork)** | An open-source alternative to Claude Cowork, powered by OpenCode | TypeScript |  |  | 3384 |
-| **[1code](https://github.com/21st-dev/1code)** | Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex) | TypeScript |  |  | 3279 |
-| **[openwork](https://github.com/accomplish-ai/openwork)** | Openwork™ is the open source Al coworker that lives on your desktop | TypeScript |  |  | 1964 |
-| **[antigravity-kit](https://github.com/vudovn/antigravity-kit)** |  | TypeScript |  |  | 1479 |
-| **[skills](https://github.com/trailofbits/skills)** | Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows | Python |  | <details><summary>agent...</summary><p>agent-skills</p></details> | 1459 |
-| **[add-skill](https://github.com/vercel-labs/add-skill)** |  | TypeScript |  |  | 1407 |
-| **[humanizer](https://github.com/blader/humanizer)** | Claude Code skill that removes signs of AI-generated writing from text |  |  |  | 1252 |
-| **[Claudeception](https://github.com/blader/Claudeception)** | A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works. | Shell |  |  | 898 |
-| **[flux2.c](https://github.com/antirez/flux2.c)** | Flux 2 image generation model pure C inference | C |  |  | 896 |
-| **[ralphy](https://github.com/michaelshimeles/ralphy)** | My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete. | TypeScript |  | <details><summary>claud...</summary><p>claude-code, opencode, ralph-loop, ralph-wiggum, ralphy</p></details> | 879 |
-| **[copilot-sdk](https://github.com/github/copilot-sdk)** | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services | TypeScript |  |  | 753 |
-| **[stfu](https://github.com/Pankajtanwarbanna/stfu)** | stfu | HTML |  |  | 742 |
-| **[zlibrary-to-notebooklm](https://github.com/zstmfhy/zlibrary-to-notebooklm)** | 一键将 Z-Library 书籍自动下载并上传到 Google NotebookLM | Python |  |  | 732 |
-| **[oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)** | Slimmed and cleaned oh-my-opencode fork, consumes much less tokens | TypeScript |  | <details><summary>agent...</summary><p>agentic-ai, antigravity, cerebras, oh-my-opencode, opencode, orchestration</p></details> | 722 |
-| **[antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** | The Ultimate Collection of 150+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. | Python |  | <details><summary>agent...</summary><p>agentic-skills, ai-agents, antigravity, autonomous-coding, claude-code, mcp, react-patterns, security-auditing</p></details> | 704 |
-| **[lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)** | Transcripts from Lenny's Podcast | Shell |  |  | 644 |
-| **[polymarket-copytrading-bot](https://github.com/devWorld335/polymarket-copytrading-bot)** | Tracking good Whales is core for polymarket copy trading bot. Polymarket Copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copy trading bot polymarket copytrading bot polymarket copy trading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket Copy trading bot trading bot | TypeScript |  | <details><summary>bot, ...</summary><p>bot, copytrading, copytradingbot, polymarket, polymarket-copy-trading-bot, polymarket-copy-tradingbot, polymarket-trading-bot, trading, tradingbot</p></details> | 631 |
-| **[ralph-claude-code](https://github.com/DmitrySolana/ralph-claude-code)** | Autonomous AI development loop for Claude Code with intelligent exit detection | Shell |  | <details><summary>ai-ag...</summary><p>ai-agent, ai-agents, claude-code, claude-code-cli, development-tools, development-workflow</p></details> | 624 |
+| **[x-algorithm](https://github.com/xai-org/x-algorithm)** | Algorithm powering the For You feed on X | Rust |  |  | 7811 |
+| **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** | Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. | Shell |  |  | 6858 |
+| **[humanizer](https://github.com/blader/humanizer)** | Claude Code skill that removes signs of AI-generated writing from text |  |  |  | 1704 |
+| **[marketingskills](https://github.com/coreyhaines31/marketingskills)** | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |  |  | <details><summary>claud...</summary><p>claude, codex, marketing</p></details> | 1325 |
+| **[ralphy](https://github.com/michaelshimeles/ralphy)** | My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete. | TypeScript |  | <details><summary>claud...</summary><p>claude-code, opencode, ralph-loop, ralph-wiggum, ralphy</p></details> | 1139 |
+| **[Claudeception](https://github.com/blader/Claudeception)** | A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works. | Shell |  |  | 1135 |
+| **[heartlib](https://github.com/HeartMuLa/heartlib)** |  | Python |  |  | 1092 |
+| **[flux2.c](https://github.com/antirez/flux2.c)** | Flux 2 image generation model pure C inference | C |  |  | 995 |
+| **[ralph-claude-code](https://github.com/DmitrySolana/ralph-claude-code)** | Autonomous AI development loop for Claude Code with intelligent exit detection | Shell |  | <details><summary>ai-ag...</summary><p>ai-agent, ai-agents, claude-code, claude-code-cli, development-tools, development-workflow</p></details> | 936 |
+| **[polymarket-copy-trading-bot](https://github.com/devWorld335/polymarket-copy-trading-bot)** | polymarket bot polymarket bot polymarket bot polymarket bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot | TypeScript |  | <details><summary>bot, ...</summary><p>bot, copytrading, copytradingbot, polymarket, polymarket-bot, polymarket-bot-arbitrage, polymarket-copy-trading-bot, polymarket-copy-tradingbot, polymarket-copytrading, polymarket-copytrading-bot, polymarket-trading, polymarket-trading-bot, trading, trading-bot, tradingbot</p></details> | 889 |
+| **[Humanizer-zh](https://github.com/op7418/Humanizer-zh)** | Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 |  |  |  | 801 |
+| **[oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)** | Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens | TypeScript |  | <details><summary>agent...</summary><p>agentic-ai, antigravity, cerebras, oh-my-opencode, opencode, orchestration</p></details> | 800 |
+| **[stfu](https://github.com/Pankajtanwarbanna/stfu)** | stfu | HTML |  |  | 799 |
+| **[craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** |  | TypeScript |  |  | 731 |
+| **[FineTune](https://github.com/ronitsingh10/FineTune)** | FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ | Swift |  | <details><summary>audio...</summary><p>audio, audio-utility, macos, macos-app, menu-bar, menubar, menubar-app, swift, swiftui, utility</p></details> | 711 |
+| **[vibecraft](https://github.com/Nearcyan/vibecraft)** | It's Vibecraft! | TypeScript |  |  | 643 |
+| **[polymarket-trading-bot-ts](https://github.com/dexorynlabs/polymarket-trading-bot-ts)** | polymarket bot  polymarket bot  polymarket bot  polymarket bot  polymarket bot  polymarket bot  polymarket bot  polymarket bot  | TypeScript |  |  | 601 |
+| **[openresponses](https://github.com/openresponses/openresponses)** |  | TypeScript |  |  | 601 |
+| **[agent-sdk](https://github.com/browser-use/agent-sdk)** |  | Python |  |  | 508 |
+| **[terraform-skill](https://github.com/antonbabenko/terraform-skill)** | The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns |  |  | <details><summary>best-...</summary><p>best-practices, claude-code, claude-skills, devops, infrastructure-as-code, modules, opentofu, terraform, testing</p></details> | 431 |
 
