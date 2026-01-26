@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-01-25
+Last update: 2026-01-26
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-01-25
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[x-algorithm](https://github.com/xai-org/x-algorithm)** | Algorithm powering the For You feed on X | Rust |  |  | 13204 |
-| **[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** | Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning. | Python |  |  | 3595 |
-| **[original_performance_takehome](https://github.com/anthropics/original_performance_takehome)** | Anthropic's original performance take-home, now open for you to try! | Python |  |  | 2758 |
-| **[Humanizer-zh](https://github.com/op7418/Humanizer-zh)** | Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 |  |  |  | 1362 |
-| **[craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** |  | TypeScript |  |  | 1251 |
-| **[threejs-skills](https://github.com/CloudAI-X/threejs-skills)** |  |  |  |  | 879 |
-| **[skills](https://github.com/remotion-dev/skills)** | Agent Skills | TypeScript |  |  | 765 |
-| **[Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** |  | Python |  |  | 623 |
-| **[ocrbase](https://github.com/majcheradam/ocrbase)** | 📄 PDF ->.MD/.JSON Document OCR and structured data extraction API. PaddleOCR + LLM-powered parsing. Real-time WebSocket updates. Type-safe TypeScript SDK with React hooks. Self-hostable. | TypeScript |  | <details><summary>ai, b...</summary><p>ai, bun, document-processing, drizzle, elysia, json, markdown, ocr, paddleocr, pdf, react-hooks, self-hosted, typescript, websocket</p></details> | 614 |
-| **[polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot)** | polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot | Python |  | <details><summary>copy-...</summary><p>copy-trading-bot, copytrading-bot, polymarket-bot, polymarket-copy-bot, polymarket-copy-trading-bot, polymarket-copy-tradingbot, polymarket-copytrading-bot, polymarket-trading-bot, polymarket-tradingbot, trading-bot</p></details> | 600 |
-| **[vue-skills](https://github.com/hyf0/vue-skills)** | Agent skills for Vue 3 development |  |  |  | 542 |
-| **[awesome-ralph](https://github.com/snwfdhmp/awesome-ralph)** | A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled. |  |  | <details><summary>ai-co...</summary><p>ai-coding, claude, claude-code, ralph, ralph-loop, ralph-wiggum, vibe-coding</p></details> | 541 |
-| **[workany](https://github.com/workany-ai/workany)** | Desktop Agent for Any Task | TypeScript |  | <details><summary>ai-as...</summary><p>ai-assistant, desktop-agent, general-agent, open-cowork</p></details> | 538 |
-| **[Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** |  | Python |  |  | 526 |
-| **[Practical-Digital-Product-Design-2025-Free](https://github.com/seeam/Practical-Digital-Product-Design-2025-Free)** | A free version of my paid use interface and digital product design course in Bengali. |  |  |  | 449 |
-| **[sec-context](https://github.com/Arcanum-Sec/sec-context)** | AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code. | HTML |  |  | 384 |
-| **[polymarket-copytrade-ui](https://github.com/yesnotrader/polymarket-copytrade-ui)** |  |  |  |  | 378 |
-| **[pipenet](https://github.com/punkpeye/pipenet)** | Expose your local server to the public internet instantly | TypeScript |  |  | 366 |
-| **[ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS)** | A Simple Implementation of Qwen3-TTS's ComfyUI | Python |  |  | 361 |
-| **[globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)** | Global threat map. Learn wars, conflicts, military bases and history of nations.  | TypeScript |  | <details><summary>intel...</summary><p>intelligence, nato, osint, osint-tool, real-time, usa-military, valyu-ai</p></details> | 353 |
+| **[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** | Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning. | Python |  |  | 4402 |
+| **[polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot)** | polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot | Python |  | <details><summary>copy-...</summary><p>copy-trading-bot, copytrading-bot, polymarket-bot, polymarket-copy-bot, polymarket-copy-trading-bot, polymarket-copy-tradingbot, polymarket-copytrading-bot, polymarket-trading-bot, polymarket-tradingbot, trading-bot</p></details> | 723 |
+| **[Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** |  | Python |  |  | 697 |
+| **[ocrbase](https://github.com/majcheradam/ocrbase)** | 📄 PDF ->.MD/.JSON Document OCR and structured data extraction API. PaddleOCR + LLM-powered parsing. Real-time WebSocket updates. Type-safe TypeScript SDK with React hooks. Self-hostable. | TypeScript |  | <details><summary>ai, b...</summary><p>ai, bun, document-processing, drizzle, elysia, json, markdown, ocr, paddleocr, pdf, react-hooks, self-hosted, typescript, websocket</p></details> | 686 |
+| **[Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** |  | Python |  |  | 585 |
+| **[posturr](https://github.com/tldev/posturr)** | A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection. | Swift |  |  | 585 |
+| **[vue-skills](https://github.com/hyf0/vue-skills)** | Agent skills for Vue 3 development |  |  |  | 569 |
+| **[ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS)** | A Simple Implementation of Qwen3-TTS's ComfyUI | Python |  |  | 494 |
+| **[Practical-Digital-Product-Design-2025-Free](https://github.com/seeam/Practical-Digital-Product-Design-2025-Free)** | A free version of my paid use interface and digital product design course in Bengali. |  |  |  | 471 |
+| **[polymarket-copy-trading-bot-telegram-ui](https://github.com/yesnotrader/polymarket-copy-trading-bot-telegram-ui)** | Polymarket copy trading bot|Polymarket copy trading bot|Polymarket copytrading bot|Polymarket trading bot|Polymarket trading bot|Polymarket trading bot|Polymarket copy trading bot|Polymarket copy trading bot|Polymarket trading bot | Rust |  | <details><summary>copy-...</summary><p>copy-trading, copytrading, polymarket-copy-bot, polymarket-copy-trading-bot, polymarket-copytrading-bot, polymarket-trading-bot, trading, trading-bot</p></details> | 442 |
+| **[globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)** | Global threat map. Learn wars, conflicts, military bases and history of nations.  | TypeScript |  | <details><summary>intel...</summary><p>intelligence, nato, osint, osint-tool, real-time, usa-military, valyu-ai</p></details> | 410 |
+| **[SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)** | Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format). |  |  |  | 374 |
+| **[nlsh](https://github.com/junaid-mahmood/nlsh)** | Turn natural language to terminal commands | TypeScript |  |  | 364 |
+| **[hpc-ops](https://github.com/Tencent/hpc-ops)** | High Performance LLM Inference Operator Library | C++ |  |  | 353 |
+| **[LuxTTS](https://github.com/ysharma3501/LuxTTS)** | A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime. | Python |  |  | 348 |
+| **[manim_skill](https://github.com/adithya-s-k/manim_skill)** | Agent skills for Manim to create 3Blue1Brown style animations. | Python |  | <details><summary>agent...</summary><p>agent-skills</p></details> | 347 |
+| **[shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure)** | Universal UI skeleton generator for React and Vue. Auto-adapts to your component structure with zero maintenance and pixel-perfect accuracy. | TypeScript |  | <details><summary>devel...</summary><p>developer-experience, react, shimmer, shimmer-effect, skeleton-loading, vue, vuejs</p></details> | 338 |
+| **[launchpad](https://github.com/trycua/launchpad)** |  | TypeScript |  |  | 329 |
+| **[work-iq-mcp](https://github.com/microsoft/work-iq-mcp)** | MCP Server and CLI for accessing Work IQ |  |  |  | 329 |
+| **[social-media-scraping-apis](https://github.com/cporter202/social-media-scraping-apis)** | A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics. | JavaScript |  | <details><summary>faceb...</summary><p>facebook-api, facebook-scraping, linkedin-bot, linkedin-scraping, social, social-media, social-media-automation</p></details> | 325 |
 
