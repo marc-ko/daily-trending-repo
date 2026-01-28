@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - January 27, 2026
+title: Latest 10 Trending Repositories - January 28, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: January 27, 2026
+### 📅 Date: January 28, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** | Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning. | Python |  |  | 5073 |
-| **[posturr](https://github.com/tldev/posturr)** | A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection. | Swift |  |  | 1147 |
-| **[awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills)** | The awesome collection of Clawdbot Skills |  |  | <details><summary>agent...</summary><p>agent-skills, awesome-list, clawd, clawdbot, clawdbot-skill, clawdhub</p></details> | 1052 |
-| **[Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** |  | Python |  |  | 755 |
-| **[polymarket-copy-trading-bot](https://github.com/terausss/polymarket-copy-trading-bot)** | polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot | Python |  | <details><summary>copy-...</summary><p>copy-trading-bot, copytrading-bot, polymarket-bot, polymarket-copy-bot, polymarket-copy-trading-bot, polymarket-copy-tradingbot, polymarket-copytrading-bot, polymarket-trading-bot, polymarket-tradingbot, trading-bot</p></details> | 671 |
-| **[vue-skills](https://github.com/hyf0/vue-skills)** | Agent skills for Vue 3 development |  |  |  | 659 |
-| **[Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** |  | Python |  |  | 638 |
-| **[ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS)** | A Simple Implementation of Qwen3-TTS's ComfyUI | Python |  |  | 595 |
-| **[globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)** | Global threat map. Learn wars, conflicts, military bases and history of nations.  | TypeScript |  | <details><summary>intel...</summary><p>intelligence, nato, osint, osint-tool, real-time, usa-military, valyu-ai</p></details> | 577 |
-| **[SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)** | Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format). |  |  |  | 571 |
+| **[awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** | The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot) |  |  | <details><summary>agent...</summary><p>agent-skills, awesome-list, clawd, clawdbot, clawdbot-skill, clawdhub, moltbot, moltbot-skills</p></details> | 2159 |
+| **[posturr](https://github.com/tldev/posturr)** | A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection. | Swift |  |  | 1380 |
+| **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** | Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts | Python |  | <details><summary>ai-pr...</summary><p>ai-prompts, claude, claude-code, reddit, twitter</p></details> | 1183 |
+| **[DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** | Visual Causal Flow | Python |  |  | 945 |
+| **[andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** |  |  |  |  | 888 |
+| **[Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** |  | Python |  |  | 782 |
+| **[globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)** | Global threat map. Learn wars, conflicts, military bases and history of nations.  | TypeScript |  | <details><summary>intel...</summary><p>intelligence, nato, osint, osint-tool, real-time, usa-military, valyu-ai</p></details> | 723 |
+| **[Khazix-Skills](https://github.com/KKKKhazix/Khazix-Skills)** |  | Python |  |  | 682 |
+| **[ComfyUI-Qwen-TTS](https://github.com/flybirdxx/ComfyUI-Qwen-TTS)** | A Simple Implementation of Qwen3-TTS's ComfyUI | Python |  |  | 660 |
+| **[LuxTTS](https://github.com/ysharma3501/LuxTTS)** | A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime. | Python |  |  | 513 |
 
