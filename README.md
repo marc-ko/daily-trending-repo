@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-01-29
+Last update: 2026-01-30
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-01-29
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** | The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot) |  |  | <details><summary>agent...</summary><p>agent-skills, awesome-list, clawd, clawdbot, clawdbot-skill, clawdhub, moltbot, moltbot-skills</p></details> | 2880 |
-| **[andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** |  |  |  |  | 1741 |
-| **[posturr](https://github.com/tldev/posturr)** | A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection. | Swift |  |  | 1520 |
-| **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** | Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts | Python |  | <details><summary>ai-pr...</summary><p>ai-prompts, claude, claude-code, reddit, twitter</p></details> | 1519 |
-| **[skills](https://github.com/antfu/skills)** | Anthony Fu's curated collection of agent skills. | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, skills</p></details> | 1520 |
-| **[DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** | Visual Causal Flow | Python |  |  | 1360 |
-| **[wooyun-legacy](https://github.com/tanweai/wooyun-legacy)** | wooyun-legacy skill for claude code  |  |  |  | 786 |
-| **[clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** |  | TypeScript |  |  | 625 |
-| **[LuxTTS](https://github.com/ysharma3501/LuxTTS)** | A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime. | Python |  |  | 547 |
-| **[lingbot-depth](https://github.com/Robbyant/lingbot-depth)** |  | Python |  |  | 478 |
-| **[crabwalk](https://github.com/luccast/crabwalk)** | 🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents. | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, clawdbot, moltbot, monitoring</p></details> | 426 |
-| **[claudecode-telegram](https://github.com/hanxiao/claudecode-telegram)** | Telegram bridge for Claude Code | Python |  |  | 371 |
-| **[multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun)** |  | Shell |  |  | 367 |
-| **[beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** |  | TypeScript |  |  | 358 |
-| **[Hacking-Cheatsheets](https://github.com/Ilias1988/Hacking-Cheatsheets)** | A comprehensive collection of penetration testing cheatsheets, guides, and tools. |  |  | <details><summary>cheat...</summary><p>cheatsheet, cybersecurity, ethical-hacking, infosec, metasploit, penetration-testing, red-team</p></details> | 329 |
-| **[next-skills](https://github.com/vercel-labs/next-skills)** |  |  |  |  | 297 |
-| **[Qwen3-Audiobook-Converter](https://github.com/WhiskeyCoder/Qwen3-Audiobook-Converter)** | Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning. | Python |  |  | 293 |
-| **[frontend-slides](https://github.com/zarazhangrui/frontend-slides)** | Create beautiful slides on the web using Claude's frontend skills |  |  |  | 289 |
-| **[lingbot-vla](https://github.com/Robbyant/lingbot-vla)** | A Pragmatic VLA Foundation Model | Python |  |  | 286 |
-| **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** | A Claude skill for developing WebGPU applications with Three.js | JavaScript |  |  | 281 |
+| **[awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** | The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot) |  |  | <details><summary>agent...</summary><p>agent-skills, awesome-list, clawd, clawdbot, clawdbot-skill, clawdhub, moltbot, moltbot-skills</p></details> | 3511 |
+| **[beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)** |  | TypeScript |  |  | 2491 |
+| **[andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** |  |  |  |  | 2323 |
+| **[skills](https://github.com/antfu/skills)** | Anthony Fu's curated collection of agent skills. | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, skills</p></details> | 2206 |
+| **[DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)** | Visual Causal Flow | Python |  |  | 1607 |
+| **[posturr](https://github.com/tldev/posturr)** | A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection. | Swift |  |  | 1584 |
+| **[moltworker](https://github.com/cloudflare/moltworker)** | Run Moltbot (formely Clawdbot) on Cloudflare Workers | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, cloudflare-workers</p></details> | 1303 |
+| **[clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)** |  | TypeScript |  |  | 949 |
+| **[lingbot-world](https://github.com/Robbyant/lingbot-world)** | Advancing Open-source World Models | Python |  | <details><summary>aigc,...</summary><p>aigc, image-to-video, lingbot-world, video-generation, world-models</p></details> | 864 |
+| **[Trellis](https://github.com/mindfold-ai/Trellis)** | All-in-one AI framework & toolkit for Claude Code & Cursor | Shell |  |  | 833 |
+| **[lingbot-depth](https://github.com/Robbyant/lingbot-depth)** | Masked Depth Modeling for Spatial Perception | Python |  |  | 566 |
+| **[sherlock](https://github.com/jmuncor/sherlock)** | Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.       | Python |  | <details><summary>ai-to...</summary><p>ai-tools, anthropic, cli, developer-tools, itmproxy, llm, m, proxy, python, rich, terminal-dashboard, token-counter</p></details> | 527 |
+| **[multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun)** |  | Shell |  |  | 477 |
+| **[crabwalk](https://github.com/luccast/crabwalk)** | 🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents. | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, clawdbot, moltbot, monitoring</p></details> | 471 |
+| **[Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)** | Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, supporting stable multilingual speech/music/song recognition, language detection and timestamp prediction. | Python |  |  | 437 |
+| **[lingbot-vla](https://github.com/Robbyant/lingbot-vla)** | A Pragmatic VLA Foundation Model | Python |  |  | 430 |
+| **[frontend-slides](https://github.com/zarazhangrui/frontend-slides)** | Create beautiful slides on the web using Claude's frontend skills |  |  |  | 415 |
+| **[Hacking-Cheatsheets](https://github.com/Ilias1988/Hacking-Cheatsheets)** | A comprehensive collection of penetration testing cheatsheets, guides, and tools. |  |  | <details><summary>cheat...</summary><p>cheatsheet, cybersecurity, ethical-hacking, infosec, metasploit, penetration-testing, red-team</p></details> | 408 |
+| **[clawbot](https://github.com/xianyu110/clawbot)** | Clawdbot完整配置指南：从安装到Claude Code中转 |  |  |  | 384 |
+| **[claudecode-telegram](https://github.com/hanxiao/claudecode-telegram)** | Telegram bridge for Claude Code | Python |  |  | 379 |
 
