@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - February 05, 2026
+title: Latest 10 Trending Repositories - February 06, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: February 05, 2026
+### 📅 Date: February 06, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[nanobot](https://github.com/HKUDS/nanobot)** | "🐈 nanobot: The Ultra-Lightweight Clawdbot" | Python |  |  | 6050 |
-| **[nanoclaw](https://github.com/gavrielc/nanoclaw)** | My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. | TypeScript |  |  | 4712 |
-| **[awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)** | Elevate your AI research writing, no more tedious polishing ✨  |  |  |  | 3084 |
-| **[tirith](https://github.com/sheeki03/tirith)** | Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. | Rust |  | <details><summary>cli, ...</summary><p>cli, devtools, homograph-attack, rust, security, shell, supply-chain-security, terminal, unicode, url-security</p></details> | 1227 |
-| **[PaperBanana](https://github.com/dwzhu-pku/PaperBanana)** | PaperBanana: Automating Academic Illustration For AI Scientists | JavaScript |  |  | 1209 |
-| **[dash](https://github.com/agno-agi/dash)** | Self-learning data agent that grounds its answers in 6 layers of context. Inspired by OpenAI's in-house implementation. | Python |  |  | 1162 |
-| **[OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation)** | 🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！ | JavaScript |  | <details><summary>ai-as...</summary><p>ai-assistant, chatbot, chinese, claude-ai, clawd, clawdbot, discord, lobster, localization, moltbot, nodejs, open-source, openclaw, telegram, whatsapp, zh-cn</p></details> | 722 |
-| **[Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5)** | Moonshot's most powerful model |  |  |  | 699 |
-| **[Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)** | Fast, Sharp & Reliable Agentic Intelligence | C++ |  |  | 553 |
-| **[GLM-OCR](https://github.com/zai-org/GLM-OCR)** | GLM-OCR: Accurate ×  Fast × Comprehensive | Python |  | <details><summary>glm, ...</summary><p>glm, image2text, ocr</p></details> | 524 |
+| **[nanobot](https://github.com/HKUDS/nanobot)** | "🐈 nanobot: The Ultra-Lightweight Clawdbot" | Python |  |  | 9345 |
+| **[nanoclaw](https://github.com/gavrielc/nanoclaw)** | My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. | TypeScript |  |  | 5344 |
+| **[tirith](https://github.com/sheeki03/tirith)** | Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. | Rust |  | <details><summary>cli, ...</summary><p>cli, devtools, homograph-attack, rust, security, shell, supply-chain-security, terminal, unicode, url-security</p></details> | 1349 |
+| **[GLM-OCR](https://github.com/zai-org/GLM-OCR)** | GLM-OCR: Accurate ×  Fast × Comprehensive | Python |  | <details><summary>glm, ...</summary><p>glm, image2text, ocr</p></details> | 600 |
+| **[Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)** | Fast, Sharp & Reliable Agentic Intelligence | C++ |  |  | 596 |
+| **[OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)** | OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关 | Shell |  |  | 539 |
+| **[ClawRouter](https://github.com/BlockRunAI/ClawRouter)** | Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments. | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, anthropic, cost-optimization, crypto, deepseek, gemini, llm, llm-router, micropayments, openai, openclaw, smart-routing, usdc, x402</p></details> | 517 |
+| **[MAHORAGA](https://github.com/ygwyg/MAHORAGA)** | autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts | TypeScript |  |  | 459 |
+| **[real-time-fund](https://github.com/hzm0321/real-time-fund)** | 基金实时估值查看 | JavaScript |  |  | 455 |
+| **[claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** | Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel. | Rust |  |  | 421 |
 
