@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-02-06
+Last update: 2026-02-07
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-02-06
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[nanobot](https://github.com/HKUDS/nanobot)** | "🐈 nanobot: The Ultra-Lightweight Clawdbot" | Python |  |  | 9345 |
-| **[nanoclaw](https://github.com/gavrielc/nanoclaw)** | My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. | TypeScript |  |  | 5344 |
-| **[tirith](https://github.com/sheeki03/tirith)** | Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. | Rust |  | <details><summary>cli, ...</summary><p>cli, devtools, homograph-attack, rust, security, shell, supply-chain-security, terminal, unicode, url-security</p></details> | 1349 |
-| **[GLM-OCR](https://github.com/zai-org/GLM-OCR)** | GLM-OCR: Accurate ×  Fast × Comprehensive | Python |  | <details><summary>glm, ...</summary><p>glm, image2text, ocr</p></details> | 600 |
-| **[Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)** | Fast, Sharp & Reliable Agentic Intelligence | C++ |  |  | 596 |
-| **[OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)** | OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关 | Shell |  |  | 539 |
-| **[ClawRouter](https://github.com/BlockRunAI/ClawRouter)** | Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments. | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, anthropic, cost-optimization, crypto, deepseek, gemini, llm, llm-router, micropayments, openai, openclaw, smart-routing, usdc, x402</p></details> | 517 |
-| **[MAHORAGA](https://github.com/ygwyg/MAHORAGA)** | autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts | TypeScript |  |  | 459 |
-| **[real-time-fund](https://github.com/hzm0321/real-time-fund)** | 基金实时估值查看 | JavaScript |  |  | 455 |
-| **[claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** | Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel. | Rust |  |  | 421 |
-| **[pro-workflow](https://github.com/rohitg00/pro-workflow)** | Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio. | JavaScript |  |  | 387 |
-| **[VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill)** | This skill helps Claude write secure code and prevent common vulnerabilities. |  |  |  | 353 |
-| **[BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director)** | BigBanana AI Director是一个 AI 一站式短剧/漫剧平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。 | TypeScript |  | <details><summary>ai-co...</summary><p>ai-comic-drama, ai-short-drama, ai-video</p></details> | 335 |
-| **[ace-step-ui](https://github.com/fspecii/ace-step-ui)** | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! | JavaScript |  | <details><summary>ace-s...</summary><p>ace-step, ai, ai-music, local-first, music, music-generation, open-source, react, suno-alternative, typescript</p></details> | 318 |
-| **[CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild)** | Codex Desktop App - Cross-platform Rebuild | JavaScript |  |  | 294 |
-| **[skills-npm](https://github.com/antfu/skills-npm)** | Install agent skills from npm | TypeScript |  |  | 285 |
-| **[openclaw-mini](https://github.com/voocel/openclaw-mini)** | 🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制 | TypeScript |  | <details><summary>agent...</summary><p>agent, ai, clawdbot, openclaw</p></details> | 284 |
-| **[code-review-expert](https://github.com/sanyuan0704/code-review-expert)** | Expert code review skill: SOLID, security, performance, error handling, boundary conditions |  |  |  | 266 |
-| **[xw-cli](https://github.com/TsingmaoAI/xw-cli)** | 实现国产算力大模型零门槛部署，一键跑通 Qwen、GLM-4.7、Minimax-2.1、DeepSeek-OCR 等模型 | Go |  |  | 264 |
-| **[Net-Bar](https://github.com/iad1tya/Net-Bar)** | More than a network speed monitor - a lightweight, beautifully designed macOS menu bar app to track your network, battery, memory, storage, and processor performance in one place. | Swift |  | <details><summary>batte...</summary><p>battery, free, macos, memory, netspeed-monitor, processor, temprature, trafficmonitor</p></details> | 262 |
+| **[nanobot](https://github.com/HKUDS/nanobot)** | "🐈 nanobot: The Ultra-Lightweight Clawdbot" | Python |  |  | 11184 |
+| **[tirith](https://github.com/sheeki03/tirith)** | Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. | Rust |  | <details><summary>cli, ...</summary><p>cli, devtools, homograph-attack, rust, security, shell, supply-chain-security, terminal, unicode, url-security</p></details> | 1479 |
+| **[claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)** | Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel. | Rust |  |  | 1186 |
+| **[ClawRouter](https://github.com/BlockRunAI/ClawRouter)** | Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments. | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, anthropic, cost-optimization, crypto, deepseek, gemini, llm, llm-router, micropayments, openai, openclaw, smart-routing, usdc, x402</p></details> | 1102 |
+| **[OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)** | OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关 | Shell |  |  | 940 |
+| **[GLM-OCR](https://github.com/zai-org/GLM-OCR)** | GLM-OCR: Accurate ×  Fast × Comprehensive | Python |  | <details><summary>glm, ...</summary><p>glm, image2text, ocr</p></details> | 670 |
+| **[excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app)** | Excalidraw MCP App Server — hand-drawn diagrams for Claude | TypeScript |  |  | 557 |
+| **[clash-master](https://github.com/foru17/clash-master)** | A modern and elegant dashboard for visualizing and managing Clash network traffic. | TypeScript |  | <details><summary>clash...</summary><p>clash, openclash, traffic-monitor</p></details> | 520 |
+| **[pro-workflow](https://github.com/rohitg00/pro-workflow)** | Battle-tested Claude Code workflows from power users. Self-correcting memory, parallel worktrees, wrap-up rituals, and the 80/20 AI coding ratio. | JavaScript |  |  | 514 |
+| **[MAHORAGA](https://github.com/ygwyg/MAHORAGA)** | autonomous trading agent powered by social sentiment analysis and ai that learns, grows, and adapts | TypeScript |  |  | 465 |
+| **[paqctl](https://github.com/SamNet-dev/paqctl)** | Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation | Shell |  | <details><summary>china...</summary><p>china, firewall-bypass, gfw, gfw-breaker, iran, proxy, raw-socket, socks5, socks5-proxy, tunnel, vpn, windows</p></details> | 459 |
+| **[EpsteIn](https://github.com/cfinke/EpsteIn)** | See which of your LinkedIn connections appear in the Epstein files. | Python |  |  | 402 |
+| **[VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill)** | This skill helps Claude write secure code and prevent common vulnerabilities. |  |  |  | 379 |
+| **[ace-step-ui](https://github.com/fspecii/ace-step-ui)** | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! | JavaScript |  | <details><summary>ace-s...</summary><p>ace-step, ai, ai-music, local-first, music, music-generation, open-source, react, suno-alternative, typescript</p></details> | 375 |
+| **[CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild)** | Codex Desktop App - Cross-platform Rebuild | JavaScript |  |  | 349 |
+| **[code-review-expert](https://github.com/sanyuan0704/code-review-expert)** | Expert code review skill: SOLID, security, performance, error handling, boundary conditions |  |  |  | 329 |
+| **[rememory](https://github.com/eljojo/rememory)** | have a plan for the worst-case scenario | Go |  | <details><summary>age-e...</summary><p>age-encryption, shamir-secret-sharing</p></details> | 313 |
+| **[voxtral.c](https://github.com/antirez/voxtral.c)** | Pure C inference of Mistral Voxtral Realtime 4B speech to text model | C |  |  | 301 |
+| **[xikipedia](https://github.com/rebane2001/xikipedia)** | Wikipedia as a social media feed | HTML |  |  | 300 |
+| **[openclaw-mini](https://github.com/voocel/openclaw-mini)** | 🦞 OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机制 | TypeScript |  | <details><summary>agent...</summary><p>agent, ai, clawdbot, openclaw</p></details> | 295 |
 
