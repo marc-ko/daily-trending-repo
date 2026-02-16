@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-02-15
+Last update: 2026-02-16
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-02-15
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[peon-ping](https://github.com/PeonPing/peon-ping)** | Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal. | Shell |  | <details><summary>ai, a...</summary><p>ai, ai-engineering, antigravity, claude-code, codex, cursor, opencode, terminal</p></details> | 2043 |
-| **[k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** | automatically verify your age on discord, twitch, kick, quora and more (k-id) | TypeScript |  |  | 1501 |
-| **[tinyclaw](https://github.com/jlia0/tinyclaw)** | TinyClaw is a team of personal agents that collaborate with each other | TypeScript |  |  | 1406 |
-| **[zeroclaw](https://github.com/theonlyhennygod/zeroclaw)** | claw done right 🦀 | Rust |  |  | 1289 |
-| **[discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** | A verified tool that works on any potato computer that will let you bypass discord verification | HTML |  |  | 1088 |
-| **[greenlight](https://github.com/RevylAI/greenlight)** | Pre-submission compliance scanner for the Apple App Store | Go |  |  | 813 |
-| **[GLM-5](https://github.com/zai-org/GLM-5)** | GLM-5: From Vibe Coding to Agentic Engineering |  |  | <details><summary>agent...</summary><p>agentic-ai, coding, glm, llm</p></details> | 797 |
-| **[sql-tap](https://github.com/mickamy/sql-tap)** | Watch SQL traffic in real-time with a TUI | Go |  |  | 591 |
-| **[devops-interviews](https://github.com/devops-interviews/devops-interviews)** | DevOps Interview Questions |  |  |  | 489 |
-| **[claw-compactor](https://github.com/aeromomo/claw-compactor)** | 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques. | Python |  |  | 460 |
-| **[FastCode](https://github.com/HKUDS/FastCode)** | FastCode: Accelerating and Streamlining Your Code Understanding | Python |  |  | 433 |
-| **[openclaw-wechat](https://github.com/freestylefly/openclaw-wechat)** | 让 OpenClaw稳定的连上你的个人微信 | TypeScript |  |  | 428 |
-| **[ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** | 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI | TypeScript |  |  | 423 |
-| **[Agmente](https://github.com/rebornix/Agmente)** | iOS client for coding agents via ACP | Swift |  |  | 409 |
-| **[memsearch](https://github.com/zilliztech/memsearch)** | A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw. | Python |  | <details><summary>agent...</summary><p>agent, agent-memory, claude-code, claude-code-plugin, clawdbot, embeddings, memory, milvus, openclaw, progressive-disclosure, rag, semantic-search</p></details> | 389 |
-| **[moyin-creator](https://github.com/MemeCalculate/moyin-creator)** | AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support | TypeScript |  |  | 342 |
-| **[Claude-Code-Guide-Zh](https://github.com/KimYx0207/Claude-Code-Guide-Zh)** | 老金版ClaudeCode初学者教程 |  |  |  | 336 |
-| **[RynnBrain](https://github.com/alibaba-damo-academy/RynnBrain)** | RynnBrain: Open Embodied Foundation Models | Jupyter Notebook |  |  | 297 |
-| **[FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit)** |  | Python |  |  | 289 |
-| **[model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)** | OpenClaw skill for cost-optimized model routing based on task complexity | Python |  |  | 272 |
+| **[zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** | claw done right 🦀 | Rust |  |  | 4244 |
+| **[k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier)** | automatically verify your age on discord, twitch, kick, quora and more (k-id) | TypeScript |  |  | 1544 |
+| **[discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)** | A verified tool that works on any potato computer that will let you bypass discord verification | HTML |  |  | 1131 |
+| **[greenlight](https://github.com/RevylAI/greenlight)** | Pre-submission compliance scanner for the Apple App Store | Go |  |  | 970 |
+| **[vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** | VSCode theme based off the new Jetbrains islands theme  | PowerShell |  | <details><summary>jetbr...</summary><p>jetbrains, visual-studio-code, vscode, vscode-theme</p></details> | 925 |
+| **[sql-tap](https://github.com/mickamy/sql-tap)** | Watch SQL traffic in real-time with a TUI | Go |  |  | 743 |
+| **[FastCode](https://github.com/HKUDS/FastCode)** | FastCode: Accelerating and Streamlining Your Code Understanding | Python |  |  | 669 |
+| **[ai-daily-digest](https://github.com/vigorX777/ai-daily-digest)** | 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI | TypeScript |  |  | 663 |
+| **[devops-interviews](https://github.com/devops-interviews/devops-interviews)** | DevOps Interview Questions |  |  |  | 568 |
+| **[openclaw-wechat](https://github.com/freestylefly/openclaw-wechat)** | 让 OpenClaw稳定的连上你的个人微信 | TypeScript |  |  | 557 |
+| **[claw-compactor](https://github.com/aeromomo/claw-compactor)** | 🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques. | Python |  |  | 547 |
+| **[awesome-software-design](https://github.com/QDenka/awesome-software-design)** | Organizing and structuring software through patterns, decisions, and verified design rules |  |  | <details><summary>adr, ...</summary><p>adr, awesome, awesome-list, ddd, design-patterns, golang, php, software-architecture, software-design, system-design</p></details> | 502 |
+| **[Claude-Code-Guide-Zh](https://github.com/KimYx0207/Claude-Code-Guide-Zh)** | 老金版ClaudeCode初学者教程 |  |  |  | 423 |
+| **[Agmente](https://github.com/rebornix/Agmente)** | iOS client for coding agents via ACP | Swift |  |  | 413 |
+| **[skill-compose](https://github.com/MooseGoose0701/skill-compose)** | Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI. | Python |  |  | 355 |
+| **[FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit)** |  | Python |  |  | 336 |
+| **[open-japan-politech-platform](https://github.com/ochyai/open-japan-politech-platform)** | 政党・企業によらない政治のデジタル化オープンソース基盤  | TypeScript |  |  | 325 |
+| **[model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)** | OpenClaw skill for cost-optimized model routing based on task complexity | Python |  |  | 298 |
+| **[qwen-asr](https://github.com/antirez/qwen-asr)** | C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models | C |  |  | 290 |
+| **[openclaw-runbook](https://github.com/digitalknk/openclaw-runbook)** |  |  |  |  | 288 |
 
