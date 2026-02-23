@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-02-22
+Last update: 2026-02-23
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-02-22
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[visual-explainer](https://github.com/nicobailon/visual-explainer)** | Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps | HTML |  |  | 2222 |
-| **[nullclaw](https://github.com/nullclaw/nullclaw)** | Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig | Zig |  | <details><summary>ai, a...</summary><p>ai, assistant, personal, zig</p></details> | 1541 |
-| **[BarraCUDA](https://github.com/Zaneham/BarraCUDA)** | Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code. | C |  | <details><summary>c99, ...</summary><p>c99, compiler, cuda, gpu, ml</p></details> | 1265 |
-| **[OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** |  | Python |  |  | 807 |
-| **[ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook)** | All the links, books, and creators you need to follow to stay up to date with AI! |  |  |  | 777 |
-| **[picolm](https://github.com/RightNow-AI/picolm)** | Run a 1-billion parameter LLM on a $10 board with 256MB RAM | C |  | <details><summary>arm, ...</summary><p>arm, embedded, inference, llm, openclaw, picoclaw, quantization, raspberry-pi, risc-v</p></details> | 538 |
-| **[Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** | Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. | TypeScript |  | <details><summary>polym...</summary><p>polymarket, polymarket-15min-trading-bot, polymarket-arbitrage-trading, polymarket-arbitrage-trading-bot, polymarket-scraping</p></details> | 529 |
-| **[zclaw](https://github.com/tnm/zclaw)** | Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. | C |  |  | 420 |
-| **[Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** |  | Python |  |  | 415 |
-| **[ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)** | AI agent that applies to jobs for you. Any site. Any form. | Python |  |  | 317 |
-| **[detectflow-main](https://github.com/socprime/detectflow-main)** | Detection intelligence turbocharged with Al. |  |  | detectflow | 305 |
-| **[Hacker-News](https://github.com/IronsideXXVI/Hacker-News)** | A native macOS client for Hacker News, built with SwiftUI | Swift |  | <details><summary>hacke...</summary><p>hacker-news, macos, swift, swiftui</p></details> | 304 |
-| **[OpenAlice](https://github.com/TraderAlice/OpenAlice)** | File-driven AI trading agent engine for crypto and securities markets | TypeScript |  |  | 299 |
-| **[engram](https://github.com/Gentleman-Programming/engram)** | Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. | Go |  |  | 291 |
-| **[Crash-Frontend](https://github.com/angel10x/Crash-Frontend)** | About Crash game - frontend | TypeScript |  |  | 288 |
-| **[evmbench](https://github.com/paradigmxyz/evmbench)** | A benchmark and harness for finding and exploiting smart contract bugs | TypeScript |  | <details><summary>agent...</summary><p>agents, ai, audit, blockchain, blockchain-technology, eth, ethereum, evm, security, solidity, testing, ui</p></details> | 274 |
-| **[room](https://github.com/quoroom-ai/room)** | Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet. | TypeScript |  | <details><summary>ai, a...</summary><p>ai, automaton, claude, claudecode, linux, llm, macos, openclaw, windows</p></details> | 269 |
-| **[litter](https://github.com/dnakov/litter)** |  | Kotlin |  |  | 264 |
-| **[visual-json](https://github.com/vercel-labs/visual-json)** | The Visual JSON Editor. Schema-aware, embeddable, extensible. | TypeScript |  |  | 251 |
-| **[wave-field-llm](https://github.com/badaramoni/wave-field-llm)** | An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality. | Python |  |  | 244 |
+| **[OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** |  | Python |  |  | 1059 |
+| **[picolm](https://github.com/RightNow-AI/picolm)** | Run a 1-billion parameter LLM on a $10 board with 256MB RAM | C |  | <details><summary>arm, ...</summary><p>arm, embedded, inference, llm, openclaw, picoclaw, quantization, raspberry-pi, risc-v</p></details> | 668 |
+| **[Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** |  | Python |  |  | 659 |
+| **[Polymarket-rsi-macd-index-trading-bot](https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot)** | Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket | TypeScript |  | <details><summary>polym...</summary><p>polymarket, polymarket-15min-trading-bot, polymarket-arbitrage-trading, polymarket-arbitrage-trading-bot, polymarket-scraping</p></details> | 599 |
+| **[taste-skill](https://github.com/Leonxlnx/taste-skill)** | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |  |  | <details><summary>agent...</summary><p>agent, ai, coding, lowcode, nocode, skill, skills, vibecoding</p></details> | 584 |
+| **[apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)** | reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid | Python |  | <details><summary>accel...</summary><p>accelerometer, apple, applespu, gyroscope, hid, iokit, m2, m3, m4, macbook, macos, mems, research, sensor, spu</p></details> | 495 |
+| **[OpenAlice](https://github.com/TraderAlice/OpenAlice)** | File-driven AI trading agent engine for crypto and securities markets | TypeScript |  |  | 446 |
+| **[ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)** | AI agent that applies to jobs for you. Any site. Any form. | Python |  |  | 362 |
+| **[visual-json](https://github.com/vercel-labs/visual-json)** | The Visual JSON Editor. Schema-aware, embeddable, extensible. | TypeScript |  |  | 352 |
+| **[litter](https://github.com/dnakov/litter)** |  | Kotlin |  |  | 349 |
+| **[detectflow-main](https://github.com/socprime/detectflow-main)** | Detection intelligence turbocharged with Al. |  |  | detectflow | 333 |
+| **[value-realization](https://github.com/Done-0/value-realization)** | Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns. |  |  |  | 310 |
+| **[room](https://github.com/quoroom-ai/room)** | Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet. | TypeScript |  | <details><summary>ai, a...</summary><p>ai, automaton, claude, claudecode, linux, llm, macos, openclaw, windows</p></details> | 307 |
+| **[wave-field-llm](https://github.com/badaramoni/wave-field-llm)** | An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality. | Python |  |  | 302 |
+| **[Crash-Frontend](https://github.com/angel10x/Crash-Frontend)** | About Crash game - frontend | TypeScript |  |  | 302 |
+| **[ntransformer](https://github.com/xaskasdf/ntransformer)** | High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090. | C++ |  |  | 301 |
+| **[evmbench](https://github.com/paradigmxyz/evmbench)** | A benchmark and harness for finding and exploiting smart contract bugs | TypeScript |  | <details><summary>agent...</summary><p>agents, ai, audit, blockchain, blockchain-technology, eth, ethereum, evm, security, solidity, testing, ui</p></details> | 287 |
+| **[garment-notation](https://github.com/khalildh/garment-notation)** |  | JavaScript |  |  | 284 |
+| **[claude-review-loop](https://github.com/hamelsmu/claude-review-loop)** | Claude Code plugin: automated code review loop with Codex | Shell |  |  | 281 |
+| **[Kalshi-Claw](https://github.com/Kirubel125/Kalshi-Claw)** |  | TypeScript |  | <details><summary>ai-tr...</summary><p>ai-trading, clob-market-maker-bot, hyperliquid, kalshi, kalshi-api, kalshi-claw, liquidity-provider, openclaw, openclaw-kalshi, openclaw-skills, openclaw-trading, polymarket-api, polymarket-arbitrage-trading, polymarket-arbitrage-trading-bot, portfolio-optimization, prediction-market, prediction-markets, pumpswap, risk-management, x402</p></details> | 276 |
 
