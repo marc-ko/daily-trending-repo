@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-02-26
+Last update: 2026-02-27
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-02-26
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[vinext](https://github.com/cloudflare/vinext)** | Vite plugin that reimplements the Next.js API surface — deploy anywhere | TypeScript |  |  | 3171 |
-| **[OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)** |  | Python |  |  | 1321 |
-| **[financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** |  | Python |  |  | 1202 |
-| **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python |  | <details><summary>agent...</summary><p>agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript</p></details> | 1057 |
-| **[polymarket-cli](https://github.com/Polymarket/polymarket-cli)** |  | Rust |  |  | 1011 |
-| **[dataclaw](https://github.com/peteromallet/dataclaw)** |  | Python |  |  | 946 |
-| **[clawfeed](https://github.com/kevinho/clawfeed)** | ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard | HTML |  |  | 744 |
-| **[Kalshi-Polymarket-Ai-bot](https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot)** |  | Python |  |  | 545 |
-| **[visual-json](https://github.com/vercel-labs/visual-json)** | The Visual JSON Editor. Schema-aware, embeddable, extensible. | TypeScript |  |  | 525 |
-| **[aetherviz-master](https://github.com/andyhuo520/aetherviz-master)** | AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页 |  |  |  | 492 |
-| **[claude-review-loop](https://github.com/hamelsmu/claude-review-loop)** | Claude Code plugin: automated code review loop with Codex | Shell |  |  | 478 |
-| **[litter](https://github.com/dnakov/litter)** |  | Kotlin |  |  | 472 |
-| **[vibe-local](https://github.com/ochyai/vibe-local)** | Free AI coding environment: Ollama + Python | Python |  |  | 472 |
-| **[x-reader](https://github.com/runesleo/x-reader)** | Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS) | Python |  |  | 450 |
-| **[x86CSS](https://github.com/rebane2001/x86CSS)** | x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required. | HTML |  | <details><summary>css, ...</summary><p>css, x86-emulator</p></details> | 441 |
-| **[better-hub](https://github.com/better-auth/better-hub)** | Re-imagining code collaboration for humans and agents | TypeScript |  |  | 420 |
-| **[tenacitOS](https://github.com/carlosazaustre/tenacitOS)** | OpenClaw Mission Control Dashboard | TypeScript |  |  | 379 |
-| **[memory-lancedb-pro](https://github.com/win4r/memory-lancedb-pro)** | Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI | TypeScript |  | <details><summary>lance...</summary><p>lancedb, memory, openclaw, openclaw-agent, openclaw-plugin, rag</p></details> | 370 |
-| **[free-coding-models](https://github.com/vava-nessa/free-coding-models)** | Find the fastest coding LLM models in seconds | JavaScript |  | <details><summary>ai, d...</summary><p>ai, deepseek, free, free-ai, freeai, gpt, gptoss, kimi, nim, nvidia, nvidia-nim, nvidia-nim-api, nvidia-nims, openclaw, opencode</p></details> | 363 |
-| **[enveil](https://github.com/GreatScott/enveil)** | ENVeil: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext. | Rust |  |  | 350 |
+| **[vinext](https://github.com/cloudflare/vinext)** | Vite plugin that reimplements the Next.js API surface — deploy anywhere | TypeScript |  |  | 4000 |
+| **[financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** |  | Python |  |  | 2756 |
+| **[openfang](https://github.com/RightNow-AI/openfang)** | Open-source Agent Operating System | Rust |  | <details><summary>agent...</summary><p>agent-framework, ai-agents, llm, mcp, open-source, openclaw, operating-system, rust</p></details> | 2171 |
+| **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python |  | <details><summary>agent...</summary><p>agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript</p></details> | 1929 |
+| **[dataclaw](https://github.com/peteromallet/dataclaw)** |  | Python |  |  | 1344 |
+| **[polymarket-cli](https://github.com/Polymarket/polymarket-cli)** |  | Rust |  |  | 1215 |
+| **[clawfeed](https://github.com/kevinho/clawfeed)** | ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard | HTML |  |  | 976 |
+| **[skills-best-practices](https://github.com/mgechev/skills-best-practices)** | Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window. |  |  |  | 640 |
+| **[aetherviz-master](https://github.com/andyhuo520/aetherviz-master)** | AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页 |  |  |  | 633 |
+| **[x86CSS](https://github.com/rebane2001/x86CSS)** | x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required. | HTML |  | <details><summary>css, ...</summary><p>css, x86-emulator</p></details> | 583 |
+| **[python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)** | Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework | Python |  |  | 581 |
+| **[visual-json](https://github.com/vercel-labs/visual-json)** | The Visual JSON Editor. Schema-aware, embeddable, extensible. | TypeScript |  |  | 559 |
+| **[x-reader](https://github.com/runesleo/x-reader)** | Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS) | Python |  |  | 540 |
+| **[memory-lancedb-pro](https://github.com/win4r/memory-lancedb-pro)** | Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI | TypeScript |  | <details><summary>lance...</summary><p>lancedb, memory, openclaw, openclaw-agent, openclaw-plugin, rag</p></details> | 506 |
+| **[vibe-local](https://github.com/ochyai/vibe-local)** | Free AI coding environment: Ollama + Python | Python |  |  | 506 |
+| **[claude-review-loop](https://github.com/hamelsmu/claude-review-loop)** | Claude Code plugin: automated code review loop with Codex | Shell |  |  | 487 |
+| **[litter](https://github.com/dnakov/litter)** |  | Kotlin |  |  | 484 |
+| **[super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)** |  | Swift |  |  | 448 |
+| **[tenacitOS](https://github.com/carlosazaustre/tenacitOS)** | OpenClaw Mission Control Dashboard | TypeScript |  |  | 436 |
+| **[enject](https://github.com/GreatScott/enject)** | enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext. | Rust |  |  | 381 |
 
