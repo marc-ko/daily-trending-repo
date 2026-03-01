@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-02-28
+Last update: 2026-03-01
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-02-28
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[vinext](https://github.com/cloudflare/vinext)** | Vite plugin that reimplements the Next.js API surface — deploy anywhere | TypeScript |  |  | 4477 |
-| **[financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** |  | Python |  |  | 4251 |
-| **[openfang](https://github.com/RightNow-AI/openfang)** | Open-source Agent Operating System | Rust |  | <details><summary>agent...</summary><p>agent-framework, ai-agents, llm, mcp, open-source, openclaw, operating-system, rust</p></details> | 4027 |
-| **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python |  | <details><summary>agent...</summary><p>agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript</p></details> | 2403 |
-| **[dataclaw](https://github.com/peteromallet/dataclaw)** |  | Python |  |  | 1469 |
-| **[polymarket-cli](https://github.com/Polymarket/polymarket-cli)** |  | Rust |  |  | 1268 |
-| **[skills-best-practices](https://github.com/mgechev/skills-best-practices)** | Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window. |  |  |  | 828 |
-| **[aetherviz-master](https://github.com/andyhuo520/aetherviz-master)** | AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页 |  |  |  | 701 |
-| **[python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)** | Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework | Python |  |  | 677 |
-| **[x86CSS](https://github.com/rebane2001/x86CSS)** | x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required. | HTML |  | <details><summary>css, ...</summary><p>css, x86-emulator</p></details> | 633 |
-| **[memory-lancedb-pro](https://github.com/win4r/memory-lancedb-pro)** | Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI | TypeScript |  | <details><summary>lance...</summary><p>lancedb, memory, openclaw, openclaw-agent, openclaw-plugin, rag</p></details> | 620 |
-| **[x-reader](https://github.com/runesleo/x-reader)** | Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS) | Python |  |  | 603 |
-| **[super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)** |  | Swift |  |  | 573 |
-| **[MedgeClaw](https://github.com/xjtulyc/MedgeClaw)** | Medge AI X OpenClaw | HTML |  |  | 529 |
-| **[vibe-local](https://github.com/ochyai/vibe-local)** | Free AI coding environment: Ollama + Python | Python |  |  | 521 |
-| **[opennews-mcp](https://github.com/6551Team/opennews-mcp)** | Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates | Python |  |  | 500 |
-| **[python-ws](https://github.com/eooce/python-ws)** | build vless / trojan /shadowsocks  proxies on python server,no need core | Python |  | <details><summary>proxy...</summary><p>proxy, serverless, shadowsocks, trojan, vless, websocks</p></details> | 473 |
-| **[clihub](https://github.com/thellimist/clihub)** |  | Go |  |  | 416 |
-| **[PersonalStyleAI-Framework-](https://github.com/whyzhow/PersonalStyleAI-Framework-)** | Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA). | Python |  | <details><summary>ai, g...</summary><p>ai, google, ml, openai, python</p></details> | 406 |
-| **[enject](https://github.com/GreatScott/enject)** | enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext. | Rust |  |  | 395 |
+| **[openfang](https://github.com/RightNow-AI/openfang)** | Open-source Agent Operating System | Rust |  | <details><summary>agent...</summary><p>agent-framework, ai-agents, llm, mcp, open-source, openclaw, operating-system, rust</p></details> | 5878 |
+| **[financial-services-plugins](https://github.com/anthropics/financial-services-plugins)** |  | Python |  |  | 4920 |
+| **[vinext](https://github.com/cloudflare/vinext)** | Vite plugin that reimplements the Next.js API surface — deploy anywhere | TypeScript |  |  | 4730 |
+| **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python |  | <details><summary>agent...</summary><p>agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript</p></details> | 3102 |
+| **[CoPaw](https://github.com/agentscope-ai/CoPaw)** | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. | Python |  |  | 2255 |
+| **[dataclaw](https://github.com/peteromallet/dataclaw)** |  | Python |  |  | 1625 |
+| **[polymarket-cli](https://github.com/Polymarket/polymarket-cli)** |  | Rust |  |  | 1351 |
+| **[skills-best-practices](https://github.com/mgechev/skills-best-practices)** | Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window. |  |  |  | 896 |
+| **[spank](https://github.com/taigrr/spank)** | Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. | Go |  | <details><summary>accel...</summary><p>accelerometer, apple-silicon, fun, go, iokit, macos</p></details> | 787 |
+| **[python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)** | Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework | Python |  |  | 733 |
+| **[memory-lancedb-pro](https://github.com/win4r/memory-lancedb-pro)** | Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI | TypeScript |  | <details><summary>lance...</summary><p>lancedb, memory, openclaw, openclaw-agent, openclaw-plugin, rag</p></details> | 699 |
+| **[x86CSS](https://github.com/rebane2001/x86CSS)** | x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required. | HTML |  | <details><summary>css, ...</summary><p>css, x86-emulator</p></details> | 658 |
+| **[super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)** |  | Swift |  |  | 651 |
+| **[vphone-cli](https://github.com/Lakr233/vphone-cli)** |  | Python |  |  | 649 |
+| **[wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** | WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor | Python |  |  | 648 |
+| **[contextplus](https://github.com/ForLoopCodes/contextplus)** | Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph. | TypeScript |  | mcp-server | 641 |
+| **[MedgeClaw](https://github.com/xjtulyc/MedgeClaw)** | Medge AI X OpenClaw | HTML |  |  | 591 |
+| **[opennews-mcp](https://github.com/6551Team/opennews-mcp)** | Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates | Python |  |  | 550 |
+| **[claude-context-mode](https://github.com/mksglu/claude-context-mode)** | Stop losing context to large outputs. | JavaScript |  | <details><summary>claud...</summary><p>claude, claude-code, claude-code-plugins, mcp, skills</p></details> | 525 |
+| **[best-prompts](https://github.com/xstongxue/best-prompts)** | 通用高质量 Prompt 合集🔥 |  |  |  | 487 |
 
