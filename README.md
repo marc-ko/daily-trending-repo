@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-03-02
+Last update: 2026-03-03
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-03-02
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[openfang](https://github.com/RightNow-AI/openfang)** | Open-source Agent Operating System | Rust |  | <details><summary>agent...</summary><p>agent-framework, ai-agents, llm, mcp, open-source, openclaw, operating-system, rust</p></details> | 7833 |
-| **[vinext](https://github.com/cloudflare/vinext)** | Vite plugin that reimplements the Next.js API surface — deploy anywhere | TypeScript |  |  | 4970 |
-| **[CoPaw](https://github.com/agentscope-ai/CoPaw)** | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. | Python |  |  | 3712 |
-| **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python |  | <details><summary>agent...</summary><p>agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript</p></details> | 3524 |
-| **[dataclaw](https://github.com/peteromallet/dataclaw)** |  | Python |  |  | 1713 |
-| **[vphone-cli](https://github.com/Lakr233/vphone-cli)** |  | Python |  |  | 1713 |
-| **[polymarket-cli](https://github.com/Polymarket/polymarket-cli)** |  | Rust |  |  | 1414 |
-| **[contextplus](https://github.com/ForLoopCodes/contextplus)** | Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph. | TypeScript |  | mcp-server | 1087 |
-| **[wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** | WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor | Python |  |  | 1003 |
-| **[skills-best-practices](https://github.com/mgechev/skills-best-practices)** | Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window. |  |  |  | 942 |
-| **[Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI)** | A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only. | HTML |  | <details><summary>agent...</summary><p>agent-collaboration, ai-assistant, dashboard, flask, mobile-friendly, multi-agent, openclaw, phaser, pixel-art, status-visiualzation</p></details> | 875 |
-| **[br-acc](https://github.com/World-Open-Graph/br-acc)** | World Transparency Graph public codebase (🚧 website in progress) | Python |  |  | 805 |
-| **[memory-lancedb-pro](https://github.com/win4r/memory-lancedb-pro)** | Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI | TypeScript |  | <details><summary>lance...</summary><p>lancedb, memory, openclaw, openclaw-agent, openclaw-plugin, rag</p></details> | 776 |
-| **[python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)** | Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework | Python |  |  | 761 |
-| **[super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)** |  | Swift |  |  | 734 |
-| **[x86CSS](https://github.com/rebane2001/x86CSS)** | x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required. | HTML |  | <details><summary>css, ...</summary><p>css, x86-emulator</p></details> | 676 |
-| **[MedgeClaw](https://github.com/xjtulyc/MedgeClaw)** | Medge AI X OpenClaw | HTML |  |  | 643 |
-| **[opennews-mcp](https://github.com/6551Team/opennews-mcp)** | Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates | Python |  |  | 578 |
-| **[best-prompts](https://github.com/xstongxue/best-prompts)** | 通用高质量 Prompt 合集🔥 |  |  |  | 507 |
-| **[OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)** | OpenClaw-RL: Personalize openclaw simply by talking to it | TypeScript |  | <details><summary>async...</summary><p>async, grpo, memory-systems, on-policy-distillation, open-claw, openclaw-skills, rlhf, sglang, skill-learning, slime</p></details> | 468 |
+| **[vphone-cli](https://github.com/Lakr233/vphone-cli)** |  | Python |  |  | 2700 |
+| **[ANE](https://github.com/maderix/ANE)** | Training neural networks on Apple Neural Engine via reverse-engineered private APIs | Objective-C |  |  | 2461 |
+| **[Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI)** | A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only. | HTML |  | <details><summary>agent...</summary><p>agent-collaboration, ai-assistant, dashboard, flask, mobile-friendly, multi-agent, openclaw, phaser, pixel-art, status-visiualzation</p></details> | 1417 |
+| **[wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)** | WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor | Python |  |  | 1345 |
+| **[contextplus](https://github.com/ForLoopCodes/contextplus)** | Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph. | TypeScript |  | mcp-server | 1198 |
+| **[br-acc](https://github.com/World-Open-Graph/br-acc)** | World Transparency Graph public codebase (🚧 website in progress) | Python |  |  | 1069 |
+| **[MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)** | A certain block game | C++ |  |  | 992 |
+| **[python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)** | Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework | Python |  |  | 798 |
+| **[super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)** |  | Swift |  |  | 797 |
+| **[vphone-aio](https://github.com/34306/vphone-aio)** | 1 script run the vphone | Shell |  |  | 759 |
+| **[open-pencil](https://github.com/open-pencil/open-pencil)** | AI-native design editor. Open-source Figma alternative. | TypeScript |  |  | 617 |
+| **[opennews-mcp](https://github.com/6551Team/opennews-mcp)** | Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates | Python |  |  | 603 |
+| **[OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)** | OpenClaw-RL: Personalize openclaw simply by talking to it | TypeScript |  | <details><summary>async...</summary><p>async, grpo, memory-systems, on-policy-distillation, open-claw, openclaw-skills, rlhf, sglang, skill-learning, slime</p></details> | 599 |
+| **[best-prompts](https://github.com/xstongxue/best-prompts)** | 通用高质量 Prompt 合集🔥 |  |  |  | 553 |
+| **[openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills)** | 🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai | Python |  | <details><summary>agent...</summary><p>agentskills, ai-agent, curated, myclaw, openclaw, skill-collection, skills, weekly</p></details> | 460 |
+| **[timber](https://github.com/kossisoroyce/timber)** | Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference. | Python |  | <details><summary>c99, ...</summary><p>c99, catboost, compiler, decision-trees, gradient-boosting, inference, lightgbm, machine-learning, mlops, model-serving, ollama, onnx, sklearn, xgboost</p></details> | 451 |
+| **[trading-view-indicator-extension](https://github.com/sharonubsyq/trading-view-indicator-extension)** |  | Python |  |  | 414 |
+| **[Day1Global-Skills](https://github.com/star23/Day1Global-Skills)** | Day1Global Skills Share 美股和加密分析，生产力 Skills 分享 |  |  |  | 414 |
+| **[kibitz](https://github.com/kibitzsh/kibitz)** | Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently | TypeScript |  | <details><summary>claud...</summary><p>claude, claudecode, cli, codex, macos, vscode-extension, windows</p></details> | 398 |
+| **[extrateto](https://github.com/skottrun/extrateto)** | Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional | TypeScript |  |  | 383 |
 
