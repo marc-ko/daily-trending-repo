@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-03-12
+Last update: 2026-03-13
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-03-12
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[autoresearch](https://github.com/karpathy/autoresearch)** | AI agents running research on single-GPU nanochat training automatically | Python |  |  | 26523 |
-| **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** | CLI-Anything: Making ALL Software Agent-Native | Python |  |  | 5877 |
-| **[pua](https://github.com/tanweai/pua)** | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 | TypeScript |  |  | 3377 |
-| **[app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)** | end to end app store screenshot creation using AI |  |  | <details><summary>agent...</summary><p>agentic-ai, apple, appstore, automate, claude, cursor, design, generate, ios, ios-app, marketing, screenshot, skills, skills-sh, swift, swiftui, ui</p></details> | 1877 |
-| **[Uncodixfy](https://github.com/cyxzdev/Uncodixfy)** | the holly uncodexify instructions - letting GPT create uncodexified UI |  |  |  | 1420 |
-| **[OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills)** | The largest open-source medical AI skills library for OpenClaw🦞. | Python |  | <details><summary>aweso...</summary><p>awesome, claude-code, clawhub, medical, nanoclaw, openclaw, openclaw-skills, skills</p></details> | 1012 |
-| **[OpenClaw-PwnKit](https://github.com/imbue-bit/OpenClaw-PwnKit)** | Get shell to almost any OpenClaw host machine. | Python |  |  | 696 |
-| **[xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli)** | A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API | Python |  |  | 693 |
-| **[qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client)** | Reverse-engineered TypeScript client for QClaw's WeChat Access API. | TypeScript |  | <details><summary>agent...</summary><p>agent, openclaw, qclaw, wechat</p></details> | 641 |
-| **[mcp2cli](https://github.com/knowsuchagency/mcp2cli)** | Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen | Python |  |  | 629 |
-| **[openclaw-lark](https://github.com/larksuite/openclaw-lark)** | 飞书官方出品的 OpenClaw 飞书/Lark Channel 插件 | TypeScript |  |  | 574 |
-| **[freqtrade-bot](https://github.com/Kaleighc793/freqtrade-bot)** | Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface | Python |  | <details><summary>algor...</summary><p>algorithmic-trading, backtesting, botbinance, bybit-trading, ccxt, cryptoautomation, cryptobot, dry-run, freqai, freqtrade, futures-trading, machine-learning, okx-trading, open-source-trading, python-trading, spot-trading, telegrambot, trading-cryptobot, trading-strategy, webui</p></details> | 546 |
-| **[autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx)** | Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required. | Python |  |  | 541 |
-| **[gsd-2](https://github.com/gsd-build/gsd-2)** | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture | TypeScript |  | <details><summary>conte...</summary><p>context-engineering, meta-prompting, spec-driven-development</p></details> | 522 |
-| **[discrawl](https://github.com/steipete/discrawl)** | cli for discord with sqlite backend | Go |  |  | 497 |
-| **[symphony-ts](https://github.com/OasAIStudio/symphony-ts)** | Typecript version of https://github.com/openai/symphony | TypeScript |  |  | 445 |
-| **[OpenMOSS](https://github.com/uluckyXH/OpenMOSS)** | A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention. | Python |  |  | 431 |
-| **[tada](https://github.com/HumeAI/tada)** | Open Source Speech Language Model | Jupyter Notebook |  |  | 421 |
-| **[claude-statusline](https://github.com/kamranahmedse/claude-statusline)** | Minimal Claude Code statusline setup I personally use | Shell |  |  | 418 |
-| **[qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design)** | 一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词："Mondo风格"、"书籍封 | Python |  |  | 415 |
+| **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** | CLI-Anything: Making ALL Software Agent-Native | Python |  |  | 9303 |
+| **[pua](https://github.com/tanweai/pua)** | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high. | HTML |  | <details><summary>agenc...</summary><p>agency, agent, pua</p></details> | 5510 |
+| **[gstack](https://github.com/garrytan/gstack)** | Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer | TypeScript |  |  | 3021 |
+| **[app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)** | end to end app store screenshot creation using AI |  |  | <details><summary>agent...</summary><p>agentic-ai, apple, appstore, automate, claude, cursor, design, generate, ios, ios-app, marketing, screenshot, skills, skills-sh, swift, swiftui, ui</p></details> | 2214 |
+| **[OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills)** | The largest open-source medical AI skills library for OpenClaw🦞. | Python |  | <details><summary>aweso...</summary><p>awesome, claude-code, clawhub, medical, nanoclaw, openclaw, openclaw-skills, skills</p></details> | 1085 |
+| **[xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli)** | A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API | Python |  |  | 796 |
+| **[gsd-2](https://github.com/gsd-build/gsd-2)** | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture | TypeScript |  | <details><summary>conte...</summary><p>context-engineering, meta-prompting, spec-driven-development</p></details> | 791 |
+| **[openclaw-lark](https://github.com/larksuite/openclaw-lark)** | 飞书官方出品的 OpenClaw 飞书/Lark Channel 插件 | TypeScript |  |  | 768 |
+| **[MetaClaw](https://github.com/aiming-lab/MetaClaw)** | Just talk to your agent — it learns and EVOLVES. | Python |  | <details><summary>agent...</summary><p>agent, ai-agent, fine-tuning, llm, lora, metaclaw, online-learning, openai-compatible, openclaw, reinforcement-learning, skill-learning</p></details> | 717 |
+| **[qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client)** | Reverse-engineered TypeScript client for QClaw's WeChat Access API. | TypeScript |  | <details><summary>agent...</summary><p>agent, openclaw, qclaw, wechat</p></details> | 708 |
+| **[mcp2cli](https://github.com/knowsuchagency/mcp2cli)** | Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen | Python |  |  | 699 |
+| **[OpenClaw-PwnKit](https://github.com/imbue-bit/OpenClaw-PwnKit)** | Get shell to almost any OpenClaw host machine. | Python |  |  | 642 |
+| **[atlas-gic](https://github.com/chrisworsey55/atlas-gic)** | ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch |  |  |  | 642 |
+| **[remodex](https://github.com/Emanuele-web04/remodex)** | Remote Control for Codex. 24/7 version on the way | Swift |  |  | 609 |
+| **[autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx)** | Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required. | Python |  |  | 598 |
+| **[openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)** |  | TypeScript |  |  | 596 |
+| **[tada](https://github.com/HumeAI/tada)** | Open Source Speech Language Model | Jupyter Notebook |  |  | 584 |
+| **[freqtrade-bot](https://github.com/Kaleighc793/freqtrade-bot)** | Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface | Python |  | <details><summary>algor...</summary><p>algorithmic-trading, backtesting, botbinance, bybit-trading, ccxt, cryptoautomation, cryptobot, dry-run, freqai, freqtrade, futures-trading, machine-learning, okx-trading, open-source-trading, python-trading, spot-trading, telegrambot, trading-cryptobot, trading-strategy, webui</p></details> | 552 |
+| **[claude-statusline](https://github.com/kamranahmedse/claude-statusline)** | Minimal Claude Code statusline setup I personally use | Shell |  |  | 545 |
+| **[Dawn-Validator-BOT](https://github.com/Justi1980/Dawn-Validator-BOT)** | Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation | Python |  | <details><summary>autom...</summary><p>automation, bandwidth-validation, blockchain, chrome-extension, cli-tool, crypto, cryptobot, dawn-internet, dawn-validator, decentralized-internet, depin, educational, keep-alive, multi-threading, proxy-rotation, python, solana, testnet, token-management, validator-bot</p></details> | 537 |
 
