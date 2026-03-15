@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - March 14, 2026
+title: Latest 10 Trending Repositories - March 15, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: March 14, 2026
+### 📅 Date: March 15, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** | CLI-Anything: Making ALL Software Agent-Native | Python |  |  | 11978 |
-| **[pua](https://github.com/tanweai/pua)** | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high. | TypeScript |  | <details><summary>agenc...</summary><p>agency, agent, pua</p></details> | 6674 |
-| **[gstack](https://github.com/garrytan/gstack)** | Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer | TypeScript |  |  | 6600 |
-| **[pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)** | Autonomous experiment loop extension for pi | TypeScript |  |  | 1214 |
-| **[OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills)** | The largest open-source medical AI skills library for OpenClaw🦞. | Python |  | <details><summary>aweso...</summary><p>awesome, claude-code, clawhub, medical, nanoclaw, openclaw, openclaw-skills, skills</p></details> | 1127 |
-| **[openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)** |  | TypeScript |  |  | 1045 |
-| **[gsd-2](https://github.com/gsd-build/gsd-2)** | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture | TypeScript |  | <details><summary>conte...</summary><p>context-engineering, meta-prompting, spec-driven-development</p></details> | 1005 |
-| **[MetaClaw](https://github.com/aiming-lab/MetaClaw)** | Just talk to your agent — it learns and EVOLVES. | Python |  | <details><summary>agent...</summary><p>agent, ai-agent, continual-learning, fine-tuning, llm, lora, meta-learning, metaclaw, online-learning, openclaw, reinforcement-learning, skill-learning, tinker</p></details> | 994 |
-| **[xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli)** | A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API | Python |  |  | 934 |
-| **[PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system | C |  |  | 913 |
+| **[gstack](https://github.com/garrytan/gstack)** | Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer | TypeScript |  |  | 10973 |
+| **[pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)** | Autonomous experiment loop extension for pi | TypeScript |  |  | 1643 |
+| **[openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)** | Turn OpenClaw from a black box into a local control center you can see, trust, and control. | TypeScript |  |  | 1476 |
+| **[gsd-2](https://github.com/gsd-build/gsd-2)** | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture | TypeScript |  | <details><summary>conte...</summary><p>context-engineering, meta-prompting, spec-driven-development</p></details> | 1170 |
+| **[MetaClaw](https://github.com/aiming-lab/MetaClaw)** | Just talk to your agent — it learns and EVOLVES. | Python |  | <details><summary>agent...</summary><p>agent, ai-agent, continual-learning, fine-tuning, llm, lora, meta-learning, metaclaw, online-learning, openclaw, reinforcement-learning, skill-learning, tinker</p></details> | 1163 |
+| **[chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** | Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open | JavaScript |  |  | 1016 |
+| **[mcp2cli](https://github.com/knowsuchagency/mcp2cli)** | Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen | Python |  | <details><summary>ai, c...</summary><p>ai, cli, graphql, mcp, openapi</p></details> | 972 |
+| **[Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** | ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP | Python |  | <details><summary>ai-re...</summary><p>ai-research, ai-tools, aris, autonomous-agent, claude, claude-code, claude-code-skills, codex, deep-learning, gpt, idea-generation, llm, machine-learning, mcp, mcp-server, ml-research, openai, paper-review, paper-writing, research-automation</p></details> | 938 |
+| **[openclaw-lark](https://github.com/larksuite/openclaw-lark)** | 飞书官方出品的 OpenClaw 飞书/Lark Channel 插件 | TypeScript |  |  | 931 |
+| **[atlas-gic](https://github.com/chrisworsey55/atlas-gic)** | ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch |  |  |  | 784 |
 
