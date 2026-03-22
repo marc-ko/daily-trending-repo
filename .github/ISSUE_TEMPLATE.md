@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - March 21, 2026
+title: Latest 10 Trending Repositories - March 22, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: March 21, 2026
+### 📅 Date: March 22, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** | Run OpenClaw securely inside NVIDIA OpenShell with managed inference | JavaScript |  |  | 14383 |
-| **[AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 | Python |  | <details><summary>auton...</summary><p>autonomous-research, citation-verification, llm-agents, metaclaw, multi-agent-debate, openclaw, paper-generation, scientific-discovery, self-evolving</p></details> | 7146 |
-| **[Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)** |  |  |  |  | 2267 |
-| **[ClawTeam](https://github.com/HKUDS/ClawTeam)** | ClawTeam: Agent Swarm Intelligence (One Command → Full Automation) | Python |  |  | 2130 |
-| **[awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)** | A collection of 130+ specialized Codex subagents covering a wide range of development use cases. |  |  | <details><summary>ai-ag...</summary><p>ai-agents, awesome-list, chatgpt, codex, codex-skills, codex-subagents, subagents</p></details> | 1861 |
-| **[Understand-Anything](https://github.com/Lum1104/Understand-Anything)** | Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported). | TypeScript |  | <details><summary>claud...</summary><p>claude-code, claude-skills, codex, codex-skills, knowledge-graph, understandcode</p></details> | 1479 |
-| **[zeroboot](https://github.com/zerobootdev/zeroboot)** | Sub-millisecond VM sandboxes for AI agents via copy-on-write forking | Rust |  | <details><summary>ai-ag...</summary><p>ai-agents, code-execution, copy-on-write, firecracker, kvm, rust, sandbox, virtual-machine, vm</p></details> | 1441 |
-| **[codex-manager](https://github.com/cnlimiter/codex-manager)** |  | Python |  |  | 1250 |
-| **[OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel)** | For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it. | Rust |  |  | 1189 |
-| **[clui-cc](https://github.com/lcoutodemos/clui-cc)** | Clui CC — Command Line User Interface for Claude Code | TypeScript |  |  | 927 |
+| **[ClawTeam](https://github.com/HKUDS/ClawTeam)** | ClawTeam: Agent Swarm Intelligence (One Command → Full Automation) | Python |  |  | 2517 |
+| **[awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)** | A collection of 130+ specialized Codex subagents covering a wide range of development use cases. |  |  | <details><summary>ai-ag...</summary><p>ai-agents, awesome-list, chatgpt, codex, codex-skills, codex-subagents, subagents</p></details> | 1989 |
+| **[clui-cc](https://github.com/lcoutodemos/clui-cc)** | Clui CC — Command Line User Interface for Claude Code | TypeScript |  |  | 970 |
+| **[autoresearch-genealogy](https://github.com/mattprusak/autoresearch-genealogy)** | Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code. |  |  |  | 842 |
+| **[any-auto-register](https://github.com/lxf746/any-auto-register)** |  | Python |  |  | 831 |
+| **[OpenGauss](https://github.com/math-inc/OpenGauss)** |  | Python |  |  | 827 |
+| **[taiwan-md](https://github.com/frank890417/taiwan-md)** | 🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan | Astro |  |  | 700 |
+| **[app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)** | AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission |  |  |  | 639 |
+| **[DoesItAgeVerify](https://github.com/BryanLunduke/DoesItAgeVerify)** | The age verification status of Open Source Operating Systems |  |  |  | 627 |
+| **[ghostling](https://github.com/ghostty-org/ghostling)** | A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 | C |  |  | 601 |
 
