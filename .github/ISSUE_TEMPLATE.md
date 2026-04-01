@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - March 31, 2026
+title: Latest 10 Trending Repositories - April 01, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: March 31, 2026
+### 📅 Date: April 01, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[cli](https://github.com/larksuite/cli)** | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills. | Go |  |  | 4909 |
-| **[flipoff](https://github.com/magnum6actual/flipoff)** | Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware. | JavaScript |  |  | 2522 |
-| **[codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | Use Codex from Claude Code to review code or delegate tasks. | JavaScript |  |  | 2439 |
-| **[G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** | LIBERATED AI CHAT | TypeScript |  |  | 2276 |
-| **[turboquant_plus](https://github.com/TheTom/turboquant_plus)** |  | Python |  |  | 2235 |
-| **[Qclaw](https://github.com/qiuzhi2046/Qclaw)** | 不用命令行，小白也能轻松玩转 OpenClaw | TypeScript |  |  | 1331 |
-| **[colleague-skill](https://github.com/titanwings/colleague-skill)** | 你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类 | Python |  |  | 1209 |
-| **[voice-input-src](https://github.com/yetone/voice-input-src)** |  |  |  |  | 1074 |
-| **[wecom-cli](https://github.com/WecomTeam/wecom-cli)** | 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 | Rust |  |  | 1057 |
-| **[leak-check](https://github.com/garinasset/leak-check)** | 个人信息 “泄漏” 检测接口 | Python |  |  | 1012 |
+| **[claw-code](https://github.com/instructkr/claw-code)** | The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real things done. Now rewriting in Rust using oh-my-codex. | Rust |  |  | 76903 |
+| **[claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)** | It will be revised soon. | TypeScript |  |  | 7767 |
+| **[codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | Use Codex from Claude Code to review code or delegate tasks. | JavaScript |  |  | 6100 |
+| **[claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** |  | TypeScript |  |  | 5941 |
+| **[claude-code](https://github.com/Kuberwastaken/claude-code)** | Claude Code in Rust & a Breakdown of How it Works | Rust |  |  | 4232 |
+| **[colleague-skill](https://github.com/titanwings/colleague-skill)** | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！ | Python |  |  | 3772 |
+| **[claude-code](https://github.com/claude-code-best/claude-code)** | 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动 | TypeScript |  |  | 3669 |
+| **[flipoff](https://github.com/magnum6actual/flipoff)** | Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware. | JavaScript |  |  | 2561 |
+| **[claude-token-efficient](https://github.com/drona23/claude-token-efficient)** | Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes. |  |  |  | 1701 |
+| **[leak-check](https://github.com/garinasset/leak-check)** | 个人信息 “泄漏” 检测接口 | Python |  |  | 1689 |
 

@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-03-31
+Last update: 2026-04-01
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-03-31
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[cli](https://github.com/larksuite/cli)** | The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills. | Go |  |  | 4909 |
-| **[flipoff](https://github.com/magnum6actual/flipoff)** | Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware. | JavaScript |  |  | 2522 |
-| **[codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | Use Codex from Claude Code to review code or delegate tasks. | JavaScript |  |  | 2439 |
-| **[G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** | LIBERATED AI CHAT | TypeScript |  |  | 2276 |
-| **[turboquant_plus](https://github.com/TheTom/turboquant_plus)** |  | Python |  |  | 2235 |
-| **[Qclaw](https://github.com/qiuzhi2046/Qclaw)** | 不用命令行，小白也能轻松玩转 OpenClaw | TypeScript |  |  | 1331 |
-| **[colleague-skill](https://github.com/titanwings/colleague-skill)** | 你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类 | Python |  |  | 1209 |
-| **[voice-input-src](https://github.com/yetone/voice-input-src)** |  |  |  |  | 1074 |
-| **[wecom-cli](https://github.com/WecomTeam/wecom-cli)** | 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 | Rust |  |  | 1057 |
-| **[leak-check](https://github.com/garinasset/leak-check)** | 个人信息 “泄漏” 检测接口 | Python |  |  | 1012 |
-| **[wewrite](https://github.com/oaker-io/wewrite)** | 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱 | Python |  |  | 947 |
-| **[mcp-brasil](https://github.com/jxnxts/mcp-brasil)** | MCP Server para 41 APIs públicas brasileiras | Python |  | <details><summary>ai-ag...</summary><p>ai-agents, apis-publicas, brazil, claude, fastmcp, governo, llm, mcp, mcp-server, python</p></details> | 946 |
-| **[markit](https://github.com/Michaelliv/markit)** | 🖍️ Convert anything to markdown. Mark it. | TypeScript |  |  | 885 |
-| **[legalize-es](https://github.com/legalize-dev/legalize-es)** | Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws. |  |  |  | 842 |
-| **[harness](https://github.com/revfactory/harness)** | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. | HTML |  | <details><summary>claud...</summary><p>claude-code, claude-code-plugin, harness, harness-engineering</p></details> | 837 |
-| **[awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering)** | 🛠️ Awesome tools & guides for harness engineering. |  |  |  | 701 |
-| **[turboquant-pytorch](https://github.com/tonbistudio/turboquant-pytorch)** | From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity. | Python |  |  | 646 |
-| **[pgmicro](https://github.com/glommer/pgmicro)** | An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine | Rust |  |  | 644 |
-| **[notchy](https://github.com/adamlyttleapps/notchy)** |  | Swift |  |  | 539 |
-| **[pump-analyzer](https://github.com/happyboy4ty25/pump-analyzer)** | Real-time monitoring & analytics platform for Pump.fun tokens. Track launches, analyze trends, and get instant alerts — powered by WebSockets. Built with HTML, CSS & JavaScript. |  |  | <details><summary>analy...</summary><p>analytics, crypto, dashboard, defi, javascript, landing-page, memecoin, pump-fun, real-time, solana, solana-wallet, token-tracker, web3, websocket</p></details> | 518 |
+| **[claw-code](https://github.com/instructkr/claw-code)** | The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real things done. Now rewriting in Rust using oh-my-codex. | Rust |  |  | 76903 |
+| **[claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)** | It will be revised soon. | TypeScript |  |  | 7767 |
+| **[codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | Use Codex from Claude Code to review code or delegate tasks. | JavaScript |  |  | 6100 |
+| **[claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** |  | TypeScript |  |  | 5941 |
+| **[claude-code](https://github.com/Kuberwastaken/claude-code)** | Claude Code in Rust & a Breakdown of How it Works | Rust |  |  | 4232 |
+| **[colleague-skill](https://github.com/titanwings/colleague-skill)** | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！ | Python |  |  | 3772 |
+| **[claude-code](https://github.com/claude-code-best/claude-code)** | 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动 | TypeScript |  |  | 3669 |
+| **[flipoff](https://github.com/magnum6actual/flipoff)** | Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware. | JavaScript |  |  | 2561 |
+| **[claude-token-efficient](https://github.com/drona23/claude-token-efficient)** | Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes. |  |  |  | 1701 |
+| **[leak-check](https://github.com/garinasset/leak-check)** | 个人信息 “泄漏” 检测接口 | Python |  |  | 1689 |
+| **[claude-code-deep-dive](https://github.com/tvytlx/claude-code-deep-dive)** | Claude Code 源码深度研究报告 | TypeScript |  |  | 1608 |
+| **[Qclaw](https://github.com/qiuzhi2046/Qclaw)** | 不用命令行，小白也能轻松玩转 OpenClaw | TypeScript |  |  | 1569 |
+| **[clear-code](https://github.com/chatgptprojects/clear-code)** | https://x.com/paidev |  |  |  | 1524 |
+| **[claude-code-rev](https://github.com/oboard/claude-code-rev)** | Runnable ClaudeCode source code | TypeScript |  | <details><summary>claud...</summary><p>claude-code</p></details> | 1418 |
+| **[claude-code-system-prompts](https://github.com/Leonxlnx/claude-code-system-prompts)** | Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification |  |  | <details><summary>agent...</summary><p>agentic-ai, ai-research, claude, prompt-engineering, system-prompts</p></details> | 1286 |
+| **[wecom-cli](https://github.com/WecomTeam/wecom-cli)** | 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 | Rust |  |  | 1286 |
+| **[harness](https://github.com/revfactory/harness)** | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. | HTML |  | <details><summary>claud...</summary><p>claude-code, claude-code-plugin, harness, harness-engineering</p></details> | 1279 |
+| **[open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk)** | Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source | TypeScript |  | <details><summary>agent...</summary><p>agent-sdk, claude-agent-sdk, claude-code, open-agent-sdk</p></details> | 1258 |
+| **[voice-input-src](https://github.com/yetone/voice-input-src)** |  |  |  |  | 1243 |
+| **[wewrite](https://github.com/oaker-io/wewrite)** | 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱 | Python |  |  | 1005 |
 
