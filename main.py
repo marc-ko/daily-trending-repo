@@ -14,7 +14,7 @@ hongkong_timezone = pytz.timezone('HongKong')
 current_date = datetime.now(hongkong_timezone).strftime("%Y-%m-%d")
 
 # get last update date from README.md
-with open("README.md", "r") as f:
+with open("README.md", "r", encoding="utf-8") as f:
     while True:
         line = f.readline()
         if "Last update:" in line: break

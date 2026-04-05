@@ -55,7 +55,7 @@ def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[s
     return repos
 
 ## Using Google Translate, maybe later do translation on the repos' summary
-def translate_text(text, target_language='zh-HK'):
+def translate_text(text: str, target_language: str='zh-HK') -> str:
     """
     A simple function to translate text using a free translation API.
     You may need to replace this with a more reliable service.
@@ -119,23 +119,24 @@ def generate_table(repos: List[Dict[str, str]], column_names: List[str] = [], ig
     return header + "\n" + separator + "\n" + "\n".join(rows)
 
 
-def back_up_files():
+def back_up_files() -> None:
     # back up README.md and ISSUE_TEMPLATE.md
     shutil.move("README.md", "README.md.bk")
     shutil.move(".github/ISSUE_TEMPLATE.md", ".github/ISSUE_TEMPLATE.md.bk")
 
-def restore_files():
+def restore_files() -> None:
     # restore README.md and ISSUE_TEMPLATE.md
     shutil.move("README.md.bk", "README.md")
     shutil.move(".github/ISSUE_TEMPLATE.md.bk", ".github/ISSUE_TEMPLATE.md")
 
-def remove_backups():
+def remove_backups() -> None:
     # remove README.md and ISSUE_TEMPLATE.md
     os.remove("README.md.bk")
     os.remove(".github/ISSUE_TEMPLATE.md.bk")
 
 def get_daily_date():
     # get hongkong time in the format of "March 1, 2021"
+    # TODO: add type annotations for parameters/return type
     hongkong_timezone = pytz.timezone('HongKong')
     today = datetime.now(hongkong_timezone)
     return today.strftime("%B %d, %Y")
