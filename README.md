@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-04-04
+Last update: 2026-04-05
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-04-04
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[claw-code](https://github.com/ultraworkers/claw-code)** | [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. | Rust |  |  | 162903 |
-| **[claude-code](https://github.com/claude-code-best/claude-code)** | 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动 | TypeScript |  |  | 13087 |
-| **[openclaude](https://github.com/Gitlawb/openclaude)** | Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs. | TypeScript |  |  | 12125 |
-| **[codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | Use Codex from Claude Code to review code or delegate tasks. | JavaScript |  |  | 11339 |
-| **[learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** | Research on Coding Agents |  |  |  | 11184 |
-| **[claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** |  | TypeScript |  |  | 8286 |
-| **[claurst](https://github.com/Kuberwastaken/claurst)** | Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries | Rust |  |  | 7815 |
-| **[colleague-skill](https://github.com/titanwings/colleague-skill)** | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 | Python |  |  | 6555 |
-| **[emdash](https://github.com/emdash-cms/emdash)** | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress | TypeScript |  | <details><summary>astro...</summary><p>astro, cms, emdash, typescript</p></details> | 6238 |
-| **[claw-code-parity](https://github.com/ultraworkers/claw-code-parity)** | Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration | Rust |  |  | 5274 |
-| **[ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)** | AI Agent 源码深度研究报告 | Python |  |  | 4981 |
-| **[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** | Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. | HTML |  | <details><summary>aweso...</summary><p>awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page</p></details> | 4851 |
-| **[cc-haha](https://github.com/NanmiCoder/cc-haha)** | Claude Code 泄露源码 - 本地可运行版本 | TypeScript |  |  | 4594 |
-| **[open-multi-agent](https://github.com/JackChen-me/open-multi-agent)** | TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs. | TypeScript |  | <details><summary>agent...</summary><p>agent-framework, ai-agents, anthropic, claude, llm, model-agnostic, multi-agent, nodejs, ollama, openai, orchestration, structured-output, task-scheduling, tool-use, typescript</p></details> | 3269 |
-| **[claude-token-efficient](https://github.com/drona23/claude-token-efficient)** | One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes. |  |  |  | 3019 |
-| **[claude-code-rev](https://github.com/oboard/claude-code-rev)** | Runnable ClaudeCode source code | TypeScript |  | <details><summary>claud...</summary><p>claude-code</p></details> | 2672 |
-| **[open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)** | Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source | TypeScript |  | <details><summary>agent...</summary><p>agent-sdk, claude-agent-sdk, claude-code, open-agent-sdk</p></details> | 2281 |
-| **[OpenHarness](https://github.com/HKUDS/OpenHarness)** | "OpenHarness: Open Agent Harness" | Python |  |  | 2268 |
-| **[cc-gateway](https://github.com/motiful/cc-gateway)** | AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying | TypeScript |  | <details><summary>anthr...</summary><p>anthropic, api-gateway, claude-code, docker, fingerprint, privacy, reverse-proxy, telemetry, typescript</p></details> | 2264 |
-| **[ex-skill](https://github.com/therealXiaomanChu/ex-skill)** | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）.  | Python |  |  | 2012 |
+| **[claw-code](https://github.com/ultraworkers/claw-code)** | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. | Rust |  |  | 167732 |
+| **[openclaude](https://github.com/Gitlawb/openclaude)** | Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs. | TypeScript |  |  | 14921 |
+| **[claude-code](https://github.com/claude-code-best/claude-code)** | 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动 | TypeScript |  |  | 13632 |
+| **[codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | Use Codex from Claude Code to review code or delegate tasks. | JavaScript |  |  | 11674 |
+| **[learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** | Research on Coding Agents |  |  |  | 11276 |
+| **[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** | Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. | HTML |  | <details><summary>aweso...</summary><p>awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page</p></details> | 8990 |
+| **[claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** |  | TypeScript |  |  | 8388 |
+| **[claurst](https://github.com/Kuberwastaken/claurst)** | Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries | Rust |  |  | 8078 |
+| **[colleague-skill](https://github.com/titanwings/colleague-skill)** | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 | Python |  |  | 7264 |
+| **[emdash](https://github.com/emdash-cms/emdash)** | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress | TypeScript |  | <details><summary>astro...</summary><p>astro, cms, emdash, typescript</p></details> | 7089 |
+| **[claw-code-parity](https://github.com/ultraworkers/claw-code-parity)** | Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration | Rust |  |  | 6339 |
+| **[ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)** | AI Agent 源码深度研究报告 | Python |  |  | 5071 |
+| **[cc-haha](https://github.com/NanmiCoder/cc-haha)** | Claude Code 泄露源码 - 本地可运行版本（附带核心模块解析） | TypeScript |  |  | 4914 |
+| **[open-multi-agent](https://github.com/JackChen-me/open-multi-agent)** | TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs. | TypeScript |  | <details><summary>agent...</summary><p>agent-framework, ai-agents, anthropic, claude, llm, model-agnostic, multi-agent, nodejs, ollama, openai, orchestration, structured-output, task-scheduling, tool-use, typescript</p></details> | 4200 |
+| **[OpenHarness](https://github.com/HKUDS/OpenHarness)** | "OpenHarness: Open Agent Harness" | Python |  |  | 3737 |
+| **[claude-token-efficient](https://github.com/drona23/claude-token-efficient)** | One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes. |  |  |  | 3221 |
+| **[claude-code-rev](https://github.com/oboard/claude-code-rev)** | Runnable ClaudeCode source code | TypeScript |  | <details><summary>claud...</summary><p>claude-code</p></details> | 2742 |
+| **[boneyard](https://github.com/0xGF/boneyard)** | Auto generated skeleton loading framework | TypeScript |  |  | 2503 |
+| **[ex-skill](https://github.com/therealXiaomanChu/ex-skill)** | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）.  | Python |  |  | 2487 |
+| **[autoagent](https://github.com/kevinrgu/autoagent)** | autonomous harness engineering | Python |  |  | 2404 |
 
