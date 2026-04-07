@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-04-06
+Last update: 2026-04-07
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-04-06
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[claw-code](https://github.com/ultraworkers/claw-code)** | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. | Rust |  |  | 171361 |
-| **[openclaude](https://github.com/Gitlawb/openclaude)** | Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs. | TypeScript |  |  | 16630 |
-| **[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** | Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. | HTML |  | <details><summary>aweso...</summary><p>awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page</p></details> | 16205 |
-| **[claude-code](https://github.com/claude-code-best/claude-code)** | 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动 | TypeScript |  |  | 13957 |
-| **[learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** | Research on Coding Agents |  |  |  | 11341 |
-| **[claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)** |  | TypeScript |  |  | 8462 |
-| **[claurst](https://github.com/Kuberwastaken/claurst)** | Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries | Rust |  |  | 8339 |
-| **[emdash](https://github.com/emdash-cms/emdash)** | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress | TypeScript |  | <details><summary>astro...</summary><p>astro, cms, emdash, typescript</p></details> | 7481 |
-| **[claw-code-parity](https://github.com/ultraworkers/claw-code-parity)** | Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration | Rust |  |  | 6514 |
-| **[OpenHarness](https://github.com/HKUDS/OpenHarness)** | "OpenHarness: Open Agent Harness" | Python |  |  | 5360 |
-| **[ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)** | AI Agent 源码深度研究报告 | Python |  |  | 5148 |
-| **[cc-haha](https://github.com/NanmiCoder/cc-haha)** | Claude Code 泄露源码 - 本地可运行版本（附带核心模块解析） | TypeScript |  |  | 5095 |
-| **[open-multi-agent](https://github.com/JackChen-me/open-multi-agent)** | TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs. | TypeScript |  | <details><summary>agent...</summary><p>agent-framework, ai-agents, anthropic, claude, llm, model-agnostic, multi-agent, nodejs, ollama, openai, orchestration, structured-output, task-scheduling, tool-use, typescript</p></details> | 4928 |
-| **[career-ops](https://github.com/santifer/career-ops)** | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. | Go |  | <details><summary>ai-ag...</summary><p>ai-agent, anthropic, automation, career, claude, claude-code, cli, golang, interview-prep, job-search, open-source, resume</p></details> | 3912 |
-| **[autoagent](https://github.com/kevinrgu/autoagent)** | autonomous harness engineering | Python |  |  | 3121 |
-| **[boneyard](https://github.com/0xGF/boneyard)** | Auto generated skeleton loading framework | TypeScript |  |  | 2844 |
-| **[claude-code-rev](https://github.com/oboard/claude-code-rev)** | Runnable ClaudeCode source code | TypeScript |  | <details><summary>claud...</summary><p>claude-code</p></details> | 2769 |
-| **[ex-skill](https://github.com/therealXiaomanChu/ex-skill)** | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）.  | Python |  |  | 2747 |
-| **[cc-gateway](https://github.com/motiful/cc-gateway)** | AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying | TypeScript |  | <details><summary>anthr...</summary><p>anthropic, api-gateway, claude-code, docker, fingerprint, privacy, reverse-proxy, telemetry, typescript</p></details> | 2393 |
-| **[open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)** | Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source | TypeScript |  | <details><summary>agent...</summary><p>agent-sdk, claude-agent-sdk, claude-code, open-agent-sdk</p></details> | 2351 |
+| **[openclaude](https://github.com/Gitlawb/openclaude)** | Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs. | TypeScript |  |  | 18178 |
+| **[career-ops](https://github.com/santifer/career-ops)** | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. | Go |  | <details><summary>ai-ag...</summary><p>ai-agent, anthropic, automation, career, claude, claude-code, cli, golang, interview-prep, job-search, open-source, resume</p></details> | 11990 |
+| **[emdash](https://github.com/emdash-cms/emdash)** | EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress | TypeScript |  | <details><summary>astro...</summary><p>astro, cms, emdash, typescript</p></details> | 7860 |
+| **[claw-code-parity](https://github.com/ultraworkers/claw-code-parity)** | Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration | Rust |  |  | 6556 |
+| **[OpenHarness](https://github.com/HKUDS/OpenHarness)** | "OpenHarness: Open Agent Harness" | Python |  |  | 6492 |
+| **[caveman](https://github.com/JuliusBrussee/caveman)** | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman | Python |  | <details><summary>ai, a...</summary><p>ai, anthropic, caveman, claude, claude-code, llm, meme, prompt-engineering, skill, tokens</p></details> | 4357 |
+| **[autoagent](https://github.com/kevinrgu/autoagent)** | autonomous harness engineering | Python |  |  | 3613 |
+| **[boneyard](https://github.com/0xGF/boneyard)** | Auto generated skeleton loading framework | TypeScript |  |  | 3168 |
+| **[graphify](https://github.com/safishamsi/graphify)** | AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph | Python |  | <details><summary>claud...</summary><p>claude-code, codex, graphrag, knowledge-graph, openclaw, skills</p></details> | 2524 |
+| **[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. |  |  |  | 1730 |
+| **[sheets](https://github.com/maaslalani/sheets)** | Terminal based spreadsheet tool | Go |  |  | 1430 |
+| **[nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill)** | A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial. |  |  |  | 1341 |
+| **[METATRON](https://github.com/sooryathejas/METATRON)** | AI-powered penetration testing assistant using local LLM on linux (Parrot OS) | Python |  |  | 1334 |
+| **[harness-books](https://github.com/wquguru/harness-books)** |  | Python |  |  | 1187 |
+| **[anti-distill](https://github.com/leilei926524-tech/anti-distill)** | 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills. |  |  |  | 1044 |
+| **[fieldtheory-cli](https://github.com/afar1/fieldtheory-cli)** | Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac. | TypeScript |  |  | 1028 |
+| **[Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** | 深入Claude Code源码，学习目前最好的agent实现 |  |  |  | 979 |
+| **[yourself-skill](https://github.com/notdog1998/yourself-skill)** | 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。 | Python |  |  | 880 |
+| **[Pika-Skills](https://github.com/Pika-Labs/Pika-Skills)** |  | Python |  |  | 824 |
+| **[harness-engineering-from-cc-to-ai-coding](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding)** | Harness Engineering From Claude Code source code to AI Coding | HTML |  |  | 825 |
 
