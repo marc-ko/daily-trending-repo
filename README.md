@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-04-13
+Last update: 2026-04-14
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-04-13
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[clicky](https://github.com/farzaa/clicky)** |  | Swift |  |  | 3964 |
-| **[hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南 |  |  |  | 2147 |
-| **[fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** | Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge. | Python |  |  | 1670 |
-| **[gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal)** | Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders. | Python |  |  | 1235 |
-| **[codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension)** | Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复 | JavaScript |  |  | 994 |
-| **[llm_wiki](https://github.com/nashsu/llm_wiki)** | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 | TypeScript |  |  | 963 |
-| **[claude-usage](https://github.com/phuryn/claude-usage)** | A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture. | Python |  | <details><summary>claud...</summary><p>claude-code</p></details> | 879 |
-| **[hermes-hudui](https://github.com/joeynyc/hermes-hudui)** | Web UI consciousness monitor for Hermes — the AI agent with persistent memory | Python |  |  | 733 |
-| **[claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)** | Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch | Shell |  | <details><summary>ai, c...</summary><p>ai, claude-code, claude-code-skill, knowledge-management, obsidian, open-source, second-brain</p></details> | 707 |
-| **[rattles](https://github.com/vyfor/rattles)** | 🪇 Minimal terminal spinners for Rust | Rust |  | <details><summary>anima...</summary><p>animation, cli, no-std, ratatui, rattles, rust, spinner, spinners, terminal, tui</p></details> | 651 |
-| **[littlesnitch-linux](https://github.com/obdev/littlesnitch-linux)** | Open Source components of Little Snitch for Linux | Rust |  |  | 603 |
-| **[pyre-code](https://github.com/whwangovo/pyre-code)** | A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser. | Python |  |  | 591 |
-| **[Happy-Horse-1.0](https://github.com/brooks376/Happy-Horse-1.0)** | Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io. |  |  |  | 549 |
-| **[SkillClaw](https://github.com/AMAP-ML/SkillClaw)** | Let Skills Evolve Collectively with Agentic Evolver  | Python |  |  | 457 |
-| **[obsidian-ai-orange-book](https://github.com/alchaincyf/obsidian-ai-orange-book)** | Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑 |  |  |  | 445 |
-| **[PureMac](https://github.com/momenbasel/PureMac)** | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed. | Swift |  | <details><summary>cache...</summary><p>cache-cleaner, cleanmymac, cleanup, disk-cleaner, disk-space, homebrew, mac-utility, macos, macos-app, macos-cleaner, macosx, native, oss, osx, privacy, swift, swiftui, system-cleaner, xcode-cleaner</p></details> | 409 |
-| **[talk-normal](https://github.com/hexiecs/talk-normal)** | Make any LLM talk like a normal person. A system prompt that removes AI slop. | Shell |  |  | 379 |
-| **[quien](https://github.com/retlehs/quien)** | A better WHOIS lookup tool | Go |  | <details><summary>asn, ...</summary><p>asn, bgp, bimi, cli, core-web-vitals, cwv, dkim, dmarc, dns, domain, golang, ip-lookup, nameservers, peeringdb, quien, rdap, seo, spf, tls, whois</p></details> | 372 |
-| **[ProgressiveBlurHeader](https://github.com/dominikmartn/ProgressiveBlurHeader)** | Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped. | Swift |  | <details><summary>blur,...</summary><p>blur, ios, progressive-blur, sticky-header, swift, swift-package, swiftui, uikit</p></details> | 357 |
-| **[SBTI-test](https://github.com/UnluckyNinja/SBTI-test)** | 注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿 | HTML |  |  | 352 |
+| **[hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南 |  |  |  | 2328 |
+| **[fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** | Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge. | Python |  |  | 2097 |
+| **[codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension)** | Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复 | JavaScript |  |  | 1236 |
+| **[llm_wiki](https://github.com/nashsu/llm_wiki)** | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 | TypeScript |  |  | 1171 |
+| **[PureMac](https://github.com/momenbasel/PureMac)** | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed. | Swift |  | <details><summary>cache...</summary><p>cache-cleaner, cleanmymac, cleanup, disk-cleaner, disk-space, homebrew, mac-utility, macos, macos-app, macos-cleaner, macosx, native, oss, osx, privacy, swift, swiftui, system-cleaner, xcode-cleaner</p></details> | 1026 |
+| **[hermes-hudui](https://github.com/joeynyc/hermes-hudui)** | Web UI consciousness monitor for Hermes — the AI agent with persistent memory | Python |  |  | 844 |
+| **[rattles](https://github.com/vyfor/rattles)** | 🪇 Minimal terminal spinners for Rust | Rust |  | <details><summary>anima...</summary><p>animation, cli, no-std, ratatui, rattles, rust, spinner, spinners, terminal, tui</p></details> | 812 |
+| **[talk-normal](https://github.com/hexiecs/talk-normal)** | Make any LLM talk like a normal person. A system prompt that removes AI slop. | Shell |  |  | 725 |
+| **[littlesnitch-linux](https://github.com/obdev/littlesnitch-linux)** | Open Source components of Little Snitch for Linux | Rust |  |  | 652 |
+| **[pyre-code](https://github.com/whwangovo/pyre-code)** | A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser. | Python |  |  | 641 |
+| **[obsidian-ai-orange-book](https://github.com/alchaincyf/obsidian-ai-orange-book)** | Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑 |  |  |  | 565 |
+| **[Happy-Horse-1.0](https://github.com/brooks376/Happy-Horse-1.0)** | Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io. |  |  |  | 556 |
+| **[nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)** |  | Python |  |  | 508 |
+| **[SkillClaw](https://github.com/AMAP-ML/SkillClaw)** | Let Skills Evolve Collectively with Agentic Evolver  | Python |  |  | 507 |
+| **[material-3-skill](https://github.com/hamen/material-3-skill)** | Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit |  |  |  | 506 |
+| **[quien](https://github.com/retlehs/quien)** | A better WHOIS lookup tool | Go |  | <details><summary>asn, ...</summary><p>asn, bgp, bimi, cli, core-web-vitals, cwv, dkim, dmarc, dns, domain, golang, ip-lookup, nameservers, peeringdb, quien, rdap, seo, spf, tls, whois</p></details> | 462 |
+| **[MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)** | MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration. | Python |  | <details><summary>audio...</summary><p>audio-tokenizer, chinese, english, multi-modality, multilingual, realtime, streaming-audio, tts, voice-clone</p></details> | 434 |
+| **[anything-analyzer](https://github.com/Mouseww/anything-analyzer)** | 利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档 | TypeScript |  |  | 429 |
+| **[auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)** | 🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. | Python |  | <details><summary>ai-ag...</summary><p>ai-agent, autonomous-agent, claude-code, deep-learning, experiment-automation, gpu, hyperparameter-tuning, llm-agent, machine-learning, mlops, pytorch, research-automation</p></details> | 405 |
+| **[ProgressiveBlurHeader](https://github.com/dominikmartn/ProgressiveBlurHeader)** | Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped. | Swift |  | <details><summary>blur,...</summary><p>blur, ios, progressive-blur, sticky-header, swift, swift-package, swiftui, uikit</p></details> | 377 |
 
