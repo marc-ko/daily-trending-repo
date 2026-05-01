@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-04-30
+Last update: 2026-05-01
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-04-30
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[open-design](https://github.com/nexu-io/open-design)** | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, ai-design, anthropic, byok, claude, claude-code, claude-design, codex, coding-agents, cursor, design, design-systems, design-tools, gemini-cli, generative-ai, hermes-agent, local-first, react, skills, typescript</p></details> | 4856 |
-| **[awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。 |  |  |  | 2193 |
-| **[cookbook](https://github.com/cursor/cookbook)** |  | TypeScript |  |  | 1785 |
-| **[deepseek_v4_rolepaly_instruct](https://github.com/victorchen96/deepseek_v4_rolepaly_instruct)** | 对于DeepSeek-V4角色扮演的特殊控制指令的说明 |  |  |  | 1524 |
-| **[im-not-ai](https://github.com/epoko77-ai/im-not-ai)** | AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬 | Python |  |  | 652 |
-| **[copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** |  | Python |  |  | 648 |
-| **[ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)** | Linux payload implementing the HV exploit and a custom bootloader | C |  |  | 577 |
-| **[stash](https://github.com/alash3al/stash)** | Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required. | Go |  | <details><summary>ai, a...</summary><p>ai, ai-agents, ai-memory, memory</p></details> | 565 |
-| **[chromex](https://github.com/GENEXIS-AI/chromex)** | A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows. | TypeScript |  |  | 471 |
-| **[ppt-image-first](https://github.com/NyxTides/ppt-image-first)** | PPT image-first skill for Codex/Claude Code/Opencode CLI | Python |  |  | 446 |
-| **[Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)** | ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research | Python |  | <details><summary>adver...</summary><p>adversarial-ml, anti-fraud, bug-bounty, captcha-solver, chatgpt, ctf-tools, hcaptcha-solver, mitmproxy, playwright, protocol-replay, stripe, vlm</p></details> | 419 |
-| **[monthly-bonus-stake](https://github.com/bonused/monthly-bonus-stake)** | Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay. |  |  | <details><summary>stake...</summary><p>stake, stake-monthly-bonus</p></details> | 415 |
-| **[GooseRelayVPN](https://github.com/Kianmhz/GooseRelayVPN)** | Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted). | Go |  | <details><summary>aes-g...</summary><p>aes-gcm, mitm, proxy, sni, socks5, tunneling, vpn</p></details> | 389 |
-| **[evanflow](https://github.com/evanklem/evanflow)** | A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout. | Shell |  |  | 355 |
-| **[Unit-3](https://github.com/samyns/Unit-3)** | Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed | QML |  |  | 340 |
-| **[FlashQLA](https://github.com/QwenLM/FlashQLA)** | high-performance linear attention kernel library built on TileLang | Python |  |  | 304 |
-| **[mhr-cfw](https://github.com/denuitt1/mhr-cfw)** | A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI. | Python |  |  | 299 |
-| **[tech-debt-skill](https://github.com/ksimback/tech-debt-skill)** | Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase |  |  |  | 299 |
-| **[illustrated-explainer-spec](https://github.com/vthinkxie/illustrated-explainer-spec)** | Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page. |  |  |  | 267 |
-| **[bux](https://github.com/browser-use/bux)** | A 24/7 Claude Code agent with Browser Harness, on any box you own. | Python |  |  | 265 |
+| **[open-design](https://github.com/nexu-io/open-design)** | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, ai-design, anthropic, byok, claude, claude-code, claude-design, codex, coding-agents, cursor, design, design-systems, design-tools, gemini-cli, generative-ai, hermes-agent, local-first, react, skills, typescript</p></details> | 8753 |
+| **[cookbook](https://github.com/cursor/cookbook)** |  | TypeScript |  |  | 2684 |
+| **[awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。 |  |  |  | 2650 |
+| **[copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)** |  | Python |  |  | 1764 |
+| **[mike](https://github.com/willchen96/mike)** | OSS AI Legal Platform | TypeScript |  |  | 811 |
+| **[Gpt-Agreement-Payment](https://github.com/DanOps-1/Gpt-Agreement-Payment)** | ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research | Python |  | <details><summary>adver...</summary><p>adversarial-ml, anti-fraud, bug-bounty, captcha-solver, chatgpt, ctf-tools, hcaptcha-solver, mitmproxy, playwright, protocol-replay, stripe, vlm</p></details> | 802 |
+| **[chromex](https://github.com/GENEXIS-AI/chromex)** | A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows. | TypeScript |  |  | 702 |
+| **[codex-plusplus](https://github.com/b-nnett/codex-plusplus)** | Codex++ tweak system for the Codex desktop app | TypeScript |  |  | 573 |
+| **[mhr-cfw](https://github.com/denuitt1/mhr-cfw)** | A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI. | Python |  |  | 530 |
+| **[SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill)** | 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务 | Python |  |  | 496 |
+| **[ppt-image-first](https://github.com/NyxTides/ppt-image-first)** | PPT image-first skill for Codex/Claude Code/Opencode CLI | Python |  | <details><summary>offic...</summary><p>office, powerpoint, ppt, slide, slides</p></details> | 480 |
+| **[AIbijia](https://github.com/ka-pi-ba-la/AIbijia)** | 分享便宜靠谱Token，抹平信息差 |  |  |  | 465 |
+| **[GooseRelayVPN](https://github.com/Kianmhz/GooseRelayVPN)** | Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted). | Go |  | <details><summary>aes-g...</summary><p>aes-gcm, mitm, proxy, sni, socks5, tunneling, vpn</p></details> | 452 |
+| **[awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)** |  |  |  |  | 447 |
+| **[monthly-bonus-stake](https://github.com/bonused/monthly-bonus-stake)** | Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay. |  |  | <details><summary>stake...</summary><p>stake, stake-monthly-bonus</p></details> | 420 |
+| **[dbx](https://github.com/t8y2/dbx)** | Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server. | Vue |  | <details><summary>click...</summary><p>clickhouse, database, database-client, database-management, duckdb, gui, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue</p></details> | 405 |
+| **[kwcode](https://github.com/val1813/kwcode)** | 一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻 | Python |  |  | 376 |
+| **[evanflow](https://github.com/evanklem/evanflow)** | A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout. | Shell |  |  | 361 |
+| **[DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains)** | 🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc) |  |  |  | 356 |
+| **[Unit-3](https://github.com/samyns/Unit-3)** | Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed | QML |  |  | 356 |
 
