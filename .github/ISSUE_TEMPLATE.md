@@ -24,4 +24,3 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 | **[dbx](https://github.com/t8y2/dbx)** | 15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more. | Vue |  | <details><summary>click...</summary><p>clickhouse, database, database-client, database-management, duckdb, gui, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue</p></details> | 781 |
 | **[chromex](https://github.com/GENEXIS-AI/chromex)** | A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows. | TypeScript |  |  | 775 |
 | **[SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill)** | 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务 | Python |  |  | 678 |
-
