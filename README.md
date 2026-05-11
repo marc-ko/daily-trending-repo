@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-05-10
+Last update: 2026-05-11
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-05-10
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[ds4](https://github.com/antirez/ds4)** | DeepSeek 4 Flash local inference engine for Metal | C |  |  | 4820 |
-| **[dirtyfrag](https://github.com/V4bel/dirtyfrag)** |  | C |  |  | 3719 |
-| **[zero-native](https://github.com/vercel-labs/zero-native)** | Build desktop + mobile apps with Zig and web UI | Zig |  |  | 1752 |
-| **[mirage](https://github.com/strukto-ai/mirage)** | A Unified Virtual Filesystem For AI Agents | TypeScript |  | <details><summary>agent...</summary><p>agent-sandbox, agent-tools, ai-agents, bash, claude-code, fuse, langchain, llm-agents, openai-agents, python, typescript, vfs, virtual-filesystem</p></details> | 1657 |
-| **[yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** | Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | Python |  | <details><summary>ai, c...</summary><p>ai, chinese-prompts, geo, prompt-engineering, prompts</p></details> | 1504 |
-| **[cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** | You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system. | Shell |  |  | 1453 |
-| **[tokenspeed](https://github.com/lightseekorg/tokenspeed)** | TokenSpeed is a speed-of-light LLM inference engine. | Python |  | <details><summary>black...</summary><p>blackwell, deepseek, gpt-oss, kimi, lightseek, llm, minimax, qwen, speed-of-light, tokenspeed</p></details> | 866 |
-| **[beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates)** | A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically. | HTML |  |  | 629 |
-| **[awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)** | AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。 | Python |  | <details><summary>agent...</summary><p>agentic-ai, ai-agents, awesome-list, bilingual, claude-code, claude-skills, cli, learning-roadmap, llm-agents, mcp, model-context-protocol, tutorial</p></details> | 568 |
-| **[Sing-Flare-Auto](https://github.com/zzzhhh1/Sing-Flare-Auto)** | 本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接： | Dockerfile |  |  | 494 |
-| **[CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** | 一个CodexApp的增强工具 | Python |  |  | 488 |
-| **[BetterNitroDiscord](https://github.com/WeritoP/BetterNitroDiscord)** | BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more! |  |  |  | 468 |
-| **[FL-STUDIO-PATCHER](https://github.com/WeritoP/FL-STUDIO-PATCHER)** | Fl Stduio patch for lifetime works |  |  |  | 467 |
-| **[LInjector-FORKED-](https://github.com/WeritoP/LInjector-FORKED-)** | 🔨 LInjector. An open-source Luau Script IDE allowing easy integration with diverse purposes. Working version at the website below. ⬇️ |  |  |  | 460 |
-| **[solidity-cot-auditor](https://github.com/butthtio/solidity-cot-auditor)** | Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output. | Python |  |  | 406 |
-| **[natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders)** |  | Python |  |  | 405 |
-| **[chainreason](https://github.com/joshawome/chainreason)** | A benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks | Python |  |  | 398 |
-| **[univ3-pool-lens](https://github.com/moxailoo/univ3-pool-lens)** | A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal. | TypeScript |  |  | 395 |
-| **[Mirrai](https://github.com/Ch1rpy2613/Mirrai)** |  | TypeScript |  |  | 388 |
-| **[EdgeSavedPasswordsDumper](https://github.com/L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper)** | Proof of concept to show that Edge stores credentials in cleartext | C# |  |  | 383 |
+| **[ds4](https://github.com/antirez/ds4)** | DeepSeek 4 Flash local inference engine for Metal | C |  |  | 6526 |
+| **[dirtyfrag](https://github.com/V4bel/dirtyfrag)** |  | C |  |  | 4049 |
+| **[zero-native](https://github.com/vercel-labs/zero-native)** | Build desktop + mobile apps with Zig and web UI | Zig |  |  | 2364 |
+| **[mirage](https://github.com/strukto-ai/mirage)** | A Unified Virtual Filesystem For AI Agents | TypeScript |  | <details><summary>agent...</summary><p>agent-sandbox, agent-tools, ai-agents, bash, claude-code, fuse, langchain, llm-agents, openai-agents, python, typescript, vfs, virtual-filesystem</p></details> | 1813 |
+| **[cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)** | You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system. | Shell |  |  | 1585 |
+| **[yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** | Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | Python |  | <details><summary>ai, c...</summary><p>ai, chinese-prompts, geo, prompt-engineering, prompts</p></details> | 1583 |
+| **[tokenspeed](https://github.com/lightseekorg/tokenspeed)** | TokenSpeed is a speed-of-light LLM inference engine. | Python |  | <details><summary>black...</summary><p>blackwell, deepseek, gpt-oss, kimi, lightseek, llm, minimax, qwen, speed-of-light, tokenspeed</p></details> | 922 |
+| **[3DCellForge](https://github.com/huangserva/3DCellForge)** | AI-powered interactive 3D cell generation and exploration studio. | JavaScript |  |  | 900 |
+| **[CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** | 一个CodexApp的增强工具 | Python |  |  | 788 |
+| **[beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates)** | A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically. | HTML |  |  | 766 |
+| **[DarkGPT](https://github.com/thakur-works/DarkGPT)** | Darkgpt mod free #chatgpt |  |  | <details><summary>chatg...</summary><p>chatgpt-bypass, chatgpt5, darkgpt</p></details> | 531 |
+| **[Velocity-Executor](https://github.com/thakur-works/Velocity-Executor)** | This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification. |  |  | <details><summary>roblo...</summary><p>roblox, velocity, velocity-roblox</p></details> | 528 |
+| **[Sing-Flare-Auto](https://github.com/zzzhhh1/Sing-Flare-Auto)** | 本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接： | Dockerfile |  |  | 507 |
+| **[BetterNitroDiscord](https://github.com/WeritoP/BetterNitroDiscord)** | BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more! |  |  |  | 469 |
+| **[natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders)** |  | Python |  |  | 459 |
+| **[Mirrai](https://github.com/Ch1rpy2613/Mirrai)** |  | TypeScript |  |  | 444 |
+| **[CodexSaver](https://github.com/fendouai/CodexSaver)** | Make Codex cheaper without making it dumber with DeepSeek. | Python |  | <details><summary>codex...</summary><p>codex, deepseek</p></details> | 405 |
+| **[LUKSbox](https://github.com/PentHertz/LUKSbox)** | Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows. | Rust |  | <details><summary>encry...</summary><p>encryption, file, secure, sensitive-data, vault</p></details> | 406 |
+| **[notelet](https://github.com/mykolaharmash/notelet)** | SwiftUI component for displaying rich release notes inside an app | Swift |  |  | 402 |
+| **[media-downloader](https://github.com/pixel-point/media-downloader)** | Beautiful native macOS video downloader. Download and trim in one app. | Swift |  |  | 377 |
 
