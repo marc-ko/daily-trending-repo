@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-05-12
+Last update: 2026-05-13
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-05-12
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[ds4](https://github.com/antirez/ds4)** | DeepSeek 4 Flash local inference engine for Metal | C |  |  | 7543 |
-| **[dirtyfrag](https://github.com/V4bel/dirtyfrag)** |  | C |  |  | 4212 |
-| **[zero-native](https://github.com/vercel-labs/zero-native)** | Build desktop + mobile apps with Zig and web UI | Zig |  |  | 2717 |
-| **[mirage](https://github.com/strukto-ai/mirage)** | A Unified Virtual Filesystem For AI Agents | TypeScript |  | <details><summary>agent...</summary><p>agent-sandbox, agent-tools, ai-agents, bash, claude-code, fuse, langchain, llm-agents, openai-agents, python, typescript, vfs, virtual-filesystem</p></details> | 1955 |
-| **[yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** | Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | Python |  | <details><summary>ai, c...</summary><p>ai, chinese-prompts, geo, prompt-engineering, prompts</p></details> | 1638 |
-| **[3DCellForge](https://github.com/huangserva/3DCellForge)** | AI-powered interactive 3D cell generation and exploration studio. | JavaScript |  |  | 1505 |
-| **[CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 | Python |  |  | 1130 |
-| **[tokenspeed](https://github.com/lightseekorg/tokenspeed)** | TokenSpeed is a speed-of-light LLM inference engine. | Python |  | <details><summary>black...</summary><p>blackwell, deepseek, gpt-oss, kimi, lightseek, llm, minimax, qwen, speed-of-light, tokenspeed</p></details> | 946 |
-| **[DarkGPT](https://github.com/thakur-works/DarkGPT)** | Darkgpt mod free #chatgpt |  |  | <details><summary>chatg...</summary><p>chatgpt-bypass, chatgpt5, darkgpt</p></details> | 532 |
-| **[media-downloader](https://github.com/pixel-point/media-downloader)** | Beautiful native macOS video downloader. Download and trim in one app. | Swift |  |  | 529 |
+| **[dirtyfrag](https://github.com/V4bel/dirtyfrag)** |  | C |  |  | 4343 |
+| **[zero-native](https://github.com/vercel-labs/zero-native)** | Build desktop + mobile apps with Zig and web UI | Zig |  |  | 3005 |
+| **[3DCellForge](https://github.com/huangserva/3DCellForge)** | AI-powered interactive 3D cell generation and exploration studio. | JavaScript |  |  | 1731 |
+| **[OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** |  | C++ |  |  | 1450 |
+| **[Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** |  | Python |  |  | 589 |
+| **[files-sdk](https://github.com/haydenbleasel/files-sdk)** | A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. | TypeScript |  | <details><summary>agent...</summary><p>agents, blob, cloudflare, files, google, minio, r2, s3, storage, vercel</p></details> | 576 |
+| **[DarkGPT](https://github.com/thakur-works/DarkGPT)** | Darkgpt mod free #chatgpt |  |  | <details><summary>chatg...</summary><p>chatgpt-bypass, chatgpt5, darkgpt</p></details> | 533 |
 | **[Velocity-Executor](https://github.com/thakur-works/Velocity-Executor)** | This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification. |  |  | <details><summary>roblo...</summary><p>roblox, velocity, velocity-roblox</p></details> | 528 |
-| **[cs2-overlay-utility](https://github.com/RadianceToadAmend/cs2-overlay-utility)** | CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes. | C++ |  | <details><summary>cs-2-...</summary><p>cs-2-bypass, cs2, csgo, d3d11, game-tool, imgui, memory-reader, open-source, overlay, source2</p></details> | 498 |
-| **[BetterNitroDiscord](https://github.com/WeritoP/BetterNitroDiscord)** | BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more! |  |  |  | 469 |
-| **[huashu-md-html](https://github.com/alchaincyf/huashu-md-html)** | md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill. | CSS |  |  | 449 |
-| **[agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval)** | A test runner for agentskills.io-style AI agent skills | TypeScript |  | <details><summary>agent...</summary><p>agent-evals, agent-skills, agentskills, ai-agents, cli, jsonl, llm-evals, llm-evaluation, openai-compatible, typescript, yaml</p></details> | 431 |
-| **[LUKSbox](https://github.com/PentHertz/LUKSbox)** | Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows. | Rust |  | <details><summary>encry...</summary><p>encryption, file, secure, sensitive-data, vault</p></details> | 430 |
-| **[CodexSaver](https://github.com/fendouai/CodexSaver)** | Make Codex cheaper without making it dumber with DeepSeek. | Python |  | <details><summary>codex...</summary><p>codex, deepseek</p></details> | 422 |
-| **[notelet](https://github.com/mykolaharmash/notelet)** | SwiftUI component for displaying rich release notes inside an app | Swift |  |  | 420 |
-| **[files-sdk](https://github.com/haydenbleasel/files-sdk)** | A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. | TypeScript |  | <details><summary>agent...</summary><p>agents, blob, cloudflare, files, google, minio, r2, s3, storage, vercel</p></details> | 410 |
-| **[g2ray](https://github.com/amircloner/g2ray)** | Self-hosted proxy setup running inside GitHub Codespaces — for educational purposes only | Dockerfile |  |  | 396 |
+| **[Fortnite-Cheats-2026](https://github.com/RadianceToadAmend/Fortnite-Cheats-2026)** | ⭐️ Fortnite Cheats 2026 | Aimbot ESP WH | Triggerbot NoRecoil Glow | Skin Changer | AntiAFK Auto Farm Heal | Mod Menu Loader Injector | Full Version Latest Build Pro | PC Epic Windows 10/11 ⭐️ |  |  | <details><summary>1hack...</summary><p>1hack, aimassist, fortnite, fov-changer, gamehacks, ogfn, prefire-macros</p></details> | 521 |
+| **[ARC-Raiders-External-Tool](https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool)** | External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only. | C++ |  | <details><summary>arc, ...</summary><p>arc, arc-raiders, d3d11, external, game-tool, imgui, memory-reader, mit-license, overlay, ue5, windows</p></details> | 521 |
+| **[cs2-external-overlay](https://github.com/patchfighterway90/cs2-external-overlay)** | The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay. | Python |  | <details><summary>c-plu...</summary><p>c-plus-plus, cs2, directx, external, game-development, game-helper, game-module, game-tool, game-utility, graphics-programming, overlay, python, windows, windows-api, windows-overlay</p></details> | 519 |
+| **[cs2-overlay-utility](https://github.com/RadianceToadAmend/cs2-overlay-utility)** | CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes. | C++ |  | <details><summary>cs-2-...</summary><p>cs-2-bypass, cs2, csgo, d3d11, game-tool, imgui, memory-reader, open-source, overlay, source2</p></details> | 499 |
+| **[huashu-md-html](https://github.com/alchaincyf/huashu-md-html)** | md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill. | CSS |  |  | 491 |
+| **[g2ray](https://github.com/amircloner/g2ray)** | Self-hosted proxy setup running inside GitHub Codespaces — for educational purposes only | Dockerfile |  |  | 462 |
+| **[cell-architecture-studio](https://github.com/cclank/cell-architecture-studio)** | Interactive 3D cell architecture gallery built with React and Three.js | TypeScript |  |  | 449 |
+| **[stackprism](https://github.com/setube/stackprism)** | StackPrism是一款用于检测网页技术栈的浏览器插件。 | TypeScript |  | <details><summary>adver...</summary><p>advertising-detection, analytics-detection, browser-extension, cdn-detection, chrome-extension, cms-detection, edge-extension, manifest-v3, saas-detection, security-research, stackprism, tech-stack, technology-detection, technology-detector, web-technology</p></details> | 425 |
+| **[delta-exec](https://github.com/AvenueSleuth/delta-exec)** | Delta Exec scripting utility | Python |  | <details><summary>delta...</summary><p>delta-executor-windows, delta-exploit, delta-pc</p></details> | 416 |
+| **[hermes-desktop-os1](https://github.com/nickvasilescu/hermes-desktop-os1)** | Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts | Swift |  |  | 393 |
+| **[printer-offline-fix](https://github.com/Rhythmplocutter/printer-offline-fix)** | printer offline fix || printer offline || printer offline driver || printer offline fix windows | PowerShell |  | <details><summary>broth...</summary><p>brother-printer-offline, fix-printer-offline, how-to-fix-printer-offline, hp-printer-offline, hp-printer-offline-fix, offline-printer, offline-printer-fix, printer-is-offline, printer-is-offline-how-to-fix, printer-offline, printer-offline-fix, printer-says-offline, printer-showing-offline, why-is-my-printer-offline</p></details> | 375 |
+| **[YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** | YellowKey Bitlocker Bypass Vulnerability |  |  |  | 368 |
 

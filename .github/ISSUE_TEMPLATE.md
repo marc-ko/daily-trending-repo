@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - May 12, 2026
+title: Latest 10 Trending Repositories - May 13, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: May 12, 2026
+### 📅 Date: May 13, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[ds4](https://github.com/antirez/ds4)** | DeepSeek 4 Flash local inference engine for Metal | C |  |  | 7543 |
-| **[dirtyfrag](https://github.com/V4bel/dirtyfrag)** |  | C |  |  | 4212 |
-| **[zero-native](https://github.com/vercel-labs/zero-native)** | Build desktop + mobile apps with Zig and web UI | Zig |  |  | 2717 |
-| **[mirage](https://github.com/strukto-ai/mirage)** | A Unified Virtual Filesystem For AI Agents | TypeScript |  | <details><summary>agent...</summary><p>agent-sandbox, agent-tools, ai-agents, bash, claude-code, fuse, langchain, llm-agents, openai-agents, python, typescript, vfs, virtual-filesystem</p></details> | 1955 |
-| **[yao-open-prompts](https://github.com/yaojingang/yao-open-prompts)** | Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | Python |  | <details><summary>ai, c...</summary><p>ai, chinese-prompts, geo, prompt-engineering, prompts</p></details> | 1638 |
-| **[3DCellForge](https://github.com/huangserva/3DCellForge)** | AI-powered interactive 3D cell generation and exploration studio. | JavaScript |  |  | 1505 |
-| **[CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)** | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 | Python |  |  | 1130 |
-| **[tokenspeed](https://github.com/lightseekorg/tokenspeed)** | TokenSpeed is a speed-of-light LLM inference engine. | Python |  | <details><summary>black...</summary><p>blackwell, deepseek, gpt-oss, kimi, lightseek, llm, minimax, qwen, speed-of-light, tokenspeed</p></details> | 946 |
-| **[DarkGPT](https://github.com/thakur-works/DarkGPT)** | Darkgpt mod free #chatgpt |  |  | <details><summary>chatg...</summary><p>chatgpt-bypass, chatgpt5, darkgpt</p></details> | 532 |
-| **[media-downloader](https://github.com/pixel-point/media-downloader)** | Beautiful native macOS video downloader. Download and trim in one app. | Swift |  |  | 529 |
+| **[dirtyfrag](https://github.com/V4bel/dirtyfrag)** |  | C |  |  | 4343 |
+| **[zero-native](https://github.com/vercel-labs/zero-native)** | Build desktop + mobile apps with Zig and web UI | Zig |  |  | 3005 |
+| **[3DCellForge](https://github.com/huangserva/3DCellForge)** | AI-powered interactive 3D cell generation and exploration studio. | JavaScript |  |  | 1731 |
+| **[OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** |  | C++ |  |  | 1450 |
+| **[Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** |  | Python |  |  | 589 |
+| **[files-sdk](https://github.com/haydenbleasel/files-sdk)** | A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. | TypeScript |  | <details><summary>agent...</summary><p>agents, blob, cloudflare, files, google, minio, r2, s3, storage, vercel</p></details> | 576 |
+| **[DarkGPT](https://github.com/thakur-works/DarkGPT)** | Darkgpt mod free #chatgpt |  |  | <details><summary>chatg...</summary><p>chatgpt-bypass, chatgpt5, darkgpt</p></details> | 533 |
+| **[Velocity-Executor](https://github.com/thakur-works/Velocity-Executor)** | This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification. |  |  | <details><summary>roblo...</summary><p>roblox, velocity, velocity-roblox</p></details> | 528 |
+| **[Fortnite-Cheats-2026](https://github.com/RadianceToadAmend/Fortnite-Cheats-2026)** | ⭐️ Fortnite Cheats 2026 | Aimbot ESP WH | Triggerbot NoRecoil Glow | Skin Changer | AntiAFK Auto Farm Heal | Mod Menu Loader Injector | Full Version Latest Build Pro | PC Epic Windows 10/11 ⭐️ |  |  | <details><summary>1hack...</summary><p>1hack, aimassist, fortnite, fov-changer, gamehacks, ogfn, prefire-macros</p></details> | 521 |
+| **[ARC-Raiders-External-Tool](https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool)** | External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only. | C++ |  | <details><summary>arc, ...</summary><p>arc, arc-raiders, d3d11, external, game-tool, imgui, memory-reader, mit-license, overlay, ue5, windows</p></details> | 521 |
 
