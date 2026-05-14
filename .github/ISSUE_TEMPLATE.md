@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - May 13, 2026
+title: Latest 10 Trending Repositories - May 14, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: May 13, 2026
+### 📅 Date: May 14, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[dirtyfrag](https://github.com/V4bel/dirtyfrag)** |  | C |  |  | 4343 |
-| **[zero-native](https://github.com/vercel-labs/zero-native)** | Build desktop + mobile apps with Zig and web UI | Zig |  |  | 3005 |
-| **[3DCellForge](https://github.com/huangserva/3DCellForge)** | AI-powered interactive 3D cell generation and exploration studio. | JavaScript |  |  | 1731 |
-| **[OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** |  | C++ |  |  | 1450 |
-| **[Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** |  | Python |  |  | 589 |
-| **[files-sdk](https://github.com/haydenbleasel/files-sdk)** | A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. | TypeScript |  | <details><summary>agent...</summary><p>agents, blob, cloudflare, files, google, minio, r2, s3, storage, vercel</p></details> | 576 |
-| **[DarkGPT](https://github.com/thakur-works/DarkGPT)** | Darkgpt mod free #chatgpt |  |  | <details><summary>chatg...</summary><p>chatgpt-bypass, chatgpt5, darkgpt</p></details> | 533 |
-| **[Velocity-Executor](https://github.com/thakur-works/Velocity-Executor)** | This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification. |  |  | <details><summary>roblo...</summary><p>roblox, velocity, velocity-roblox</p></details> | 528 |
-| **[Fortnite-Cheats-2026](https://github.com/RadianceToadAmend/Fortnite-Cheats-2026)** | ⭐️ Fortnite Cheats 2026 | Aimbot ESP WH | Triggerbot NoRecoil Glow | Skin Changer | AntiAFK Auto Farm Heal | Mod Menu Loader Injector | Full Version Latest Build Pro | PC Epic Windows 10/11 ⭐️ |  |  | <details><summary>1hack...</summary><p>1hack, aimassist, fortnite, fov-changer, gamehacks, ogfn, prefire-macros</p></details> | 521 |
-| **[ARC-Raiders-External-Tool](https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool)** | External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only. | C++ |  | <details><summary>arc, ...</summary><p>arc, arc-raiders, d3d11, external, game-tool, imgui, memory-reader, mit-license, overlay, ue5, windows</p></details> | 521 |
+| **[zero-native](https://github.com/vercel-labs/zero-native)** | Build desktop + mobile apps with Zig and web UI | Zig |  |  | 3325 |
+| **[OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** |  | C++ |  |  | 3033 |
+| **[3DCellForge](https://github.com/huangserva/3DCellForge)** | AI-powered interactive 3D model generation, inspection, and presentation studio. | JavaScript |  |  | 1831 |
+| **[YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)** | YellowKey Bitlocker Bypass Vulnerability |  |  |  | 1088 |
+| **[Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)** |  | Python |  |  | 732 |
+| **[Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)** | ESP32 desk dashboard that shows Claude Code usage | C |  |  | 704 |
+| **[files-sdk](https://github.com/haydenbleasel/files-sdk)** | A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. | TypeScript |  | <details><summary>agent...</summary><p>agents, blob, cloudflare, files, google, minio, r2, s3, storage, vercel</p></details> | 648 |
+| **[Pixal3D](https://github.com/TencentARC/Pixal3D)** | [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images | Python |  |  | 549 |
+| **[DarkGPT](https://github.com/thakur-works/DarkGPT)** | Darkgpt mod free #chatgpt |  |  | <details><summary>chatg...</summary><p>chatgpt-bypass, chatgpt5, darkgpt</p></details> | 534 |
+| **[cs2-external-overlay](https://github.com/patchfighterway90/cs2-external-overlay)** | The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay. | Python |  | <details><summary>c-plu...</summary><p>c-plus-plus, cs2, directx, external, game-development, game-helper, game-module, game-tool, game-utility, graphics-programming, overlay, python, windows, windows-api, windows-overlay</p></details> | 533 |
 
