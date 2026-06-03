@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-06-02
+Last update: 2026-06-03
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-06-02
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** | Self-hosted AI workspace.  | JavaScript |  |  | 22705 |
-| **[guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)** | 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对 | HTML |  | <details><summary>agent...</summary><p>agent-skill, ai-agent, anthropic, claude-code, claude-skill, codex, editorial-design, html-template, image-generation, playwright, rednote, social-cards, swiss-design, wechat, xiaohongshu</p></details> | 2466 |
-| **[ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** | 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill |  |  | <details><summary>ai-ag...</summary><p>ai-agent, chinese, codex-skill, handdrawn, illustration, image-generation, xiaohei</p></details> | 1661 |
-| **[GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)** | AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only. | Python |  |  | 1465 |
-| **[gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** | Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file. | Python |  |  | 1133 |
-| **[SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** | A light-weight scanner for Cloudflare IPs, written in Golang | Go |  |  | 862 |
-| **[pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** |  | TypeScript |  |  | 712 |
-| **[vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** | Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds | JavaScript |  | <details><summary>agent...</summary><p>agentic, ai-agents, ai-coding-assistant, ai-development, ai-workflow, anthropic, claude, claude-code, cli-tools, code-quality, codex, coding-agents, cursor, developer-tools, llm, openai, prompt-engineering, typescript, vibe-coding, vibecoding</p></details> | 704 |
-| **[aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus | Python |  |  | 700 |
-| **[Duel-Agents](https://github.com/2aronS/Duel-Agents)** | CLI, SDK, and IDE plugins for Duel Agents | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, anthropic, claude-code, cli, cursor, duel-agents, llm, npm, openai-compatible, openclaw, sdk, typescript</p></details> | 639 |
-| **[WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** | 云微WOC，云微信，自由连接 | TypeScript |  |  | 527 |
-| **[polymarket-trading-bot](https://github.com/BlackCandleLab/polymarket-trading-bot)** | polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot,  | JavaScript |  | <details><summary>algor...</summary><p>algorithmic-trading, arbitrage, automated-trading, btc-trading-bot, clob, copy-trading, crypto-trading-bot, defi, ethereum, market-making, nodejs, polygon, polymarket, polymarket-arbitrage-bot, polymarket-copy-trading-bot, polymarket-trading-bot, prediction-markets, trading-bot, usdc, web3</p></details> | 460 |
-| **[female-portrait-director](https://github.com/liyue-aigc/female-portrait-director)** | A modular Codex Skill for directing and expanding detailed AI female portrait prompts. |  |  | <details><summary>ai-im...</summary><p>ai-image-generation, codex, codex-skill, open-source, prompt-engineering</p></details> | 454 |
-| **[specification.website](https://github.com/jdevalk/specification.website)** | Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT. | TypeScript |  | <details><summary>acces...</summary><p>accessibility, agent-readiness, astro, cloudflare-pages, llms-txt, mcp, seo, specification, web-security, web-standards, well-known</p></details> | 404 |
-| **[Qwen-VLA](https://github.com/QwenLM/Qwen-VLA)** | The official repository of Qwen-VLA |  |  |  | 394 |
-| **[rift](https://github.com/anomalyco/rift)** |  | Rust |  |  | 391 |
-| **[garnix-ci](https://github.com/garnix-io/garnix-ci)** | CI and hosting for nix-based, flakified github repos | Haskell |  |  | 373 |
-| **[weather-prediction-bot](https://github.com/Signal-Trade-Core/weather-prediction-bot)** | polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot | TypeScript |  | <details><summary>polym...</summary><p>polymarket-bot, polymarket-trading-bot, polymarket-weather-trading-bot, trading-bot, weather-bot, weather-prediction</p></details> | 367 |
-| **[skills](https://github.com/DannyMac180/skills)** | AI agent skills created by me: Dan McAteer | Python |  |  | 343 |
-| **[PhenoPixel](https://github.com/ikeda042/PhenoPixel)** | PhenoPixel: A web application for single-cell microscopy image analysis (deployed at Hiroshima University). | TypeScript |  | <details><summary>bacte...</summary><p>bacteria, bioinformatics-pipeline, cell-analysis, cell-contour, fastapi, fluorescence-microscopy-imaging, microbiology, nikon-nd2, opencv, react, single-cell-analysis</p></details> | 331 |
+| **[odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** | Self-hosted AI workspace.  | JavaScript |  |  | 35220 |
+| **[WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** | 云微WOC，云微信，自由连接 | TypeScript |  |  | 1645 |
+| **[gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** | Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file. | Python |  |  | 1287 |
+| **[aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus | Python |  |  | 1147 |
+| **[goose](https://github.com/b-nnett/goose)** | Goose Swift proof-of-concept README | Rust |  |  | 917 |
+| **[SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** | A light-weight scanner for Cloudflare IPs, written in Golang | Go |  |  | 907 |
+| **[pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** |  | TypeScript |  |  | 747 |
+| **[Duel-Agents](https://github.com/2aronS/Duel-Agents)** | CLI, SDK, and IDE plugins for Duel Agents | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, anthropic, claude-code, cli, cursor, duel-agents, llm, npm, openai-compatible, openclaw, sdk, typescript</p></details> | 690 |
+| **[memory-os](https://github.com/ClaudioDrews/memory-os)** | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider. | Python |  |  | 663 |
+| **[female-portrait-director](https://github.com/liyue-aigc/female-portrait-director)** | A modular Codex Skill for directing and expanding detailed AI female portrait prompts. |  |  | <details><summary>ai-im...</summary><p>ai-image-generation, codex, codex-skill, open-source, prompt-engineering</p></details> | 491 |
+| **[rift](https://github.com/anomalyco/rift)** |  | Rust |  |  | 462 |
+| **[specification.website](https://github.com/jdevalk/specification.website)** | Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT. | TypeScript |  | <details><summary>acces...</summary><p>accessibility, agent-readiness, astro, cloudflare-pages, llms-txt, mcp, seo, specification, web-security, web-standards, well-known</p></details> | 462 |
+| **[chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** |  | Python |  |  | 447 |
+| **[Qwen-VLA](https://github.com/QwenLM/Qwen-VLA)** | The official repository of Qwen-VLA |  |  |  | 441 |
+| **[skills](https://github.com/DannyMac180/skills)** | AI agent skills created by me: Dan McAteer | Python |  |  | 391 |
+| **[ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar)** | Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar. | C++ |  |  | 330 |
+| **[crypto-casino-bonus](https://github.com/bonus-2026/crypto-casino-bonus)** | Explore the best Crypto Casino Bonus - including no deposit welcome bonuses. Learn about Bitcoin casino rewards, free spins, cashback offers, crypto payments, mobile gaming, and responsible online casino promotions. |  |  |  | 294 |
+| **[chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** | 美股指南 |  |  |  | 282 |
+| **[reg-factory](https://github.com/tiantianGPU/reg-factory)** |  | Python |  |  | 261 |
+| **[TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** | TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI. | Python |  |  | 251 |
 
