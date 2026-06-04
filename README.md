@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-06-03
+Last update: 2026-06-04
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-06-03
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** | Self-hosted AI workspace.  | JavaScript |  |  | 35220 |
-| **[WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** | 云微WOC，云微信，自由连接 | TypeScript |  |  | 1645 |
-| **[gemini-web2api](https://github.com/Sophomoresty/gemini-web2api)** | Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file. | Python |  |  | 1287 |
-| **[aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus | Python |  |  | 1147 |
-| **[goose](https://github.com/b-nnett/goose)** | Goose Swift proof-of-concept README | Rust |  |  | 917 |
-| **[SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)** | A light-weight scanner for Cloudflare IPs, written in Golang | Go |  |  | 907 |
-| **[pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)** |  | TypeScript |  |  | 747 |
-| **[Duel-Agents](https://github.com/2aronS/Duel-Agents)** | CLI, SDK, and IDE plugins for Duel Agents | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, anthropic, claude-code, cli, cursor, duel-agents, llm, npm, openai-compatible, openclaw, sdk, typescript</p></details> | 690 |
-| **[memory-os](https://github.com/ClaudioDrews/memory-os)** | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider. | Python |  |  | 663 |
-| **[female-portrait-director](https://github.com/liyue-aigc/female-portrait-director)** | A modular Codex Skill for directing and expanding detailed AI female portrait prompts. |  |  | <details><summary>ai-im...</summary><p>ai-image-generation, codex, codex-skill, open-source, prompt-engineering</p></details> | 491 |
-| **[rift](https://github.com/anomalyco/rift)** |  | Rust |  |  | 462 |
-| **[specification.website](https://github.com/jdevalk/specification.website)** | Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT. | TypeScript |  | <details><summary>acces...</summary><p>accessibility, agent-readiness, astro, cloudflare-pages, llms-txt, mcp, seo, specification, web-security, web-standards, well-known</p></details> | 462 |
-| **[chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** |  | Python |  |  | 447 |
-| **[Qwen-VLA](https://github.com/QwenLM/Qwen-VLA)** | The official repository of Qwen-VLA |  |  |  | 441 |
-| **[skills](https://github.com/DannyMac180/skills)** | AI agent skills created by me: Dan McAteer | Python |  |  | 391 |
-| **[ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar)** | Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar. | C++ |  |  | 330 |
-| **[crypto-casino-bonus](https://github.com/bonus-2026/crypto-casino-bonus)** | Explore the best Crypto Casino Bonus - including no deposit welcome bonuses. Learn about Bitcoin casino rewards, free spins, cashback offers, crypto payments, mobile gaming, and responsible online casino promotions. |  |  |  | 294 |
-| **[chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** | 美股指南 |  |  |  | 282 |
-| **[reg-factory](https://github.com/tiantianGPU/reg-factory)** |  | Python |  |  | 261 |
-| **[TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** | TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI. | Python |  |  | 251 |
+| **[odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** | Self-hosted AI workspace.  | JavaScript |  |  | 45446 |
+| **[WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)** | 云微WOC，云微信，自由连接 | TypeScript |  |  | 1984 |
+| **[chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** | 美股指南 |  |  |  | 1634 |
+| **[goose](https://github.com/b-nnett/goose)** | Goose Swift proof-of-concept README | Rust |  |  | 1507 |
+| **[aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus | Python |  |  | 1418 |
+| **[skylight](https://github.com/cpaczek/skylight)** | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed. | TypeScript |  | <details><summary>ads-b...</summary><p>ads-b, aircraft, art-installation, flight-tracker, projector, raspberry-pi, react, rtl-sdr, typescript</p></details> | 907 |
+| **[memory-os](https://github.com/ClaudioDrews/memory-os)** | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider. | Python |  |  | 775 |
+| **[tab-labeler](https://github.com/SenhorH/tab-labeler)** | Rename browser tabs locally and bring order to chaotic sessions. | TypeScript |  |  | 569 |
+| **[chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** |  | Python |  |  | 534 |
+| **[female-portrait-director](https://github.com/liyue-aigc/female-portrait-director)** | A modular Codex Skill for directing and expanding detailed AI female portrait prompts. |  |  | <details><summary>ai-im...</summary><p>ai-image-generation, codex, codex-skill, open-source, prompt-engineering</p></details> | 506 |
+| **[rift](https://github.com/anomalyco/rift)** |  | Rust |  |  | 499 |
+| **[specification.website](https://github.com/jdevalk/specification.website)** | Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT. | TypeScript |  | <details><summary>acces...</summary><p>accessibility, agent-readiness, astro, cloudflare-pages, llms-txt, mcp, seo, specification, web-security, web-standards, well-known</p></details> | 482 |
+| **[skills](https://github.com/DannyMac180/skills)** | AI agent skills created by me: Dan McAteer | Python |  |  | 404 |
+| **[reg-factory](https://github.com/tiantianGPU/reg-factory)** |  | Python |  |  | 388 |
+| **[nbd-vram](https://github.com/c0deJedi/nbd-vram)** | Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work | Shell |  | <details><summary>cuda,...</summary><p>cuda, gpu, laptop, linux, memory, nbd, nvidia, swap, vram</p></details> | 359 |
+| **[ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar)** | Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar. | C++ |  |  | 349 |
+| **[TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** | TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI. | Python |  |  | 334 |
+| **[Bernini](https://github.com/bytedance/Bernini)** | Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer. | Python |  | <details><summary>image...</summary><p>image-editing, image-generation, video-editing, video-generation</p></details> | 324 |
+| **[JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** | JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation | Python |  |  | 307 |
+| **[ShardBrowser](https://github.com/ProxyShard/ShardBrowser)** | Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, anti-detect-browser, antidetect-browser, browser-fingerprinting, chromium, fingerprint, headless-browser, headless-chrome, multi-accounting, playwright, proxy, proxyshard, puppeteer, quic, stealth-browser, tauri, udp, web-scraping, webrtc, webscraping</p></details> | 300 |
 
