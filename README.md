@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-06-05
+Last update: 2026-06-06
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-06-05
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** | Self-hosted AI workspace.  | Python |  |  | 52112 |
-| **[chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)** | 美股指南 |  |  |  | 2915 |
-| **[goose](https://github.com/b-nnett/goose)** | Goose Swift proof-of-concept README | Rust |  |  | 1938 |
-| **[aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus | Python |  |  | 1489 |
-| **[skylight](https://github.com/cpaczek/skylight)** | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed. | TypeScript |  | <details><summary>ads-b...</summary><p>ads-b, aircraft, art-installation, flight-tracker, projector, raspberry-pi, react, rtl-sdr, typescript</p></details> | 1270 |
-| **[memory-os](https://github.com/ClaudioDrews/memory-os)** | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider. | Python |  | <details><summary>ai-me...</summary><p>ai-memory, context-injection, docker, ground-truth, hermes-agent, local-first, open-source, persistent-memory, qdrant, rag, self-hosted, vector-database</p></details> | 835 |
-| **[chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** |  | Python |  |  | 563 |
-| **[female-portrait-director](https://github.com/liyue-aigc/female-portrait-director)** | A modular Codex Skill for directing and expanding detailed AI female portrait prompts. |  |  | <details><summary>ai-im...</summary><p>ai-image-generation, codex, codex-skill, open-source, prompt-engineering</p></details> | 511 |
-| **[rift](https://github.com/anomalyco/rift)** |  | Rust |  |  | 509 |
-| **[tab-labeler](https://github.com/SenhorH/tab-labeler)** | Rename browser tabs locally and bring order to chaotic sessions. | TypeScript |  |  | 459 |
-| **[JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** | JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation | Python |  |  | 454 |
-| **[Void-Tools-v2.0](https://github.com/V0id-v2/Void-Tools-v2.0)** | Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only. | Python |  | <details><summary>disco...</summary><p>discord-joiner, discord-multi-tool, discord-multitool, discord-multitools, discord-nuke-bot, discord-nuker, discord-nukers, discord-raid, discord-raid-tool, discord-raider, discord-token-gen, discord-token-generator, discord-tool, discord-tools, multi-tools, multitool, token-generator, token-joiner, token-nuker</p></details> | 440 |
-| **[reg-factory](https://github.com/tiantianGPU/reg-factory)** |  | Python |  |  | 414 |
-| **[sandboxes](https://github.com/tastyeffectco/sandboxes)** | Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories | Go |  | <details><summary>ai, a...</summary><p>ai, ai-agent, dev-environment, docker, isolation, preview, preview-environment, sandbox, self-hosted</p></details> | 398 |
-| **[nbd-vram](https://github.com/c0deJedi/nbd-vram)** | Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work | Shell |  | <details><summary>cuda,...</summary><p>cuda, gpu, laptop, linux, memory, nbd, nvidia, swap, vram</p></details> | 391 |
-| **[ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar)** | Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar. | C++ |  |  | 378 |
-| **[TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** | TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI. | Python |  |  | 367 |
-| **[ExamPass-Assistant](https://github.com/WUBING2023/ExamPass-Assistant)** | 把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友 | Python |  |  | 333 |
-| **[vimhjkl](https://github.com/S-Sigdel/vimhjkl)** | learn vim from your terminal with spaced repetition | Python |  |  | 323 |
-| **[ShardBrowser](https://github.com/ProxyShard/ShardBrowser)** | Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, anti-detect-browser, antidetect-browser, browser-fingerprinting, chromium, fingerprint, headless-browser, headless-chrome, multi-accounting, playwright, proxy, proxyshard, puppeteer, quic, stealth-browser, tauri, udp, web-scraping, webrtc, webscraping</p></details> | 315 |
+| **[odysseus](https://github.com/pewdiepie-archdaemon/odysseus)** | Self-hosted AI workspace.  | Python |  |  | 56177 |
+| **[goose](https://github.com/b-nnett/goose)** | Goose Swift proof-of-concept README | Rust |  |  | 2121 |
+| **[skylight](https://github.com/cpaczek/skylight)** | Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed. | TypeScript |  | <details><summary>ads-b...</summary><p>ads-b, aircraft, art-installation, flight-tracker, projector, raspberry-pi, react, rtl-sdr, typescript</p></details> | 1773 |
+| **[aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)** | 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus | Python |  |  | 1538 |
+| **[memory-os](https://github.com/ClaudioDrews/memory-os)** | A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider. | Python |  | <details><summary>ai-me...</summary><p>ai-memory, context-injection, docker, ground-truth, hermes-agent, local-first, open-source, persistent-memory, qdrant, rag, self-hosted, vector-database</p></details> | 887 |
+| **[JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)** | JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation | Python |  |  | 595 |
+| **[chokepoint-atlas](https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas)** |  | Python |  |  | 584 |
+| **[rift](https://github.com/anomalyco/rift)** |  | Rust |  |  | 533 |
+| **[sandboxes](https://github.com/tastyeffectco/sandboxes)** | Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories | Go |  | <details><summary>ai, a...</summary><p>ai, ai-agent, dev-environment, docker, isolation, preview, preview-environment, sandbox, self-hosted</p></details> | 440 |
+| **[TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)** | TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI. | Python |  |  | 439 |
+| **[reg-factory](https://github.com/tiantianGPU/reg-factory)** |  | Python |  |  | 438 |
+| **[xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)** | One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。 | JavaScript |  | <details><summary>bilib...</summary><p>bilibili, chrome-extension, launchd, macos, manifest-v3, privacy-friendly, video-downloader, youtube-dl, yt-dlp</p></details> | 408 |
+| **[ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar)** | Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar. | C++ |  |  | 387 |
+| **[tab-labeler](https://github.com/SenhorH/tab-labeler)** | Rename browser tabs locally and bring order to chaotic sessions. | TypeScript |  |  | 386 |
+| **[QMAI](https://github.com/Mochocyang/QMAI)** | 青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。 | TypeScript |  |  | 364 |
+| **[vimhjkl](https://github.com/S-Sigdel/vimhjkl)** | learn vim from your terminal with spaced repetition | Python |  |  | 352 |
+| **[munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** | local multi-agent harness | TypeScript |  | <details><summary>agent...</summary><p>agents, claude-code, free, harness, harness-engineering, memory</p></details> | 339 |
+| **[Anima](https://github.com/Fullive-AI/Anima)** | Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence | Python |  |  | 331 |
+| **[sage](https://github.com/ConiferKit/sage)** |  |  |  |  | 303 |
+| **[agent](https://github.com/PentesterFlow/agent)** | Agentic offensive-security in your terminal | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-agents, bugbounty, penetration-testing, security-audit, security-automation</p></details> | 296 |
 
