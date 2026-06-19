@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - June 18, 2026
+title: Latest 10 Trending Repositories - June 19, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: June 18, 2026
+### 📅 Date: June 19, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[ponytail](https://github.com/DietrichGebert/ponytail)** | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | JavaScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni</p></details> | 32882 |
-| **[kage](https://github.com/tamnd/kage)** | Shadow any website for offline viewing, with the JavaScript stripped out | Go |  |  | 1876 |
-| **[aur-malware-check](https://github.com/lenucksi/aur-malware-check)** | Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists. | Shell |  |  | 1478 |
-| **[IPA-Download](https://github.com/EEliberto/IPA-Download)** | 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。 | Swift |  |  | 1034 |
-| **[eve](https://github.com/vercel/eve)** | The Framework for Building Agents | TypeScript |  | <details><summary>agent...</summary><p>agent, framework, harness, javascript, markdown, sandbox, typescript, vercel, workflows</p></details> | 889 |
-| **[renwei-writing](https://github.com/orange2ai/renwei-writing)** | 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them |  |  |  | 787 |
-| **[pixel2motion](https://github.com/nolangz/pixel2motion)** | AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence. | Python |  | <details><summary>ai-de...</summary><p>ai-design-tools, animated-logo, brand-motion, claude-skill, codex-skill, html-animation, logo-animation, logo-motion, logo-reveal, motion-design, pixel-to-svg, raster-to-svg, svg-animation, svg-motion, vector-animation</p></details> | 742 |
-| **[loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** | 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free. |  |  |  | 646 |
-| **[vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** | Vorssaint macOS app | Swift |  |  | 608 |
-| **[GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp)** |  | C |  |  | 539 |
+| **[kage](https://github.com/tamnd/kage)** | Shadow any website for offline viewing, with the JavaScript stripped out | Go |  |  | 2022 |
+| **[eve](https://github.com/vercel/eve)** | The Framework for Building Agents | TypeScript |  | <details><summary>agent...</summary><p>agent, framework, harness, javascript, markdown, sandbox, typescript, vercel, workflows</p></details> | 1443 |
+| **[IPA-Download](https://github.com/EEliberto/IPA-Download)** | 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。 | Swift |  |  | 1077 |
+| **[devspace](https://github.com/Waishnav/devspace)** | Turn ChatGPT into Codex | TypeScript |  |  | 990 |
+| **[loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** | 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free. |  |  |  | 675 |
+| **[junction](https://github.com/Plaer1/junction)** | VS Code chat sidebar for local AI coding agents | TypeScript |  |  | 510 |
+| **[fable-mode](https://github.com/mrtooher/fable-mode)** | A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification. |  |  |  | 503 |
+| **[fablize](https://github.com/fivetaku/fablize)** | A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable. | Python |  | <details><summary>agent...</summary><p>agentic, anthropic, claude, claude-code, fable, harness, opus</p></details> | 485 |
+| **[sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram)** | ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded | JavaScript |  | <details><summary>data-...</summary><p>data-modeling, database, database-schema, dbdiagram, dbml, developer-tools, diagram, entity-relationship-diagram, er-diagram, erd, mysql, open-source, postgresql, schema, sql, sql-parser, sqlite, vanilla-js, visualization, vite</p></details> | 468 |
+| **[codexpro](https://github.com/rebel0789/codexpro)** | Use ChatGPT Developer Mode as a local coding agent for your repo through MCP. | TypeScript |  | <details><summary>apps-...</summary><p>apps-sdk, chatgpt, cloudflare-tunnel, codex, local-development, mcp, ngrok</p></details> | 407 |
 
