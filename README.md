@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-06-27
+Last update: 2026-06-28
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-06-27
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） | HTML |  |  | 2159 |
-| **[birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** |  | JavaScript |  |  | 736 |
-| **[CWR](https://github.com/BohemiaInteractive/CWR)** | Arma: Cold War Assault Remastered Source Code Repository. | C++ |  |  | 629 |
-| **[Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** | Qwen-AgentWorld: Language World Models for General Agents | Python |  |  | 571 |
-| **[wloc](https://github.com/Yu9191/wloc)** | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位 | JavaScript |  |  | 489 |
-| **[awesome-evals](https://github.com/benchflow-ai/awesome-evals)** | A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow. |  |  | <details><summary>agent...</summary><p>agent-evaluation, ai-agents, awesome, awesome-list, benchmarks, evals, llm, llm-evaluation, rl-environments</p></details> | 483 |
-| **[theeleven](https://github.com/winsznx/theeleven)** | Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, defi, eip-3009, erc-8257, football, foundry, gasless, mcp, nextjs, okx, prediction-markets, solidity, uniswap-hooks, uniswap-v4, usdt0, web3, x-layer</p></details> | 481 |
-| **[AgentSpace](https://github.com/HKUDS/AgentSpace)** | "AgentSpace: Human + Agents. One Team. One Workspace" | TypeScript |  |  | 457 |
-| **[claude-status-bar](https://github.com/m1ckc3s/claude-status-bar)** | A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle. | Swift |  |  | 361 |
-| **[open_oura](https://github.com/Th0rgal/open_oura)** | A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally. | Rust |  |  | 342 |
-| **[tabbit-toy](https://github.com/goehou/tabbit-toy)** | 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型 | JavaScript |  |  | 333 |
-| **[liquid-glass](https://github.com/samasante/liquid-glass)** | Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies. | TypeScript |  |  | 324 |
-| **[huasheng13-skill](https://github.com/WangJunqing-coder/huasheng13-skill)** | 基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。 |  |  |  | 311 |
-| **[krea-2](https://github.com/krea-ai/krea-2)** | Official inference code for Krea 2 | Python |  |  | 307 |
-| **[opentag](https://github.com/amplifthq/opentag)** | Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread. | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, claude, codex, github, slack</p></details> | 305 |
-| **[baiyueguang-learning-skill](https://github.com/SarkAzia/baiyueguang-learning-skill)** | 用视奸前任白月光的方式学数学以及任何学科 |  |  |  | 293 |
-| **[pm-adam-trader](https://github.com/PMTraderAdam/pm-adam-trader)** |  | TypeScript |  |  | 288 |
-| **[ComfyUI-ConditioningKrea2Rebalance](https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance)** | Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model. | Python |  |  | 271 |
-| **[OpenFugu](https://github.com/trotsky1997/OpenFugu)** | Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve. | Python |  |  | 252 |
-| **[exploitarium](https://github.com/bikini/exploitarium)** | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz | Python |  |  | 244 |
+| **[codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） | HTML |  |  | 2224 |
+| **[DeepSpec](https://github.com/deepseek-ai/DeepSpec)** | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms | Python |  |  | 1523 |
+| **[exploitarium](https://github.com/bikini/exploitarium)** | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. | Python |  |  | 1359 |
+| **[wloc](https://github.com/Yu9191/wloc)** | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位 | JavaScript |  |  | 696 |
+| **[CWR](https://github.com/BohemiaInteractive/CWR)** | Arma: Cold War Assault Remastered Source Code Repository. | C++ |  |  | 664 |
+| **[theeleven](https://github.com/winsznx/theeleven)** | Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, defi, eip-3009, erc-8257, football, foundry, gasless, mcp, nextjs, okx, prediction-markets, solidity, uniswap-hooks, uniswap-v4, usdt0, web3, x-layer</p></details> | 650 |
+| **[Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** | Qwen-AgentWorld: Language World Models for General Agents | Python |  |  | 599 |
+| **[awesome-evals](https://github.com/benchflow-ai/awesome-evals)** | A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow. |  |  | <details><summary>agent...</summary><p>agent-evaluation, ai-agents, awesome, awesome-list, benchmarks, evals, llm, llm-evaluation, rl-environments</p></details> | 538 |
+| **[AgentSpace](https://github.com/HKUDS/AgentSpace)** | "AgentSpace: Human + Agents. One Team. One Workspace" | TypeScript |  |  | 486 |
+| **[pdfx](https://github.com/AlexandrosGounis/pdfx)** | An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata | TypeScript |  |  | 373 |
+| **[tabbit-toy](https://github.com/goehou/tabbit-toy)** | 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型 | JavaScript |  |  | 369 |
+| **[huasheng13-skill](https://github.com/WangJunqing-coder/huasheng13-skill)** | 基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。 |  |  |  | 359 |
+| **[Plumtown](https://github.com/playPlumtown/Plumtown)** | The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser. | JavaScript |  |  | 355 |
+| **[video-production-skills](https://github.com/Pluviobyte/video-production-skills)** | Reusable AI video production skills library for creation, recreation, motion design, openers, and QA. | Python |  |  | 344 |
+| **[liquid-glass](https://github.com/samasante/liquid-glass)** | Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies. | TypeScript |  |  | 342 |
+| **[opentag](https://github.com/amplifthq/opentag)** | Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread. | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, claude, codex, github, slack</p></details> | 336 |
+| **[krea-2](https://github.com/krea-ai/krea-2)** | Official inference code for Krea 2 | Python |  |  | 333 |
+| **[pm-adam-trader](https://github.com/PMTraderAdam/pm-adam-trader)** |  | TypeScript |  |  | 309 |
+| **[ComfyUI-Conditioning-Rebalance](https://github.com/nova452/ComfyUI-Conditioning-Rebalance)** | Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model. | Python |  |  | 278 |
+| **[mithka](https://github.com/iebb/mithka)** |  | Dart |  |  | 278 |
 
