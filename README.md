@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-06-30
+Last update: 2026-07-01
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-06-30
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[DeepSpec](https://github.com/deepseek-ai/DeepSpec)** | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms | Python |  |  | 4162 |
-| **[wloc](https://github.com/Yu9191/wloc)** | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位 | JavaScript |  |  | 1568 |
-| **[CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering |  |  |  | 998 |
-| **[torlink](https://github.com/baairon/torlink)** | A sleek, zero-setup torrent finder and downloader that lives right in your terminal. | TypeScript |  | <details><summary>downl...</summary><p>downloader, magnet-links, p2p, torrent, torrent-client, zero-configuration</p></details> | 757 |
-| **[theeleven](https://github.com/winsznx/theeleven)** | Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, defi, eip-3009, erc-8257, football, foundry, gasless, mcp, nextjs, okx, prediction-markets, solidity, uniswap-hooks, uniswap-v4, usdt0, web3, x-layer</p></details> | 715 |
-| **[awesome-evals](https://github.com/benchflow-ai/awesome-evals)** | A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow. |  |  | <details><summary>agent...</summary><p>agent-evaluation, ai-agents, awesome, awesome-list, benchmarks, evals, llm, llm-evaluation, rl-environments</p></details> | 592 |
-| **[pdfx](https://github.com/AlexandrosGounis/pdfx)** | An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata | TypeScript |  |  | 574 |
-| **[Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** |  | Python |  |  | 572 |
-| **[video-production-skills](https://github.com/Pluviobyte/video-production-skills)** | Reusable AI video production skills library for creation, recreation, motion design, openers, and QA. | Python |  |  | 456 |
-| **[OpenTag](https://github.com/CopilotKit/OpenTag)** | OpenTag | TypeScript |  |  | 415 |
-| **[contained-app](https://github.com/tdeverx/contained-app)** | A native macOS app for Apple's Container CLI | Swift |  | <details><summary>apple...</summary><p>apple-container, apple-silicon, containers, devtools, docker-alternative, liquid-glass, macos, sparkle, swift, swiftpm, swiftui</p></details> | 408 |
-| **[dd](https://github.com/ricccrd/dd)** |  | C |  |  | 373 |
-| **[opentag](https://github.com/amplifthq/opentag)** | Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread. | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, claude, codex, github, slack</p></details> | 371 |
-| **[clash](https://github.com/downclash/clash)** |  | JavaScript |  |  | 369 |
-| **[CandyDrop](https://github.com/blknoiz0632/CandyDrop)** | Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill. | JavaScript |  |  | 358 |
-| **[lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)** | Premium hand-drawn animated architecture diagram Codex skill | Python |  |  | 352 |
-| **[sillygoose](https://github.com/slimopump/sillygoose)** |  |  |  |  | 329 |
-| **[hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension)** | Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime. | JavaScript |  | <details><summary>ai-ag...</summary><p>ai-agent, browser-extension, chrome-extension, edge-extension, hermes-agent, local-first, nous-research, sidepanel</p></details> | 318 |
-| **[pm-copy-trader](https://github.com/PMTraderAdam/pm-copy-trader)** | polymarket copytrading bot || polymarket copytradingbot || polymarket copy trading bot || polymarket copytrading bot || polymarket trading bot || polymarket trading bot | TypeScript |  | <details><summary>bot, ...</summary><p>bot, copytrading, polymarket, polymarket-copy-trading-bot, polymarket-copytrading-bot</p></details> | 318 |
-| **[Browser-BC](https://github.com/Einsia/Browser-BC)** | Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting. | TypeScript |  |  | 315 |
+| **[DeepSpec](https://github.com/deepseek-ai/DeepSpec)** | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms | Python |  |  | 5447 |
+| **[torlink](https://github.com/baairon/torlink)** | A sleek, zero-setup torrent finder and downloader that lives right in your terminal. | TypeScript |  | <details><summary>downl...</summary><p>downloader, magnet-links, p2p, torrent, torrent-client, zero-configuration</p></details> | 1836 |
+| **[CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering |  |  |  | 1246 |
+| **[Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** |  | Python |  |  | 881 |
+| **[theeleven](https://github.com/winsznx/theeleven)** | Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, defi, eip-3009, erc-8257, football, foundry, gasless, mcp, nextjs, okx, prediction-markets, solidity, uniswap-hooks, uniswap-v4, usdt0, web3, x-layer</p></details> | 693 |
+| **[Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** | Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump | Python |  | <details><summary>ai, a...</summary><p>ai, ai-agents</p></details> | 640 |
+| **[video-production-skills](https://github.com/Pluviobyte/video-production-skills)** | Reusable AI video production skills library for creation, recreation, motion design, openers, and QA. | Python |  |  | 486 |
+| **[OpenTag](https://github.com/CopilotKit/OpenTag)** | OpenTag | TypeScript |  |  | 471 |
+| **[contained-app](https://github.com/tdeverx/contained-app)** | A native macOS app for Apple's Container CLI | Swift |  | <details><summary>apple...</summary><p>apple-container, apple-silicon, containers, devtools, docker-alternative, liquid-glass, macos, sparkle, swift, swiftpm, swiftui</p></details> | 438 |
+| **[lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)** | Premium hand-drawn animated architecture diagram Codex skill | Python |  |  | 389 |
+| **[dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac)** | 在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤 |  |  |  | 367 |
+| **[dd](https://github.com/ricccrd/dd)** |  | C |  |  | 356 |
+| **[codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)** | Codex CLI instruction-file installer for local configuration | Python |  |  | 354 |
+| **[linux-antiquity](https://github.com/diinki/linux-antiquity)** | A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology. | QML |  |  | 352 |
+| **[sim-use](https://github.com/lycorp-jp/sim-use)** | Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices. | Swift |  | <details><summary>acces...</summary><p>accessibility, ai-agents, ai-development, android-emulator, ios-simulator, mobile-automation</p></details> | 352 |
+| **[clash](https://github.com/downclash/clash)** |  | JavaScript |  |  | 350 |
+| **[Browser-BC](https://github.com/Einsia/Browser-BC)** | Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting. | TypeScript |  |  | 345 |
+| **[CandyDrop](https://github.com/blknoiz0632/CandyDrop)** | Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill. | JavaScript |  |  | 341 |
+| **[coinflip-casino-game](https://github.com/xxniiinxx/coinflip-casino-game)** | A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB.  | TypeScript |  | <details><summary>ancho...</summary><p>anchor, betting, blockchain-game, casino, coinflip, cryptocurrency, defi, fullstack, gambling, mongodb</p></details> | 337 |
+| **[Amber](https://github.com/offchainthoughts/Amber)** | Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be. | Python |  |  | 324 |
 
