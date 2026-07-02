@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - July 01, 2026
+title: Latest 10 Trending Repositories - July 02, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: July 01, 2026
+### 📅 Date: July 02, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[DeepSpec](https://github.com/deepseek-ai/DeepSpec)** | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms | Python |  |  | 5447 |
-| **[torlink](https://github.com/baairon/torlink)** | A sleek, zero-setup torrent finder and downloader that lives right in your terminal. | TypeScript |  | <details><summary>downl...</summary><p>downloader, magnet-links, p2p, torrent, torrent-client, zero-configuration</p></details> | 1836 |
-| **[CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering |  |  |  | 1246 |
-| **[Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** |  | Python |  |  | 881 |
-| **[theeleven](https://github.com/winsznx/theeleven)** | Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, defi, eip-3009, erc-8257, football, foundry, gasless, mcp, nextjs, okx, prediction-markets, solidity, uniswap-hooks, uniswap-v4, usdt0, web3, x-layer</p></details> | 693 |
-| **[Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** | Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump | Python |  | <details><summary>ai, a...</summary><p>ai, ai-agents</p></details> | 640 |
-| **[video-production-skills](https://github.com/Pluviobyte/video-production-skills)** | Reusable AI video production skills library for creation, recreation, motion design, openers, and QA. | Python |  |  | 486 |
-| **[OpenTag](https://github.com/CopilotKit/OpenTag)** | OpenTag | TypeScript |  |  | 471 |
-| **[contained-app](https://github.com/tdeverx/contained-app)** | A native macOS app for Apple's Container CLI | Swift |  | <details><summary>apple...</summary><p>apple-container, apple-silicon, containers, devtools, docker-alternative, liquid-glass, macos, sparkle, swift, swiftpm, swiftui</p></details> | 438 |
-| **[lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)** | Premium hand-drawn animated architecture diagram Codex skill | Python |  |  | 389 |
+| **[DeepSpec](https://github.com/deepseek-ai/DeepSpec)** | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms | Python |  |  | 5787 |
+| **[CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering |  |  |  | 1352 |
+| **[Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** |  | Python |  |  | 1039 |
+| **[ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module. | JavaScript |  |  | 803 |
+| **[self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** | A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time. |  |  |  | 773 |
+| **[Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** | Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump | Python |  | <details><summary>ai, a...</summary><p>ai, ai-agents</p></details> | 725 |
+| **[CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)** | CVE-2026-41940 authentication bypass vulnerability proof-of-concept | Python |  | <details><summary>cpane...</summary><p>cpanel, cve, cve-2026-41940, cve-2026-41940-poc</p></details> | 571 |
+| **[OpenTag](https://github.com/CopilotKit/OpenTag)** | OpenTag | TypeScript |  |  | 495 |
+| **[video-production-skills](https://github.com/Pluviobyte/video-production-skills)** | Reusable AI video production skills library for creation, recreation, motion design, openers, and QA. | Python |  |  | 492 |
+| **[linux-antiquity](https://github.com/diinki/linux-antiquity)** | A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology. | QML |  |  | 448 |
 
