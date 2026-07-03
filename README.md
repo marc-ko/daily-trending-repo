@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-07-02
+Last update: 2026-07-03
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-07-02
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[DeepSpec](https://github.com/deepseek-ai/DeepSpec)** | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms | Python |  |  | 5787 |
-| **[CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering |  |  |  | 1352 |
-| **[Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** |  | Python |  |  | 1039 |
-| **[ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module. | JavaScript |  |  | 803 |
-| **[self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** | A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time. |  |  |  | 773 |
-| **[Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** | Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump | Python |  | <details><summary>ai, a...</summary><p>ai, ai-agents</p></details> | 725 |
-| **[CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)** | CVE-2026-41940 authentication bypass vulnerability proof-of-concept | Python |  | <details><summary>cpane...</summary><p>cpanel, cve, cve-2026-41940, cve-2026-41940-poc</p></details> | 571 |
-| **[OpenTag](https://github.com/CopilotKit/OpenTag)** | OpenTag | TypeScript |  |  | 495 |
-| **[video-production-skills](https://github.com/Pluviobyte/video-production-skills)** | Reusable AI video production skills library for creation, recreation, motion design, openers, and QA. | Python |  |  | 492 |
-| **[linux-antiquity](https://github.com/diinki/linux-antiquity)** | A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology. | QML |  |  | 448 |
-| **[lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)** | Premium hand-drawn animated architecture diagram Codex skill | Python |  |  | 425 |
-| **[leronx](https://github.com/Leron-X/leronx)** | LeronX — AI Image & Video Generation Platform | Python |  |  | 418 |
-| **[sim-use](https://github.com/lycorp-jp/sim-use)** | Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices. | Swift |  | <details><summary>acces...</summary><p>accessibility, ai-agents, ai-development, android-emulator, ios-simulator, mobile-automation</p></details> | 405 |
-| **[dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac)** | 在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤 |  |  |  | 386 |
-| **[codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)** | Codex CLI instruction-file installer for local configuration | Python |  |  | 378 |
-| **[dd](https://github.com/ricccrd/dd)** |  | C |  |  | 358 |
-| **[Browser-BC](https://github.com/Einsia/Browser-BC)** | Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting. | TypeScript |  |  | 358 |
-| **[coinflip-casino-game](https://github.com/xxniiinxx/coinflip-casino-game)** | A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB.  | TypeScript |  | <details><summary>ancho...</summary><p>anchor, betting, blockchain-game, casino, coinflip, cryptocurrency, defi, fullstack, gambling, mongodb</p></details> | 350 |
-| **[clash](https://github.com/downclash/clash)** |  | JavaScript |  |  | 343 |
-| **[OpenRAM](https://github.com/tryOpenRAM/OpenRAM)** | Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned.  | Vue |  |  | 334 |
+| **[CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering |  |  |  | 1447 |
+| **[ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module. | JavaScript |  |  | 1150 |
+| **[Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** |  | Python |  |  | 1127 |
+| **[self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** | A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time. |  |  |  | 903 |
+| **[Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** | Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump | Python |  | <details><summary>ai, a...</summary><p>ai, ai-agents</p></details> | 756 |
+| **[CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)** | CVE-2026-41940 authentication bypass vulnerability proof-of-concept | Python |  | <details><summary>cpane...</summary><p>cpanel, cve, cve-2026-41940, cve-2026-41940-poc</p></details> | 572 |
+| **[linux-antiquity](https://github.com/diinki/linux-antiquity)** | A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology. | QML |  |  | 506 |
+| **[dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac)** | 在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤 |  |  |  | 408 |
+| **[codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)** | Codex CLI instruction-file installer for local configuration | Python |  |  | 403 |
+| **[cdk-redeem-only-extension](https://github.com/kui123456789/cdk-redeem-only-extension)** | UPI redeem only extension | JavaScript |  |  | 353 |
+| **[clash](https://github.com/downclash/clash)** |  | JavaScript |  |  | 344 |
+| **[Amber](https://github.com/offchainthoughts/Amber)** | Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be. | Python |  |  | 333 |
+| **[FrciblyK12](https://github.com/asz798838958/FrciblyK12)** | 多线程全自动注册free 强上K12空间 | Python |  |  | 324 |
+| **[ackem](https://github.com/JasonLiu0826/ackem)** | Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0 | TypeScript |  |  | 295 |
+| **[Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases)** | Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases. | Python |  | <details><summary>seeda...</summary><p>seedance, seedance-2, seedance-2-0, seedance-2-0-api, seedance-2-api, seedance-2-mini, seedance2</p></details> | 289 |
+| **[reverse-flow-skill](https://github.com/lingbol088-spec/reverse-flow-skill)** | 面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。 | Python |  |  | 284 |
+| **[Godcoder](https://github.com/eli-labz/Godcoder)** | A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes. | Rust |  | <details><summary>ai, c...</summary><p>ai, coding-agent, desktop-app, llm, local-first, mcp, open-source, openai, rust, tauri</p></details> | 272 |
+| **[Data_Recovery](https://github.com/vidhitam/Data_Recovery)** | Recover accidentally deleted files from HDD, SSD, USB, and memory cards. Quick and deep scan modes. | Python |  |  | 264 |
+| **[ds.css](https://github.com/spiritov/ds.css)** | A css framework recreating the DS / DS Lite's UI | CSS |  |  | 264 |
+| **[Color_Picker](https://github.com/smileyprathu/Color_Picker)** | Pick colors from anywhere on screen, get hex/RGB values, and build color palettes. Perfect for designers. | Python |  |  | 260 |
 
