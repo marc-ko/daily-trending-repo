@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-07-21
+Last update: 2026-07-22
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-07-21
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** | Codex Dream Skin | JavaScript |  |  | 11180 |
-| **[wardrobe](https://github.com/tandpfun/wardrobe)** | Your clothes, extracted and organized with gpt-image. | JavaScript |  |  | 1223 |
-| **[img2threejs](https://github.com/hoainho/img2threejs)** | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. | Python |  | <details><summary>3d, a...</summary><p>3d, ai-agents, claude-code, computer-graphics, generative, image-to-3d, procedural-generation, threejs, typescript, webgl</p></details> | 1104 |
-| **[conversation-steganography](https://github.com/nethical6/conversation-steganography)** | Use LLMs to hide messages inside normal looking conversations | Go |  | <details><summary>llm-t...</summary><p>llm-tools, steganography</p></details> | 884 |
-| **[yoinks](https://github.com/pablostanley/yoinks)** | yoink any video from your terminal. no shady ads. | TypeScript |  |  | 879 |
-| **[harness-engineering](https://github.com/lopopolo/harness-engineering)** | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering | Python |  |  | 874 |
-| **[cue](https://github.com/Blueturboguy07/cue)** | Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key. | JavaScript |  |  | 667 |
-| **[vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** | V- Modal AI: Search anything anywhere SDK Flutter | Dart |  |  | 623 |
-| **[handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** | Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames. | Python |  |  | 518 |
-| **[gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll)** | 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill | Python |  | <details><summary>agent...</summary><p>agent-skill, broll, gemini, paper-collage, video-generation</p></details> | 490 |
-| **[circuit-framework](https://github.com/EthanXiang777/circuit-framework)** | Circuit Framework — multi-agent LLM trading research system | Python |  |  | 486 |
-| **[Trading-Bot](https://github.com/MIgHTy-alIeN/Trading-Bot)** | An arbitrage bot is a smart contract connected to an external automation script that controls its operation. | Solidity |  | <details><summary>ai, a...</summary><p>ai, aitradingbot, bot, btc, claude, eth, etherlab, mev, mevbots</p></details> | 467 |
-| **[wp2shell-poc](https://github.com/Icex0/wp2shell-poc)** | wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain | Python |  | <details><summary>cve-2...</summary><p>cve-2026-63030, wp2shell, wp2shell-poc</p></details> | 429 |
-| **[Holo](https://github.com/JustinGamer191/Holo)** |  | Swift |  |  | 383 |
-| **[yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck)** | 发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。 | Python |  | <details><summary>agent...</summary><p>agent-skills, ai, chinese, claude, content-compliance, cursor, douyin, wechat-channels, xiaohongshu</p></details> | 358 |
-| **[agentsmith](https://github.com/PromptPartner/agentsmith)** | Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script. | Shell |  | <details><summary>agent...</summary><p>agentic-ai, agentic-coding, ai-agents, ai-tools, automation, claude, claude-code, codex, coding-agent, developer-tools, gemini, llm, llm-agents, open-source, prompt-engineering, vibe-coding</p></details> | 315 |
-| **[appless](https://github.com/thesysdev/appless)** | What if your phone had no apps | TypeScript |  | <details><summary>gener...</summary><p>generative-ui, llm, react-native</p></details> | 301 |
-| **[inspired-mino-design-skills](https://github.com/my-take-dev/inspired-mino-design-skills)** | ミノ駆動氏のWebに掲載されている資料から作成した開発スキル | Shell |  |  | 295 |
-| **[football-stadium](https://github.com/thebuggeddev/football-stadium)** | A 3D football stadium to visualize where you sit in the seat before you buy it | HTML |  |  | 292 |
-| **[heige-codex-skin-studio](https://github.com/HeiGeAi/heige-codex-skin-studio)** | 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows) | JavaScript |  | <details><summary>agent...</summary><p>agent-skill, anime, chatgpt, codex, codex-desktop, customization, devtools-protocol, electron, hatsune-miku, macos, skin, theme, theme-switcher</p></details> | 287 |
+| **[harness-engineering](https://github.com/lopopolo/harness-engineering)** | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering | Python |  |  | 1744 |
+| **[wardrobe](https://github.com/tandpfun/wardrobe)** | Your clothes, extracted and organized with gpt-image. | JavaScript |  |  | 1291 |
+| **[yoinks](https://github.com/pablostanley/yoinks)** | yoink any video from your terminal. no shady ads. | TypeScript |  |  | 971 |
+| **[conversation-steganography](https://github.com/nethical6/conversation-steganography)** | Use LLMs to hide messages inside normal looking conversations | Go |  | <details><summary>llm-t...</summary><p>llm-tools, steganography</p></details> | 915 |
+| **[vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** | V- Modal AI: Search anything anywhere SDK Flutter | Dart |  |  | 784 |
+| **[MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** | An arbitrage bot is a smart contract connected to an external automation script that controls its operation. | Solidity |  | <details><summary>ai, a...</summary><p>ai, aitradingbot, bot, btc, claude, eth, etherlab, mev, mevbots</p></details> | 739 |
+| **[nativ](https://github.com/Blaizzy/nativ)** | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. | Swift |  |  | 649 |
+| **[handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** | Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames. | Python |  |  | 597 |
+| **[circuit-framework](https://github.com/EthanXiang777/circuit-framework)** | Circuit Framework — multi-agent LLM trading research system | Python |  |  | 487 |
+| **[pohuy](https://github.com/smixs/pohuy)** | Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+ |  |  |  | 470 |
+| **[wp2shell-poc](https://github.com/Icex0/wp2shell-poc)** | wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain | Python |  | <details><summary>cve-2...</summary><p>cve-2026-63030, wp2shell, wp2shell-poc</p></details> | 468 |
+| **[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, ai-video, claude-code, claude-code-skills, claude-skills, codex, motion-design, motion-graphics, product-video, promo-video, remotion, video-generation, video-production</p></details> | 452 |
+| **[Holo](https://github.com/JustinGamer191/Holo)** |  | Swift |  |  | 410 |
+| **[goutoujunshi](https://github.com/powerycy/goutoujunshi)** | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 | Python |  | <details><summary>ai-ag...</summary><p>ai-agent, chinese, codex, codex-skill, lgbtq, psychology, relationship-advice</p></details> | 369 |
+| **[MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui)** | A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform. | Rust |  | <details><summary>anime...</summary><p>anime, moviebox, moviebox-api, streaming</p></details> | 369 |
+| **[claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)** | the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents. |  |  |  | 351 |
+| **[football-stadium](https://github.com/thebuggeddev/football-stadium)** | A 3D football stadium to visualize where you sit in the seat before you buy it | HTML |  |  | 316 |
+| **[appless](https://github.com/thesysdev/appless)** | What if your phone had no apps | TypeScript |  | <details><summary>gener...</summary><p>generative-ui, llm, react-native</p></details> | 316 |
+| **[agentsmith](https://github.com/PromptPartner/agentsmith)** | Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script. | Shell |  | <details><summary>agent...</summary><p>agentic-ai, agentic-coding, ai-agents, ai-tools, automation, claude, claude-code, codex, coding-agent, developer-tools, gemini, llm, llm-agents, open-source, prompt-engineering, vibe-coding</p></details> | 314 |
+| **[fastctx](https://github.com/yc-duan/fastctx)** | Fast, context-efficient repository tools for AI agents (MCP) | Rust |  |  | 286 |
 
