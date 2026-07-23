@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-07-22
+Last update: 2026-07-23
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-07-22
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[harness-engineering](https://github.com/lopopolo/harness-engineering)** | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering | Python |  |  | 1744 |
-| **[wardrobe](https://github.com/tandpfun/wardrobe)** | Your clothes, extracted and organized with gpt-image. | JavaScript |  |  | 1291 |
-| **[yoinks](https://github.com/pablostanley/yoinks)** | yoink any video from your terminal. no shady ads. | TypeScript |  |  | 971 |
-| **[conversation-steganography](https://github.com/nethical6/conversation-steganography)** | Use LLMs to hide messages inside normal looking conversations | Go |  | <details><summary>llm-t...</summary><p>llm-tools, steganography</p></details> | 915 |
-| **[vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** | V- Modal AI: Search anything anywhere SDK Flutter | Dart |  |  | 784 |
-| **[MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** | An arbitrage bot is a smart contract connected to an external automation script that controls its operation. | Solidity |  | <details><summary>ai, a...</summary><p>ai, aitradingbot, bot, btc, claude, eth, etherlab, mev, mevbots</p></details> | 739 |
-| **[nativ](https://github.com/Blaizzy/nativ)** | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. | Swift |  |  | 649 |
-| **[handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** | Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames. | Python |  |  | 597 |
-| **[circuit-framework](https://github.com/EthanXiang777/circuit-framework)** | Circuit Framework — multi-agent LLM trading research system | Python |  |  | 487 |
-| **[pohuy](https://github.com/smixs/pohuy)** | Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+ |  |  |  | 470 |
-| **[wp2shell-poc](https://github.com/Icex0/wp2shell-poc)** | wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain | Python |  | <details><summary>cve-2...</summary><p>cve-2026-63030, wp2shell, wp2shell-poc</p></details> | 468 |
-| **[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, ai-video, claude-code, claude-code-skills, claude-skills, codex, motion-design, motion-graphics, product-video, promo-video, remotion, video-generation, video-production</p></details> | 452 |
-| **[Holo](https://github.com/JustinGamer191/Holo)** |  | Swift |  |  | 410 |
-| **[goutoujunshi](https://github.com/powerycy/goutoujunshi)** | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 | Python |  | <details><summary>ai-ag...</summary><p>ai-agent, chinese, codex, codex-skill, lgbtq, psychology, relationship-advice</p></details> | 369 |
-| **[MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui)** | A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform. | Rust |  | <details><summary>anime...</summary><p>anime, moviebox, moviebox-api, streaming</p></details> | 369 |
-| **[claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)** | the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents. |  |  |  | 351 |
-| **[football-stadium](https://github.com/thebuggeddev/football-stadium)** | A 3D football stadium to visualize where you sit in the seat before you buy it | HTML |  |  | 316 |
-| **[appless](https://github.com/thesysdev/appless)** | What if your phone had no apps | TypeScript |  | <details><summary>gener...</summary><p>generative-ui, llm, react-native</p></details> | 316 |
-| **[agentsmith](https://github.com/PromptPartner/agentsmith)** | Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script. | Shell |  | <details><summary>agent...</summary><p>agentic-ai, agentic-coding, ai-agents, ai-tools, automation, claude, claude-code, codex, coding-agent, developer-tools, gemini, llm, llm-agents, open-source, prompt-engineering, vibe-coding</p></details> | 314 |
-| **[fastctx](https://github.com/yc-duan/fastctx)** | Fast, context-efficient repository tools for AI agents (MCP) | Rust |  |  | 286 |
+| **[harness-engineering](https://github.com/lopopolo/harness-engineering)** | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering | Python |  |  | 2203 |
+| **[conversation-steganography](https://github.com/nethical6/conversation-steganography)** | Use LLMs to hide messages inside normal looking conversations | Go |  | <details><summary>llm-t...</summary><p>llm-tools, steganography</p></details> | 1006 |
+| **[MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** | An arbitrage bot is a smart contract connected to an external automation script that controls its operation. | Solidity |  | <details><summary>ai, a...</summary><p>ai, aitradingbot, bot, btc, claude, eth, etherlab, mev, mevbots</p></details> | 920 |
+| **[nativ](https://github.com/Blaizzy/nativ)** | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. | Swift |  |  | 768 |
+| **[thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light | TypeScript |  |  | 663 |
+| **[handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** | Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames. | Python |  |  | 621 |
+| **[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, ai-video, claude-code, claude-code-skills, claude-skills, codex, motion-design, motion-graphics, product-video, promo-video, remotion, video-generation, video-production</p></details> | 553 |
+| **[bento](https://github.com/nyblnet/bento)** |  | TypeScript |  |  | 552 |
+| **[goutoujunshi](https://github.com/powerycy/goutoujunshi)** | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 | Python |  | <details><summary>ai-ag...</summary><p>ai-agent, chinese, codex, codex-skill, lgbtq, psychology, relationship-advice</p></details> | 551 |
+| **[pohuy](https://github.com/smixs/pohuy)** | Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+ |  |  |  | 538 |
+| **[hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** | Get notified when big trades happen on Hyperliquid. | TypeScript |  |  | 503 |
+| **[pireel](https://github.com/pireel/pireel)** | Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP. | TypeScript |  | <details><summary>ai-vi...</summary><p>ai-video, capcut, captions, talking-head, video-editor</p></details> | 497 |
+| **[wp2shell-poc](https://github.com/Icex0/wp2shell-poc)** | wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain | Python |  | <details><summary>cve-2...</summary><p>cve-2026-63030, wp2shell, wp2shell-poc</p></details> | 489 |
+| **[Holo](https://github.com/JustinGamer191/Holo)** |  | Swift |  |  | 444 |
+| **[story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). | JavaScript |  |  | 422 |
+| **[claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)** | the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents. |  |  |  | 379 |
+| **[fastctx](https://github.com/yc-duan/fastctx)** | Fast, context-efficient repository tools for AI agents (MCP) | Rust |  |  | 347 |
+| **[football-stadium](https://github.com/thebuggeddev/football-stadium)** | A 3D football stadium to visualize where you sit in the seat before you buy it | HTML |  |  | 326 |
+| **[open-kritt](https://github.com/Kritt-ai/open-kritt)** | Orchestrate AI agents to find real vulnerabilities in code. | JavaScript |  | <details><summary>agent...</summary><p>agent, agents, ai, bug-bounty, bugbounty, bugbounty-tools, security, security-research</p></details> | 325 |
+| **[PM-Sniper](https://github.com/AdelanSoulX/PM-Sniper)** |  | Python |  |  | 308 |
 
