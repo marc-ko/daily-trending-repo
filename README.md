@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-07-25
+Last update: 2026-07-26
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-07-25
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[openworker](https://github.com/andrewyng/openworker)** |  | Python |  |  | 3561 |
-| **[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, ai-video, claude-code, claude-code-skills, claude-skills, codex, motion-design, motion-graphics, product-video, promo-video, remotion, video-generation, video-production</p></details> | 1501 |
-| **[thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light | TypeScript |  |  | 936 |
-| **[nativ](https://github.com/Blaizzy/nativ)** | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. | Swift |  |  | 863 |
-| **[goutoujunshi](https://github.com/powerycy/goutoujunshi)** | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 | Python |  | <details><summary>ai-ag...</summary><p>ai-agent, chinese, codex, codex-skill, lgbtq, psychology, relationship-advice</p></details> | 813 |
-| **[pireel](https://github.com/pireel/pireel)** | Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP. | TypeScript |  | <details><summary>ai-vi...</summary><p>ai-video, capcut, captions, chatcut, openchatcut, talking-head, video-editor</p></details> | 716 |
-| **[story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). | JavaScript |  |  | 610 |
-| **[sticker-forge](https://github.com/CatsJuice/sticker-forge)** | A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. | JavaScript |  | <details><summary>stick...</summary><p>sticker, webgl</p></details> | 530 |
-| **[hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** | Get notified when big trades happen on Hyperliquid. | TypeScript |  |  | 509 |
-| **[esp32-ai](https://github.com/slvDev/esp32-ai)** |  | Python |  |  | 466 |
-| **[Grok-Register](https://github.com/Charles-0509/Grok-Register)** | Grok free-register CLI: register → OAuth → CPA JSON (Go) | Go |  |  | 435 |
-| **[claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)** | the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents. |  |  |  | 409 |
-| **[PM-Sniper](https://github.com/AdelanSoulX/PM-Sniper)** |  | Python |  |  | 398 |
-| **[adelan-support](https://github.com/AdelanSupport/adelan-support)** |  | Python |  |  | 397 |
-| **[redis-poc](https://github.com/berabuddies/redis-poc)** | RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0 | Python |  |  | 392 |
-| **[open-kritt](https://github.com/Kritt-ai/open-kritt)** | Orchestrate AI agents to find real vulnerabilities in code. | JavaScript |  | <details><summary>agent...</summary><p>agent, agents, ai, bug-bounty, bugbounty, bugbounty-tools, security, security-research</p></details> | 375 |
-| **[cinema-dna-21x9x3](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)** | 高级感电影画面生成 |  |  |  | 326 |
-| **[TG-Polymarket-bot](https://github.com/melloworchid8rr6g/TG-Polymarket-bot)** | Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel. | JavaScript |  | <details><summary>alert...</summary><p>alerts, betting, bot, channel, polymarket, telegram, tg</p></details> | 313 |
-| **[OpenBrowser](https://github.com/lyu0805/OpenBrowser)** | 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA | JavaScript |  | <details><summary>chrom...</summary><p>chromium, electron, fingerprint-browser, proxy, rpa</p></details> | 308 |
-| **[ZEUS-PANEL](https://github.com/zeus-panel/ZEUS-PANEL)** | A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database. | JavaScript |  | <details><summary>cloud...</summary><p>cloudflare-workers, panel, vless, workers, zeus, zeus-panel</p></details> | 286 |
+| **[openworker](https://github.com/andrewyng/openworker)** |  | Python |  |  | 5250 |
+| **[thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light | TypeScript |  |  | 1025 |
+| **[goutoujunshi](https://github.com/powerycy/goutoujunshi)** | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 | Python |  | <details><summary>ai-ag...</summary><p>ai-agent, chinese, codex, codex-skill, lgbtq, psychology, relationship-advice</p></details> | 888 |
+| **[nativ](https://github.com/Blaizzy/nativ)** | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. | Swift |  |  | 886 |
+| **[esp32-ai](https://github.com/slvDev/esp32-ai)** |  | Python |  |  | 882 |
+| **[pireel](https://github.com/pireel/pireel)** | Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP. | TypeScript |  | <details><summary>ai-vi...</summary><p>ai-video, capcut, captions, chatcut, openchatcut, talking-head, video-editor</p></details> | 756 |
+| **[story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). | JavaScript |  |  | 631 |
+| **[ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone. | Python |  |  | 627 |
+| **[sticker-forge](https://github.com/CatsJuice/sticker-forge)** | A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. | JavaScript |  | <details><summary>stick...</summary><p>sticker, webgl</p></details> | 577 |
+| **[ZEUS-PANEL](https://github.com/zeus-panel/ZEUS-PANEL)** | A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database. | JavaScript |  | <details><summary>cloud...</summary><p>cloudflare-workers, panel, vless, workers, zeus, zeus-panel</p></details> | 543 |
+| **[hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** | Get notified when big trades happen on Hyperliquid. | TypeScript |  |  | 510 |
+| **[Grok-Register](https://github.com/Charles-0509/Grok-Register)** | Grok free-register CLI: register → OAuth → CPA JSON (Go) | Go |  |  | 460 |
+| **[redis-poc](https://github.com/berabuddies/redis-poc)** | RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1 | Python |  |  | 418 |
+| **[PM-Sniper](https://github.com/AdelanSoulX/PM-Sniper)** |  | Python |  |  | 411 |
+| **[adelan-support](https://github.com/AdelanSupport/adelan-support)** |  | Python |  |  | 408 |
+| **[open-kritt](https://github.com/Kritt-ai/open-kritt)** | Orchestrate AI agents to find real vulnerabilities in code. | JavaScript |  | <details><summary>agent...</summary><p>agent, agents, ai, bug-bounty, bugbounty, bugbounty-tools, security, security-research</p></details> | 394 |
+| **[TG-Polymarket-bot](https://github.com/melloworchid8rr6g/TG-Polymarket-bot)** | Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel. | JavaScript |  | <details><summary>alert...</summary><p>alerts, betting, bot, channel, polymarket, telegram, tg</p></details> | 390 |
+| **[cinema-dna-21x9x3](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)** | 高级感电影画面生成 |  |  |  | 349 |
+| **[agentacct](https://github.com/mikehasa/agentacct)** | Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard. | Python |  |  | 330 |
+| **[agent-notch](https://github.com/realfishsam/agent-notch)** | The open-source alternative to vibe-island | Swift |  |  | 274 |
 
