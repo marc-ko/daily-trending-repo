@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - July 26, 2026
+title: Latest 10 Trending Repositories - July 27, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: July 26, 2026
+### 📅 Date: July 27, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[openworker](https://github.com/andrewyng/openworker)** |  | Python |  |  | 5250 |
-| **[thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light | TypeScript |  |  | 1025 |
-| **[goutoujunshi](https://github.com/powerycy/goutoujunshi)** | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 | Python |  | <details><summary>ai-ag...</summary><p>ai-agent, chinese, codex, codex-skill, lgbtq, psychology, relationship-advice</p></details> | 888 |
-| **[nativ](https://github.com/Blaizzy/nativ)** | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. | Swift |  |  | 886 |
-| **[esp32-ai](https://github.com/slvDev/esp32-ai)** |  | Python |  |  | 882 |
-| **[pireel](https://github.com/pireel/pireel)** | Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP. | TypeScript |  | <details><summary>ai-vi...</summary><p>ai-video, capcut, captions, chatcut, openchatcut, talking-head, video-editor</p></details> | 756 |
-| **[story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). | JavaScript |  |  | 631 |
-| **[ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone. | Python |  |  | 627 |
-| **[sticker-forge](https://github.com/CatsJuice/sticker-forge)** | A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. | JavaScript |  | <details><summary>stick...</summary><p>sticker, webgl</p></details> | 577 |
-| **[ZEUS-PANEL](https://github.com/zeus-panel/ZEUS-PANEL)** | A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database. | JavaScript |  | <details><summary>cloud...</summary><p>cloudflare-workers, panel, vless, workers, zeus, zeus-panel</p></details> | 543 |
+| **[esp32-ai](https://github.com/slvDev/esp32-ai)** |  | Python |  |  | 1444 |
+| **[thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light | TypeScript |  |  | 1106 |
+| **[ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone. | Python |  |  | 866 |
+| **[Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** | A Call of Duty-quality FPS in Three.js, built from a single prompt. | JavaScript |  |  | 728 |
+| **[story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). | JavaScript |  |  | 655 |
+| **[cindy](https://github.com/makecindy/cindy)** | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 | TypeScript |  | <details><summary>agent...</summary><p>agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios, llm, macos, react-native, typescript, windows</p></details> | 620 |
+| **[scriptc](https://github.com/vercel-labs/scriptc)** | TypeScript-to-Native Compiler | TypeScript |  |  | 553 |
+| **[hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** | Get notified when big trades happen on Hyperliquid. | TypeScript |  |  | 513 |
+| **[pi-textbook](https://github.com/hahhforest/pi-textbook)** | 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent | TypeScript |  | <details><summary>agent...</summary><p>agent-engineering, ai-agent, chinese, llm, textbook, typescript</p></details> | 501 |
+| **[redis-poc](https://github.com/berabuddies/redis-poc)** | RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1 | Python |  |  | 445 |
 
