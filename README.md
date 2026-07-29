@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-07-28
+Last update: 2026-07-29
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-07-28
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** | Open Frontier Intelligence |  |  |  | 2066 |
-| **[scriptc](https://github.com/vercel-labs/scriptc)** | TypeScript-to-Native Compiler | TypeScript |  |  | 1836 |
-| **[esp32-ai](https://github.com/slvDev/esp32-ai)** |  | Python |  |  | 1793 |
-| **[Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** | A Call of Duty-quality FPS in Three.js, built from a single prompt. | JavaScript |  |  | 1057 |
-| **[ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone. | Python |  |  | 944 |
-| **[AgentENV](https://github.com/kvcache-ai/AgentENV)** | AgentENV (AENV) is a distributed platform for running agent environments at scale. | Rust |  |  | 930 |
-| **[cindy](https://github.com/makecindy/cindy)** | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 | TypeScript |  | <details><summary>agent...</summary><p>agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios, llm, macos, react-native, typescript, windows</p></details> | 894 |
-| **[OptMem](https://github.com/VictorTaelin/OptMem)** | Permanent memory for AI agents. A 426-token prompt, a script, plug and play. | Python |  |  | 663 |
-| **[openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** | runs anywhere. uses anything | TypeScript |  | <details><summary>agent...</summary><p>agentic-ai, ai, ai-agent, ai-coding, ai-coding-agent, ai-coding-agents, ai-coding-assistant, anthropic, claude, claude-code, cli, coding-agent, gemini, gemini-ai, gemini-cli, llm, mcp, model-context-protocol, openrouter</p></details> | 577 |
-| **[MoonEP](https://github.com/MoonshotAI/MoonEP)** | MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts | Python |  |  | 567 |
-| **[agentacct](https://github.com/mikehasa/agentacct)** | Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard. | Python |  |  | 494 |
-| **[redis-poc](https://github.com/berabuddies/redis-poc)** | RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1 | Python |  |  | 454 |
-| **[Crisp](https://github.com/didriksg/Crisp)** | Free, open-source macOS alternative to BetterDisplay and Lunar: a lightweight menu bar app with sharp HiDPI/Retina scaling for external monitors (no more blurry or tiny text), plus brightness (DDC), virtual displays, presets, and color. | Swift |  | <details><summary>4k, a...</summary><p>4k, apple-silicon, brightness, ddc, display, display-manager, hidpi, mac, macos, menu-bar, monitor, resolution, retina, scaling, virtual</p></details> | 427 |
-| **[draw-your-font](https://github.com/danilo-znamerovszkij/draw-your-font)** | Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill. | JavaScript |  | <details><summary>claud...</summary><p>claude-code, claude-skill, font, handwriting, handwriting-font, potrace, ttf, woff2</p></details> | 411 |
-| **[Ethereum-bot](https://github.com/rustyharbor308774/Ethereum-bot)** | The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle. | Solidity |  | <details><summary>bot, ...</summary><p>bot, eth, ethereum, evm, mevbots</p></details> | 358 |
-| **[grok-app](https://github.com/RongleCat/grok-app)** | Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial) | TypeScript |  |  | 349 |
-| **[Audio-Cassette-Simulation](https://github.com/AARomanov1985/Audio-Cassette-Simulation)** | This project simulates cassette tape audio profiles using ffmpeg | Shell |  |  | 341 |
-| **[axrl](https://github.com/XYZ-AI-Lab/axrl)** | AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows. | Python |  |  | 333 |
-| **[leaked-llm-prompts](https://github.com/Eversmile12/leaked-llm-prompts)** | collections-of-leaked-prompts |  |  |  | 293 |
-| **[AxisAgentic](https://github.com/XYZ-AI-Lab/AxisAgentic)** | AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents. | Python |  |  | 292 |
+| **[Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** | Open Frontier Intelligence |  |  |  | 3600 |
+| **[esp32-ai](https://github.com/slvDev/esp32-ai)** |  | Python |  |  | 2107 |
+| **[Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** | A Call of Duty-quality FPS in Three.js, built from a single prompt. | JavaScript |  |  | 1830 |
+| **[AgentENV](https://github.com/kvcache-ai/AgentENV)** | AgentENV (AENV) is a distributed platform for running agent environments at scale. | Rust |  |  | 1485 |
+| **[ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** | An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone. | Python |  |  | 997 |
+| **[OptMem](https://github.com/VictorTaelin/OptMem)** | Permanent memory for AI agents. A 426-token prompt, a script, plug and play. | Python |  |  | 817 |
+| **[MoonEP](https://github.com/MoonshotAI/MoonEP)** | MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts | Python |  |  | 808 |
+| **[Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats)** | An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it. | Python |  |  | 729 |
+| **[quill](https://github.com/digimata/quill)** | Ultraminimalist macOS recording + transcription. | Swift |  |  | 616 |
+| **[openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** | runs anywhere. uses anything | TypeScript |  | <details><summary>agent...</summary><p>agentic-ai, ai, ai-agent, ai-coding, ai-coding-agent, ai-coding-agents, ai-coding-assistant, anthropic, claude, claude-code, cli, coding-agent, gemini, gemini-ai, gemini-cli, llm, mcp, model-context-protocol, openrouter</p></details> | 584 |
+| **[agentacct](https://github.com/mikehasa/agentacct)** | Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard. | Python |  |  | 519 |
+| **[axrl](https://github.com/XYZ-AI-Lab/axrl)** | AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows. | Python |  |  | 475 |
+| **[ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved)** | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | JavaScript |  | <details><summary>agent...</summary><p>agent-skills, claude-code, claude-code-plugin, claude-code-skill, claude-skills, cursor-rules, ponytail, prompt-engineering, prompt-optimization, yagni</p></details> | 475 |
+| **[AxisAgentic](https://github.com/XYZ-AI-Lab/AxisAgentic)** | AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents. | Python |  |  | 378 |
+| **[grok-app](https://github.com/RongleCat/grok-app)** | Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial) | TypeScript |  |  | 368 |
+| **[OutlookRegister](https://github.com/daimon3332/OutlookRegister)** | Outlook/Hotmail account batch registration tool.                          Outlook / Hotmail 账号批量注册工具，支持自动获取 OAuth2 refresh_token | Python |  | <details><summary>hotma...</summary><p>hotmail, mail, microservice, microsoft, outlook, register</p></details> | 329 |
+| **[deer-workflow](https://github.com/deerwork-ai/deer-workflow)** | An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes. | TypeScript |  | <details><summary>agent...</summary><p>agent, ai, ai-agent, ai-agents, ai-coding, bun, dynamic-workflow, dynamic-workflows, graph-engineering, llm, workflow</p></details> | 328 |
+| **[PGSimCity](https://github.com/NikolayS/PGSimCity)** | An explorable 3D city that shows how Postgres actually works | TypeScript |  |  | 326 |
+| **[Auto-BenchMax](https://github.com/sunny-glow/Auto-BenchMax)** |  | Python |  |  | 321 |
+| **[leaked-llm-prompts](https://github.com/Eversmile12/leaked-llm-prompts)** | collections-of-leaked-prompts |  |  |  | 315 |
 
