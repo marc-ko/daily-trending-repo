@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-08-02
+Last update: 2026-08-03
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-08-02
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** | Open Frontier Intelligence |  |  |  | 7832 |
-| **[qm](https://github.com/yc-software/qm)** | Multiplayer agent harness for work | TypeScript |  |  | 5245 |
-| **[decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** |  | TypeScript |  |  | 3136 |
-| **[qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents | JavaScript |  | <details><summary>agent...</summary><p>agent, agentic-ai, voice-agent, voice-ai, voice-chat</p></details> | 1417 |
-| **[FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |  |  |  | 1134 |
-| **[crm](https://github.com/trycompai/crm)** |  | TypeScript |  |  | 852 |
-| **[persona](https://github.com/xikhar/persona)** | Bringing real-time voice to life. | JavaScript |  |  | 771 |
-| **[waste](https://github.com/sqliteai/waste)** | Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine. | C |  |  | 706 |
-| **[talivia](https://github.com/talivia-group/talivia)** | Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative | TypeScript |  | <details><summary>analy...</summary><p>analytics, bing, datafast, dodopayments, google-search, lemonsqueezy, polar, product-analytics, revenue-analytics, revenue-attribution, session-replay, stripe, web-analytics</p></details> | 599 |
-| **[deltafin](https://github.com/gavamedia/deltafin)** | Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents. | Python |  | <details><summary>kimi,...</summary><p>kimi, kimi-k3, local-ai, local-llm</p></details> | 595 |
-| **[ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved)** | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | JavaScript |  | <details><summary>agent...</summary><p>agent-skills, claude-code, claude-code-plugin, claude-code-skill, claude-skills, cursor-rules, ponytail, prompt-engineering, prompt-optimization, yagni</p></details> | 578 |
-| **[WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread. |  |  | <details><summary>arc-r...</summary><p>arc-raiders, counter-strike-2, game, hack, meccha-chameleon-tools, minecraft</p></details> | 532 |
-| **[snowflow_demo](https://github.com/Noniv/snowflow_demo)** | A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets. | JavaScript |  |  | 441 |
-| **[ratchet](https://github.com/0xwilliamortiz/ratchet)** | Your agent reads the rules. This checks whether it followed them. | JavaScript |  | <details><summary>ai-ag...</summary><p>ai-agents, claude-code, claude-code-plugin, claude-skills, code-quality, developer-tools, hooks, llm, ratchet, rate-limiting, static-analysis, yagni</p></details> | 408 |
-| **[TheLongSilence](https://github.com/achimala/TheLongSilence)** | A space exploration game built by Claude Opus 5 | JavaScript |  |  | 405 |
-| **[interior](https://github.com/ddoemonn/interior)** | micro-interactions for react, built for the half-second after a click | TypeScript |  | <details><summary>anima...</summary><p>animation, micro-interactions, motion, react, ui-components</p></details> | 394 |
-| **[skill-recorder](https://github.com/microsoft/skill-recorder)** |  | TypeScript |  |  | 379 |
-| **[grok-register-panel](https://github.com/lij768423-svg/grok-register-panel)** | Grok register engine (Camoufox) + live web monitor panel | Python |  |  | 354 |
-| **[tew](https://github.com/Packets/tew)** |  |  |  |  | 341 |
-| **[qr-data-transfer](https://github.com/deedy/qr-data-transfer)** |  | TypeScript |  |  | 327 |
+| **[qm](https://github.com/yc-software/qm)** | Multiplayer agent harness for work | TypeScript |  |  | 7641 |
+| **[decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** |  | TypeScript |  |  | 3782 |
+| **[crm](https://github.com/trycompai/crm)** | An open-source, agentic-first CRM. | TypeScript |  |  | 1940 |
+| **[FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |  |  |  | 1685 |
+| **[WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread. |  |  | <details><summary>arc-r...</summary><p>arc-raiders, counter-strike-2, game, hack, meccha-chameleon-tools, minecraft</p></details> | 1216 |
+| **[waste](https://github.com/sqliteai/waste)** | Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine. | C |  |  | 1174 |
+| **[skill-recorder](https://github.com/microsoft/skill-recorder)** | Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio. | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, automation, copilot, copilot-cli, copilot-cowork, copilot-studio, electron, microsoft-scout, screen-recording</p></details> | 926 |
+| **[persona](https://github.com/xikhar/persona)** | Bringing real-time voice to life. | JavaScript |  |  | 796 |
+| **[sol-advisor](https://github.com/DannyMac180/sol-advisor)** | Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review. | Shell |  |  | 743 |
+| **[talivia](https://github.com/talivia-group/talivia)** | Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative | TypeScript |  | <details><summary>analy...</summary><p>analytics, bing, datafast, dodopayments, google-search, lemonsqueezy, polar, product-analytics, revenue-analytics, revenue-attribution, session-replay, stripe, web-analytics</p></details> | 654 |
+| **[deltafin](https://github.com/gavamedia/deltafin)** | Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents. | Rust |  | <details><summary>kimi,...</summary><p>kimi, kimi-k3, local-ai, local-llm</p></details> | 628 |
+| **[ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved)** | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | JavaScript |  | <details><summary>agent...</summary><p>agent-skills, claude-code, claude-code-plugin, claude-code-skill, claude-skills, cursor-rules, ponytail, prompt-engineering, prompt-optimization, yagni</p></details> | 580 |
+| **[humanizer-cli](https://github.com/0xwilliamortiz/humanizer-cli)** | 33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies. | JavaScript |  | <details><summary>ai-sl...</summary><p>ai-slop, ai-slop-detection, ai-slop-detector, ai-slop-fixer, ai-slop-remover, claude-code-plugin, claude-skills, codex, codex-cli, codex-plugin, codex-skill, human, humanization, humanize, humanize-ai, humanize-ai-text, humanize-text, humanized, humanizer</p></details> | 542 |
+| **[snowflow_demo](https://github.com/Noniv/snowflow_demo)** | A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets. | JavaScript |  |  | 460 |
+| **[interior](https://github.com/ddoemonn/interior)** | micro-interactions for react, built for the half-second after a click | TypeScript |  | <details><summary>anima...</summary><p>animation, micro-interactions, motion, react, ui-components</p></details> | 439 |
+| **[animated-voiceover](https://github.com/s1dashu/animated-voiceover)** | Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows. |  |  | <details><summary>ai-vi...</summary><p>ai-video, animated-video, codex-skill, voiceover</p></details> | 415 |
+| **[ratchet](https://github.com/0xwilliamortiz/ratchet)** | Your agent reads the rules. This checks whether it followed them. | JavaScript |  | <details><summary>ai-ag...</summary><p>ai-agents, claude-code, claude-code-plugin, claude-skills, code-quality, developer-tools, hooks, llm, ratchet, rate-limiting, static-analysis, yagni</p></details> | 411 |
+| **[3x-ui-multi](https://github.com/x4gKing/3x-ui-multi)** |  | JavaScript |  |  | 410 |
+| **[anatomy](https://github.com/thebuggeddev/anatomy)** | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol | TypeScript |  |  | 402 |
+| **[grok-register-panel](https://github.com/lij768423-svg/grok-register-panel)** | Grok register engine (Camoufox) + live web monitor panel | Python |  |  | 380 |
 
