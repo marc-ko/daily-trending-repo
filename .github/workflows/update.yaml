@@ -27,6 +27,8 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Update papers
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python main.py
     - name: Commit and push changes

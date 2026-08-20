@@ -20,9 +20,18 @@ def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[s
         'order': 'desc'
     }
 
+    headers = {'Accept': 'application/vnd.github+json'}
+    github_token = os.getenv("GITHUB_TOKEN")
+    if github_token:
+        headers['Authorization'] = f'Bearer {github_token}'
+
     # Make the request
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, headers=headers)
     data = response.json()
+
+    if 'items' not in data:
+        print(f"GitHub API request failed (status {response.status_code}): {data.get('message', data)}")
+        return None
 
     # Get first 10 items and extract required fields
     repos = []
@@ -36,10 +45,10 @@ def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[s
             'stars_count': repo['stargazers_count'],
             'html_url': repo['html_url']
         }
-        
+
         # Fetch README content
         readme_url = f"https://api.github.com/repos/{repo['full_name']}/readme"
-        readme_response = requests.get(readme_url)
+        readme_response = requests.get(readme_url, headers=headers)
         print("readme_response code ", readme_response.status_code)
         if readme_response.status_code == 200 and readme_response.json()['content'] is not None and os.getenv("OPENAI_API_KEY") is not None:
             # GitHub returns README content in base64 encoded format
