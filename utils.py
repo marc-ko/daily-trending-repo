@@ -157,7 +157,7 @@ def query_ai(query: str, model: str = "gpt-4o-mini") -> str:
         # Create client with custom base URL if provided
         client = OpenAI(
             api_key=os.getenv("OPENAI_API_KEY"),
-            base_url=os.getenv("OPENAI_API_BASE")
+            base_url=os.getenv("OPENAI_API_BASE") or None
         )
         
         # Use the new client.chat.completions.create method
