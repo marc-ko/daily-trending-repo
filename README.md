@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-08-29
+Last update: 2026-08-30
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-08-29
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** |  | TeX |  |  | 3780 |
-| **[grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS | TypeScript |  |  | 3414 |
-| **[walgit](https://github.com/tobi/walgit)** |  | Rust |  |  | 2310 |
-| **[PRAXIST](https://github.com/sapientinc/PRAXIST)** | Autonomous research system for measurable, computer-executable research. | Python |  |  | 2051 |
-| **[open-higgsfield](https://github.com/wide-trace/open-higgsfield)** | A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery. | TypeScript |  |  | 997 |
-| **[workout-guide](https://github.com/bryllim/workout-guide)** | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim | Astro |  | <details><summary>exerc...</summary><p>exercise, expo, fitness, npm-package, open-source, react-native, workout</p></details> | 984 |
-| **[WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval. | Python |  | <details><summary>embed...</summary><p>embedding-models, multimodal, multimodal-llm</p></details> | 861 |
-| **[watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)** | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD. | Python |  | <details><summary>claud...</summary><p>claude-ai, claude-code, claude-code-plugin, claude-skills, codex, codex-cli, codex-skill, codex-skills, watermark</p></details> | 830 |
-| **[try-omarchy](https://github.com/themartiano/try-omarchy)** | Run Omarchy on MacOS without any setup. | Swift |  | <details><summary>apple...</summary><p>apple-silicon, archlinux, community, linux, macos, omarchy, qemu, virtualization</p></details> | 783 |
-| **[learn](https://github.com/amosblomqvist/learn)** | My AI learning system. | TypeScript |  |  | 677 |
-| **[personal-edge-proxy](https://github.com/yding-git/personal-edge-proxy)** | A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing. |  |  |  | 671 |
-| **[codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, chatgpt, codex, mcp, model-context-protocol, oauth</p></details> | 555 |
-| **[sepia](https://github.com/Nanako0129/sepia)** | De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136). | Shell |  | <details><summary>agent...</summary><p>agent-skills, ai-writing, antigravity, claude-code, codex, developer-tools, fiction, grok, humanizer, llm, prompt-engineering, writing-tools</p></details> | 520 |
-| **[AI-drama-pound](https://github.com/POUND0423/AI-drama-pound)** |  |  |  |  | 496 |
-| **[outlook-auto-register](https://github.com/lxf746/outlook-auto-register)** | Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖） | Python |  |  | 478 |
-| **[selfdb](https://github.com/fzakaria/selfdb)** |  | Python |  |  | 474 |
-| **[life-ipo](https://github.com/gtlhuyidan-sketch/life-ipo)** | 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。 | TypeScript |  | <details><summary>ai-pl...</summary><p>ai-planning, crm, health-data, knowledge-management, life-ipo, personal-finance, team-collaboration</p></details> | 442 |
-| **[fastpotify](https://github.com/crmne/fastpotify)** | Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. | Rust |  | <details><summary>audio...</summary><p>audio, cross-platform, desktop-app, egui, gui, librespot, linux, macos, mpris, music, music-player, rust, spotify, spotify-client, spotify-connect, windows</p></details> | 418 |
-| **[refactoring-ui-skill](https://github.com/s0xDk/refactoring-ui-skill)** | A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth through emulated light — to building and fixing interfaces. | CSS |  |  | 404 |
-| **[rome](https://github.com/rome-os/rome)** | Rome is the agentic OS. | TypeScript |  | <details><summary>agent...</summary><p>agent, agent-os, claude-code, codex, llm</p></details> | 383 |
+| **[my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** |  | TeX |  |  | 4027 |
+| **[PRAXIST](https://github.com/sapientinc/PRAXIST)** | Autonomous research system for measurable, computer-executable research. | Python |  |  | 3220 |
+| **[open-higgsfield](https://github.com/wide-trace/open-higgsfield)** | A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery. | TypeScript |  |  | 1080 |
+| **[codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, chatgpt, codex, mcp, model-context-protocol, oauth</p></details> | 1024 |
+| **[workout-guide](https://github.com/bryllim/workout-guide)** | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim | Astro |  | <details><summary>exerc...</summary><p>exercise, expo, fitness, npm-package, open-source, react-native, workout</p></details> | 1007 |
+| **[WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval. | Python |  | <details><summary>embed...</summary><p>embedding-models, multimodal, multimodal-llm</p></details> | 914 |
+| **[metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)** | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites | CSS |  | <details><summary>bitco...</summary><p>bitcoin, bitcoin-wallet, crypto, cryptocoins, cryptocompare-api, cryptocurrency, dapp, ethereum, ethereum-blockchain, ethereum-wallet, evm, evm-wallet, macos, metamask, metamask-dapp, metamask-desktop, metamask-io, solana, web3, windows</p></details> | 826 |
+| **[learn](https://github.com/amosblomqvist/learn)** | My AI learning system. | TypeScript |  |  | 802 |
+| **[sepia](https://github.com/Nanako0129/sepia)** | De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136). |  |  | <details><summary>agent...</summary><p>agent-skills, ai-writing, antigravity, claude-code, codex, developer-tools, fiction, grok, humanizer, llm, prompt-engineering, writing-tools</p></details> | 741 |
+| **[shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)** |  | Python |  |  | 693 |
+| **[personal-edge-proxy](https://github.com/yding-git/personal-edge-proxy)** | A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing. |  |  |  | 693 |
+| **[darwin-vm](https://github.com/jprx/darwin-vm)** | Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported. | Python |  |  | 565 |
+| **[outlook-auto-register](https://github.com/lxf746/outlook-auto-register)** | Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖） | Python |  |  | 555 |
+| **[fastpotify](https://github.com/crmne/fastpotify)** | Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. | Rust |  | <details><summary>audio...</summary><p>audio, cross-platform, desktop-app, egui, gui, librespot, linux, macos, mpris, music, music-player, rust, spotify, spotify-client, spotify-connect, windows</p></details> | 514 |
+| **[AI-drama-pound](https://github.com/POUND0423/AI-drama-pound)** |  |  |  |  | 509 |
+| **[WolfCut](https://github.com/jub0t/WolfCut)** | Free & Open-Source CapCut replacement. | TypeScript |  | <details><summary>audio...</summary><p>audio, audio-processing, capcut-alternative, capcut-for-pc, clipper, clipping, editing, editor, ffmpeg, rust, tauri, video, video-editing, video-editor, video-generation, video-processing, whisper</p></details> | 502 |
+| **[boop](https://github.com/chrisgreg/boop)** | A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone. | Go |  |  | 489 |
+| **[goldie](https://github.com/kacperkapusciak/goldie)** | ✨ agentic app store previews and screenshots | TypeScript |  |  | 475 |
+| **[life-ipo](https://github.com/gtlhuyidan-sketch/life-ipo)** | 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。 | TypeScript |  | <details><summary>ai-pl...</summary><p>ai-planning, crm, health-data, knowledge-management, life-ipo, personal-finance, team-collaboration</p></details> | 453 |
+| **[refactoring-ui-skill](https://github.com/s0xDk/refactoring-ui-skill)** | A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth through emulated light — to building and fixing interfaces. | CSS |  |  | 421 |
 
