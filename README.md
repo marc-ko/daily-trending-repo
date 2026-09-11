@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-09-10
+Last update: 2026-09-11
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-09-10
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[human-atlas](https://github.com/ashemag/human-atlas)** | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. | TypeScript |  |  | 2886 |
-| **[wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub)** | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking. | Python |  |  | 2034 |
-| **[NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** | Lean certificates accompanying Navier-Stokes and Euler results | Lean |  |  | 1603 |
-| **[codenotch](https://github.com/vinzdg/codenotch)** | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge. | Swift |  |  | 1299 |
-| **[holo-card-studio](https://github.com/EverettFish/holo-card-studio)** | Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project. | Python |  |  | 1267 |
-| **[fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)** |  | Lean |  |  | 1004 |
-| **[dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** | Here is a dlssg for RTX30 Series GPU  |  |  |  | 859 |
-| **[codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)** | Use Astra as orchestrator and Luna for subagents in Codex | Python |  |  | 809 |
-| **[usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro)** | 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。 | JavaScript |  |  | 727 |
-| **[handraw-style](https://github.com/yang0/handraw-style)** | 手绘风格编号画廊与双语提示词 Skill | HTML |  |  | 695 |
-| **[vista](https://github.com/Mantitup-Org/vista)** |  | TypeScript |  |  | 617 |
-| **[macos-sysdata](https://github.com/Jarvis322/macos-sysdata)** | See what is really inside macOS System Data and delete it, item by item, from the menu bar. | Swift |  | <details><summary>disk-...</summary><p>disk-cleanup, macos, menubar, swiftui, system-data, xcode</p></details> | 611 |
-| **[Microduck-build-tutorial](https://github.com/AI-FanGe/Microduck-build-tutorial)** | A practical hardware and software setup for a compact RL-powered biped robot. | Python |  |  | 585 |
-| **[warp-masque-actions](https://github.com/byJoey/warp-masque-actions)** | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact | JavaScript |  |  | 543 |
-| **[dream-loop](https://github.com/achimala/dream-loop)** | Agent skill for impressive 3D visuals using Blender + image gen + subagent critic | JavaScript |  |  | 533 |
-| **[okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)** | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go. | Go |  | <details><summary>agent...</summary><p>agent-memory, ai-agents, bm25, coding-agents, developer-tools, git-native, go, golang, knowledge-base, knowledge-graph, llm-memory, markdown, mcp, mcp-server, model-context-protocol, okf, open-knowledge-format, persistent-memory</p></details> | 526 |
-| **[Phantom-Wallet-Desktop](https://github.com/com-phantom/Phantom-Wallet-Desktop)** | Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access. | HTML |  | <details><summary>bitco...</summary><p>bitcoin, blockchain, cryptocurrency, defi, desktop-app, electron, ethereum, js, nft, phantom, phantom-desktop, phantom-wallet-browser, phantomjs, sol-trade, solana, solana-launchpad, solana-wallet-connect, solana-wallet-manager, wallet, web3</p></details> | 511 |
-| **[stop-stutter](https://github.com/burakgon/stop-stutter)** | Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT. | Swift |  | <details><summary>awdl,...</summary><p>awdl, game-streaming, geforce-now, latency, liquid-glass, macos, moonlight, parsec, steam-link, stutter, swiftui</p></details> | 499 |
-| **[itsgiving](https://github.com/gazijarin/itsgiving)** | Express yourself in meetings (with memes, of course). | Python |  |  | 499 |
-| **[OpenWAM](https://github.com/OpenWAM-Official/OpenWAM)** | Official repository for "OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining". | Python |  | <details><summary>gener...</summary><p>generalist-robot-policies, pretraining, robotics, world-action-model</p></details> | 438 |
+| **[human-atlas](https://github.com/ashemag/human-atlas)** | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. | TypeScript |  |  | 3132 |
+| **[NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** | Lean certificates accompanying Navier-Stokes and Euler results | Lean |  |  | 1735 |
+| **[dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** | Here is a dlssg for RTX30 Series GPU  |  |  |  | 1523 |
+| **[codenotch](https://github.com/vinzdg/codenotch)** | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge. | Swift |  |  | 1403 |
+| **[holo-card-studio](https://github.com/EverettFish/holo-card-studio)** | Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project. | Python |  |  | 1361 |
+| **[handraw-style](https://github.com/yang0/handraw-style)** | 手绘风格编号画廊与双语提示词 Skill | HTML |  |  | 1126 |
+| **[Edge0](https://github.com/Edge0-AI/Edge0)** |  | Python |  |  | 1098 |
+| **[codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)** | Use Astra as orchestrator and Luna for subagents in Codex | Python |  |  | 934 |
+| **[bank-sampah](https://github.com/Faizpi/bank-sampah)** |  | PHP |  |  | 917 |
+| **[crypto-rag](https://github.com/iamzulx/crypto-rag)** | Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis | Python |  |  | 899 |
+| **[anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion. | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, ai-video, claude-code, claude-code-skill, codex, edge-tts, educational-video, explainer-video, kokoro, motion-graphics, multi-agent, react, remotion, text-to-video, tts, typescript, video-generation</p></details> | 782 |
+| **[dream-loop](https://github.com/achimala/dream-loop)** | Agent skill for impressive 3D visuals using Blender + image gen + subagent critic | JavaScript |  |  | 760 |
+| **[screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** |  |  |  |  | 652 |
+| **[macos-sysdata](https://github.com/Jarvis322/macos-sysdata)** | See what is really inside macOS System Data and delete it, item by item, from the menu bar. | Swift |  | <details><summary>disk-...</summary><p>disk-cleanup, macos, menubar, swiftui, system-data, xcode</p></details> | 625 |
+| **[itsgiving](https://github.com/gazijarin/itsgiving)** | Express yourself in meetings (with memes, of course). | Python |  |  | 615 |
+| **[okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)** | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go. | Go |  | <details><summary>agent...</summary><p>agent-memory, ai-agents, bm25, coding-agents, developer-tools, git-native, go, golang, knowledge-base, knowledge-graph, llm-memory, markdown, mcp, mcp-server, model-context-protocol, okf, open-knowledge-format, persistent-memory</p></details> | 552 |
+| **[truanayangi](https://github.com/truanayangi-com/truanayangi)** | Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required. | TypeScript |  |  | 546 |
+| **[OpenWAM](https://github.com/OpenWAM-Official/OpenWAM)** | Official repository for "OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining". | Python |  | <details><summary>gener...</summary><p>generalist-robot-policies, pretraining, robotics, world-action-model</p></details> | 511 |
+| **[fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy)** | 国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途 |  |  |  | 447 |
+| **[turnstile-bypass](https://github.com/Sophomoresty/turnstile-bypass)** | Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux) | Python |  |  | 431 |
 
