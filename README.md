@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-09-11
+Last update: 2026-09-12
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-09-11
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[human-atlas](https://github.com/ashemag/human-atlas)** | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. | TypeScript |  |  | 3132 |
-| **[NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** | Lean certificates accompanying Navier-Stokes and Euler results | Lean |  |  | 1735 |
-| **[dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** | Here is a dlssg for RTX30 Series GPU  |  |  |  | 1523 |
-| **[codenotch](https://github.com/vinzdg/codenotch)** | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge. | Swift |  |  | 1403 |
-| **[holo-card-studio](https://github.com/EverettFish/holo-card-studio)** | Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project. | Python |  |  | 1361 |
-| **[handraw-style](https://github.com/yang0/handraw-style)** | 手绘风格编号画廊与双语提示词 Skill | HTML |  |  | 1126 |
-| **[Edge0](https://github.com/Edge0-AI/Edge0)** |  | Python |  |  | 1098 |
-| **[codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)** | Use Astra as orchestrator and Luna for subagents in Codex | Python |  |  | 934 |
-| **[bank-sampah](https://github.com/Faizpi/bank-sampah)** |  | PHP |  |  | 917 |
-| **[crypto-rag](https://github.com/iamzulx/crypto-rag)** | Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis | Python |  |  | 899 |
-| **[anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion. | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, ai-video, claude-code, claude-code-skill, codex, edge-tts, educational-video, explainer-video, kokoro, motion-graphics, multi-agent, react, remotion, text-to-video, tts, typescript, video-generation</p></details> | 782 |
-| **[dream-loop](https://github.com/achimala/dream-loop)** | Agent skill for impressive 3D visuals using Blender + image gen + subagent critic | JavaScript |  |  | 760 |
-| **[screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** |  |  |  |  | 652 |
-| **[macos-sysdata](https://github.com/Jarvis322/macos-sysdata)** | See what is really inside macOS System Data and delete it, item by item, from the menu bar. | Swift |  | <details><summary>disk-...</summary><p>disk-cleanup, macos, menubar, swiftui, system-data, xcode</p></details> | 625 |
-| **[itsgiving](https://github.com/gazijarin/itsgiving)** | Express yourself in meetings (with memes, of course). | Python |  |  | 615 |
-| **[okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)** | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go. | Go |  | <details><summary>agent...</summary><p>agent-memory, ai-agents, bm25, coding-agents, developer-tools, git-native, go, golang, knowledge-base, knowledge-graph, llm-memory, markdown, mcp, mcp-server, model-context-protocol, okf, open-knowledge-format, persistent-memory</p></details> | 552 |
-| **[truanayangi](https://github.com/truanayangi-com/truanayangi)** | Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required. | TypeScript |  |  | 546 |
-| **[OpenWAM](https://github.com/OpenWAM-Official/OpenWAM)** | Official repository for "OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining". | Python |  | <details><summary>gener...</summary><p>generalist-robot-policies, pretraining, robotics, world-action-model</p></details> | 511 |
-| **[fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy)** | 国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途 |  |  |  | 447 |
-| **[turnstile-bypass](https://github.com/Sophomoresty/turnstile-bypass)** | Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux) | Python |  |  | 431 |
+| **[dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** | Here is a dlssg for RTX30 Series GPU  |  |  |  | 1875 |
+| **[NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** | Lean certificates accompanying Navier-Stokes and Euler results | Lean |  |  | 1783 |
+| **[holo-card-studio](https://github.com/EverettFish/holo-card-studio)** | Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project. | Python |  |  | 1450 |
+| **[Edge0](https://github.com/Edge0-AI/Edge0)** |  | Python |  |  | 1370 |
+| **[anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion. | TypeScript |  | <details><summary>agent...</summary><p>agent-skills, ai-agents, ai-video, claude-code, claude-code-skill, codex, edge-tts, educational-video, explainer-video, kokoro, motion-graphics, multi-agent, react, remotion, text-to-video, tts, typescript, video-generation</p></details> | 971 |
+| **[bank-sampah](https://github.com/Faizpi/bank-sampah)** |  | PHP |  |  | 919 |
+| **[dream-loop](https://github.com/achimala/dream-loop)** | Agent skill for impressive 3D visuals using Blender + image gen + subagent critic | JavaScript |  |  | 865 |
+| **[screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** |  |  |  |  | 753 |
+| **[itsgiving](https://github.com/gazijarin/itsgiving)** | Express yourself in meetings (with memes, of course). | Python |  |  | 730 |
+| **[Mac-Duo](https://github.com/sumimakito/Mac-Duo)** | Wish you could bring the iPhone Duo effect to your MacBook? | Swift |  | <details><summary>flip,...</summary><p>flip, iphone, iphoneduo, mac, macos, menubar, menubar-app, menubarapp</p></details> | 584 |
+| **[truanayangi](https://github.com/truanayangi-com/truanayangi)** | Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required. | TypeScript |  |  | 572 |
+| **[OpenWAM](https://github.com/OpenWAM-Official/OpenWAM)** | Official repository for "OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining". | Python |  | <details><summary>gener...</summary><p>generalist-robot-policies, pretraining, robotics, world-action-model</p></details> | 540 |
+| **[IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** | IDM激活与状态维护工具 | C# |  |  | 536 |
+| **[text-humanizer](https://github.com/SpaceDudem/text-humanizer)** | text-humanizer is an open-source project designed to convert text generated by AI to its "humanized" version. Bypasses the most of AI detectors such as Turnitin or GPTZero | Python |  | <details><summary>ai-hu...</summary><p>ai-humanizer, gpt-zero, text-humanizer</p></details> | 522 |
+| **[gongwen-gbt9704-skill](https://github.com/mizzlelover/gongwen-gbt9704-skill)** | 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX | JavaScript |  | <details><summary>ai-sk...</summary><p>ai-skill, chinese-official-document, claude-code, cross-platform, document-formatting, docx, gbt-9704-2012, kimi, opencode, trae-code, traework, word, workbuddy, wps, zcode</p></details> | 508 |
+| **[short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI)** | Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content. | Python |  | <details><summary>ai, a...</summary><p>ai, ai-generation, short-video, short-video-maker</p></details> | 493 |
+| **[fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy)** | 国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途 |  |  |  | 476 |
+| **[tokentab](https://github.com/crwdla/tokentab)** | A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day. | Python |  | <details><summary>ai, a...</summary><p>ai, ai-token-monitor, claude-code, token-optimization, token-usage</p></details> | 449 |
+| **[turnstile-bypass](https://github.com/Sophomoresty/turnstile-bypass)** | Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux) | Python |  |  | 442 |
+| **[Stuxnet](https://github.com/Sadpainy/Stuxnet)** | Stuxnet, Here reproduced by me, Only researchs for educations purposes. It set work on Windows XP and Windows 7 only. | C |  |  | 437 |
 
