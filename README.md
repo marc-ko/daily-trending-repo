@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-09-15
+Last update: 2026-09-16
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-09-15
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[Mac-Duo](https://github.com/sumimakito/Mac-Duo)** | Wish you could bring the iPhone Duo effect to your MacBook? | Swift |  | <details><summary>flip,...</summary><p>flip, iphone, iphoneduo, mac, macos, menubar, menubar-app, menubarapp</p></details> | 877 |
-| **[mural](https://github.com/Chuloo/mural)** | The language app you eventually delete. A native iPhone companion for learning through conversation. | Kotlin |  | <details><summary>ios, ...</summary><p>ios, language-learning, open-source, swiftui</p></details> | 870 |
-| **[ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** | Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more. | Python |  | <details><summary>ai, a...</summary><p>ai, ai-data-extraction, claude-code, cursor</p></details> | 813 |
-| **[recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** | Official Project Page for Recurrent Looped Transformer (RLT) | HTML |  |  | 764 |
-| **[IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** | IDM激活与状态维护工具 | C# |  |  | 698 |
-| **[reelbench-skills](https://github.com/eternityspring/reelbench-skills)** | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill | HTML |  | <details><summary>ai-vi...</summary><p>ai-video, claude-skills, ffmpeg, shot-analysis, video-analysis</p></details> | 682 |
-| **[lunel](https://github.com/ArasTey/lunel)** |  | Python |  |  | 664 |
-| **[stonkfly](https://github.com/nftechie/stonkfly)** | A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions. | Python |  |  | 659 |
-| **[viserys-agent](https://github.com/rizqinrr/viserys-agent)** |  | JavaScript |  |  | 650 |
+| **[mural](https://github.com/Chuloo/mural)** | The language app you eventually delete. A native iPhone companion for learning through conversation. | Kotlin |  | <details><summary>ios, ...</summary><p>ios, language-learning, open-source, swiftui</p></details> | 1087 |
+| **[ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** | If you think AI sucks, star the repo. | Python |  |  | 1031 |
+| **[Mac-Duo](https://github.com/sumimakito/Mac-Duo)** | Wish you could bring the iPhone Duo effect to your MacBook? | Swift |  | <details><summary>flip,...</summary><p>flip, iphone, iphoneduo, mac, macos, menubar, menubar-app, menubarapp</p></details> | 920 |
+| **[recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** | Official Project Page for Recurrent Looped Transformer (RLT) | HTML |  |  | 839 |
+| **[ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** | Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more. | Python |  | <details><summary>ai, a...</summary><p>ai, ai-data-extraction, claude-code, cursor</p></details> | 823 |
+| **[IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** | IDM激活与状态维护工具 | C# |  |  | 716 |
+| **[Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** | GPT-6 Astra for embodied AI and robotics. |  |  |  | 714 |
+| **[reelbench-skills](https://github.com/eternityspring/reelbench-skills)** | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill | HTML |  | <details><summary>ai-vi...</summary><p>ai-video, claude-skills, ffmpeg, shot-analysis, video-analysis</p></details> | 698 |
+| **[stonkfly](https://github.com/nftechie/stonkfly)** | A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions. | Python |  |  | 693 |
+| **[rune](https://github.com/unstablebuild/rune)** | the development environment for pros | Go |  | <details><summary>agent...</summary><p>agent-orchestration, ai, cli, coding-agents, developer-tool, devtools, go, golang, ide, rune, terminal-multiplexer, text-editor, tmux, tui, workspace-manager</p></details> | 657 |
+| **[viserys-agent](https://github.com/rizqinrr/viserys-agent)** |  | JavaScript |  |  | 652 |
 | **[bank-sampah](https://github.com/Faizpi/bank-sampah)** |  | PHP |  |  | 646 |
-| **[gongwen-gbt9704-skill](https://github.com/mizzlelover/gongwen-gbt9704-skill)** | 信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB | JavaScript |  | <details><summary>ai-sk...</summary><p>ai-skill, ceb, chinese-official-document, claude-code, cross-platform, document-formatting, docx, gbt-9704-2012, kimi, opencode, trae-code, traework, word, workbuddy, wps, zcode</p></details> | 613 |
-| **[Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** | GPT-6 Astra for embodied AI and robotics. |  |  |  | 603 |
-| **[rune](https://github.com/unstablebuild/rune)** | the development environment for pros | Go |  | <details><summary>agent...</summary><p>agent-orchestration, ai, cli, coding-agents, developer-tool, devtools, go, golang, ide, rune, terminal-multiplexer, text-editor, tmux, tui, workspace-manager</p></details> | 540 |
-| **[mjbatch](https://github.com/kevinzakka/mjbatch)** | A Python library for running thousands of MuJoCo simulations in parallel on CPU | Python |  | <details><summary>mpc, ...</summary><p>mpc, mujoco, reinforcement-learning, simulation</p></details> | 487 |
-| **[ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** | If you think AI sucks, star the repo. |  |  |  | 439 |
-| **[printfilm](https://github.com/yi1108/printfilm)** | PRINTFILM：AI 科普视频与漫剧创作平台 | Python |  |  | 428 |
-| **[vintage-latex](https://github.com/Foadsf/vintage-latex)** | Twenty LuaLaTeX and MetaPost (fiziko) examples of the old scientific-paper aesthetic: engraved plates, star charts, computed log tables, knots, telescopes | PowerShell |  | <details><summary>fizik...</summary><p>fiziko, latex, lualatex, metapost, scientific-illustration, tikz, typography, vintage</p></details> | 378 |
-| **[YOINK](https://github.com/DefiLeoo/YOINK)** |  | Python |  |  | 375 |
-| **[AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** | Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI. | Rust |  |  | 359 |
-| **[DeepSelect](https://github.com/deepseek-ai/DeepSelect)** | DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers | Cuda |  |  | 346 |
+| **[AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** | Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI. | Rust |  |  | 616 |
+| **[page-mascot](https://github.com/nilbuild/page-mascot)** | A mascot that watches the cursor and blinks when you poke it | Python |  |  | 559 |
+| **[video-generator-client](https://github.com/letorig/video-generator-client)** | Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI | Python |  | <details><summary>kling...</summary><p>kling, kling-ai, minimax-h3, seedance, seedance-2-5, video-generation, video-generation-api, video-generation-tool</p></details> | 514 |
+| **[llm-master](https://github.com/youngyangyang04/llm-master)** | 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。 |  |  | <details><summary>agent...</summary><p>agent, large-language-models, llm, llm-learning, llm-tutorial, rag</p></details> | 509 |
+| **[mjbatch](https://github.com/kevinzakka/mjbatch)** | A Python library for running thousands of MuJoCo simulations in parallel on CPU | Python |  | <details><summary>mpc, ...</summary><p>mpc, mujoco, reinforcement-learning, simulation</p></details> | 505 |
+| **[printfilm](https://github.com/yi1108/printfilm)** | PRINTFILM：AI 科普视频与漫剧创作平台 | Python |  |  | 482 |
+| **[3dviz-pro-max](https://github.com/viettranx/3dviz-pro-max)** | Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies. | JavaScript |  | <details><summary>3d, a...</summary><p>3d, agent-skill, blender, claude-code, codex, gltf, threejs, visualization</p></details> | 409 |
+| **[YOINK](https://github.com/DefiLeoo/YOINK)** |  | Python |  |  | 377 |
 
