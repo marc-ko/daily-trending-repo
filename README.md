@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-09-17
+Last update: 2026-09-18
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-09-17
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** | If you think AI sucks, star the repo. | Python |  |  | 2071 |
-| **[mural](https://github.com/Chuloo/mural)** | The language app you eventually delete. A native iPhone companion for learning through conversation. | Kotlin |  | <details><summary>ios, ...</summary><p>ios, language-learning, open-source, swiftui</p></details> | 1273 |
-| **[recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** | Official Project Page for Recurrent Looped Transformer (RLT) | HTML |  |  | 863 |
-| **[ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** | Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more. | Python |  | <details><summary>ai, a...</summary><p>ai, ai-data-extraction, claude-code, cursor</p></details> | 827 |
-| **[Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** | GPT-6 Astra for embodied AI and robotics. |  |  |  | 793 |
-| **[reelbench-skills](https://github.com/eternityspring/reelbench-skills)** | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill | HTML |  | <details><summary>ai-vi...</summary><p>ai-video, claude-skills, ffmpeg, shot-analysis, video-analysis</p></details> | 709 |
-| **[AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** | Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI. | Rust |  |  | 694 |
-| **[viserys-agent](https://github.com/rizqinrr/viserys-agent)** |  | JavaScript |  |  | 660 |
-| **[page-mascot](https://github.com/nilbuild/page-mascot)** | A mascot that watches the cursor and blinks when you poke it | Python |  |  | 648 |
-| **[bank-sampah](https://github.com/Faizpi/bank-sampah)** |  | PHP |  |  | 646 |
-| **[llm-master](https://github.com/youngyangyang04/llm-master)** | 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。 |  |  | <details><summary>agent...</summary><p>agent, large-language-models, llm, llm-learning, llm-tutorial, rag</p></details> | 644 |
-| **[video-generator-client](https://github.com/letorig/video-generator-client)** | Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI | Python |  | <details><summary>kling...</summary><p>kling, kling-ai, minimax-h3, seedance, seedance-2-5, video-generation, video-generation-api, video-generation-tool</p></details> | 521 |
-| **[window-sweaters](https://github.com/saragordic/window-sweaters)** | A macOS menu-bar app that dresses your windows in knitted borders. | C |  | <details><summary>deskt...</summary><p>desktop-customization, knitting, macos, macos-app, menubar, menubar-app, objective-c, window-management</p></details> | 442 |
-| **[Atria-Dawn-Preview](https://github.com/atria-asi/Atria-Dawn-Preview)** |  |  |  | <details><summary>llm, ...</summary><p>llm, llm-agent</p></details> | 423 |
-| **[awesome-fly](https://github.com/cobanov/awesome-fly)** | A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools. |  |  | <details><summary>aweso...</summary><p>awesome, awesome-list, brain-simulation, computational-neuroscience, connectome, connectomics, drosophila, drosophila-melanogaster, embodied-ai, fly, fly-brain, flybody, flywire, fruit-fly, malecns, mujoco, neural-networks, neuromechfly, neuroscience, reinforcement-learning</p></details> | 421 |
-| **[GPT-as-Policy](https://github.com/anonymous-report-421/GPT-as-Policy)** | GPT as Policy | HTML |  |  | 416 |
-| **[awesome-cloudflare-selfhosted](https://github.com/theoephraim/awesome-cloudflare-selfhosted)** | 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account | JavaScript |  | <details><summary>aweso...</summary><p>awesome, awesome-list, cloudflare, cloudflare-workers, self-hosted</p></details> | 380 |
-| **[YOINK](https://github.com/DefiLeoo/YOINK)** |  | Python |  |  | 379 |
-| **[Dream-RSI](https://github.com/zhengkid/Dream-RSI)** | The offical repo for "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" |  |  |  | 352 |
-| **[meme-radar](https://github.com/nhovongoc0-max/meme-radar)** | Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具 | JavaScript |  | <details><summary>bsc, ...</summary><p>bsc, crypto, gmgn, meme, security, solana, token-scanner</p></details> | 351 |
+| **[jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** | i. am. speed. | Python |  |  | 2993 |
+| **[mural](https://github.com/Chuloo/mural)** | The language app you eventually delete. A native iPhone companion for learning through conversation. | Kotlin |  | <details><summary>ios, ...</summary><p>ios, language-learning, open-source, swiftui</p></details> | 1325 |
+| **[fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | TypeScript |  |  | 1295 |
+| **[openjev](https://github.com/TheoLeeCJ/openjev)** | Can we run something like Jev on a 3090 at home? | Python |  |  | 990 |
+| **[recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** | Official Project Page for Recurrent Looped Transformer (RLT) | HTML |  |  | 874 |
+| **[Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** | GPT-6 Astra for embodied AI and robotics. |  |  |  | 839 |
+| **[AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** | Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI. | Rust |  |  | 757 |
+| **[jevlike](https://github.com/vinnylarouge/jevlike)** |  | Python |  |  | 734 |
+| **[llm-master](https://github.com/youngyangyang04/llm-master)** | 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。 |  |  | <details><summary>agent...</summary><p>agent, large-language-models, llm, llm-learning, llm-tutorial, rag</p></details> | 701 |
+| **[page-mascot](https://github.com/nilbuild/page-mascot)** | A mascot that watches the cursor and blinks when you poke it | Python |  |  | 692 |
+| **[viserys-agent](https://github.com/rizqinrr/viserys-agent)** |  | JavaScript |  |  | 662 |
+| **[blitzstrike](https://github.com/shinthink/blitzstrike)** | ⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent. | TypeScript |  | <details><summary>activ...</summary><p>active-directory, blue-team, bug-bounty, cve, defensive-security, exploit, mcp, mcp-server, nuclei, offensive-security, payloads, pentest, reconnaissance, red-team, reverse-engineering, security, security-tools, vulnerability-scanning, wordpress</p></details> | 634 |
+| **[Dream-RSI](https://github.com/zhengkid/Dream-RSI)** | The offical repo for "Dream-RSI: Recursive Self-Improvement through Evolving Worlds" |  |  |  | 613 |
+| **[jev-trader](https://github.com/jarrodwatts/jev-trader)** | One AI trade decision every Monad block. Jev on Kuru MON-USDC. | TypeScript |  |  | 604 |
+| **[awesome-cloudflare-selfhosted](https://github.com/theoephraim/awesome-cloudflare-selfhosted)** | 🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account | JavaScript |  | <details><summary>aweso...</summary><p>awesome, awesome-list, cloudflare, cloudflare-workers, self-hosted</p></details> | 591 |
+| **[window-sweaters](https://github.com/saragordic/window-sweaters)** | A macOS menu-bar app that dresses your windows in knitted borders. | C |  | <details><summary>deskt...</summary><p>desktop-customization, knitting, macos, macos-app, menubar, menubar-app, objective-c, window-management</p></details> | 552 |
+| **[video-generator-client](https://github.com/letorig/video-generator-client)** | Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI | Python |  | <details><summary>kling...</summary><p>kling, kling-ai, minimax-h3, seedance, seedance-2-5, video-generation, video-generation-api, video-generation-tool</p></details> | 533 |
+| **[Atria-Dawn-Preview](https://github.com/atria-asi/Atria-Dawn-Preview)** |  |  |  | <details><summary>llm, ...</summary><p>llm, llm-agent</p></details> | 476 |
+| **[awesome-fly](https://github.com/cobanov/awesome-fly)** | A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools. |  |  | <details><summary>aweso...</summary><p>awesome, awesome-list, brain-simulation, computational-neuroscience, connectome, connectomics, drosophila, drosophila-melanogaster, embodied-ai, fly, fly-brain, flybody, flywire, fruit-fly, malecns, mujoco, neural-networks, neuromechfly, neuroscience, reinforcement-learning</p></details> | 473 |
+| **[cve-2026-41940-PoC](https://github.com/ctdal/cve-2026-41940-PoC)** | A cPanel and WHM authentication bypassing tool | Python |  | <details><summary>cpane...</summary><p>cpanel, cpanel-whm, cve, cve-2026-41940, cve-2026-41940-poc</p></details> | 472 |
 
