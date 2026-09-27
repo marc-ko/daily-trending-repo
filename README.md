@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-09-26
+Last update: 2026-09-27
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-09-26
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[ZCode](https://github.com/zai-org/ZCode)** | Z.ai's coding agent harness. Powerful, intelligent, extensible. | TypeScript |  |  | 6791 |
-| **[jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 | Kotlin |  | <details><summary>acces...</summary><p>accessibility-service, android, chat-assistant, llm, qq</p></details> | 6545 |
-| **[unreal-agent](https://github.com/unreallabsai/unreal-agent)** | Async-first agent harness | Go |  |  | 1944 |
-| **[Search](https://github.com/driceroland/Search)** | A small, fast WebKit browser for macOS, by Office Commun. | Swift |  |  | 1915 |
-| **[CLM](https://github.com/Contrastive-LM/CLM)** |  | Python |  |  | 1322 |
-| **[deepopen](https://github.com/deepopen-com/deepopen)** | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine.  | Python |  |  | 1023 |
-| **[disktree](https://github.com/tobi/disktree)** | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. | Rust |  |  | 1019 |
-| **[golive-skill](https://github.com/mikehasa/golive-skill)** | Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry. | TypeScript |  | <details><summary>agent...</summary><p>agent-skill, agent-skills, ai-agents, claude-code, cloudflare, codex, database, deployment, developer-tools, devops, dns, godaddy, hosting, infrastructure, neon, netlify, porkbun, skills, supabase, vercel</p></details> | 954 |
-| **[PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) | JavaScript |  |  | 930 |
-| **[kryvora-node](https://github.com/kryvora-network/kryvora-node)** | Reference client daemon and verification worker for Kryvora Network nodes. | Go |  | <details><summary>depin...</summary><p>depin, distributed-systems, golang, infrastructure, node-runner, telemetry, worker-daemon</p></details> | 834 |
-| **[magpie](https://github.com/yetone/magpie)** | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. | Go |  | <details><summary>claud...</summary><p>claude-code, codex, deepseek, gemini-cli, llm, macos</p></details> | 820 |
-| **[claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo)** | claude-opus-5-5-demo | JavaScript |  |  | 797 |
-| **[WeChatBridge](https://github.com/freestylefly/WeChatBridge)** | 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具 | Swift |  | <details><summary>ai-ag...</summary><p>ai-agent, chat-history, macos, obsidian, share-extension, swift, wechat</p></details> | 744 |
-| **[AnyJev](https://github.com/nokia-applied-research/AnyJev)** | Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating) | Python |  | <details><summary>calib...</summary><p>calibration, decision-model, jev, jev-model, llm, system-one, transformers, vllm</p></details> | 734 |
-| **[short-video-generator-AI](https://github.com/yukitorido/short-video-generator-AI)** | AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing | Python |  | <details><summary>ai, l...</summary><p>ai, llm, llm-tools, opus-clip, opus-clip-alternative, short-video, short-video-automation, short-video-generator, short-video-maker</p></details> | 710 |
-| **[text-humanizer](https://github.com/asokurasu/text-humanizer)** | A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.  | Python |  | <details><summary>ai-de...</summary><p>ai-detector, ai-detector-bypass, ai-detectors, text-humanizer, zerogpt, zerogpt-bypass</p></details> | 690 |
-| **[shapeshift](https://github.com/anishfn/shapeshift)** | An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline. | TypeScript |  |  | 648 |
-| **[tidewater](https://github.com/dgreenheck/tidewater)** | Coastal town built with Opus 5.5 | JavaScript |  |  | 626 |
-| **[jev-chat-windows](https://github.com/jev-chat/jev-chat-windows)** | JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动 | Python |  | <details><summary>chat-...</summary><p>chat-assistant, jev, llm, local-first, ocr, privacy, pyqt, python, wechat, windows</p></details> | 565 |
-| **[djev-run](https://github.com/taeold/djev-run)** |  | HTML |  |  | 555 |
+| **[jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 | Kotlin |  | <details><summary>acces...</summary><p>accessibility-service, android, chat-assistant, llm, qq</p></details> | 6705 |
+| **[unreal-agent](https://github.com/unreallabsai/unreal-agent)** | Async-first agent harness | Go |  |  | 1973 |
+| **[CLM](https://github.com/Contrastive-LM/CLM)** |  | Python |  |  | 1661 |
+| **[disktree](https://github.com/tobi/disktree)** | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. | Rust |  |  | 1356 |
+| **[magpie](https://github.com/yetone/magpie)** | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. | Go |  | <details><summary>claud...</summary><p>claude-code, codex, deepseek, gemini-cli, llm, macos</p></details> | 1103 |
+| **[PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) | JavaScript |  |  | 1087 |
+| **[deepopen](https://github.com/deepopen-com/deepopen)** | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine.  | Python |  |  | 1040 |
+| **[golive-skill](https://github.com/mikehasa/golive-skill)** | Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry. | TypeScript |  | <details><summary>agent...</summary><p>agent-skill, agent-skills, ai-agents, claude-code, cloudflare, codex, database, deployment, developer-tools, devops, dns, godaddy, hosting, infrastructure, neon, netlify, porkbun, skills, supabase, vercel</p></details> | 986 |
+| **[kryvora-node](https://github.com/kryvora-network/kryvora-node)** | Reference client daemon and verification worker for Kryvora Network nodes. | Go |  | <details><summary>depin...</summary><p>depin, distributed-systems, golang, infrastructure, node-runner, telemetry, worker-daemon</p></details> | 900 |
+| **[claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo)** | claude-opus-5-5-demo | JavaScript |  |  | 814 |
+| **[WeChatBridge](https://github.com/freestylefly/WeChatBridge)** | 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具 | Swift |  | <details><summary>ai-ag...</summary><p>ai-agent, chat-history, macos, obsidian, share-extension, swift, wechat</p></details> | 810 |
+| **[AnyJev](https://github.com/nokia-applied-research/AnyJev)** | Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request) | Python |  | <details><summary>calib...</summary><p>calibration, decision-model, jev, jev-model, llm, system-one, transformers, vllm</p></details> | 802 |
+| **[tidewater](https://github.com/dgreenheck/tidewater)** | Coastal town built with Opus 5.5 | JavaScript |  |  | 764 |
+| **[text-humanizer](https://github.com/asokurasu/text-humanizer)** | A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.  | Python |  | <details><summary>ai-de...</summary><p>ai-detector, ai-detector-bypass, ai-detectors, text-humanizer, zerogpt, zerogpt-bypass</p></details> | 733 |
+| **[short-video-generator-AI](https://github.com/yukitorido/short-video-generator-AI)** | AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing | Python |  | <details><summary>ai, l...</summary><p>ai, llm, llm-tools, opus-clip, opus-clip-alternative, short-video, short-video-automation, short-video-generator, short-video-maker</p></details> | 720 |
+| **[shapeshift](https://github.com/anishfn/shapeshift)** | An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline. | TypeScript |  |  | 688 |
+| **[JIZURA](https://github.com/852wa/JIZURA)** | 歌詞から文字PVを自動で組み立てるブラウザアプリ | HTML |  |  | 669 |
+| **[rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow)** | The open, local take on Jev: typed decisions from an LLM, without generating a single token | Python |  |  | 629 |
+| **[jev-chat-windows](https://github.com/jev-chat/jev-chat-windows)** | JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动 | Python |  | <details><summary>chat-...</summary><p>chat-assistant, jev, llm, local-first, ocr, privacy, pyqt, python, wechat, windows</p></details> | 599 |
+| **[company-brain](https://github.com/supermemoryai/company-brain)** | Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work. | TypeScript |  |  | 577 |
 
