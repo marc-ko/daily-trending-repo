@@ -1,10 +1,10 @@
 ---
-title: Latest 10 Trending Repositories - September 30, 2026
+title: Latest 10 Trending Repositories - October 01, 2026
 labels: documentation
 ---
 # 📚 Weekly Trending Repositories Update
 
-### 📅 Date: September 30, 2026
+### 📅 Date: October 01, 2026
 
 Welcome to this week's collection of the latest Github REPOS! Below you'll find the top 10 repos for each category.
 
@@ -14,14 +14,14 @@ Welcome to this week's collection of the latest Github REPOS! Below you'll find 
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[AIHOT](https://github.com/KKKKhazix/AIHOT)** | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 | TypeScript |  | <details><summary>ai, l...</summary><p>ai, llm, mcp, news-aggregator, rss, self-hosted</p></details> | 3587 |
-| **[pdoom-video](https://github.com/mexicat/pdoom-video)** | Code-rendered music video for "I'm Upping My P(doom)" | TypeScript |  |  | 2014 |
-| **[Strata](https://github.com/Niko1221/Strata)** | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. | C++ |  |  | 1988 |
-| **[disktree](https://github.com/tobi/disktree)** | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. | Rust |  |  | 1935 |
-| **[jevgrep](https://github.com/dzhng/jevgrep)** | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. | TypeScript |  | <details><summary>ai-sd...</summary><p>ai-sdk, claude-code, cli, code-search, codex, coding-agents, context-retrieval, developer-tools, jev, semantic-search, typescript, vercel-ai-gateway</p></details> | 1810 |
-| **[DiPlay](https://github.com/shihabal3amri/DiPlay)** | Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview. | Kotlin |  |  | 1126 |
-| **[jeff](https://github.com/firelex/jeff)** | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification | Python |  |  | 1103 |
-| **[onetake](https://github.com/feitangyuan/onetake)** | Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos. | Python |  | <details><summary>agent...</summary><p>agent-skill, animation, canvas, claude-skill, launch-video, motion-graphics, video</p></details> | 993 |
-| **[awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly. |  |  | <details><summary>ai-vi...</summary><p>ai-video, awesome, awesome-list, claude, claude-opus, creative-coding, motion-graphics, prompts, threejs</p></details> | 961 |
-| **[logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** | A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library. | HTML |  | <details><summary>agent...</summary><p>agent-skills, branding, claude, claude-skills, codex, gemini-cli, logo-design, svg</p></details> | 899 |
+| **[AIHOT](https://github.com/KKKKhazix/AIHOT)** | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 | TypeScript |  | <details><summary>ai, c...</summary><p>ai, content-curation, llm, mcp, news-aggregator, rss, self-hosted, typescript</p></details> | 4213 |
+| **[dots](https://github.com/feder-cr/dots)** | Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. | Python |  | <details><summary>ai-ag...</summary><p>ai-agent, ai-agents, ai-browser, anti-detect-browser, browser-agent, browser-automation, chatgpt, dotfiles, dots, firefox, llm-agent, mcp, open-source-alternative, openai, openai-dots, openrouter, playwright, stealth-browser, web-agent, web-automation</p></details> | 1961 |
+| **[jevgrep](https://github.com/dzhng/jevgrep)** | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. | TypeScript |  | <details><summary>ai-sd...</summary><p>ai-sdk, claude-code, cli, code-search, codex, coding-agents, context-retrieval, developer-tools, jev, semantic-search, typescript, vercel-ai-gateway</p></details> | 1923 |
+| **[coucou](https://github.com/Louis-CFM/coucou)** | A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions. | Swift |  | <details><summary>ai-ag...</summary><p>ai-agents, anthropic, claude, claude-code, dynamic-island, macos, macos-app, menubar-app, notch, open-source, swift, swiftui</p></details> | 1761 |
+| **[jeff](https://github.com/firelex/jeff)** | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification | Python |  |  | 1213 |
+| **[logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** | A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library. | HTML |  | <details><summary>agent...</summary><p>agent-skills, branding, claude, claude-skills, codex, gemini-cli, logo-design, svg</p></details> | 1184 |
+| **[awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly. |  |  | <details><summary>ai-vi...</summary><p>ai-video, awesome, awesome-list, claude, claude-opus, creative-coding, motion-graphics, prompts, threejs</p></details> | 1143 |
+| **[onetake](https://github.com/feitangyuan/onetake)** | Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos. | Python |  | <details><summary>agent...</summary><p>agent-skill, animation, canvas, claude-skill, launch-video, motion-graphics, video</p></details> | 1080 |
+| **[floorplan-3d](https://github.com/wy51ai/floorplan-3d)** |  | HTML |  |  | 1046 |
+| **[universal-modder](https://github.com/rehan-remade/universal-modder)** | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. | Python |  | <details><summary>age-o...</summary><p>age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader</p></details> | 1025 |
 
