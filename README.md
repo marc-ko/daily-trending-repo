@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-10-06
+Last update: 2026-10-07
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-10-06
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[universal-modder](https://github.com/rehan-remade/universal-modder)** | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. | Python |  | <details><summary>age-o...</summary><p>age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader</p></details> | 4006 |
-| **[photocraft](https://github.com/storytold/photocraft)** | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust |  | <details><summary>adobe...</summary><p>adobe, adobe-photoshop-2026, adobe-photoshop-2026-ai, art, image-editing, image-editing-software, image-editor, images, photo-editing, photoshop, psd, rust</p></details> | 2303 |
-| **[yomiyasu](https://github.com/nanaism/yomiyasu)** | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese | Python |  | <details><summary>agent...</summary><p>agent-skills, ai-writing, antigravity, claude-code, codex, cursor, gemini, japanese, linter, llm, nlp, writing, writing-assistant, writing-tool</p></details> | 1551 |
-| **[answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 | JavaScript |  | <details><summary>agent...</summary><p>agent-skill, ai-agent, claude-code, cli, diagram, explainer, html, llm, ste100</p></details> | 1550 |
-| **[sales-crm](https://github.com/kargulstudio/sales-crm)** |  | TypeScript |  |  | 1512 |
-| **[muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** | Open source SDK to build Muse gadgets | C |  |  | 1470 |
-| **[REDox](https://github.com/CAPCOM-TD-OSS/REDox)** | High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine. | C# |  |  | 1091 |
-| **[SkyCraft](https://github.com/chasmlol/SkyCraft)** | Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod). | C++ |  |  | 992 |
-| **[bloodborne_pc](https://github.com/deadinside28/bloodborne_pc)** |  | C++ |  |  | 819 |
-| **[easyread](https://github.com/Edwardxlai/easyread)** | 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese. | Python |  | <details><summary>acade...</summary><p>academic, arxiv, chinese, claude-code, codex, electron, llm, paper-reading, pdf-translator, reference-manager, research-tool, translation</p></details> | 813 |
-| **[Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol)** | 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业） | JavaScript |  | <details><summary>arkni...</summary><p>arknights, auto-chess, fan-game, nodejs, tower-defense, websocket</p></details> | 748 |
-| **[backburner](https://github.com/StayLameBro/backburner)** | Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable | Python |  | <details><summary>apple...</summary><p>apple-silicon, ios, iphone, llama-cpp, llm-inference, local-llm, macos, metal, qwen, sme2, speculative-decoding</p></details> | 693 |
-| **[filmcraft](https://github.com/storytold/filmcraft)** | An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. | Rust |  | <details><summary>adobe...</summary><p>adobe, art, rust, video, video-editing, video-editor, video-processing</p></details> | 676 |
-| **[oil-ui](https://github.com/oil-oil/oil-ui)** | 把 AI 的 UI 设计能力推到极限。 | Python |  |  | 658 |
-| **[hairline](https://github.com/lucasmarkes/hairline)** | Six isometric line figures that answer the pointer. For React and for anything with a DOM. | TypeScript |  | <details><summary>anima...</summary><p>animation, isometric, react, shadcn, svg, typescript</p></details> | 623 |
-| **[live-panel-skill](https://github.com/ythx-101/live-panel-skill)** | Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md). | HTML |  |  | 603 |
-| **[gdp-ts](https://github.com/rauchg/gdp-ts)** |  | TypeScript |  |  | 581 |
-| **[replica-skill](https://github.com/Jakeschincariol/replica-skill)** | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | Python |  | <details><summary>agent...</summary><p>agent, agent-skills, app-clone, claude, claude-code, claude-skills, indie-hacker, reverse-engineering, saas</p></details> | 567 |
-| **[hypoarena](https://github.com/OpSafari/hypoarena)** | Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra. | Python |  |  | 557 |
-| **[Ely-GPUI-Components](https://github.com/ZacharyZhang-NY/Ely-GPUI-Components)** | A component library for GPUI, in light and dark. Every component runs live in the browser. | Rust |  | <details><summary>desig...</summary><p>design-system, gpui, rust, ui-components, webassembly</p></details> | 538 |
+| **[math](https://github.com/openai/math)** |  | Lean |  |  | 5165 |
+| **[answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 | JavaScript |  | <details><summary>agent...</summary><p>agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills, cli, diagram, explainer, html, llm, ste100</p></details> | 1854 |
+| **[sales-crm](https://github.com/kargulstudio/sales-crm)** |  | TypeScript |  |  | 1598 |
+| **[muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** | Open source SDK to build Muse gadgets | C |  |  | 1586 |
+| **[bloodborne_pc](https://github.com/deadinside28/bloodborne_pc)** |  | C++ |  |  | 1352 |
+| **[effectcraft](https://github.com/storytold/effectcraft)** |  | Rust |  |  | 1033 |
+| **[huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 | JavaScript |  |  | 899 |
+| **[hairline](https://github.com/lucasmarkes/hairline)** | Six isometric line figures that answer the pointer. For React and for anything with a DOM. | TypeScript |  | <details><summary>anima...</summary><p>animation, isometric, react, shadcn, svg, typescript</p></details> | 870 |
+| **[Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol)** | 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业） | JavaScript |  | <details><summary>arkni...</summary><p>arknights, auto-chess, fan-game, nodejs, tower-defense, websocket</p></details> | 851 |
+| **[backburner](https://github.com/StayLameBro/backburner)** | Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable | Python |  | <details><summary>apple...</summary><p>apple-silicon, ios, iphone, llama-cpp, llm-inference, local-llm, macos, metal, qwen, sme2, speculative-decoding</p></details> | 799 |
+| **[x_gift_bot](https://github.com/mizorewww/x_gift_bot)** | X Premium gift CLI and redemption site | Go |  |  | 739 |
+| **[replica-skill](https://github.com/Jakeschincariol/replica-skill)** | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | Python |  | <details><summary>agent...</summary><p>agent, agent-skills, app-clone, claude, claude-code, claude-skills, indie-hacker, reverse-engineering, saas</p></details> | 732 |
+| **[gdp-ts](https://github.com/rauchg/gdp-ts)** |  | TypeScript |  |  | 716 |
+| **[leviathan](https://github.com/elstongun/leviathan)** | **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index. | Rust |  |  | 650 |
+| **[designcraft](https://github.com/storytold/designcraft)** |  | Rust |  |  | 644 |
+| **[live-panel-skill](https://github.com/ythx-101/live-panel-skill)** | Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md). | HTML |  |  | 635 |
+| **[agentmemoryrepo](https://github.com/AgentMemoryRepo/agentmemoryrepo)** | Spec for Agent Memory Repo |  |  |  | 589 |
+| **[EvoVLM](https://github.com/zzzz7788990213-ops/EvoVLM)** | Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference. | Python |  |  | 507 |
+| **[whirl](https://github.com/whirlchat/whirl)** | The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools. | TypeScript |  | <details><summary>ai, a...</summary><p>ai, ai-chat, chat, convex, llm, nextjs, openrouter, react, self-hosted, typescript</p></details> | 491 |
+| **[ReSkate](https://github.com/Dingo-Shenanigans/ReSkate)** |  | C++ |  |  | 473 |
 
