@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-10-13
+Last update: 2026-10-14
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-10-13
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[wordcraft](https://github.com/storytold/wordcraft)** | An open-source, clean-room reimplementation of Microsoft Word in pure Rust | Rust |  |  | 9759 |
-| **[anatomy](https://github.com/wheresryan22/anatomy)** | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. | JavaScript |  | <details><summary>agent...</summary><p>agent-skill, open-source, svg, vizualization</p></details> | 6925 |
-| **[gridcraft](https://github.com/storytold/gridcraft)** | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. | Rust |  |  | 4023 |
-| **[ARTEX](https://github.com/mhtsec/ARTEX)** | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 | Go |  |  | 3723 |
-| **[cadcraft](https://github.com/storytold/cadcraft)** | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust | Rust |  |  | 3665 |
-| **[nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included. | Rust |  |  | 2817 |
-| **[deckcraft](https://github.com/storytold/deckcraft)** | Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps. | Rust |  |  | 2699 |
-| **[omdrop-owl](https://github.com/t4t5/omdrop-owl)** | airdrop for non-apple devices | Shell |  | <details><summary>airdr...</summary><p>airdrop, omarchy, opendrop</p></details> | 2491 |
-| **[soundcraft](https://github.com/storytold/soundcraft)** | An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust | Rust |  |  | 2333 |
-| **[tendedero](https://github.com/alejandrobujan/tendedero)** | Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen. | Swift |  |  | 2040 |
-| **[DigUp](https://github.com/ARahim3/DigUp)** | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2. | Swift |  | <details><summary>embed...</summary><p>embeddinggemma, embeddings, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift</p></details> | 2026 |
-| **[fsearch](https://github.com/noahdunnagan/fsearch)** | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files. | Rust |  |  | 1994 |
-| **[craft-launcher](https://github.com/storytold/craft-launcher)** | The Craft App Launcher | Rust |  |  | 1889 |
-| **[CCBaga](https://github.com/liseami/CCBaga)** |  | Rust |  |  | 1825 |
-| **[pt-pc](https://github.com/LoreanXavier/pt-pc)** | Native PC port of P.T. (runs from your own PS4 game files) | C++ |  |  | 1588 |
-| **[playgta5](https://github.com/shadany7824/playgta5)** | A source code for playgta5.com. | JavaScript |  |  | 1510 |
-| **[DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot)** | A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats. | JavaScript |  | <details><summary>bot, ...</summary><p>bot, deepseek-harness, dsh-plugin, multi-agent</p></details> | 1494 |
-| **[helix-foundry](https://github.com/HelixDB/helix-foundry)** | Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB. | TypeScript |  |  | 1350 |
-| **[solidcraft](https://github.com/bherbruck/solidcraft)** | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. | Rust |  | <details><summary>3d-mo...</summary><p>3d-modeling, brep, cad, egui, mcp, parametric-cad, rust, step, wasm</p></details> | 1248 |
-| **[ts-rust](https://github.com/pingdotgg/ts-rust)** | An experimental Rust port of the TypeScript 7 compiler (tsc) | Rust |  | <details><summary>compi...</summary><p>compiler, rust, tsc, typescript</p></details> | 1133 |
+| **[anatomy](https://github.com/wheresryan22/anatomy)** | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. | JavaScript |  | <details><summary>agent...</summary><p>agent-skill, open-source, svg, vizualization</p></details> | 8620 |
+| **[ARTEX](https://github.com/mhtsec/ARTEX)** | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 | Go |  |  | 3957 |
+| **[DigUp](https://github.com/ARahim3/DigUp)** | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2. | Swift |  | <details><summary>embed...</summary><p>embeddinggemma, embeddings, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift</p></details> | 2777 |
+| **[omdrop-owl](https://github.com/t4t5/omdrop-owl)** | airdrop for non-apple devices | Shell |  | <details><summary>airdr...</summary><p>airdrop, awdl, omarchy, owl</p></details> | 2611 |
+| **[craft-launcher](https://github.com/storytold/craft-launcher)** | The Craft App Launcher | Rust |  |  | 2391 |
+| **[CCBaga](https://github.com/liseami/CCBaga)** |  | Rust |  |  | 2120 |
+| **[fsearch](https://github.com/noahdunnagan/fsearch)** | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files. | Rust |  |  | 2036 |
+| **[esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak. | Python |  | <details><summary>ai-ag...</summary><p>ai-agent, airplay, automation, computer-use, esp32, esp32-s3, iphone, llm, usb-hid</p></details> | 1731 |
+| **[d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层 | C |  | <details><summary>compa...</summary><p>compatibility-layer, diablo-2-resurrected, diablo2, game-port, ios, ipad, iphone, mac, macos, metal, reign-of-the-warlock</p></details> | 1303 |
+| **[usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep)** | USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling | C++ |  |  | 1251 |
+| **[ARTEXX](https://github.com/trhhubsd/ARTEXX)** | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX | Go |  |  | 1207 |
+| **[photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard)** | Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME) | Python |  |  | 1093 |
+| **[doory](https://github.com/shaongitbd/doory)** | Open source canva alternative | TypeScript |  |  | 1084 |
+| **[qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw | Python |  | <details><summary>agent...</summary><p>agent-skill, comfyui, image-generation, openclaw, pose-control, qwen-image</p></details> | 996 |
+| **[oss-scanner](https://github.com/anthropics/oss-scanner)** |  | Dockerfile |  |  | 975 |
+| **[talorys](https://github.com/rociiu/talorys)** | Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry. | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agent, cloudflare, cloudflare-workers, durable-objects, personal-assistant, react, self-hosted, typescript, workers-ai</p></details> | 969 |
+| **[mailcheap](https://github.com/marclou/mailcheap)** | Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails. | JavaScript |  |  | 903 |
+| **[dsh-ops](https://github.com/T-Auto/dsh-ops)** | A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时 | JavaScript |  | <details><summary>dsh, ...</summary><p>dsh, dsh-plugin, dsh-plugins</p></details> | 895 |
+| **[new-term-radar](https://github.com/zhuyansen/new-term-radar)** | Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them. | Python |  | <details><summary>agent...</summary><p>agent-skills, ai, aisa, claude-code, claude-skills, google-trends, keyword-research, mcp, mcp-server, seo, trends</p></details> | 890 |
+| **[RustGIS](https://github.com/opengeos/RustGIS)** | A fast, free and open-source GIS in pure Rust. | Rust |  | <details><summary>geosp...</summary><p>geospatial, gis, remote-sensing, rust, rust-lang</p></details> | 854 |
 
