@@ -32,7 +32,7 @@ This project automatically tracks and curates trending repositories from GitHub 
 
 ## 📈 Latest Trending Repositories
 
-Last update: 2026-11-08
+Last update: 2026-11-09
 
 <details>
 <summary>ℹ️ How to Use This Repository</summary>
@@ -47,24 +47,24 @@ Last update: 2026-11-08
 
 | **Title** | **Description** | **Language** | **Summary** | **Tags** | **Stars Count** |
 | --- | --- | --- | --- | --- | --- |
-| **[agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, automation, claude-code, cli, codex, event-driven, mcp, nodejs, self-hosted, typescript, workflow</p></details> | 4009 |
-| **[Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** | Google_AI_Pro_2Year_ZeroCost_Auto | Python |  |  | 3130 |
-| **[HGhub](https://github.com/Minireel/HGhub)** | YellowFruit third-party client | TypeScript |  | <details><summary>andro...</summary><p>android, drama, free, movie-web-app, reels, windows</p></details> | 2542 |
-| **[terminal-mac](https://github.com/govijr/terminal-mac)** | Entire MacOS running in your terminal. | Swift |  | <details><summary>cli, ...</summary><p>cli, gui, macos, shell, swift, terminal, tui</p></details> | 2295 |
-| **[Hookshot](https://github.com/NotRexed/Hookshot)** | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake | C++ |  |  | 2105 |
-| **[sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** |  | JavaScript |  |  | 1770 |
-| **[player](https://github.com/livliv-dev/player)** | A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. | TypeScript |  | <details><summary>avata...</summary><p>avatar, character, face-tracking, lip-sync, pngtuber, vrm, vtuber, webgl2</p></details> | 1269 |
-| **[google-pro-helper](https://github.com/mmdoctor/google-pro-helper)** |  | Python |  |  | 1171 |
-| **[sand3d](https://github.com/Sandflow-ai/sand3d)** | 3D modeling in Python, built for LLMs. | HTML |  | <details><summary>3d, b...</summary><p>3d, blender, cad, llm, procedural-modeling, python, usd</p></details> | 1130 |
-| **[cinecode](https://github.com/sarpstar/cinecode)** | Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4. | Python |  |  | 1058 |
-| **[kiri](https://github.com/libracoder/kiri)** | A small, fast container runtime for macOS, Windows and Linux | Rust |  |  | 969 |
-| **[vork](https://github.com/voyager-so/vork)** | Headless 3D and VFX engine for agents. Research preview. | Rust |  | <details><summary>3d, a...</summary><p>3d, ai-agents, gpu, metal, ray-tracing, rendering, rust, slang, vfx, vulkan</p></details> | 953 |
-| **[gjgjxweb](https://github.com/CzJam/gjgjxweb)** | 《搞机工具箱》Web移植版 | HTML |  |  | 935 |
-| **[Henge](https://github.com/Leviidev/Henge)** | Emulate macOS on iOS and iPadOS | C |  |  | 860 |
-| **[mygo-music](https://github.com/egoist/mygo-music)** | A native music player you extend with plugins | Go |  |  | 859 |
-| **[ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp)** | Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included. | C |  |  | 848 |
-| **[steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card)** | Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account. | Python |  | <details><summary>cli, ...</summary><p>cli, inventory, price-check, python, report-card, steam, steam-market, valuation</p></details> | 791 |
-| **[gif-factory](https://github.com/WoYun520/gif-factory)** | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 | Python |  |  | 670 |
-| **[satmux](https://github.com/Th0rgal/satmux)** | Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies) | Python |  |  | 625 |
-| **[gputaskman](https://github.com/shanselman/gputaskman)** | A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA). | Python |  |  | 584 |
+| **[HGhub](https://github.com/Minireel/HGhub)** | YellowFruit third-party client | TypeScript |  | <details><summary>andro...</summary><p>android, drama, free, movie-web-app, reels, windows</p></details> | 4258 |
+| **[agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 | TypeScript |  | <details><summary>ai-ag...</summary><p>ai-agents, automation, claude-code, cli, codex, event-driven, mcp, nodejs, self-hosted, typescript, workflow</p></details> | 4190 |
+| **[Hookshot](https://github.com/NotRexed/Hookshot)** | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake | C++ |  |  | 3465 |
+| **[Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** | Google_AI_Pro_2Year_ZeroCost_Auto | Python |  |  | 3305 |
+| **[terminal-mac](https://github.com/govijr/terminal-mac)** | Entire MacOS running in your terminal. | Swift |  | <details><summary>cli, ...</summary><p>cli, gui, macos, shell, swift, terminal, tui</p></details> | 2436 |
+| **[sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** |  | JavaScript |  |  | 1891 |
+| **[cinecode](https://github.com/sarpstar/cinecode)** | Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4. | Python |  |  | 1699 |
+| **[NX2navi](https://github.com/tangerineturtle1/NX2navi)** |  | C |  |  | 1617 |
+| **[sand3d](https://github.com/Sandflow-ai/sand3d)** | 3D modeling in Python, built for LLMs. | HTML |  | <details><summary>3d, b...</summary><p>3d, blender, cad, llm, procedural-modeling, python, usd</p></details> | 1497 |
+| **[player](https://github.com/livliv-dev/player)** | A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. | TypeScript |  | <details><summary>avata...</summary><p>avatar, character, face-tracking, lip-sync, pngtuber, vrm, vtuber, webgl2</p></details> | 1364 |
+| **[gjgjxweb](https://github.com/CzJam/gjgjxweb)** | 《搞机工具箱》Web移植版 | HTML |  |  | 1347 |
+| **[google-pro-helper](https://github.com/mmdoctor/google-pro-helper)** |  | Python |  |  | 1282 |
+| **[gputaskman](https://github.com/shanselman/gputaskman)** | A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA). | Python |  |  | 1225 |
+| **[vork](https://github.com/voyager-so/vork)** | Headless 3D and VFX engine for agents. Research preview. | Rust |  | <details><summary>3d, a...</summary><p>3d, ai-agents, gpu, metal, ray-tracing, rendering, rust, slang, vfx, vulkan</p></details> | 1195 |
+| **[pinky](https://github.com/DIYgod/pinky)** | Let AI agents use your phone, with you in the loop. | Go |  |  | 1136 |
+| **[mygo-music](https://github.com/egoist/mygo-music)** | A native music player you extend with plugins | Go |  |  | 1044 |
+| **[S2Arm](https://github.com/jhaizhou-ops/S2Arm)** | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。 | C# |  | <details><summary>apple...</summary><p>apple-silicon, arm64, game-porting, ios, ipados, macos, metal, s2arm, static-recompilation, switch</p></details> | 1041 |
+| **[ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp)** | Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included. | C |  |  | 993 |
+| **[satmux](https://github.com/Th0rgal/satmux)** | Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies) | Python |  |  | 970 |
+| **[gif-factory](https://github.com/WoYun520/gif-factory)** | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 | Python |  |  | 961 |
 
