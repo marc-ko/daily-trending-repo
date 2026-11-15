@@ -174,7 +174,7 @@ def query_ai(query: str, model: str = "gpt-4o-mini") -> str:
         print("response ", response.choices[0].message.content)
 
         if response.choices[0].message.content is None:
-            result = "Error: No response from AI"
+            result = ""
         else:
             response_content = response.choices[0].message.content
             if len(response_content) > 300:  # Limit summary to 300 characters
@@ -183,6 +183,6 @@ def query_ai(query: str, model: str = "gpt-4o-mini") -> str:
                 result = response_content
     except Exception as e:
         print(e)
-        result = "Error: " + str(e)
+        result = ""  # leave summary blank rather than publishing the error
 
     return result
