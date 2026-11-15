@@ -20,8 +20,15 @@ def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[s
         'order': 'desc'
     }
 
+    headers = {'Accept': 'application/vnd.github+json'}
+    if os.getenv('GITHUB_TOKEN'):
+        headers['Authorization'] = f"Bearer {os.getenv('GITHUB_TOKEN')}"
+
     # Make the request
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, headers=headers, timeout=30)
+    if response.status_code != 200:
+        print("GitHub search failed:", response.status_code, response.text[:500])
+        return None
     data = response.json()
 
     # Get first 10 items and extract required fields
@@ -39,16 +46,16 @@ def request_github_trending_repos(max_results: int,days: int = 7) -> List[Dict[s
         
         # Fetch README content
         readme_url = f"https://api.github.com/repos/{repo['full_name']}/readme"
-        readme_response = requests.get(readme_url)
+        readme_response = requests.get(readme_url, headers=headers, timeout=30)
         print("readme_response code ", readme_response.status_code)
-        if readme_response.status_code == 200 and readme_response.json()['content'] is not None and os.getenv("OPENAI_API_KEY") is not None:
-            # GitHub returns README content in base64 encoded format
-            readme_data = readme_response.json()
-            readme_content = base64.b64decode(readme_data['content']).decode('utf-8')
-            response = query_ai(readme_content)
-            repo_info['summary'] = response
-        else:
-            repo_info['summary'] = ""
+        repo_info['summary'] = ""
+        if readme_response.status_code == 200 and os.getenv("OPENAI_API_KEY"):
+            content = readme_response.json().get('content')
+            if content:
+                # GitHub returns README content in base64 encoded format
+                readme_content = base64.b64decode(content).decode('utf-8', errors='ignore')
+                # keep the prompt small; the start of a README is enough for a one-line summary
+                repo_info['summary'] = query_ai(readme_content[:12000])
 
         repos.append(repo_info)
 
@@ -74,6 +81,10 @@ def translate_text(text, target_language='zh-HK'):
     except Exception as e:
         return f"[Translation Error: {str(e)}]"
 
+def _cell(text) -> str:
+    # keep markdown table rows intact
+    return str(text).replace("\r", " ").replace("\n", " ").replace("|", "\\|").strip()
+
 def generate_table(repos: List[Dict[str, str]], column_names: List[str] = [], ignore_keys: List[str] = []) -> str:
     # Filter out ignored columns from column_names
     filtered_columns = [col for col in column_names if col not in ignore_keys]
@@ -86,7 +97,7 @@ def generate_table(repos: List[Dict[str, str]], column_names: List[str] = [], ig
         
         # Add other columns based on filtered_columns
         if "Description" in filtered_columns and repo["description"] is not None:
-            formatted_repo["Description"] = repo["description"]
+            formatted_repo["Description"] = _cell(repo["description"])
             
         if "Language" in filtered_columns and repo["language"] is not None:
             formatted_repo["Language"] = repo["language"]
@@ -99,7 +110,7 @@ def generate_table(repos: List[Dict[str, str]], column_names: List[str] = [], ig
                 formatted_repo["Tags"] = tags
                 
         if "Summary" in filtered_columns and repo["summary"] is not None:
-            formatted_repo["Summary"] = repo["summary"]
+            formatted_repo["Summary"] = _cell(repo["summary"])
                 
         if "Stars Count" in filtered_columns and repo["stars_count"] is not None:
             formatted_repo["Stars Count"] = str(repo["stars_count"])
@@ -148,7 +159,7 @@ def query_ai(query: str, model: str = "gpt-4o-mini") -> str:
         # Create client with custom base URL if provided
         client = OpenAI(
             api_key=os.getenv("OPENAI_API_KEY"),
-            base_url=os.getenv("OPENAI_API_BASE")
+            base_url=os.getenv("OPENAI_API_BASE") or None
         )
         
         # Use the new client.chat.completions.create method
