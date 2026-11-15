@@ -1,6 +1,7 @@
 name: Update
 
 on:
+  workflow_dispatch: # manual "Run workflow" button
   label:
     types:
       - created # for test
