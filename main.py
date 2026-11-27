@@ -108,8 +108,10 @@ if repos is None: # failed to get repos
     f_is.close()
     restore_files()
     sys.exit("Failed to get repos!")
+
 rm_table = generate_table(repos, column_names)
 is_table = generate_table(repos[:issues_result], column_names)
+
 f_rm.write(rm_table)
 f_rm.write("\n\n")
 f_is.write(is_table)
